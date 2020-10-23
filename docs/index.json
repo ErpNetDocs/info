@@ -1,0 +1,67 @@
+{
+  "features/crm/contact-and-task-management.html": {
+    "href": "features/crm/contact-and-task-management.html",
+    "title": "Contact and Task Management | ERP.net Information",
+    "keywords": "Contact and Task Management"
+  },
+  "features/crm/order-management.html": {
+    "href": "features/crm/order-management.html",
+    "title": "Customer Order Management | ERP.net Information",
+    "keywords": "Customer Order Management"
+  },
+  "features/crm/presales.html": {
+    "href": "features/crm/presales.html",
+    "title": "Presales | ERP.net Information",
+    "keywords": "Presales"
+  },
+  "features/general/multi-company.html": {
+    "href": "features/general/multi-company.html",
+    "title": "Managing multiple companies in one ERP instance | ERP.net Information",
+    "keywords": "Managing multiple companies in one ERP instance"
+  },
+  "features/general/multi-currency.html": {
+    "href": "features/general/multi-currency.html",
+    "title": "Multi-currency support | ERP.net Information",
+    "keywords": "Multi-currency support"
+  },
+  "features/general/multi-language.html": {
+    "href": "features/general/multi-language.html",
+    "title": "Multi-language support | ERP.net Information",
+    "keywords": "Multi-language support"
+  },
+  "features/index.html": {
+    "href": "features/index.html",
+    "title": "ERP.net Features | ERP.net Information",
+    "keywords": "ERP.net Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
+  },
+  "includes/name.html": {
+    "href": "includes/name.html",
+    "title": "| ERP.net Information",
+    "keywords": "ERP.net"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ERP.net Information | ERP.net Information",
+    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc."
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "info | ERP.net Information",
+    "keywords": "info Marketing information about the ERP.net platform - features, solutions, case studies, etc."
+  },
+  "solutions/index.html": {
+    "href": "solutions/index.html",
+    "title": "ERP.net Solutions | ERP.net Information",
+    "keywords": "ERP.net Solutions This section contains information about solutions, based on ERP.net, for different types of companies. To view a solution, select from the menu on the left side."
+  },
+  "solutions/industrial-manufacturing/index.html": {
+    "href": "solutions/industrial-manufacturing/index.html",
+    "title": "ERP.net Industrial Manufacturing Solution | ERP.net Information",
+    "keywords": "ERP.net Industrial Manufacturing Solution"
+  },
+  "solutions/wholesale-distribution/index.html": {
+    "href": "solutions/wholesale-distribution/index.html",
+    "title": "ERP.net Wholesale Distribution Solution | ERP.net Information",
+    "keywords": "ERP.net Wholesale Distribution Solution ERP.net enables efficient management of wholesale distribution in a dynamic environment: Features Order Management Efficient Logistics WMS Case Studies Customer 1 Customer 2"
+  }
+}
