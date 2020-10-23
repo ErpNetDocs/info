@@ -1,0 +1,38 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "toc.yml",
+          "**.md",
+          "**/toc.yml"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [ "images/**", "**.svg", "**.png" ]
+      }
+    ],
+    "xref": [
+      "https://erpnetdocs.github.io/model/xrefmap.yml",
+      "https://erpnetdocs.github.io/tech/xrefmap.yml"
+    ],
+    "dest": "docs",
+    "globalMetadata": {
+      "_appTitle": "ERP.net Information",
+      "_enableSearch": true
+    },
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "template": [
+      "default"
+    ],
+    "postProcessors": [],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
+  }
+}
