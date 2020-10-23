@@ -1,0 +1,8 @@
+- name: Solutions
+  href: solutions/
+- name: Features
+  href: features/
+- name: Case Studies
+  href: clients/
+- name: Docs
+  href: https://erpnetdocs.github.io/tech
