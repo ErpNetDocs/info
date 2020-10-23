@@ -1,6 +1,6 @@
 - name: Overview
   href: index.md
 - name: Wholesale Distribution
-  href: wholesale-distribution/toc.yml
+  href: wholesale-distribution/index.md
 - name: Industrial Manufacturing
-  href: industrial-manufacturing/toc.yml
+  href: industrial-manufacturing/index.md
