@@ -25,6 +25,42 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "customers/customer1.md",
+      "output": {
+        ".html": {
+          "relative_path": "customers/customer1.html",
+          "hash": "9Rr1bxap0CwS+6W/EV/ADQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "customers/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "customers/index.html",
+          "hash": "cvjHQhyfpa0tkE+ylJG+ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "customers/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "customers/toc.html",
+          "hash": "2I1pFftloNpYGcO//Fyxbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
@@ -208,7 +244,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "oFsKS5xNrzJJGR9GB1yx8A=="
+          "hash": "AZ1C+p3ys+i6mOuiJ6/fNQ=="
         }
       },
       "is_incremental": false,
@@ -220,7 +256,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "psEt/nrUEnUMX6WUeiYXKg=="
+          "hash": "PH28ik8r6w9aS+FYBxAh8g=="
         }
       },
       "is_incremental": false,
@@ -239,8 +275,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 13,
-          "skipped_file_count": 12
+          "total_file_count": 15,
+          "skipped_file_count": 14
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

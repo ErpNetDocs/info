@@ -10,5 +10,5 @@ ERP.net enables efficient management of wholesale distribution in a dynamic envi
 
 ## Case Studies
 
-* Customer 1
+* [Customer 1](~/customers/customer1.md)
 * Customer 2

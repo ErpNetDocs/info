@@ -1,4 +1,14 @@
 {
+  "customers/customer1.html": {
+    "href": "customers/customer1.html",
+    "title": "Customer 1 Case Study | ERP.net Information",
+    "keywords": "Customer 1 Case Study Solution: Wholesale Distribution"
+  },
+  "customers/index.html": {
+    "href": "customers/index.html",
+    "title": "Customer Case Studies | ERP.net Information",
+    "keywords": "Customer Case Studies This directory contains case studies about customer success using ERP.net solutions. To view study, select it from the menu on the left."
+  },
   "features/crm/contact-and-task-management.html": {
     "href": "features/crm/contact-and-task-management.html",
     "title": "Contact and Task Management | ERP.net Information",
