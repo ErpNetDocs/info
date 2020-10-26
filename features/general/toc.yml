@@ -4,7 +4,11 @@
   href: multi-language.md
 - name: Multi-currency
   href: multi-currency.md
+- name: Multiple Applicable Legislations
+  href: multiple-legislations.md
 - name: Reporting
   href: reporting.md
 - name: Business Intelligence
   href: business-intelligence.md
+- name: Azure AD Integrated Login
+  href: azuread-login.md

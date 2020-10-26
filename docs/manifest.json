@@ -62,6 +62,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/general/azuread-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/azuread-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
         "resource": {
@@ -89,6 +100,18 @@
         ".html": {
           "relative_path": "features/crm/bonus-programs.html",
           "hash": "u5lIDSNxylotMd7ttU4cSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/client-center.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/client-center.html",
+          "hash": "gOt0eDnybXeT4J6/u9vo5g=="
         }
       },
       "is_incremental": false,
@@ -180,6 +203,29 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/azuread-login.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/azuread-login.html",
+          "hash": "0ipEJuq8YvtQnOz093HmrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/general/azuread-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/azuread-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/business-intelligence.md",
       "output": {
         ".html": {
@@ -221,6 +267,18 @@
         ".html": {
           "relative_path": "features/general/multi-language.html",
           "hash": "nO/eiVdFBrMUVETGKCayLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/multiple-legislations.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/multiple-legislations.html",
+          "hash": "+djY6rxoFru1Z0OtaYG5Rg=="
         }
       },
       "is_incremental": false,
@@ -316,7 +374,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "QWEphJGlZZXt5eQPMshepg=="
+          "hash": "SDi0odylbb+nXvZNa2oT0g=="
         }
       },
       "is_incremental": false,
@@ -419,8 +477,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 27,
-          "skipped_file_count": 26
+          "total_file_count": 30,
+          "skipped_file_count": 29
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

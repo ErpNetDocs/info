@@ -14,6 +14,11 @@
     "title": "Bonus Programs | ERP.net Information",
     "keywords": "Bonus Programs"
   },
+  "features/crm/client-center.html": {
+    "href": "features/crm/client-center.html",
+    "title": "Client Center | ERP.net Information",
+    "keywords": "Client Center Client Center is a functionality, which allows the clients to access their data and communicate with you online. Data The data section allows the clients to: View orders View and download invoices View unpaid orders/invoices Chatter The chatter allows the clients to communicate with you in very direct and friendly way. It is heavily inspired by the social networks, but in an enterprise environment."
+  },
   "features/crm/conditional-discounts.html": {
     "href": "features/crm/conditional-discounts.html",
     "title": "| ERP.net Information",
@@ -49,6 +54,11 @@
     "title": "Promotional Packages | ERP.net Information",
     "keywords": "Promotional Packages"
   },
+  "features/general/azuread-login.html": {
+    "href": "features/general/azuread-login.html",
+    "title": "Azure AD Integrated Login | ERP.net Information",
+    "keywords": "Azure AD Integrated Login Integration of Microsoft Azure Active Directory login provides single sign-on for companies, which manage their security with Azure AD. Azure AD is the Internet version of the popular Windows Domains. It is hosted (and secured) by Microsoft on behalf of the organizations. By utilizing the Azure AD account sign-in, your company can benefit in the many ways, including: Single Sign-On for your work accounts. Users no longer need to have separate passwords for the ERP and other work-related resources. Use your existing security infrastructure. Directly utilize your Azure AD setup. No longer store passwords in the ERP. Directly apply domain security policies (MFA, complexity, etc.) to the login security of the ERP."
+  },
   "features/general/business-intelligence.html": {
     "href": "features/general/business-intelligence.html",
     "title": "Business Intelligence | ERP.net Information",
@@ -68,6 +78,11 @@
     "href": "features/general/multi-language.html",
     "title": "Multi-language support | ERP.net Information",
     "keywords": "Multi-language support"
+  },
+  "features/general/multiple-legislations.html": {
+    "href": "features/general/multiple-legislations.html",
+    "title": "Multiple Applicable Legislations | ERP.net Information",
+    "keywords": "Multiple Applicable Legislations @ name supports multiple applicable legislations in one ERP instance. When the business spans multiple countries, different legislations can govern the different aspects of the business. The feature allows the different managed legal entities to be based on different applicable legislations. Generally, the legislation is primarily based on the company, managed with the ERP solution. However, it is possible that sales to foreign clients must follow different rules. It is also possible that in some cases multiple legislations (federal or EU) apply together with local regulations. For more information, click here ."
   },
   "features/general/reporting.html": {
     "href": "features/general/reporting.html",
