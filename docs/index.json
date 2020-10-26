@@ -9,20 +9,50 @@
     "title": "Customer Case Studies | ERP.net Information",
     "keywords": "Customer Case Studies This directory contains case studies about customer success using ERP.net solutions. To view study, select it from the menu on the left."
   },
+  "features/crm/bonus-programs.html": {
+    "href": "features/crm/bonus-programs.html",
+    "title": "Bonus Programs | ERP.net Information",
+    "keywords": "Bonus Programs"
+  },
+  "features/crm/conditional-discounts.html": {
+    "href": "features/crm/conditional-discounts.html",
+    "title": "| ERP.net Information",
+    "keywords": ""
+  },
+  "features/crm/conditional-prices.html": {
+    "href": "features/crm/conditional-prices.html",
+    "title": "| ERP.net Information",
+    "keywords": ""
+  },
   "features/crm/contact-and-task-management.html": {
     "href": "features/crm/contact-and-task-management.html",
     "title": "Contact and Task Management | ERP.net Information",
     "keywords": "Contact and Task Management"
   },
+  "features/crm/end-customer.html": {
+    "href": "features/crm/end-customer.html",
+    "title": "End Customer | ERP.net Information",
+    "keywords": "End Customer Sometimes, businesses sell to an intermediary partner, who sells to a non-anonymous end customer. For example, selling software licenses is frequently transacted this way. The important part is that the seller knows the end customer and wants to track it for each sale. This is when this feature comes handy. It is integrated with Order Management , Reporting and Business Intelligence . Related: Crm.Sales.SalesOrders Entity"
+  },
   "features/crm/order-management.html": {
     "href": "features/crm/order-management.html",
-    "title": "Customer Order Management | ERP.net Information",
-    "keywords": "Customer Order Management"
+    "title": "Order Management | ERP.net Information",
+    "keywords": "Order Management"
   },
   "features/crm/presales.html": {
     "href": "features/crm/presales.html",
     "title": "Presales | ERP.net Information",
     "keywords": "Presales"
+  },
+  "features/crm/promotional-packages.html": {
+    "href": "features/crm/promotional-packages.html",
+    "title": "Promotional Packages | ERP.net Information",
+    "keywords": "Promotional Packages"
+  },
+  "features/general/business-intelligence.html": {
+    "href": "features/general/business-intelligence.html",
+    "title": "Business Intelligence | ERP.net Information",
+    "keywords": "Business Intelligence The ERP.net platform provides both built-in Standard Business Intelligence and means to create custom BI. Standard Business Intelligence The standard BI provides standardized cubes, tailored for standard scenarios. This has some pros and cons. The standard BI evolves with each new version of the platform. The problem is that it might not have the custom view required by some custom tailored business processes. Custom Business Intelligence Custom BI utilizes some external BI tool, like Microsoft Power BI . Custom BI has access to the data through API and can be used to build custom cubes, KPIs, dashboards and more. The custom BI can be integrated directly in the system through web views, context filtered by the on-screen data. For example, when you open a customer definition, you can see a BI information right there, tightly integrated with the other master data."
   },
   "features/general/multi-company.html": {
     "href": "features/general/multi-company.html",
@@ -39,10 +69,40 @@
     "title": "Multi-language support | ERP.net Information",
     "keywords": "Multi-language support"
   },
+  "features/general/reporting.html": {
+    "href": "features/general/reporting.html",
+    "title": "Reporting | ERP.net Information",
+    "keywords": "Reporting"
+  },
   "features/index.html": {
     "href": "features/index.html",
     "title": "ERP.net Features | ERP.net Information",
     "keywords": "ERP.net Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
+  },
+  "features/logistics/lot-tracking.html": {
+    "href": "features/logistics/lot-tracking.html",
+    "title": "Lot Tracking | ERP.net Information",
+    "keywords": "Lot Tracking"
+  },
+  "features/logistics/serial-numbers.html": {
+    "href": "features/logistics/serial-numbers.html",
+    "title": "Serial Number Tracking | ERP.net Information",
+    "keywords": "Serial Number Tracking"
+  },
+  "features/marketplace/index.html": {
+    "href": "features/marketplace/index.html",
+    "title": "Marketplace Apps | ERP.net Information",
+    "keywords": "Marketplace Apps Marketplace Apps are third party applications, tightly integrated with the platform. The applications featured on this site are platform-first, meaning that they do not store data outside the platform. Data, managed by any of the applications is also accessible to all other applications. For more information about an app, select it from the menu on the left."
+  },
+  "features/marketplace/mobileseller.html": {
+    "href": "features/marketplace/mobileseller.html",
+    "title": "DP Software Mobile Seller | ERP.net Information",
+    "keywords": "DP Software Mobile Seller"
+  },
+  "features/marketplace/servicedesk.html": {
+    "href": "features/marketplace/servicedesk.html",
+    "title": "SBS Service Desk | ERP.net Information",
+    "keywords": "SBS Service Desk"
   },
   "includes/name.html": {
     "href": "includes/name.html",

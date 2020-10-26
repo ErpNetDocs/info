@@ -1,6 +1,12 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
+- uid: bi
+  name: Business Intelligence
+  href: features/general/business-intelligence.html
 - uid: name
   name: name
   href: includes/name.html
+- uid: reporting
+  name: Reporting
+  href: features/general/reporting.html

@@ -84,6 +84,42 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/crm/bonus-programs.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/bonus-programs.html",
+          "hash": "u5lIDSNxylotMd7ttU4cSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/conditional-discounts.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/conditional-discounts.html",
+          "hash": "CWP/AQ/lYo6umBp4WZ0Ttw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/conditional-prices.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/conditional-prices.html",
+          "hash": "l/nym4Iu4SVjdflwFmC+JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/crm/contact-and-task-management.md",
       "output": {
         ".html": {
@@ -96,11 +132,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/crm/end-customer.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/end-customer.html",
+          "hash": "aISzJ3QT+lgAgad5ryAP2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/crm/order-management.md",
       "output": {
         ".html": {
           "relative_path": "features/crm/order-management.html",
-          "hash": "p9pZ6yh0yF6GKm6Lp5wEJg=="
+          "hash": "A4VrlNowkx+l0KlwJqSXXg=="
         }
       },
       "is_incremental": false,
@@ -113,6 +161,30 @@
         ".html": {
           "relative_path": "features/crm/presales.html",
           "hash": "n+Eor5IYaOeGytATIptBnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/promotional-packages.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/promotional-packages.html",
+          "hash": "3aJ4Da5KaKWj51tcQ6Fx0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/business-intelligence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/business-intelligence.html",
+          "hash": "jyt1Cf5cX1h7k274NxEFQg=="
         }
       },
       "is_incremental": false,
@@ -156,6 +228,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/reporting.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/reporting.html",
+          "hash": "A9BCkwlWWYbOWI4xGT1f9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/index.md",
       "output": {
         ".html": {
@@ -167,12 +251,72 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/lot-tracking.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/lot-tracking.html",
+          "hash": "aXdHB5PFNueJ66sgcmVuxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/serial-numbers.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/serial-numbers.html",
+          "hash": "sPfsH9/30gybRSUiCHtHFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/marketplace/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/marketplace/index.html",
+          "hash": "JB3gonEao4zKDB2ShX36QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/marketplace/mobileseller.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/marketplace/mobileseller.html",
+          "hash": "bJ9Ajwx04kBqjf9Hz9giEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/marketplace/servicedesk.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/marketplace/servicedesk.html",
+          "hash": "duDxNBBEQVPz3eo2RaxvIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "NGh49CkhXgC7E5llBlXESA=="
+          "hash": "QWEphJGlZZXt5eQPMshepg=="
         }
       },
       "is_incremental": false,
@@ -275,8 +419,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 15,
-          "skipped_file_count": 14
+          "total_file_count": 27,
+          "skipped_file_count": 26
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
