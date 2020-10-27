@@ -1,5 +1,5 @@
-# ERP.net Features
+# Features
 
-Directory of ERP.net features.
+Directory of @@name features.
 
 To view more information about a feature, select it from the menu.

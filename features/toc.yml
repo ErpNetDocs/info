@@ -4,5 +4,7 @@
   href: general/toc.yml
 - name: CRM
   href: crm/toc.yml
-- name: Marketplace Apps
-  href: marketplace/toc.yml
+- name: Logistics
+  href: logistics/toc.yml
+- name: Third Party Apps
+  href: third-party-apps/toc.yml

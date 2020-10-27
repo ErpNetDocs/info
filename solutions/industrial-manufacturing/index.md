@@ -1,1 +1,1 @@
-# ERP.net Industrial Manufacturing Solution
+# Industrial Manufacturing Solution

@@ -1,4 +1,4 @@
-# ERP.net Wholesale Distribution Solution
+# Wholesale Distribution Solution
 
 ERP.net enables efficient management of wholesale distribution in a dynamic environment:
 

@@ -64,6 +64,11 @@
     "title": "Business Intelligence | ERP.net Information",
     "keywords": "Business Intelligence The ERP.net platform provides both built-in Standard Business Intelligence and means to create custom BI. Standard Business Intelligence The standard BI provides standardized cubes, tailored for standard scenarios. This has some pros and cons. The standard BI evolves with each new version of the platform. The problem is that it might not have the custom view required by some custom tailored business processes. Custom Business Intelligence Custom BI utilizes some external BI tool, like Microsoft Power BI . Custom BI has access to the data through API and can be used to build custom cubes, KPIs, dashboards and more. The custom BI can be integrated directly in the system through web views, context filtered by the on-screen data. For example, when you open a customer definition, you can see a BI information right there, tightly integrated with the other master data."
   },
+  "features/general/document-chain.html": {
+    "href": "features/general/document-chain.html",
+    "title": "Document Chains | ERP.net Information",
+    "keywords": "Document Chains When documents are created in ERP.net they usually form document chains. For example, the basic document chain in CRM is: Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The subsequent documents in the chain are usually automatically created, but can also be manually typed. ERP.net tracks the relations between each document instance, so that the users can easily traverse the document chain up and down. Example This feature can be especially useful for financials. Suppose you are investigating some financial statement. You open a Finance.Accounting.AccountingVouchers Entity . From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order. The saved navigation data helps you quickly spot the originating document."
+  },
   "features/general/multi-company.html": {
     "href": "features/general/multi-company.html",
     "title": "Managing multiple companies in one ERP instance | ERP.net Information",
@@ -91,33 +96,33 @@
   },
   "features/index.html": {
     "href": "features/index.html",
-    "title": "ERP.net Features | ERP.net Information",
-    "keywords": "ERP.net Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
+    "title": "Features | ERP.net Information",
+    "keywords": "Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
   },
   "features/logistics/lot-tracking.html": {
     "href": "features/logistics/lot-tracking.html",
     "title": "Lot Tracking | ERP.net Information",
-    "keywords": "Lot Tracking"
+    "keywords": "Lot Tracking ERP.net supports lot tracking throughout the supply chain. Relation to serial number tracking Lot tracking is a separate feature from Serial Numbers Tracking . Lots and serial numbers can be tracked simultaneously. Going down the document chain Lot numbers can (optionally) be specified up from the initial document in the chain and transferred down to the last. For example, some customers might have special requirement for remaining expiry time or other specifics. In this case, the sales representative can specify the lot number in the Sales Order. In this case, the lot number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction. However, if the lot number is left blank in the Store Order, it can be specified later in the chain or left to the system to automatically choose using FIFO/FEFO/LIFO methods. More information For detailed information about the related entities see: Crm.Sales.SalesOrders Entity Logistics.Inventory.StoreOrders Entity Logistics.Inventory.StoreTransactions Entity Logistics.Inventory.StoreTransactionLines Entity"
   },
   "features/logistics/serial-numbers.html": {
     "href": "features/logistics/serial-numbers.html",
-    "title": "Serial Number Tracking | ERP.net Information",
-    "keywords": "Serial Number Tracking"
+    "title": "Serial Numbers | ERP.net Information",
+    "keywords": "Serial Numbers ERP.net supports tracking serial numbers tracking throughout the supply chain. Relation to lot tracking Serial numbers tracking is a separate feature from Lot Tracking . Lots and serial numbers can be tracked simultaneously. Going down the document chain Serial numbers can (optionally) be specified up from the initial document in the chain and transferred down to the last. For example, even the Sales Order can specify concrete serial number, if so is desired. In this case, the serial number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction. However, if the serial number is left blank in the Store Order, it can be specified later in the chain - most probably when picking the product from the warehouse. More information For detailed information about the related entities see: Crm.Sales.SalesOrders Entity Logistics.Inventory.StoreOrders Entity Logistics.Inventory.StoreTransactions Entity Logistics.Inventory.StoreTransactionLines Entity"
   },
-  "features/marketplace/index.html": {
-    "href": "features/marketplace/index.html",
+  "features/third-party-apps/index.html": {
+    "href": "features/third-party-apps/index.html",
     "title": "Marketplace Apps | ERP.net Information",
     "keywords": "Marketplace Apps Marketplace Apps are third party applications, tightly integrated with the platform. The applications featured on this site are platform-first, meaning that they do not store data outside the platform. Data, managed by any of the applications is also accessible to all other applications. For more information about an app, select it from the menu on the left."
   },
-  "features/marketplace/mobileseller.html": {
-    "href": "features/marketplace/mobileseller.html",
-    "title": "DP Software Mobile Seller | ERP.net Information",
-    "keywords": "DP Software Mobile Seller"
+  "features/third-party-apps/mobileseller.html": {
+    "href": "features/third-party-apps/mobileseller.html",
+    "title": "Mobile Seller | ERP.net Information",
+    "keywords": "Mobile Seller"
   },
-  "features/marketplace/servicedesk.html": {
-    "href": "features/marketplace/servicedesk.html",
-    "title": "SBS Service Desk | ERP.net Information",
-    "keywords": "SBS Service Desk"
+  "features/third-party-apps/servicedesk.html": {
+    "href": "features/third-party-apps/servicedesk.html",
+    "title": "Service Desk | ERP.net Information",
+    "keywords": "Service Desk"
   },
   "includes/name.html": {
     "href": "includes/name.html",
@@ -127,26 +132,76 @@
   "index.html": {
     "href": "index.html",
     "title": "ERP.net Information | ERP.net Information",
-    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions Wholesale Distribution Industrial Manufacturing"
+    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution"
   },
   "README.html": {
     "href": "README.html",
     "title": "info | ERP.net Information",
     "keywords": "info Marketing information about the ERP.net platform - features, solutions, case studies, etc."
   },
+  "solutions/agribusiness/index.html": {
+    "href": "solutions/agribusiness/index.html",
+    "title": "Agribusiness solution | ERP.net Information",
+    "keywords": "Agribusiness solution"
+  },
+  "solutions/consumer-products/index.html": {
+    "href": "solutions/consumer-products/index.html",
+    "title": "Consumer Products Solution | ERP.net Information",
+    "keywords": "Consumer Products Solution"
+  },
+  "solutions/fashion/index.html": {
+    "href": "solutions/fashion/index.html",
+    "title": "Fashion Solution | ERP.net Information",
+    "keywords": "Fashion Solution"
+  },
+  "solutions/financial-services/index.html": {
+    "href": "solutions/financial-services/index.html",
+    "title": "Financial Services Solution | ERP.net Information",
+    "keywords": "Financial Services Solution"
+  },
+  "solutions/health-and-life-sciences/index.html": {
+    "href": "solutions/health-and-life-sciences/index.html",
+    "title": "Health and Life Sciences Solution | ERP.net Information",
+    "keywords": "Health and Life Sciences Solution"
+  },
+  "solutions/high-tech/index.html": {
+    "href": "solutions/high-tech/index.html",
+    "title": "High Tech Solution | ERP.net Information",
+    "keywords": "High Tech Solution"
+  },
   "solutions/index.html": {
     "href": "solutions/index.html",
     "title": "ERP.net Solutions | ERP.net Information",
     "keywords": "ERP.net Solutions This section contains information about solutions, based on ERP.net, for different types of companies. To view a solution, select from the menu on the left side."
   },
+  "solutions/industrial-machinery-and-components/index.html": {
+    "href": "solutions/industrial-machinery-and-components/index.html",
+    "title": "Industrial Machinery and Components Solutioin | ERP.net Information",
+    "keywords": "Industrial Machinery and Components Solutioin"
+  },
   "solutions/industrial-manufacturing/index.html": {
     "href": "solutions/industrial-manufacturing/index.html",
-    "title": "ERP.net Industrial Manufacturing Solution | ERP.net Information",
-    "keywords": "ERP.net Industrial Manufacturing Solution"
+    "title": "Industrial Manufacturing Solution | ERP.net Information",
+    "keywords": "Industrial Manufacturing Solution"
+  },
+  "solutions/professional-services/index.html": {
+    "href": "solutions/professional-services/index.html",
+    "title": "Professional Services Solution | ERP.net Information",
+    "keywords": "Professional Services Solution"
+  },
+  "solutions/retail/index.html": {
+    "href": "solutions/retail/index.html",
+    "title": "Retail Solution | ERP.net Information",
+    "keywords": "Retail Solution"
+  },
+  "solutions/transportation-and-logistics/index.html": {
+    "href": "solutions/transportation-and-logistics/index.html",
+    "title": "Transportation and Logistics Solution | ERP.net Information",
+    "keywords": "Transportation and Logistics Solution"
   },
   "solutions/wholesale-distribution/index.html": {
     "href": "solutions/wholesale-distribution/index.html",
-    "title": "ERP.net Wholesale Distribution Solution | ERP.net Information",
-    "keywords": "ERP.net Wholesale Distribution Solution ERP.net enables efficient management of wholesale distribution in a dynamic environment: Features Order Management Efficient Logistics WMS Case Studies Customer 1 Customer 2"
+    "title": "Wholesale Distribution Solution | ERP.net Information",
+    "keywords": "Wholesale Distribution Solution ERP.net enables efficient management of wholesale distribution in a dynamic environment: Features Order Management Efficient Logistics WMS Case Studies Customer 1 Customer 2 Customers Inkofoods (Bulgaria)"
   }
 }

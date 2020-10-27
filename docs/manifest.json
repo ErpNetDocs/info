@@ -238,6 +238,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/document-chain.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/document-chain.html",
+          "hash": "rog0Cj+Zj/gvAO/fIt8zaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/multi-company.md",
       "output": {
         ".html": {
@@ -302,7 +314,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "FfzVBU/z7cnSFFC6sddzUg=="
+          "hash": "jtNh/Y3UxaTGlk3bZUsPDA=="
         }
       },
       "is_incremental": false,
@@ -314,7 +326,7 @@
       "output": {
         ".html": {
           "relative_path": "features/logistics/lot-tracking.html",
-          "hash": "aXdHB5PFNueJ66sgcmVuxg=="
+          "hash": "IQz/JYOVzRnk9g/R4cO/Lw=="
         }
       },
       "is_incremental": false,
@@ -326,7 +338,7 @@
       "output": {
         ".html": {
           "relative_path": "features/logistics/serial-numbers.html",
-          "hash": "sPfsH9/30gybRSUiCHtHFw=="
+          "hash": "ZKjfwt2vFCL+gu03evk7+g=="
         }
       },
       "is_incremental": false,
@@ -334,11 +346,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/marketplace/index.md",
+      "source_relative_path": "features/third-party-apps/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/marketplace/index.html",
-          "hash": "JB3gonEao4zKDB2ShX36QA=="
+          "relative_path": "features/third-party-apps/index.html",
+          "hash": "HSVzAB/IYQyqTQs2fiMieA=="
         }
       },
       "is_incremental": false,
@@ -346,11 +358,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/marketplace/mobileseller.md",
+      "source_relative_path": "features/third-party-apps/mobileseller.md",
       "output": {
         ".html": {
-          "relative_path": "features/marketplace/mobileseller.html",
-          "hash": "bJ9Ajwx04kBqjf9Hz9giEQ=="
+          "relative_path": "features/third-party-apps/mobileseller.html",
+          "hash": "10N51QpuVjU8iUP+BIysYA=="
         }
       },
       "is_incremental": false,
@@ -358,11 +370,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/marketplace/servicedesk.md",
+      "source_relative_path": "features/third-party-apps/servicedesk.md",
       "output": {
         ".html": {
-          "relative_path": "features/marketplace/servicedesk.html",
-          "hash": "duDxNBBEQVPz3eo2RaxvIg=="
+          "relative_path": "features/third-party-apps/servicedesk.html",
+          "hash": "+MfjAw5XxZofD9phICCuxg=="
         }
       },
       "is_incremental": false,
@@ -374,7 +386,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "SDi0odylbb+nXvZNa2oT0g=="
+          "hash": "/eRc/BmoPkXAzBri+kCJwQ=="
         }
       },
       "is_incremental": false,
@@ -398,7 +410,79 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "FxzBwXaKmviYkJtkmOPKng=="
+          "hash": "gDvmmP11p8Mg6dSD88sQtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/agribusiness/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/agribusiness/index.html",
+          "hash": "lMCS7n3AWtUujlSVIOpteg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/consumer-products/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/consumer-products/index.html",
+          "hash": "QLT8WY0pYRd4DCVaO/jr1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/fashion/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/fashion/index.html",
+          "hash": "c9sxU9DB2A5PeG5JFQOgjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/financial-services/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/financial-services/index.html",
+          "hash": "DQ7tHVQbZGCT5mL/eTXFvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/health-and-life-sciences/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/health-and-life-sciences/index.html",
+          "hash": "ssWRWjF+Aql7Dzw522OCmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/high-tech/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/high-tech/index.html",
+          "hash": "BOXV2u1ZgyJzU8DwE4CBgg=="
         }
       },
       "is_incremental": false,
@@ -418,11 +502,47 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "solutions/industrial-machinery-and-components/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/industrial-machinery-and-components/index.html",
+          "hash": "8wPghOU2bgcKks/D/GDRCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "solutions/industrial-manufacturing/index.md",
       "output": {
         ".html": {
           "relative_path": "solutions/industrial-manufacturing/index.html",
-          "hash": "h1rdLRD+wVT9u6i/XPUQCg=="
+          "hash": "TA2R6WXONtyDTr8aZzHGOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/professional-services/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/professional-services/index.html",
+          "hash": "w5cxMQksrJ9sm4gsxCJaQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/retail/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/retail/index.html",
+          "hash": "9vcKVEG+Vkwe61PndCyEQA=="
         }
       },
       "is_incremental": false,
@@ -434,7 +554,19 @@
       "output": {
         ".html": {
           "relative_path": "solutions/toc.html",
-          "hash": "tM4w5le7JmxEvYvvd5xy2w=="
+          "hash": "Ndvx/y2tBDJaD0Hd8zWOMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/transportation-and-logistics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/transportation-and-logistics/index.html",
+          "hash": "wjr4GL1s+dfiFNShsDPVdw=="
         }
       },
       "is_incremental": false,
@@ -446,7 +578,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "AZ1C+p3ys+i6mOuiJ6/fNQ=="
+          "hash": "fVJW2d4i/hYMKsYNMM3Y1w=="
         }
       },
       "is_incremental": false,

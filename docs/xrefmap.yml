@@ -4,6 +4,9 @@ references:
 - uid: bi
   name: Business Intelligence
   href: features/general/business-intelligence.html
+- uid: document-chain
+  name: Document Chains
+  href: features/general/document-chain.html
 - uid: name
   name: name
   href: includes/name.html

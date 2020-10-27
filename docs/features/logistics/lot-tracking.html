@@ -79,6 +79,23 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="lot-tracking">Lot Tracking</h1>
 
+<p>ERP.net supports lot tracking throughout the supply chain.</p>
+<h2 id="relation-to-serial-number-tracking">Relation to serial number tracking</h2>
+<p>Lot tracking is a separate feature from <a href="serial-numbers.html">Serial Numbers Tracking</a>.
+Lots and serial numbers can be tracked simultaneously.</p>
+<h2 id="going-down-the-document-chain">Going down the document chain</h2>
+<p>Lot numbers can (optionally) be specified up from the initial document in the <a class="xref" href="../general/document-chain.html">chain</a> and transferred down to the last.</p>
+<p>For example, some customers might have special requirement for remaining expiry time or other specifics. In this case, the sales representative can specify the lot number in the Sales Order.
+In this case, the lot number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction.</p>
+<p>However, if the lot number is left blank in the Store Order, it can be specified later in the chain or left to the system to automatically choose using FIFO/FEFO/LIFO methods.</p>
+<h2 id="more-information">More information</h2>
+<p>For detailed information about the related entities see:</p>
+<ul>
+<li><a class="xref" href="https://erpnetdocs.github.io/model/entities/Crm.Sales.SalesOrders.html">Crm.Sales.SalesOrders Entity</a></li>
+<li><a class="xref" href="https://erpnetdocs.github.io/model/entities/Logistics.Inventory.StoreOrders.html">Logistics.Inventory.StoreOrders Entity</a></li>
+<li><a class="xref" href="https://erpnetdocs.github.io/model/entities/Logistics.Inventory.StoreTransactions.html">Logistics.Inventory.StoreTransactions Entity</a></li>
+<li><a class="xref" href="https://erpnetdocs.github.io/model/entities/Logistics.Inventory.StoreTransactionLines.html">Logistics.Inventory.StoreTransactionLines Entity</a></li>
+</ul>
 </article>
           </div>
           
