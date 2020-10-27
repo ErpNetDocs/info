@@ -12,3 +12,7 @@ ERP.net enables efficient management of wholesale distribution in a dynamic envi
 
 * [Customer 1](~/customers/customer1.md)
 * Customer 2
+
+## Customers
+
+* Inkofoods (Bulgaria)
