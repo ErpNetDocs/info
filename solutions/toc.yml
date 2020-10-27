@@ -1,11 +1,27 @@
 - name: Overview
   href: index.md
-- name: Wholesale Distribution
-  href: wholesale-distribution/index.md
-- name: Industrial Manufacturing
-  href: industrial-manufacturing/index.md
 - name: Agribusiness
   href: agribusiness/index.md
 - name: Consumer Products
   href: consumer-products/index.md
- 
+- name: Fashion
+  href: fashion/index.md
+- name: Financial Services
+  href: financial-services/index.md
+- name: Health and Life Sciences
+  href: health-and-life-sciences/index.md
+- name: High Tech
+  href: high-tech/index.md
+- name: Industrial Machinery and Components
+  href: industrial-machinery-and-components/index.md
+- name: Professional Services
+  href: professional-services/index.md
+- name: Retail
+  href: retail/index.md
+- name: Transportation and Logistics
+  href: transportation-and-logistics/index.md
+- name: Wholesale Distribution
+  href: wholesale-distribution/index.md
+- name: Industrial Manufacturing
+  href: industrial-manufacturing/index.md
+  
