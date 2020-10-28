@@ -1,6 +1,6 @@
 # Consumer Products Solution
 
-ERP.net offers a comprehensive reference solution to support the processes of a consumer products company. It is delivered with relevant business content helping you reduce costs and decrease risks.
+ERP.net offers a comprehensive solution to support the processes of a consumer products company. It is delivered with relevant business content helping you reduce costs and decrease risks.
 
 
 ## Features
