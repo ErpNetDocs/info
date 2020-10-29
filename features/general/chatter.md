@@ -5,7 +5,7 @@ uid: chatter
 
 The Chatter is a chat functionality, which is almost universally pluggable in any screen form.
 
-(pic)
+![Chatter](chatter.png)
 
 ## Social Interactions
 
