@@ -19,3 +19,6 @@ references:
 - uid: reporting
   name: Reporting
   href: features/general/reporting.html
+- uid: winclient
+  name: winclient
+  href: includes/winclient.html

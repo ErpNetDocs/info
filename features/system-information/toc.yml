@@ -1,0 +1,12 @@
+- name: Overview
+  href: index.md
+- name: System Requirements
+  href: system-requirements.md
+- name: High Availability
+  href: high-availability.md
+- name: Disaster Recovery
+  href: disaster-recovery.md
+- name: Core licensing
+  href: cores.md
+- name: Logging
+  href: logging.md

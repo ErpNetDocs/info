@@ -370,6 +370,78 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/system-information/cores.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/cores.html",
+          "hash": "SrUI/x8Jj1YzPWQ01J1vBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system-information/disaster-recovery.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/disaster-recovery.html",
+          "hash": "3jyzkEE9+SuTvwV4gttBCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system-information/high-availability.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/high-availability.html",
+          "hash": "RmbDe6fWmhIYm1xYOhBqbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system-information/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/index.html",
+          "hash": "alQpsnztYJow864lkofqsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system-information/logging.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/logging.html",
+          "hash": "wkKn7XguvlOMiUrs02ErjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system-information/system-requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system-information/system-requirements.html",
+          "hash": "mTv2NvpzFj2lNieFhgOFJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/third-party-apps/index.md",
       "output": {
         ".html": {
@@ -410,7 +482,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "7rou9B15C05434+AGylZyQ=="
+          "hash": "2gi8fUmIh9tmcDC2PUBkaA=="
         }
       },
       "is_incremental": false,
@@ -423,6 +495,18 @@
         ".html": {
           "relative_path": "includes/name.html",
           "hash": "v4XhJhHKUjHAKXZOZmGmAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "includes/winclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "includes/winclient.html",
+          "hash": "ThhsTKLGIkBkDsXMmLBUeg=="
         }
       },
       "is_incremental": false,
@@ -446,7 +530,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/agribusiness/index.html",
-          "hash": "lMCS7n3AWtUujlSVIOpteg=="
+          "hash": "AkHceGoMEc/Rf9hisYGALQ=="
         }
       },
       "is_incremental": false,
@@ -458,7 +542,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/consumer-products/index.html",
-          "hash": "QLT8WY0pYRd4DCVaO/jr1Q=="
+          "hash": "649vZhTR3D2sYeLgAW1uww=="
         }
       },
       "is_incremental": false,
@@ -470,7 +554,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/fashion/index.html",
-          "hash": "c9sxU9DB2A5PeG5JFQOgjQ=="
+          "hash": "LaSosO+X3bBaYGmjnO0Y1A=="
         }
       },
       "is_incremental": false,
@@ -482,7 +566,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/financial-services/index.html",
-          "hash": "DQ7tHVQbZGCT5mL/eTXFvA=="
+          "hash": "JnylZ/aC8nw0qnKWZ6RZNQ=="
         }
       },
       "is_incremental": false,
@@ -494,7 +578,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/health-and-life-sciences/index.html",
-          "hash": "ssWRWjF+Aql7Dzw522OCmw=="
+          "hash": "9D9VRtkiFKjgOONKMgFmBQ=="
         }
       },
       "is_incremental": false,
@@ -506,7 +590,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/high-tech/index.html",
-          "hash": "BOXV2u1ZgyJzU8DwE4CBgg=="
+          "hash": "SejAygH8p+Oc0wol+/7qKw=="
         }
       },
       "is_incremental": false,

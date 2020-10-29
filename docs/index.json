@@ -119,6 +119,36 @@
     "title": "Serial Numbers | ERP.net Information",
     "keywords": "Serial Numbers ERP.net supports tracking serial numbers tracking throughout the supply chain. Relation to lot tracking Serial numbers tracking is a separate feature from Lot Tracking . Lots and serial numbers can be tracked simultaneously. Going down the document chain Serial numbers can (optionally) be specified up from the initial document in the chain and transferred down to the last. For example, even the Sales Order can specify concrete serial number, if so is desired. In this case, the serial number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction. However, if the serial number is left blank in the Store Order, it can be specified later in the chain - most probably when picking the product from the warehouse. More information For detailed information about the related entities see: Crm.Sales.SalesOrders Entity Logistics.Inventory.StoreOrders Entity Logistics.Inventory.StoreTransactions Entity Logistics.Inventory.StoreTransactionLines Entity"
   },
+  "features/system-information/cores.html": {
+    "href": "features/system-information/cores.html",
+    "title": "Core capacity information | ERP.net Information",
+    "keywords": "Core capacity information Medium to large and Internet-facing ERP.net instances are provided, based on \"cores\". \"Core\" defines server processing capacity. User perspective From users perspective, a core provides enough capacity for comfortable work of 30 concurrent internal users , or up to 45 concurrent light-use users . However, todays workloads are rarely just internal users, using the default UI clients. Service apps, Internet users and third-party UI apps take their toll. Their load levels are hard to predict. Note Small business subscriptions are based on concurrent internal users only, and not on cores. They can incorporate service and Internet apps, but their load is prorated to internal users. Check your reseller for more information. Hardware capacity description Although \"core\" licensing is originally based on hardware specifications, nowadays it is sized through software and the exact hardware specs are just an approximation. Having said that, each core is allocated capacity, approximately equal to: 1 CPU core for SQL Server 32 GB RAM for SQL Server 1 CPU core for Application server 4 GB RAM for Application server (but not less than 8 GB per app server)"
+  },
+  "features/system-information/disaster-recovery.html": {
+    "href": "features/system-information/disaster-recovery.html",
+    "title": "Disaster Recovery | ERP.net Information",
+    "keywords": "Disaster Recovery Disaster recovery planning and testing is a basic feature of ERP.net and is provided for all subscription levels. You do not need to do anything to activate it. Backups The automated backup plan includes: Transaction log backups every 30 minutes. Full backups every week. Secondary replica of backups in a different physical location (different data center). Retention period - 14 days. Manual test restores every year to test the backup procedures. Backup monitoring The proper execution of the backup procedures is monitored at all times. The procedures include manual checks and test restores, guaranteeing proper execution of the disaster recovery solutions. User requested restores We are able to execute user requested restores. The restore takes place as a new ERP instance, which is subject to a subscription plan. User access to the backups Unfortunately, users access to the backup files is not allowed for security reasons. However, the data in an ERP instance is readily accessible through the Table API, which is a thin layer over the physical database. The Table API, although primarily intended for BI (Business Intelligence), can be used for data dumping, subject to the security permissions. Note Access through the Table API is logged."
+  },
+  "features/system-information/high-availability.html": {
+    "href": "features/system-information/high-availability.html",
+    "title": "High Availability | ERP.net Information",
+    "keywords": "High Availability The hosting of ERP.net is very reliable and have built-in enterprise level high-availability. It is monitored 24x7x365 by a team of dedicated professionals. You do not need to do anything to activate high-availability. Hosting infrastructure and features Database and application servers are hosted on clusters, which have built-in high-availability. In case of a hardware problem, a backup server automatically takes over the workload. Note The failover takes about 30-60 seconds. During this time period, there might be some minor disruptions to current transactions."
+  },
+  "features/system-information/index.html": {
+    "href": "features/system-information/index.html",
+    "title": "System Information | ERP.net Information",
+    "keywords": "System Information This section contains information about the hosting infrastructure, capacity allocations, system requirements, etc. To learn more, select a topic from the menu."
+  },
+  "features/system-information/logging.html": {
+    "href": "features/system-information/logging.html",
+    "title": "Log of everything | ERP.net Information",
+    "keywords": "Log of everything Everything in an ERP.net instance can be logged. This includes, but is not limited to: User session events - login, logout, etc. Updates - create, update and even delete of records. Updates to system settings, business workflow rules, etc. Tracking of updates to specific data attributes, even BLOBs. Read access, e.g. a user just opening a document. System events. Results of scheduled jobs. ...and much more. Most of the logging is subject to activation. Personal data privacy GDPR and other regulations require \"privacy by design\". Because of this, some entities have always-on access logging enabled. For more information, see @default-logging-levels. Read access logging Logging of read access is a special stand-out feature. When activated for an entity type, it can log all user access, even through the API. Read access logging can be invaluable tool for internal investigations. However, the data storage requirements might not be trivial. Consult with your implementation company for details. Third party logging apps There are third party apps, which deal with the system logs. This includes: Apps saving the logs to a block-chain secured storage. Apps transferring logs to external destinations. etc."
+  },
+  "features/system-information/system-requirements.html": {
+    "href": "features/system-information/system-requirements.html",
+    "title": "System requirements | ERP.net Information",
+    "keywords": "System requirements ERP.net is a pure cloud solution. You do not need to do anything for the hosting of the servers, databases, etc. However, accessing an ERP.net instance from a client device has some system requirements. Windows Desktop Client System Requirements The Windows Desktop Client is the primary tool for work-heavy users accessing an ERP.net instance. Windows Desktop Client has some capabilities, related to its nature of being a native app: It allows local processing of huge data sets, provided there is enough RAM There are integrations with Windows for file management, working with office documents, etc. Minimal system requirements Windows 10 1809+ 2 GB RAM Internet Explorer 11 Internet access Recommended system specs Windows 10 (latest stable release) 8 GB RAM Microsoft Chromium Edge Internet access Web apps Web applications, (like Client Center) have no specific system requirements. They run on all modern browsers and require negligible amounts of local RAM. Note Internet Explorer is not considered \"modern\" browser and is not supported."
+  },
   "features/third-party-apps/index.html": {
     "href": "features/third-party-apps/index.html",
     "title": "Marketplace Apps | ERP.net Information",
@@ -139,6 +169,11 @@
     "title": "| ERP.net Information",
     "keywords": "ERP.net"
   },
+  "includes/winclient.html": {
+    "href": "includes/winclient.html",
+    "title": "| ERP.net Information",
+    "keywords": "Windows Desktop Client"
+  },
   "index.html": {
     "href": "index.html",
     "title": "ERP.net Information | ERP.net Information",
@@ -152,32 +187,32 @@
   "solutions/agribusiness/index.html": {
     "href": "solutions/agribusiness/index.html",
     "title": "Agribusiness solution | ERP.net Information",
-    "keywords": "Agribusiness solution"
+    "keywords": "Agribusiness solution Agriculture businesses are facing increased pressures to keep prices down, satisfy evolving customer demands and stay in compliance with increasing regulatory mandates. To handle these complex challenges, agribusinesses need the right business software solutions. ERP.net can solve many of these challenges. Features Pricing Product configurator Field sales WMS Barcode control Finance Business Intelligence Customers Finmark Commercial (BG) GrowGreen (BG) Omya Bulgaria (BG) Rapid KB (BG) Stoychevi 57-62 (BG)"
   },
   "solutions/consumer-products/index.html": {
     "href": "solutions/consumer-products/index.html",
     "title": "Consumer Products Solution | ERP.net Information",
-    "keywords": "Consumer Products Solution"
+    "keywords": "Consumer Products Solution ERP.net offers a comprehensive solution to support the processes of a consumer products company. It is delivered with relevant business content helping you reduce costs and decrease risks. Features Pricing Production Field sales WMS Barcode control Finance Business Intelligence Customers Aspasia (BG) Biofresh (BG) Dimitrov Ekspres Kargo (BG) Domain Menada (BG) Ilea-M (BG) Trakya Market (BG)"
   },
   "solutions/fashion/index.html": {
     "href": "solutions/fashion/index.html",
     "title": "Fashion Solution | ERP.net Information",
-    "keywords": "Fashion Solution"
+    "keywords": "Fashion Solution ERP.net provides fashion firms with a proven framework to adopt industry best practices while attaining operational excellence across the full value chain. Features Pricing Production Product configurator Field sales WMS Barcode control Finance Business Intelligence Customers Demobaza (BG) Ditex-SM (BG) Kolev i Kolev (BG) Mania Team (BG) Mars Armor (BG) Misota (BG) Palltex (BG)"
   },
   "solutions/financial-services/index.html": {
     "href": "solutions/financial-services/index.html",
     "title": "Financial Services Solution | ERP.net Information",
-    "keywords": "Financial Services Solution"
+    "keywords": "Financial Services Solution ERP.net provides adaptable, feature rich, and integrated enterprise resource planning software that streamlines your processes and facilitates your decisions. The core of your ERP, ERP.net delivers powerful business finance software – simple enough for small shops and comprehensive enough for complex multi-nationals – that can support your needs today and in the future. Features Accounting Multicompany Costs Cash flows Fixed assets VAT Intrastat reports Financial Analytics Customers AS Supreme (BG) Belev Consult (BG) Doverie - Obedinen Holding (BG) NN Pension Insurance Company (BG) PMK Consult (BG) Smetki BG (BG)"
   },
   "solutions/health-and-life-sciences/index.html": {
     "href": "solutions/health-and-life-sciences/index.html",
     "title": "Health and Life Sciences Solution | ERP.net Information",
-    "keywords": "Health and Life Sciences Solution"
+    "keywords": "Health and Life Sciences Solution Transform with the Ever Changing Healthcare and Life Science Scenario. Remove Complexity, Reduce Costs, and Enhance Visibility. Features Pricing Production Field sales WMS Barcode control Finance Business Intelligence Customers Brandex Bulgaria (BG) Vega Medical (BG) Prolab Instruments (BG) Proficlean Bulgaria (BG)"
   },
   "solutions/high-tech/index.html": {
     "href": "solutions/high-tech/index.html",
     "title": "High Tech Solution | ERP.net Information",
-    "keywords": "High Tech Solution"
+    "keywords": "High Tech Solution Companies in the electronics and high tech industry rely on innovation and the ability to manage change as a key to success. There is constant pressure on margins, fluidity to global supply chains, strains on material availability and imperatives around controlling cost. ERP.net allow high tech companies to meet these challenges. Features Pricing Production Lot Tracking Serial Numbers Tracking WMS Barcode control Finance Business Intelligence Customers K Media Tech (BG) Keisiem (BG) ComSoft (BG) Microco (BG) Persy (BG)"
   },
   "solutions/index.html": {
     "href": "solutions/index.html",
