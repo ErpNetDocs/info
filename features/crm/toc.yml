@@ -1,9 +1,11 @@
+- name: Overview
+  href: index.md
 - name: Contact and Task Management
-  href: contact-and-task-management.md
+  href: contacts-and-tasks.md
 - name: Presales
   href: presales.md
 - name: Order Management
-  href: order-management.md
+  href: sales.md
 - name: Client Center
   href: client-center.md
 - name: End Customer

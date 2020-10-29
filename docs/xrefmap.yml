@@ -4,6 +4,12 @@ references:
 - uid: bi
   name: Business Intelligence
   href: features/general/business-intelligence.html
+- uid: chatter
+  name: Chatter
+  href: features/general/chatter.html
+- uid: client-center
+  name: Client Center
+  href: features/crm/client-center.html
 - uid: document-chain
   name: Document Chains
   href: features/general/document-chain.html

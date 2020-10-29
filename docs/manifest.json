@@ -111,7 +111,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/client-center.html",
-          "hash": "gOt0eDnybXeT4J6/u9vo5g=="
+          "hash": "+89uVUF5nouAO/j9/Pgntw=="
         }
       },
       "is_incremental": false,
@@ -143,11 +143,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/crm/contact-and-task-management.md",
+      "source_relative_path": "features/crm/contacts-and-tasks.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/contact-and-task-management.html",
-          "hash": "fSoOKxc6MfmXHS+AK7hpyA=="
+          "relative_path": "features/crm/contacts-and-tasks.html",
+          "hash": "uk/bsJqGBBYly6YzDHzp/g=="
         }
       },
       "is_incremental": false,
@@ -159,7 +159,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/end-customer.html",
-          "hash": "aISzJ3QT+lgAgad5ryAP2Q=="
+          "hash": "PFMwVHqtCBDPPdkGm3NREQ=="
         }
       },
       "is_incremental": false,
@@ -167,11 +167,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/crm/order-management.md",
+      "source_relative_path": "features/crm/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/order-management.html",
-          "hash": "A4VrlNowkx+l0KlwJqSXXg=="
+          "relative_path": "features/crm/index.html",
+          "hash": "kCyEbCoWoMpxx2xh09q+rw=="
         }
       },
       "is_incremental": false,
@@ -183,7 +183,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/presales.html",
-          "hash": "n+Eor5IYaOeGytATIptBnw=="
+          "hash": "5Gp4TobA3GMM92TIonC/6A=="
         }
       },
       "is_incremental": false,
@@ -196,6 +196,18 @@
         ".html": {
           "relative_path": "features/crm/promotional-packages.html",
           "hash": "3aJ4Da5KaKWj51tcQ6Fx0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/sales.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/sales.html",
+          "hash": "i9e+g+MqC5NxFUkKAOP/VA=="
         }
       },
       "is_incremental": false,
@@ -231,6 +243,18 @@
         ".html": {
           "relative_path": "features/general/business-intelligence.html",
           "hash": "jyt1Cf5cX1h7k274NxEFQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/chatter.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/chatter.html",
+          "hash": "6LAx6g2y6sVWN6VCJp83Wg=="
         }
       },
       "is_incremental": false,
@@ -386,7 +410,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "/eRc/BmoPkXAzBri+kCJwQ=="
+          "hash": "7rou9B15C05434+AGylZyQ=="
         }
       },
       "is_incremental": false,
@@ -578,7 +602,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "fVJW2d4i/hYMKsYNMM3Y1w=="
+          "hash": "DKtMVmahkKfNtKyN55kn4w=="
         }
       },
       "is_incremental": false,

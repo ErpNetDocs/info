@@ -17,7 +17,7 @@
   "features/crm/client-center.html": {
     "href": "features/crm/client-center.html",
     "title": "Client Center | ERP.net Information",
-    "keywords": "Client Center Client Center is a functionality, which allows the clients to access their data and communicate with you online. Data The data section allows the clients to: View orders View and download invoices View unpaid orders/invoices Chatter The chatter allows the clients to communicate with you in very direct and friendly way. It is heavily inspired by the social networks, but in an enterprise environment."
+    "keywords": "Client Center Client Center is a functionality, which allows the clients to access their data and communicate with you online. Data The data section allows the clients to: View orders View and download invoices View unpaid orders/invoices Chat The chat allows the clients to communicate with you in very direct and friendly way. It is heavily inspired by the social networks, but in an enterprise environment. For more information, see the Chatter component ."
   },
   "features/crm/conditional-discounts.html": {
     "href": "features/crm/conditional-discounts.html",
@@ -29,30 +29,35 @@
     "title": "| ERP.net Information",
     "keywords": ""
   },
-  "features/crm/contact-and-task-management.html": {
-    "href": "features/crm/contact-and-task-management.html",
+  "features/crm/contacts-and-tasks.html": {
+    "href": "features/crm/contacts-and-tasks.html",
     "title": "Contact and Task Management | ERP.net Information",
-    "keywords": "Contact and Task Management"
+    "keywords": "Contact and Task Management The Contacts and tasks module is used to manage parties and calendars. When used as part of the sales process, they can initiate the sales process flow: Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice Activities The activities are like calendar appointments on steroids. Activities Have related party reference, allowing to sort activities by party. Allow attachments of files. Support questionnaires (through the use of user defined data attributes) And much more. Activities can be used to automatically create sales opportunities in the Presales module."
   },
   "features/crm/end-customer.html": {
     "href": "features/crm/end-customer.html",
     "title": "End Customer | ERP.net Information",
     "keywords": "End Customer Sometimes, businesses sell to an intermediary partner, who sells to a non-anonymous end customer. For example, selling software licenses is frequently transacted this way. The important part is that the seller knows the end customer and wants to track it for each sale. This is when this feature comes handy. It is integrated with Order Management , Reporting and Business Intelligence . Related: Crm.Sales.SalesOrders Entity"
   },
-  "features/crm/order-management.html": {
-    "href": "features/crm/order-management.html",
-    "title": "Order Management | ERP.net Information",
-    "keywords": "Order Management"
+  "features/crm/index.html": {
+    "href": "features/crm/index.html",
+    "title": "Customer Relationship Management (CRM) Subsystem | ERP.net Information",
+    "keywords": "Customer Relationship Management (CRM) Subsystem The CRM subsystem in ERP.net is used to manage customer relationships and other front-office activities of a company. General concepts and processes The main process in the CRM subsystem is: Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice Activity - generic activity, related to a party. Includes support for calendar appointments, reminders, questionnaires, etc. Can be used to represent appointments, scheduled meetings, visits, contracts and just about any generic document. Opportunity - sales opportunity, with expected revenue and probability. It does not have detail line items. Offer - sales offer (quote), with line items. It allows optional selection of some of the items, which the customer has accepted. Sales Order - sales order from the customer. The main sales document. All documents before it are optional. The sales order initiates the logistics and financial processes, related to the sale. Invoice Order - an order to issue an invoice. This is an internal document, which is used to track the invoices, which we have to issue. Invoice - legal and financial document, finalizing the sales process. Note The above diagram shows only the CRM part of the whole process. The full process involves many different modules of the ERP system. Modules There are many modules in the CRM subsystem. They are used to manage the different aspects of the CRM processes: Contacts and tasks - calendar appointments, party definitions, etc. Pre-sales - Opportunities management, quotation, etc. Sales - Sales Orders, customers, etc. Invoicing - Invoicing process management, invoices and BI. POS - Manage point-of-sale activities in physical stores. Marketing - Marketing campaigns, activities, distribution channels, etc. Distribution - field sales, sales person targets management, etc. Pricing - price lists management. Product Configuration - create products based on specs for job shops (made-to-order and engineer-to-order environments). Products - manage products master data - products and product measurements, codes, variants, channel, pictures, groups, etc."
   },
   "features/crm/presales.html": {
     "href": "features/crm/presales.html",
     "title": "Presales | ERP.net Information",
-    "keywords": "Presales"
+    "keywords": "Presales The presales module is used to manage the presales process. Deals (Opportunities) Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The deals in the Crm.Presales.Deals Entity are used to manage sales opportunities to new or existing customers. Note Deal is synonymous to opportunity. The deals: Have appointed sales representative, managing the deal. Do not have line items. They are used to manage deals, which are still not clear enough to detail at this level. Have a percentage probability of success . The percentage is set by the sales representative, based on their own judgement. Have expected sales revenue . Have expected close date . Based on the data above, the team leaders and sales managers have instant and clear visibility over the sales processes. The deals are usually initially created based on General.Contacts.Activities Entity . However, once a deal is created, it can be used to create many more sub-activities to manage related tasks. Offers (quotes) Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The deals documents can be easily transformed into Offers (quotes), which contain detailed line items. Entries in the Crm.Presales.Offers Entity allows the customer to be presented with optional items. After approving some or all of the optional items, the offer can generate Crm.Sales.SalesOrders Entity in the Sales module."
   },
   "features/crm/promotional-packages.html": {
     "href": "features/crm/promotional-packages.html",
     "title": "Promotional Packages | ERP.net Information",
     "keywords": "Promotional Packages"
+  },
+  "features/crm/sales.html": {
+    "href": "features/crm/sales.html",
+    "title": "Sales Order Management | ERP.net Information",
+    "keywords": "Sales Order Management Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The sales module is used to manage the preparing and issuing of Sales Orders and the related master data."
   },
   "features/general/azuread-login.html": {
     "href": "features/general/azuread-login.html",
@@ -63,6 +68,11 @@
     "href": "features/general/business-intelligence.html",
     "title": "Business Intelligence | ERP.net Information",
     "keywords": "Business Intelligence The ERP.net platform provides both built-in Standard Business Intelligence and means to create custom BI. Standard Business Intelligence The standard BI provides standardized cubes, tailored for standard scenarios. This has some pros and cons. The standard BI evolves with each new version of the platform. The problem is that it might not have the custom view required by some custom tailored business processes. Custom Business Intelligence Custom BI utilizes some external BI tool, like Microsoft Power BI . Custom BI has access to the data through API and can be used to build custom cubes, KPIs, dashboards and more. The custom BI can be integrated directly in the system through web views, context filtered by the on-screen data. For example, when you open a customer definition, you can see a BI information right there, tightly integrated with the other master data."
+  },
+  "features/general/chatter.html": {
+    "href": "features/general/chatter.html",
+    "title": "Chatter | ERP.net Information",
+    "keywords": "Chatter The Chatter is a chat functionality, which is almost universally pluggable in any screen form. (pic) Social Interactions The Chatter component is central component of the broader ERP Social Interactions package, which includes functionality for close interaction with clients, partners, suppliers, fans, etc. It allows interactions with internal and external users much like the social networks, just in a business aspect. Client Center The Chatter is integrated in the Client Center and can be used by clients to chat directly with employees. The Chatter can be very useful for impromptu support, quick handling of delivery or paperwork problems, etc. Chats are attached to objects Each chat is related to an object in the system. In this sense, the Chatter can be used internally for taking notes or discussions for specific data objects like Sales Orders, Payment Orders, Invoices, etc. Reactions Much like the social networks, the Chatter allows reactions like Like, Haha, Wow, Sad, etc. This can further enhance the discussion of ideas and proposals in informal manner."
   },
   "features/general/document-chain.html": {
     "href": "features/general/document-chain.html",

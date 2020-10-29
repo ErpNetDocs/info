@@ -14,3 +14,5 @@
   href: business-intelligence.md
 - name: Azure AD Integrated Login
   href: azuread-login.md
+- name: Chatter
+  href: chatter.md

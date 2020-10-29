@@ -4,7 +4,7 @@ ERP.net enables efficient management of wholesale distribution in a dynamic envi
 
 ## Features
 
-* [Order Management](~/features/crm/order-management.md)
+* [Order Management](~/features/crm/sales.md)
 * Efficient Logistics
 * WMS
 
