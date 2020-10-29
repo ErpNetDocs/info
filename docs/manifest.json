@@ -254,7 +254,18 @@
       "output": {
         ".html": {
           "relative_path": "features/general/chatter.html",
-          "hash": "6LAx6g2y6sVWN6VCJp83Wg=="
+          "hash": "6Kit9mrhg1O9I/GHoAeifQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/general/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/chatter.png"
         }
       },
       "is_incremental": false,
