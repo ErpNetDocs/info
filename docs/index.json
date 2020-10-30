@@ -101,8 +101,8 @@
   },
   "features/general/multi-company.html": {
     "href": "features/general/multi-company.html",
-    "title": "Managing multiple companies in one ERP instance | ERP.net Information",
-    "keywords": "Managing multiple companies in one ERP instance"
+    "title": "Manage multiple companies | ERP.net Information",
+    "keywords": "Manage multiple companies ERP.net instances can be used to manage the operations of multiple legal entities. There is no need to create separate instances for each managed company. A company, managed in the ERP instance is called \"Enterprise Company\". Shared definitions and settings The definitions in ERP.net can be shared between the enterprise companies. For example, shared product definitions can really help companies, which are trading with each other. Sharing the document type and process definitions can be really helpful, when establishing the same procedures in the different enterprise companies. Generally, sharing the definitions and settings helps managing multiple legal entities as one whole business. Automatic trade between the enterprise companies When an enterprise company sells to another company in the enterprise, ERP.net can automatically generate the purchase on the other side. This can even be automated with document routes. Automatic checks across company borders The system can be set to check if a prospect customer has unpaid orders in any of the other enterprise companies. This can be defined as automatic business rule. Cross reporting and BI The shared definitions allow easy daily operational cross-company reporting. In fact, ALL reports allow cross-company reporting (subject to security permissions). Automatic removal of cross-company transactions The cross-company reporting system allows the removal of cross-company transactions from the reports. This feature is applicable to ALL reports, including financial ones. The feature can be used to facilitate consolidation reporting in enterprises. Relation to multiple applicable legislations This feature can be used in conjunction with Multiple Applicable Legislations to manage legal entities in different jurisdictions (countries) in the same ERP instance."
   },
   "features/general/multi-currency.html": {
     "href": "features/general/multi-currency.html",
@@ -116,8 +116,8 @@
   },
   "features/general/multiple-legislations.html": {
     "href": "features/general/multiple-legislations.html",
-    "title": "Multiple Applicable Legislations | ERP.net Information",
-    "keywords": "Multiple Applicable Legislations ERP.net supports multiple applicable legislations in one ERP instance. When the business spans multiple countries, different legislations can govern the different aspects of the business. The feature allows the different managed legal entities to be based on different applicable legislations. Generally, the legislation is primarily based on the company, managed with the ERP solution. However, it is possible that sales to foreign clients must follow different rules. It is also possible that in some cases multiple legislations (federal or EU) apply together with local regulations. For more information, click here ."
+    "title": "International Enterprises | ERP.net Information",
+    "keywords": "International Enterprises ERP.net supports applying multiple legislations in one ERP instance. When a business spans multiple jurisdictions (countries), different legislations can govern the different parts of the enterprise. The feature allows the different managed legal entities to be based on different legislations. How the legislation is applied Generally, the legislation is primarily based on the company, managed with the ERP solution. However, it is possible that sales to foreign clients must follow different rules. It is also possible that in some cases multiple legislations (federal or EU) apply together with local regulations. For more information, click here ."
   },
   "features/general/reporting.html": {
     "href": "features/general/reporting.html",

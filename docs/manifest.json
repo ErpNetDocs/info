@@ -62,6 +62,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/general/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/general/azuread-login.png",
       "output": {
         "resource": {
@@ -225,6 +236,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "features/general/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/general/azuread-login.md",
       "output": {
@@ -348,7 +370,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/multi-company.html",
-          "hash": "Y0lSTNxrJuFkg1m5TB+Qbg=="
+          "hash": "PdjhitlpGZveH/EgdMJO1A=="
         }
       },
       "is_incremental": false,
@@ -384,7 +406,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/multiple-legislations.html",
-          "hash": "LPFEik/ELnJwdWzCYw0Akw=="
+          "hash": "IuUna7hinsQORYc32ZrSiQ=="
         }
       },
       "is_incremental": false,
@@ -408,7 +430,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/web-view.html",
-          "hash": "VxitQVpHpwYzlbThC7lMIA=="
+          "hash": "xuBIYctkSPzpuXpW5jp9+Q=="
         }
       },
       "is_incremental": false,
@@ -504,7 +526,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "k+2cnVtkFOEg2yObIvW05A=="
+          "hash": "JroJ5GIMn5AFI6RhmhuWBQ=="
         }
       },
       "is_incremental": false,

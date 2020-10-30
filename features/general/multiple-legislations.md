@@ -1,9 +1,11 @@
-# Multiple Applicable Legislations
+# International Enterprises
 
-@@name supports multiple applicable legislations in one ERP instance.
+@@name supports applying multiple legislations in one ERP instance.
 
-When the business spans multiple countries, different legislations can govern the different aspects of the business.
-The feature allows the different managed legal entities to be based on different applicable legislations.
+When a business spans multiple jurisdictions (countries), different legislations can govern the different parts of the enterprise.
+The feature allows the different [managed legal entities](multi-company.md) to be based on different legislations.
+
+## How the legislation is applied
 
 Generally, the legislation is primarily based on the company, managed with the ERP solution.
 However, it is possible that sales to foreign clients must follow different rules.
