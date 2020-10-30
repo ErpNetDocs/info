@@ -73,6 +73,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/general/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
         "resource": {
@@ -250,6 +261,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/business-rules.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/business-rules.html",
+          "hash": "9oaOxm5NgW+L1SPbw2mL7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/calculated-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/calculated-attributes.html",
+          "hash": "MMLQq/uCUXPvfT3aZ33cSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/chatter.md",
       "output": {
         ".html": {
@@ -266,6 +301,18 @@
       "output": {
         "resource": {
           "relative_path": "features/general/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/custom-data-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/custom-data-attributes.html",
+          "hash": "cr6Za4Qv5HArkry7EqJCZA=="
         }
       },
       "is_incremental": false,
@@ -338,6 +385,18 @@
         ".html": {
           "relative_path": "features/general/reporting.html",
           "hash": "A9BCkwlWWYbOWI4xGT1f9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/web-view.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/web-view.html",
+          "hash": "VxitQVpHpwYzlbThC7lMIA=="
         }
       },
       "is_incremental": false,
@@ -493,7 +552,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "2gi8fUmIh9tmcDC2PUBkaA=="
+          "hash": "VANKzTBDCZazHz9UjU1Msg=="
         }
       },
       "is_incremental": false,

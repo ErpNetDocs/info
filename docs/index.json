@@ -69,10 +69,25 @@
     "title": "Business Intelligence | ERP.net Information",
     "keywords": "Business Intelligence The ERP.net platform provides both built-in Standard Business Intelligence and means to create custom BI. Standard Business Intelligence The standard BI provides standardized cubes, tailored for standard scenarios. This has some pros and cons. The standard BI evolves with each new version of the platform. The problem is that it might not have the custom view required by some custom tailored business processes. Custom Business Intelligence Custom BI utilizes some external BI tool, like Microsoft Power BI . Custom BI has access to the data through API and can be used to build custom cubes, KPIs, dashboards and more. The custom BI can be integrated directly in the system through web views, context filtered by the on-screen data. For example, when you open a customer definition, you can see a BI information right there, tightly integrated with the other master data."
   },
+  "features/general/business-rules.html": {
+    "href": "features/general/business-rules.html",
+    "title": "Business Rules | ERP.net Information",
+    "keywords": "Business Rules"
+  },
+  "features/general/calculated-attributes.html": {
+    "href": "features/general/calculated-attributes.html",
+    "title": "Calculated Attributes | ERP.net Information",
+    "keywords": "Calculated Attributes"
+  },
   "features/general/chatter.html": {
     "href": "features/general/chatter.html",
     "title": "Chatter | ERP.net Information",
     "keywords": "Chatter The Chatter is a chat functionality, which is almost universally pluggable in any screen form. Social Interactions The Chatter component is central component of the broader ERP Social Interactions package, which includes functionality for close interaction with clients, partners, suppliers, fans, etc. It allows interactions with internal and external users much like the social networks, just in a business aspect. Client Center The Chatter is integrated in the Client Center and can be used by clients to chat directly with employees. The Chatter can be very useful for impromptu support, quick handling of delivery or paperwork problems, etc. Chats are attached to objects Each chat is related to an object in the system. In this sense, the Chatter can be used internally for taking notes or discussions for specific data objects like Sales Orders, Payment Orders, Invoices, etc. Reactions Much like the social networks, the Chatter allows reactions like Like, Haha, Wow, Sad, etc. This can further enhance the discussion of ideas and proposals in informal manner."
+  },
+  "features/general/custom-data-attributes.html": {
+    "href": "features/general/custom-data-attributes.html",
+    "title": "Custom Data Attributes | ERP.net Information",
+    "keywords": "Custom Data Attributes"
   },
   "features/general/document-chain.html": {
     "href": "features/general/document-chain.html",
@@ -103,6 +118,11 @@
     "href": "features/general/reporting.html",
     "title": "Reporting | ERP.net Information",
     "keywords": "Reporting"
+  },
+  "features/general/web-view.html": {
+    "href": "features/general/web-view.html",
+    "title": "WebView | ERP.net Information",
+    "keywords": "WebView WebView allows integration of web-based apps in the main UI client. Single sign-on WebView shares the sign-in token between the main UI client and the web app. This has many benefits: The user enters credentials only once. The end user might not even realize they are using multiple apps. Only a single license session is consumed for the main UI and all integrated apps. Context integration WebView apps can be context integrated, based on parameters. This usually means, that the web app can show information, relevant to the current screen. For example, when opening: a customer - a BI web page can show some relevant BI dashboard about the customer. a vehicle - web view can easily be integrated with the maintenance service for the car, even if it was not purposely built for ERP.net integration. a sales order - can open a relevant web app which, for example, manages lot expiry dates and automatically selects lots for the lines. Context integration allows all applications to work seamlessly for the end user as one application."
   },
   "features/index.html": {
     "href": "features/index.html",

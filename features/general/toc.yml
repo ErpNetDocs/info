@@ -16,3 +16,11 @@
   href: azuread-login.md
 - name: Chatter
   href: chatter.md
+- name: Web View
+  href: web-view.md
+- name: Custom Data Attributes
+  href: custom-data-attributes.md
+- name: Calculated Attributes
+  href: calculated-attributes.md
+- name: Business Rules
+  href: business-rules.md
