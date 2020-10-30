@@ -1,8 +1,8 @@
-# Core capacity information
+# Core licensing
 
-Medium to large and Internet-facing @@name instances are provided, based on "cores".
+Medium to large and Internet-facing @@name instances are licensed based on "cores".
 
-"Core" defines server processing capacity.
+A "Core" defines server processing capacity.
 
 ## User perspective
 
@@ -23,7 +23,7 @@ Although "core" licensing is originally based on hardware specifications, nowada
 
 Having said that, each core is allocated capacity, approximately equal to:
 
-* 1 CPU core for SQL Server
-* 32 GB RAM for SQL Server
-* 1 CPU core for Application server
+* 1 CPU core of a specialized frequency-optimized CPU for database processing
+* 32 GB RAM for database processing
+* 1 CPU core of a general purpose server CPU for Application server
 * 4 GB RAM for Application server (but not less than 8 GB per app server)

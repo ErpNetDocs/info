@@ -94,6 +94,11 @@
     "title": "Document Chains | ERP.net Information",
     "keywords": "Document Chains When documents are created in ERP.net they usually form document chains. For example, the basic document chain in CRM is: Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The subsequent documents in the chain are usually automatically created, but can also be manually typed. ERP.net tracks the relations between each document instance, so that the users can easily traverse the document chain up and down. Example This feature can be especially useful for financials. Suppose you are investigating some financial statement. You open a Finance.Accounting.AccountingVouchers Entity . From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order. The saved navigation data helps you quickly spot the originating document."
   },
+  "features/general/index.html": {
+    "href": "features/general/index.html",
+    "title": "General Features | ERP.net Information",
+    "keywords": "General Features This section contains information about features, which are applicable to all modules. For more information, select a topic from the menu on the left."
+  },
   "features/general/multi-company.html": {
     "href": "features/general/multi-company.html",
     "title": "Managing multiple companies in one ERP instance | ERP.net Information",
@@ -129,6 +134,11 @@
     "title": "Features | ERP.net Information",
     "keywords": "Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
   },
+  "features/logistics/index.html": {
+    "href": "features/logistics/index.html",
+    "title": "Logistics Features | ERP.net Information",
+    "keywords": "Logistics Features This section contains information about the features, related to logistics. Logistics encompasses movement and storage of physical goods. The supply-chain functionality is provided by the logistics subsystem. For more information, select a topic from the menu on the left."
+  },
   "features/logistics/lot-tracking.html": {
     "href": "features/logistics/lot-tracking.html",
     "title": "Lot Tracking | ERP.net Information",
@@ -138,36 +148,6 @@
     "href": "features/logistics/serial-numbers.html",
     "title": "Serial Numbers | ERP.net Information",
     "keywords": "Serial Numbers ERP.net supports tracking serial numbers tracking throughout the supply chain. Relation to lot tracking Serial numbers tracking is a separate feature from Lot Tracking . Lots and serial numbers can be tracked simultaneously. Going down the document chain Serial numbers can (optionally) be specified up from the initial document in the chain and transferred down to the last. For example, even the Sales Order can specify concrete serial number, if so is desired. In this case, the serial number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction. However, if the serial number is left blank in the Store Order, it can be specified later in the chain - most probably when picking the product from the warehouse. More information For detailed information about the related entities see: Crm.Sales.SalesOrders Entity Logistics.Inventory.StoreOrders Entity Logistics.Inventory.StoreTransactions Entity Logistics.Inventory.StoreTransactionLines Entity"
-  },
-  "features/system-information/cores.html": {
-    "href": "features/system-information/cores.html",
-    "title": "Core capacity information | ERP.net Information",
-    "keywords": "Core capacity information Medium to large and Internet-facing ERP.net instances are provided, based on \"cores\". \"Core\" defines server processing capacity. User perspective From users perspective, a core provides enough capacity for comfortable work of 30 concurrent internal users , or up to 45 concurrent light-use users . However, todays workloads are rarely just internal users, using the default UI clients. Service apps, Internet users and third-party UI apps take their toll. Their load levels are hard to predict. Note Small business subscriptions are based on concurrent internal users only, and not on cores. They can incorporate service and Internet apps, but their load is prorated to internal users. Check your reseller for more information. Hardware capacity description Although \"core\" licensing is originally based on hardware specifications, nowadays it is sized through software and the exact hardware specs are just an approximation. Having said that, each core is allocated capacity, approximately equal to: 1 CPU core for SQL Server 32 GB RAM for SQL Server 1 CPU core for Application server 4 GB RAM for Application server (but not less than 8 GB per app server)"
-  },
-  "features/system-information/disaster-recovery.html": {
-    "href": "features/system-information/disaster-recovery.html",
-    "title": "Disaster Recovery | ERP.net Information",
-    "keywords": "Disaster Recovery Disaster recovery planning and testing is a basic feature of ERP.net and is provided for all subscription levels. You do not need to do anything to activate it. Backups The automated backup plan includes: Transaction log backups every 30 minutes. Full backups every week. Secondary replica of backups in a different physical location (different data center). Retention period - 14 days. Manual test restores every year to test the backup procedures. Backup monitoring The proper execution of the backup procedures is monitored at all times. The procedures include manual checks and test restores, guaranteeing proper execution of the disaster recovery solutions. User requested restores We are able to execute user requested restores. The restore takes place as a new ERP instance, which is subject to a subscription plan. User access to the backups Unfortunately, users access to the backup files is not allowed for security reasons. However, the data in an ERP instance is readily accessible through the Table API, which is a thin layer over the physical database. The Table API, although primarily intended for BI (Business Intelligence), can be used for data dumping, subject to the security permissions. Note Access through the Table API is logged."
-  },
-  "features/system-information/high-availability.html": {
-    "href": "features/system-information/high-availability.html",
-    "title": "High Availability | ERP.net Information",
-    "keywords": "High Availability The hosting of ERP.net is very reliable and have built-in enterprise level high-availability. It is monitored 24x7x365 by a team of dedicated professionals. You do not need to do anything to activate high-availability. Hosting infrastructure and features Database and application servers are hosted on clusters, which have built-in high-availability. In case of a hardware problem, a backup server automatically takes over the workload. Note The failover takes about 30-60 seconds. During this time period, there might be some minor disruptions to current transactions."
-  },
-  "features/system-information/index.html": {
-    "href": "features/system-information/index.html",
-    "title": "System Information | ERP.net Information",
-    "keywords": "System Information This section contains information about the hosting infrastructure, capacity allocations, system requirements, etc. To learn more, select a topic from the menu."
-  },
-  "features/system-information/logging.html": {
-    "href": "features/system-information/logging.html",
-    "title": "Log of everything | ERP.net Information",
-    "keywords": "Log of everything Everything in an ERP.net instance can be logged. This includes, but is not limited to: User session events - login, logout, etc. Updates - create, update and even delete of records. Updates to system settings, business workflow rules, etc. Tracking of updates to specific data attributes, even BLOBs. Read access, e.g. a user just opening a document. System events. Results of scheduled jobs. ...and much more. Most of the logging is subject to activation. Personal data privacy GDPR and other regulations require \"privacy by design\". Because of this, some entities have always-on access logging enabled. For more information, see @default-logging-levels. Read access logging Logging of read access is a special stand-out feature. When activated for an entity type, it can log all user access, even through the API. Read access logging can be invaluable tool for internal investigations. However, the data storage requirements might not be trivial. Consult with your implementation company for details. Third party logging apps There are third party apps, which deal with the system logs. This includes: Apps saving the logs to a block-chain secured storage. Apps transferring logs to external destinations. etc."
-  },
-  "features/system-information/system-requirements.html": {
-    "href": "features/system-information/system-requirements.html",
-    "title": "System requirements | ERP.net Information",
-    "keywords": "System requirements ERP.net is a pure cloud solution. You do not need to do anything for the hosting of the servers, databases, etc. However, accessing an ERP.net instance from a client device has some system requirements. Windows Desktop Client System Requirements The Windows Desktop Client is the primary tool for work-heavy users accessing an ERP.net instance. Windows Desktop Client has some capabilities, related to its nature of being a native app: It allows local processing of huge data sets, provided there is enough RAM There are integrations with Windows for file management, working with office documents, etc. Minimal system requirements Windows 10 1809+ 2 GB RAM Internet Explorer 11 Internet access Recommended system specs Windows 10 (latest stable release) 8 GB RAM Microsoft Chromium Edge Internet access Web apps Web applications, (like Client Center) have no specific system requirements. They run on all modern browsers and require negligible amounts of local RAM. Note Internet Explorer is not considered \"modern\" browser and is not supported."
   },
   "features/third-party-apps/index.html": {
     "href": "features/third-party-apps/index.html",
@@ -197,7 +177,47 @@
   "index.html": {
     "href": "index.html",
     "title": "ERP.net Information | ERP.net Information",
-    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution"
+    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions & Customers Use this section to preview the tailor made solutions for the different industries. Each industry solution contains general description, highlighted features, customers and case studies. Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution Features Use this section to read more about the different modules and features of ERP.net. General - General features, applicable to all modules. CRM - Features related to the CRM (Customer Relationship Management). Logistics - Logistics encompasses movement and storage of physical goods. Third-party apps - Third-party apps developed for the ERP.net platform. Information This section contains general information about the platform, hosting, licensing, etc. Licensing - concurrent user, core and other licensing topics explained. System Information - hosting, high-availability, disaster-recovery, etc."
+  },
+  "information/index.html": {
+    "href": "information/index.html",
+    "title": "General Information Section | ERP.net Information",
+    "keywords": "General Information Section"
+  },
+  "information/licensing/core-licensing.html": {
+    "href": "information/licensing/core-licensing.html",
+    "title": "Core licensing | ERP.net Information",
+    "keywords": "Core licensing Medium to large and Internet-facing ERP.net instances are licensed based on \"cores\". A \"Core\" defines server processing capacity. User perspective From users perspective, a core provides enough capacity for comfortable work of 30 concurrent internal users , or up to 45 concurrent light-use users . However, todays workloads are rarely just internal users, using the default UI clients. Service apps, Internet users and third-party UI apps take their toll. Their load levels are hard to predict. Note Small business subscriptions are based on concurrent internal users only, and not on cores. They can incorporate service and Internet apps, but their load is prorated to internal users. Check your reseller for more information. Hardware capacity description Although \"core\" licensing is originally based on hardware specifications, nowadays it is sized through software and the exact hardware specs are just an approximation. Having said that, each core is allocated capacity, approximately equal to: 1 CPU core of a specialized frequency-optimized CPU for database processing 32 GB RAM for database processing 1 CPU core of a general purpose server CPU for Application server 4 GB RAM for Application server (but not less than 8 GB per app server)"
+  },
+  "information/licensing/index.html": {
+    "href": "information/licensing/index.html",
+    "title": "Licensing | ERP.net Information",
+    "keywords": "Licensing"
+  },
+  "information/system-information/disaster-recovery.html": {
+    "href": "information/system-information/disaster-recovery.html",
+    "title": "Disaster Recovery | ERP.net Information",
+    "keywords": "Disaster Recovery Disaster recovery planning and testing is a basic feature of ERP.net and is provided for all subscription levels. You do not need to do anything to activate it. Backups The automated backup plan includes: Transaction log backups every 30 minutes. Full backups every week. Secondary replica of backups in a different physical location (different data center). Retention period - 14 days. Manual test restores every year to test the backup procedures. Backup monitoring The proper execution of the backup procedures is monitored at all times. The procedures include manual checks and test restores, guaranteeing proper execution of the disaster recovery solutions. User requested restores We are able to execute user requested restores. The restore takes place as a new ERP instance, which is subject to a subscription plan. User access to the backups Unfortunately, users access to the backup files is not allowed for security reasons. However, the data in an ERP instance is readily accessible through the Table API, which is a thin layer over the physical database. The Table API, although primarily intended for BI (Business Intelligence), can be used for data dumping, subject to the security permissions. Note Access through the Table API is logged."
+  },
+  "information/system-information/high-availability.html": {
+    "href": "information/system-information/high-availability.html",
+    "title": "High Availability | ERP.net Information",
+    "keywords": "High Availability The hosting of ERP.net is very reliable and have built-in enterprise level high-availability. It is monitored 24x7x365 by a team of dedicated professionals. You do not need to do anything to activate high-availability. Hosting infrastructure and features Database and application servers are hosted on clusters, which have built-in high-availability. In case of a hardware problem, a backup server automatically takes over the workload. Note The failover takes about 30-60 seconds. During this time period, there might be some minor disruptions to current transactions."
+  },
+  "information/system-information/index.html": {
+    "href": "information/system-information/index.html",
+    "title": "System Information | ERP.net Information",
+    "keywords": "System Information This section contains information about the hosting infrastructure, capacity allocations, system requirements, etc. To learn more, select a topic from the menu."
+  },
+  "information/system-information/logging.html": {
+    "href": "information/system-information/logging.html",
+    "title": "Log of everything | ERP.net Information",
+    "keywords": "Log of everything Everything in an ERP.net instance can be logged. This includes, but is not limited to: User session events - login, logout, etc. Updates - create, update and even delete of records. Updates to system settings, business workflow rules, etc. Tracking of updates to specific data attributes, even BLOBs. Read access, e.g. a user just opening a document. System events. Results of scheduled jobs. ...and much more. Most of the logging is subject to activation. Personal data privacy GDPR and other regulations require \"privacy by design\". Because of this, some entities have always-on access logging enabled. For more information, see @default-logging-levels. Read access logging Logging of read access is a special stand-out feature. When activated for an entity type, it can log all user access, even through the API. Read access logging can be invaluable tool for internal investigations. However, the data storage requirements might not be trivial. Consult with your implementation company for details. Third party logging apps There are third party apps, which deal with the system logs. This includes: Apps saving the logs to a block-chain secured storage. Apps transferring logs to external destinations. etc."
+  },
+  "information/system-information/system-requirements.html": {
+    "href": "information/system-information/system-requirements.html",
+    "title": "System requirements | ERP.net Information",
+    "keywords": "System requirements ERP.net is a pure cloud solution. You do not need to do anything for the hosting of the servers, databases, etc. However, accessing an ERP.net instance from a client device has some system requirements. Windows Desktop Client System Requirements The Windows Desktop Client is the primary tool for work-heavy users accessing an ERP.net instance. Windows Desktop Client has some capabilities, related to its nature of being a native app: It allows local processing of huge data sets, provided there is enough RAM There are integrations with Windows for file management, working with office documents, etc. Minimal system requirements Windows 10 1809+ 2 GB RAM Internet Explorer 11 Internet access Recommended system specs Windows 10 (latest stable release) 8 GB RAM Microsoft Chromium Edge Internet access Web apps Web applications, (like Client Center) have no specific system requirements. They run on all modern browsers and require negligible amounts of local RAM. Note Internet Explorer is not considered \"modern\" browser and is not supported."
   },
   "README.html": {
     "href": "README.html",

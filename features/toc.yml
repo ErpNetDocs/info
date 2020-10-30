@@ -2,12 +2,13 @@
   href: index.md
 - name: General
   href: general/toc.yml
+  topicHref: general/index.md
 - name: CRM
   href: crm/toc.yml
   topicHref: crm/index.md
 - name: Logistics
   href: logistics/toc.yml
+  topicHref: logistics/index.md
 - name: Third Party Apps
   href: third-party-apps/toc.yml
-- name: System Information
-  href: system-information/toc.yml
+  topicHref: third-party-apps/index.md

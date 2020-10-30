@@ -332,6 +332,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/index.html",
+          "hash": "HR2MdY6IBMvuzy2IDFmYDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/multi-company.md",
       "output": {
         ".html": {
@@ -416,6 +428,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/index.html",
+          "hash": "pk5wfrWB7E2okN0qFDEEiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/lot-tracking.md",
       "output": {
         ".html": {
@@ -433,78 +457,6 @@
         ".html": {
           "relative_path": "features/logistics/serial-numbers.html",
           "hash": "ZKjfwt2vFCL+gu03evk7+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/cores.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/cores.html",
-          "hash": "SrUI/x8Jj1YzPWQ01J1vBg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/disaster-recovery.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/disaster-recovery.html",
-          "hash": "3jyzkEE9+SuTvwV4gttBCg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/high-availability.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/high-availability.html",
-          "hash": "RmbDe6fWmhIYm1xYOhBqbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/index.html",
-          "hash": "alQpsnztYJow864lkofqsw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/logging.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/logging.html",
-          "hash": "wkKn7XguvlOMiUrs02ErjQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/system-information/system-requirements.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/system-information/system-requirements.html",
-          "hash": "mTv2NvpzFj2lNieFhgOFJQ=="
         }
       },
       "is_incremental": false,
@@ -552,7 +504,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "VANKzTBDCZazHz9UjU1Msg=="
+          "hash": "9s1H+FgU2tSzCuncm4eviA=="
         }
       },
       "is_incremental": false,
@@ -588,7 +540,115 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "gDvmmP11p8Mg6dSD88sQtQ=="
+          "hash": "5tzSaNwhLhII0DQyoi27Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/index.html",
+          "hash": "MjfIoBvwRAJc15OHnaioWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/core-licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/core-licensing.html",
+          "hash": "hYcWdamC20Y2PvUDCJRLVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/index.html",
+          "hash": "/T+/llEI7zuV1jMgVwRsNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/system-information/disaster-recovery.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/disaster-recovery.html",
+          "hash": "arwKtc90c9LOPmoaf6OhaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/system-information/high-availability.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/high-availability.html",
+          "hash": "xYBxs4IREedM5EQez8RXYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/system-information/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/index.html",
+          "hash": "2gijp0rT6unXzMMVf2V9dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/system-information/logging.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/logging.html",
+          "hash": "KyyqdOMxFQoo92zDlDa32A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/system-information/system-requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/system-requirements.html",
+          "hash": "p3G2gXkY9bcX6jhZqHrgIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/toc.html",
+          "hash": "UgSBM7F7bDr59yv9rpgCMg=="
         }
       },
       "is_incremental": false,
@@ -768,7 +828,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "PH28ik8r6w9aS+FYBxAh8g=="
+          "hash": "jaBo4w8rucMCY40E4Twteg=="
         }
       },
       "is_incremental": false,

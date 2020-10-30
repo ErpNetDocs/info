@@ -6,7 +6,5 @@
   href: high-availability.md
 - name: Disaster Recovery
   href: disaster-recovery.md
-- name: Core licensing
-  href: cores.md
 - name: Logging
   href: logging.md

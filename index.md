@@ -4,7 +4,10 @@ Welcome to the ERP.net information site!
 
 Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc.
 
-## Solutions
+## Solutions & Customers
+
+Use this section to preview the tailor made solutions for the different industries.
+Each industry solution contains general description, highlighted features, customers and case studies.
 
 * [Agribusiness](~/solutions/agribusiness/index.md)
 * [Consumer Products](~/solutions/consumer-products/index.md)
@@ -17,3 +20,19 @@ Here you can find a lot of information about the ERP.net platform - solutions, f
 * [Retail](~/solutions/retail/index.md)
 * [Transportation and Logistics](~/solutions/transportation-and-logistics/index.md)
 * [Wholesale Distribution](~/solutions/wholesale-distribution/index.md)
+
+## Features
+
+Use this section to read more about the different modules and features of @@name.
+
+* [General](~/features/general/index.md) - General features, applicable to all modules.
+* [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
+* [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
+* [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
+
+## Information
+
+This section contains general information about the platform, hosting, licensing, etc.
+
+* [Licensing](~/information/licensing/index.md) - concurrent user, core and other licensing topics explained.
+* [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
