@@ -1,6 +1,7 @@
 # WebView
 
 WebView allows integration of web-based apps in the main UI client.
+![WebView](WebView.png)
 
 ## Single sign-on
 
