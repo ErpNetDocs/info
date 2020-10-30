@@ -4,6 +4,9 @@ references:
 - uid: bi
   name: Business Intelligence
   href: features/general/business-intelligence.html
+- uid: business-rules
+  name: Business Rules Engine
+  href: features/general/business-rules.html
 - uid: chatter
   name: Chatter
   href: features/general/chatter.html
