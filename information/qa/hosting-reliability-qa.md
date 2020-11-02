@@ -35,7 +35,7 @@ Most of the time, the users might notice just a slight delay in their processing
 
 First of all, most issues auto-resolve themselves, 
 because each component has high-availability and the workload is automatically
-transferred to anotber node.
+transferred to another node.
 
 However, should it reach to a human intervention, the reaction time usually is
 within 5-15 minutes, day and night, 24x7x365.
