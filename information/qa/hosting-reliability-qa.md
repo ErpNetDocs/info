@@ -12,7 +12,7 @@ stand-by backup hardware, ready to take over in a case of a hardware failure.
 All network components are also stacked for high availability.
 Each network component is cross-connected to each host.
 
-The point is, that there is no single point of failure.
+The point is, there is no single point of failure.
 
 ### Is the system monitored at all times?
 
