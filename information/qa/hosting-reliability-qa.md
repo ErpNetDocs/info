@@ -19,7 +19,7 @@ The point is, there is no single point of failure.
 Yes.
 
 There is a dedicated team, monitoring all systems 24x7x365.
-In case of an issue, reaction time is usually less than 5 minutes, day and night.
+In case of an issue, reaction time is usually in the 5-15 minutes range, day and night.
 
 ### What happens in case of a hardware problem?
 
