@@ -36,3 +36,4 @@ This section contains general information about the platform, hosting, licensing
 
 * [Licensing](~/information/licensing/index.md) - concurrent user, core and other licensing topics explained.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
+* [Q & A section](~/information/qa/index.md) - Questions & answers for the various topic regarding the platform, subsystems, integrations, implementation, etc.

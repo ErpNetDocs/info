@@ -382,7 +382,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/multi-currency.html",
-          "hash": "dQso/p2aNP0/wdFkmrCvSQ=="
+          "hash": "Auwn+lb4rzjI4xQY3Dywxg=="
         }
       },
       "is_incremental": false,
@@ -562,7 +562,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "5tzSaNwhLhII0DQyoi27Tw=="
+          "hash": "OBZz/kPs1wfjvkOpmXKVbw=="
         }
       },
       "is_incremental": false,
@@ -586,7 +586,7 @@
       "output": {
         ".html": {
           "relative_path": "information/licensing/core-licensing.html",
-          "hash": "hYcWdamC20Y2PvUDCJRLVQ=="
+          "hash": "AsYknDQwSzDmrXStV39+dw=="
         }
       },
       "is_incremental": false,
@@ -599,6 +599,78 @@
         ".html": {
           "relative_path": "information/licensing/index.html",
           "hash": "/T+/llEI7zuV1jMgVwRsNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/crm-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/crm-qa.html",
+          "hash": "8vnEfWjp1RrjWt6eSq679Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/general-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/general-qa.html",
+          "hash": "hSaaw4MuEcRZjUQtaq98Fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/implementation-support-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/implementation-support-qa.html",
+          "hash": "G80I6UgsFJvo7jNYwZLjOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/index.html",
+          "hash": "QsPNfpl1G32Srbquuu6GCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/logistics-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/logistics-qa.html",
+          "hash": "/cM3E0fjM1WPbE3NgyTHgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/qa/reporting-bi-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/reporting-bi-qa.html",
+          "hash": "vodvWZRKeUNRFagjuAOVjw=="
         }
       },
       "is_incremental": false,
@@ -670,7 +742,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "UgSBM7F7bDr59yv9rpgCMg=="
+          "hash": "yNt300+ekLZGKpfI+Sq9jw=="
         }
       },
       "is_incremental": false,

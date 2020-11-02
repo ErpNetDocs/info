@@ -1,12 +1,12 @@
 - name: Overview
   href: index.md
-- name: General Q & A
+- name: General Q&A
   href: general-qa.md
-- name: Reporting and BI Q & A
+- name: Reporting and BI Q&A
   href: reporting-bi-qa.md
 - name: Implementation & Support Q&A
   href: implementation-support-qa.md
-- name: CRM Q & A
+- name: CRM Q&A
   href: crm-qa.md
-- name: Logistics Q & A
+- name: Logistics Q&A
   href: logistics-qa.md

@@ -107,7 +107,7 @@
   "features/general/multi-currency.html": {
     "href": "features/general/multi-currency.html",
     "title": "Multi-currency support | ERP.net Information",
-    "keywords": "Multi-currency support"
+    "keywords": "Multi-currency support ERP.net supports reporting of all value transactions in both their original currency and also the base currency for the enterprise company. This allows easy consolidation of all transaction values in the base currency, while preserving the original values. How it works All value transactions in ERP.net are recorded in (at least) two currencies in parallel - in the original and the base. The original currency records the transaction value as it is. The value is then converted to the base currency. The rule for conversion depend on the nature of the value, but is usually conversion, according to an attached currency rates directory. The conversion can also be performed based on average valuation of an account in original vs base currency. Other methods might also apply."
   },
   "features/general/multi-language.html": {
     "href": "features/general/multi-language.html",
@@ -177,7 +177,7 @@
   "index.html": {
     "href": "index.html",
     "title": "ERP.net Information | ERP.net Information",
-    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions & Customers Use this section to preview the tailor made solutions for the different industries. Each industry solution contains general description, highlighted features, customers and case studies. Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution Features Use this section to read more about the different modules and features of ERP.net. General - General features, applicable to all modules. CRM - Features related to the CRM (Customer Relationship Management). Logistics - Logistics encompasses movement and storage of physical goods. Third-party apps - Third-party apps developed for the ERP.net platform. Information This section contains general information about the platform, hosting, licensing, etc. Licensing - concurrent user, core and other licensing topics explained. System Information - hosting, high-availability, disaster-recovery, etc."
+    "keywords": "ERP.net Information Welcome to the ERP.net information site! Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc. Solutions & Customers Use this section to preview the tailor made solutions for the different industries. Each industry solution contains general description, highlighted features, customers and case studies. Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution Features Use this section to read more about the different modules and features of ERP.net. General - General features, applicable to all modules. CRM - Features related to the CRM (Customer Relationship Management). Logistics - Logistics encompasses movement and storage of physical goods. Third-party apps - Third-party apps developed for the ERP.net platform. Information This section contains general information about the platform, hosting, licensing, etc. Licensing - concurrent user, core and other licensing topics explained. System Information - hosting, high-availability, disaster-recovery, etc. Q & A section - Questions & answers for the various topic regarding the platform, subsystems, integrations, implementation, etc."
   },
   "information/index.html": {
     "href": "information/index.html",
@@ -187,12 +187,42 @@
   "information/licensing/core-licensing.html": {
     "href": "information/licensing/core-licensing.html",
     "title": "Core licensing | ERP.net Information",
-    "keywords": "Core licensing Medium to large and Internet-facing ERP.net instances are licensed based on \"cores\". A \"Core\" defines server processing capacity. User perspective From users perspective, a core provides enough capacity for comfortable work of 30 concurrent internal users , or up to 45 concurrent light-use users . However, todays workloads are rarely just internal users, using the default UI clients. Service apps, Internet users and third-party UI apps take their toll. Their load levels are hard to predict. Note Small business subscriptions are based on concurrent internal users only, and not on cores. They can incorporate service and Internet apps, but their load is prorated to internal users. Check your reseller for more information. Hardware capacity description Although \"core\" licensing is originally based on hardware specifications, nowadays it is sized through software and the exact hardware specs are just an approximation. Having said that, each core is allocated capacity, approximately equal to: 1 CPU core of a specialized frequency-optimized CPU for database processing 32 GB RAM for database processing 1 CPU core of a general purpose server CPU for Application server 4 GB RAM for Application server (but not less than 8 GB per app server)"
+    "keywords": "Core licensing Medium to large and Internet-facing ERP.net instances are licensed based on \"cores\". A \"Core\" defines server processing capacity. User perspective From users perspective, a core provides enough capacity for comfortable work of 30 concurrent internal users , or up to 45 concurrent light-use users . However, todays workloads are rarely just internal users, using the default UI clients. Service apps, Internet users and third-party UI apps take their toll. Their load levels are hard to predict. Note Small business subscriptions are based on concurrent internal users only, and not on cores. They can incorporate service and Internet apps, but their load is prorated to internal users. Check your reseller for more information. Hardware capacity description Although \"core\" licensing is originally based on hardware specifications, nowadays it is sized through software and the exact hardware specs are just an approximation. The core licensing is defined based on the users perspective and hardware capacity is just an approximation. Having said that, each core is allocated capacity, approximately equal to: 1 CPU core of a specialized frequency-optimized CPU for database processing (per licensed core) 32 GB RAM for database processing (per licensed core) 1 CPU core of a general purpose server CPU for application processing (per licensed core) 4 GB RAM for application processing (per licensed core)"
   },
   "information/licensing/index.html": {
     "href": "information/licensing/index.html",
     "title": "Licensing | ERP.net Information",
     "keywords": "Licensing"
+  },
+  "information/qa/crm-qa.html": {
+    "href": "information/qa/crm-qa.html",
+    "title": "Questions & Answers related to CRM | ERP.net Information",
+    "keywords": "Questions & Answers related to CRM What call center functionalities are available? Click to call Customer identification on incoming call Call notes Customer identification on incoming call allows one-click opening of the 360-degree dossier of the customer. Which PBX systems can be integrated with the call center functionality? Currently, only Asterix is supported natively as server-to-server functionality. Other systems, requiring client-only connections are left as third-party solutions. In the future, all real-time call-center functionality will be implemented as apps (internal or third-party). This will allow much greater scaling of the connectivity features. Which email servers are supported for the email integration? Exchange, IMAP, POP3. Note Currently, Exchange integration can also be used for Office 365. However, in 2021, Microsoft intends to disable Exchange functionality for Office 365 and this connection will no longer be usable for Office 365. Do you intend to build Office 365 connector for email integration? Yes, we do intend to build such functionality as add-on app. Timeframes for implementation are unknown."
+  },
+  "information/qa/general-qa.html": {
+    "href": "information/qa/general-qa.html",
+    "title": "General Questions & Answers | ERP.net Information",
+    "keywords": "General Questions & Answers"
+  },
+  "information/qa/implementation-support-qa.html": {
+    "href": "information/qa/implementation-support-qa.html",
+    "title": "Implementation & Support Q&A | ERP.net Information",
+    "keywords": "Implementation & Support Q&A"
+  },
+  "information/qa/index.html": {
+    "href": "information/qa/index.html",
+    "title": "Questions & Answers Overview | ERP.net Information",
+    "keywords": "Questions & Answers Overview The Q&A section is divided in several topics for clarity. To find the answer to any question, try the general search. To preview all questions in a section, select it from the menu."
+  },
+  "information/qa/logistics-qa.html": {
+    "href": "information/qa/logistics-qa.html",
+    "title": "Questions & Answers for logistics and supply-chain management | ERP.net Information",
+    "keywords": "Questions & Answers for logistics and supply-chain management"
+  },
+  "information/qa/reporting-bi-qa.html": {
+    "href": "information/qa/reporting-bi-qa.html",
+    "title": "Reporting & Business Intelligence Questions & Answers | ERP.net Information",
+    "keywords": "Reporting & Business Intelligence Questions & Answers Can I use external BI tool to analyze the data in ERP.net instance? Yes. How to pull data from ERP.net instance to external BI tool? External BI tools can pull data locally through the Table API ."
   },
   "information/system-information/disaster-recovery.html": {
     "href": "information/system-information/disaster-recovery.html",
