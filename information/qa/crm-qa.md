@@ -1,1 +1,1 @@
-# Questions & Answers related to CRM (Customer Relationship Management)
+# Questions & Answers related to CRM
