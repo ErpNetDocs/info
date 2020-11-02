@@ -678,6 +678,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/qa/security-qa.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/qa/security-qa.html",
+          "hash": "Btoow0lZywaFrGxDE3AvmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/system-information/disaster-recovery.md",
       "output": {
         ".html": {
@@ -742,7 +754,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "yNt300+ekLZGKpfI+Sq9jw=="
+          "hash": "nn82vugjDKO2spLnrTtL5w=="
         }
       },
       "is_incremental": false,
