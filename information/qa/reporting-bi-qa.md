@@ -4,7 +4,7 @@
 
 Yes.
 
-Custom BI solutions are built this way.
+[Custom BI](/features/general/business-intelligence.md#custom-business-intelligence) solutions are built this way.
 
 ### How to pull data from @@name instance to external BI tool?
 
