@@ -222,7 +222,7 @@
   "information/qa/reporting-bi-qa.html": {
     "href": "information/qa/reporting-bi-qa.html",
     "title": "Reporting & Business Intelligence Questions & Answers | ERP.net Information",
-    "keywords": "Reporting & Business Intelligence Questions & Answers Can I use external BI tool to analyze the data in ERP.net instance? Yes. How to pull data from ERP.net instance to external BI tool? External BI tools can pull data locally through the Table API ."
+    "keywords": "Reporting & Business Intelligence Questions & Answers Can I use external BI tool to analyze the data in ERP.net instance? Yes. Custom BI solutions are built this way. How to pull data from ERP.net instance to external BI tool? External BI tools can pull data locally through the Table API ."
   },
   "information/system-information/disaster-recovery.html": {
     "href": "information/system-information/disaster-recovery.html",
