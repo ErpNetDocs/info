@@ -61,6 +61,61 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "docs/features/general/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/general/azuread-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/azuread-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/general/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/crm/bonus-programs.md",
       "output": {
@@ -579,7 +634,7 @@
       "output": {
         ".html": {
           "relative_path": "information/qa/hosting-qa.html",
-          "hash": "ZHQzXUkrr/6ZcSWzOGfrAA=="
+          "hash": "7RfL2j3oNJqnN+jF5CUgBA=="
         }
       },
       "is_incremental": false,

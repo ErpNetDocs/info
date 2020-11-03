@@ -78,3 +78,18 @@ Application servers:
 Network components:
 
 * Enterprise grade Cisco routers, switches and firewalls.
+
+### What database size to expect?
+
+Database sizes vary depending on many factors:
+
+* Regular user processing.
+* Automation by applications.
+* Storage of documents, pictures, etc.
+* Use of [Track Changes](xref:track-changes) feature.
+
+etc.
+
+We can only try to predict, with big tolerance for error, the regular user processing.
+
+As a rule of thumb, each user generates approximately between 0.25 and 1.00 GB of data per year.
