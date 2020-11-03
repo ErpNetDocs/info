@@ -14,14 +14,17 @@ The sales process is conducted faster and more easily, no matter where your cust
 
 ## Features
 
+* Pricing 
 * [Order Management](~/features/crm/sales.md)
-* Efficient Logistics
-* WMS
+* Warehouse management
+* Barcode control
+* Field sales
+* Business Intelligence
+* Unified communications
 
 ## Case Studies
 
 * [Customer 1](~/customers/customer1.md)
-* Customer 2
 
 ## Customers
 
@@ -29,6 +32,7 @@ The sales process is conducted faster and more easily, no matter where your cust
 * Alta Bulgaria (Bulgaria)
 * Euromarket - BRD (Bulgaria)
 * Inkofoods (Bulgaria)
+* Incosmetics (Bulgaria)
 * Lubrifilt (Bulgaria)
 * Minex Bulgaria (Bulgaria)
 * Pazar-Vitosha (Bulgaria)
