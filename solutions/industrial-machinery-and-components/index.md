@@ -7,6 +7,9 @@ Nowadays, modern manufacturing enterprises need something more than a standard E
 
 * Pricing
 * Production
+* MRP
+* CRP
+* Product configurator
 * Lot Tracking
 * Serial Numbers Tracking
 * WMS
