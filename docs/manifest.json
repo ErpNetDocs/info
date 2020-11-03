@@ -61,61 +61,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/features/general/WebView.png",
-      "output": {
-        "resource": {
-          "relative_path": "docs/features/general/WebView.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/features/general/azuread-login.png",
-      "output": {
-        "resource": {
-          "relative_path": "docs/features/general/azuread-login.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/features/general/chatter.png",
-      "output": {
-        "resource": {
-          "relative_path": "docs/features/general/chatter.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/logo.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/logo.svg"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "features/crm/bonus-programs.md",
       "output": {
@@ -630,11 +575,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "information/qa/hosting-reliability-qa.md",
+      "source_relative_path": "information/qa/hosting-qa.md",
       "output": {
         ".html": {
-          "relative_path": "information/qa/hosting-reliability-qa.html",
-          "hash": "LDQJXNPNpiinkH1dmZja0g=="
+          "relative_path": "information/qa/hosting-qa.html",
+          "hash": "ZHQzXUkrr/6ZcSWzOGfrAA=="
         }
       },
       "is_incremental": false,
@@ -766,7 +711,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "nn82vugjDKO2spLnrTtL5w=="
+          "hash": "6AoEQ9Dtv4CVv4g1Q+RpKg=="
         }
       },
       "is_incremental": false,

@@ -6,6 +6,8 @@
   href: reporting-bi-qa.md
 - name: Security & Auditing Q&A
   href: security-qa.md
+- name: Hosting & Reliability Q&A
+  href: hosting-qa.md  
 - name: Implementation & Support Q&A
   href: implementation-support-qa.md
 - name: CRM Q&A
