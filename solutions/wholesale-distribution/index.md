@@ -8,6 +8,7 @@ Multi-channel order management: ERP.net comes readily integrated with multi-chan
 * point of sale (POS)
 * field sales
 * electronic data interchange (EDI)
+
 The sales process is conducted faster and more easily, no matter where your customers or sales agents are. ERP.net provides each multi-channel sales agent with a real-time view of inventory, order status and customers’ entire purchase history – discounts, loyalty programs and payments, etc. This way the sales staff can provide you customers a more accurate and timely service, increasing their satisfaction and loyalty. All the sales data is in one place and managers can analyze sales across all sales channels to make smart business decisions.
 
 
