@@ -193,7 +193,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/index.html",
-          "hash": "kCyEbCoWoMpxx2xh09q+rw=="
+          "hash": "GsVb49ko+5oQeHKwuIxo9A=="
         }
       },
       "is_incremental": false,
@@ -206,6 +206,30 @@
         ".html": {
           "relative_path": "features/crm/presales.html",
           "hash": "5Gp4TobA3GMM92TIonC/6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/pricing.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/pricing.html",
+          "hash": "gJs4Tl6frtgk2VHg+YA+5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/product-configurator.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/product-configurator.html",
+          "hash": "rsRp7UmGzSHP7v6BrVogcQ=="
         }
       },
       "is_incremental": false,
