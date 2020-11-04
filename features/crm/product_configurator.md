@@ -8,7 +8,7 @@ With the Product Configurator, you can easily configure new product models accor
 
 ## Improved communication between the Sales and the Manufacturing Department
 
-Creating products with the Product Configurator minimizes the risk of operational errors. It is closely tied with the production and financial modules of EnterpriseOne and any change in price lists or in the information about the available production capacity is reflected in calculations. Thanks to this, your customers will always receive accurate information.
+Creating products with the Product Configurator minimizes the risk of operational errors. It is closely tied with the production and financial modules of ERP.net and any change in price lists or in the information about the available production capacity is reflected in calculations. Thanks to this, your customers will always receive accurate information.
 
 ## Automatic creation of manufacturing technologies
 
