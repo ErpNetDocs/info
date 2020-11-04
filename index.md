@@ -1,12 +1,17 @@
-# ERP.net Information
+# Welcome
 
 Welcome to the ERP.net information site!
+Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc.
+The information is geared towards prospect customers, previewing ERP.net for ERP implementation plans.
 
-Here you can find a lot of information about the ERP.net platform - solutions, features, case studies, etc.
+ERP.net takes a different approach than most vendors to the ERP selection process.
+The selection of a new ERP is a major decision for any company and such decision requires significant research.
+
+Hence, this info site is structured as an academic research site with as little as possible marketing stuff.
 
 ## Solutions & Customers
 
-Use this section to preview the tailor made solutions for the different industries.
+Use this section to preview our tailor made solutions for the different industries.
 Each industry solution contains general description, highlighted features, customers and case studies.
 
 * [Agribusiness](~/solutions/agribusiness/index.md)
@@ -24,6 +29,7 @@ Each industry solution contains general description, highlighted features, custo
 ## Features
 
 Use this section to read more about the different modules and features of @@name.
+The system features are arguably one of the most important factors when selecting an ERP.
 
 * [General](~/features/general/index.md) - General features, applicable to all modules.
 * [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
