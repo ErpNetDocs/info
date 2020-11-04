@@ -10,10 +10,10 @@ With the Product Configurator, you can easily configure new product models accor
 
 Creating products with the Product Configurator minimizes the risk of operational errors. It is closely tied with the production and financial modules of EnterpriseOne and any change in price lists or in the information about the available production capacity is reflected in calculations. Thanks to this, your customers will always receive accurate information.
 
-# Automatic creation of manufacturing technologies
+## Automatic creation of manufacturing technologies
 
 With the Product Configurator, you can extremely easily create new products based on predefined questionnaires or finished articles. Configuring product parameters is quick and easy, and you can also add various graphic schemes, statistics and history to products. Once the articles are configured according to customer requirements, the system automatically creates a unique specification and manufacturing technology. The result is a reduction in the physical work in production planning and ensuring the manufacturing process in creating new products. Moreover, calculations are performed automatically according to current price lists. If there is repetition of the article, the ERP system allows you to easily make partial amendments of specifications and technological recipes. The whole process customer order-offer-manufacturing-shipment of finished products is easily controlled all the time, and the interface provides information on implementation.
 
-# Integration with Module Material Planning 
+## Integration with Module Material Planning 
 
 The tight integration of the Product Configurator with the Material Planning module enables users to receive information about possible delivery dates of raw materials within the promised turnaround time of each order, as well as signals for possible delays. You can track changes in manufacturing technologies directly from the module. The technology is established during product configuration and any changes in parameters are immediately taken into account. This avoids the manual recovery of hundreds of unique features.
