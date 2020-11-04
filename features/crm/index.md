@@ -31,6 +31,6 @@ They are used to manage the different aspects of the CRM processes:
 * **POS** - Manage point-of-sale activities in physical stores.
 * **Marketing** - Marketing campaigns, activities, distribution channels, etc.
 * **Distribution** - field sales, sales person targets management, etc.
-* **Pricing** - price lists management.
+* **[Pricing](pricing.md)** - price lists management.
 * **[Product Configurator](product-configurator.md)** - create products based on specs for job shops (made-to-order and engineer-to-order environments).
 * **Products** - manage products master data - products and product measurements, codes, variants, channel, pictures, groups, etc.
