@@ -1,7 +1,11 @@
 - name: Overview
   href: index.md
+- name: Client Center
+  href: client-center.md
 - name: Contact and Task Management
   href: contacts-and-tasks.md
+- name: End Customer
+  href: end-customer.md
 - name: Presales
   href: presales.md
 - name: Pricing
@@ -10,8 +14,5 @@
   href: product-configurator.md
 - name: Order Management
   href: sales.md
-- name: Client Center
-  href: client-center.md
-- name: End Customer
-  href: end-customer.md
-
+- name: Unified Communications.md
+  href: unified-communications.md
