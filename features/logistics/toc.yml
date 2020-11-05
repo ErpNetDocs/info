@@ -3,4 +3,6 @@
 - name: Lot Tracking
   href: lot-tracking.md
 - name: Serial Numbers
-  href: serial-numbers.md
+  href: serial-numbers.md 
+- name: Barcode Control
+  href: barcode-control.md
