@@ -93,3 +93,19 @@ etc.
 We can only try to predict, with big tolerance for error, the regular user processing.
 
 As a rule of thumb, each user generates approximately between 0.25 and 1.00 GB of data per year.
+
+### Are there backups of my data?
+
+Yes.
+
+We hope you are joking and this is a rhetorical question.
+
+Seriously, the backup planning, execution and control is one of most important activities out there.
+You can read more about backups in the [Disaster Recovery](../system-information/disaster-recovery.md) section.
+
+### Is the off-site backup included in the price?
+
+Yes.
+
+The off-site backup is included in the price for all subscription levels.
+You do not need to do anything in order to be fully protected.
