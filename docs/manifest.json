@@ -116,6 +116,50 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "features/crm/PricingModels.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/PricingModels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/PricingModels_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/PricingModels_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/PricingModels_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/PricingModels_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/SalesPrice.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/SalesPrice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/crm/bonus-programs.md",
       "output": {
@@ -217,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/pricing.html",
-          "hash": "gJs4Tl6frtgk2VHg+YA+5w=="
+          "hash": "FRgYOLLrYtrEbOP/oWLi/w=="
         }
       },
       "is_incremental": false,
@@ -254,6 +298,18 @@
         ".html": {
           "relative_path": "features/crm/sales.html",
           "hash": "i9e+g+MqC5NxFUkKAOP/VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/unified-communications.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/unified-communications.html",
+          "hash": "K2N+68kYmqbjirK3/m6/ng=="
         }
       },
       "is_incremental": false,
@@ -474,6 +530,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/barcode-control.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/barcode-control.html",
+          "hash": "dJTl40v6w1cgQfu4cAW6CA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/index.md",
       "output": {
         ".html": {
@@ -550,7 +618,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "JroJ5GIMn5AFI6RhmhuWBQ=="
+          "hash": "8mPoxt0sgVodCoQNFyE0fQ=="
         }
       },
       "is_incremental": false,
