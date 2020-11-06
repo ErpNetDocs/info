@@ -2,7 +2,7 @@
 
 Welcome to the ERP.net information site!
 Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc.
-The information is geared towards prospect customers, previewing ERP.net for ERP implementation plans.
+The information is geared towards prospect customers, previewing ERP.net for their ERP implementation plans.
 
 ERP.net takes a different approach than most vendors to the ERP selection process.
 The selection of a new ERP is a major decision for any company and such decision requires significant research.

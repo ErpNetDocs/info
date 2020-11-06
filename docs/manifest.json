@@ -62,6 +62,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/crm/PricingModels.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/PricingModels.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/PricingModels_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/PricingModels_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/PricingModels_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/PricingModels_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/SalesPrice.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/SalesPrice.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/general/WebView.png",
       "output": {
         "resource": {
@@ -654,7 +698,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "VUQJC0/V2xtXTeV3WViGfQ=="
+          "hash": "tGUKsdWJZNF3UQOZH8wL2A=="
         }
       },
       "is_incremental": false,
