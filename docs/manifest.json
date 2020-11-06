@@ -150,6 +150,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/information/system-information/high-availability.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/system-information/high-availability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
@@ -770,7 +781,7 @@
       "output": {
         ".html": {
           "relative_path": "information/qa/hosting-qa.html",
-          "hash": "7RfL2j3oNJqnN+jF5CUgBA=="
+          "hash": "2dCW2mlDnibZMEDtcD008A=="
         }
       },
       "is_incremental": false,
