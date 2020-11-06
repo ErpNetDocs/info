@@ -14,4 +14,6 @@ In case of a hardware problem, a backup server automatically takes over the work
 > The failover takes about 30-60 seconds.
 > During this time period, there might be some minor disruptions to current transactions.
 
+## Hosting infrastructure overview
+
 ![High Availability](high-availability.png)
