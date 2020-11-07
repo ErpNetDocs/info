@@ -4,9 +4,13 @@
   href: accounting.md
 - name: Payments
   href: payments.md
+- name: Cost Accounting
+  href: cost-accounting.md
 - name: Financial Analysis
   href: financial-analysis.md
 - name: VAT Reporting
   href: vat-reporting.md
 - name: Intrastat Reporting
   href: intrastat-reporting.md
+- name: Excise management and reporting
+  href: excise.md
