@@ -1,0 +1,12 @@
+- name: Overview
+  href: index.md
+- name: Accounting
+  href: accounting.md
+- name: Payments
+  href: payments.md
+- name: Financial Analysis
+  href: financial-analysis.md
+- name: VAT Reporting
+  href: vat-reporting.md
+- name: Intrastat Reporting
+  href: intrastat-reporting.md
