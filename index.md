@@ -34,6 +34,8 @@ The system features are arguably one of the most important factors when selectin
 * [General](~/features/general/index.md) - General features, applicable to all modules.
 * [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
 * [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
+* [Production](~/features/production/index.md) - conversion of raw materials to finished products.
+* [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
 * [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
 
 ## Information
