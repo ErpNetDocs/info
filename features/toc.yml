@@ -9,6 +9,9 @@
 - name: Logistics
   href: logistics/toc.yml
   topicHref: logistics/index.md
+- name: Production
+  href: production/toc.yml
+  topicHref: production/index.md
 - name: Financials
   href: financials/toc.yml
   topicHref: financials/index.md
