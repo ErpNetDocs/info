@@ -1,0 +1,8 @@
+- name: Overview
+  href: index.md
+- name: Products and technologies
+  href: technologies/toc.yml
+- name: Materail and capacity planning
+  href: planning/toc.yml
+- name: Shop floor control
+  href: shop-floor/toc.yml
