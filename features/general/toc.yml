@@ -14,12 +14,6 @@
   href: reporting.md
 - name: Business Intelligence
   href: business-intelligence.md
-- name: Azure AD Integrated Login
-  href: azuread-login.md
-- name: Chatter
-  href: chatter.md
-- name: Web View
-  href: web-view.md
 - name: Custom Data Attributes
   href: custom-data-attributes.md
 - name: Calculated Attributes

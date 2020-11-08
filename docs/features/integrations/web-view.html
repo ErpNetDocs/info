@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Client Center | ERP.net Information </title>
+    <title>WebView | ERP.net Information </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Client Center | ERP.net Information ">
+    <meta name="title" content="WebView | ERP.net Information ">
     <meta name="generator" content="docfx 2.56.2.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -76,21 +76,29 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="client-center">
-<h1 id="client-center">Client Center</h1>
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="webview">WebView</h1>
 
-<p>Client Center is a functionality, which allows the clients to access their data and communicate with you online.</p>
-<h2 id="data">Data</h2>
-<p>The data section allows the clients to:</p>
+<p>WebView allows integration of web-based apps in the main UI client.
+<img src="WebView.png" alt="WebView"></p>
+<h2 id="single-sign-on">Single sign-on</h2>
+<p>WebView shares the sign-in token between the main UI client and the web app.
+This has many benefits:</p>
 <ul>
-<li>View orders</li>
-<li>View and download invoices</li>
-<li>View unpaid orders/invoices</li>
+<li>The user enters credentials only once.</li>
+<li>The end user might not even realize they are using multiple apps.</li>
+<li>Only a single license session is consumed for the main UI and all integrated apps.</li>
 </ul>
-<h1 id="chat">Chat</h1>
-<p>The chat allows the clients to communicate with you in very direct and friendly way.
-It is heavily inspired by the social networks, but in an enterprise environment.</p>
-<p>For more information, see the <a class="xref" href="../community/chatter.html">Chatter component</a>.</p>
+<h2 id="context-integration">Context integration</h2>
+<p>WebView apps can be context integrated, based on parameters.
+This usually means, that the web app can show information, relevant to the current screen.</p>
+<p>For example, when opening:</p>
+<ul>
+<li>a customer - a BI web page can show some relevant BI dashboard about the customer.</li>
+<li>a vehicle - web view can easily be integrated with the maintenance service for the car, even if it was not purposely built for ERP.net integration.</li>
+<li>a sales order - can open a relevant web app which, for example, manages lot expiry dates and automatically selects lots for the lines.</li>
+</ul>
+<p>Context integration allows all applications to work seamlessly for the end user as one application.</p>
 </article>
           </div>
           
@@ -99,7 +107,7 @@ It is heavily inspired by the social networks, but in an enterprise environment.
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/erpnetdocs/info/blob/main/features/crm/client-center.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/erpnetdocs/info/blob/main/features/integrations/web-view.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

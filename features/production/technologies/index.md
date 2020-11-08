@@ -1,1 +1,0 @@
-# Production technologies overview

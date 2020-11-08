@@ -62,6 +62,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/community/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/community/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/crm/PricingModels.png",
       "output": {
         "resource": {
@@ -139,6 +150,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/integrations/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/integrations/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/integrations/azuread-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/integrations/azuread-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
         "resource": {
@@ -165,6 +198,41 @@
       "output": {
         "resource": {
           "relative_path": "docs/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/community/chatter.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/community/chatter.html",
+          "hash": "EDI6Oivw9XspJfNLXaTYOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/community/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/community/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/community/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/community/index.html",
+          "hash": "LOgrRb2XkOAquY02fmp47A=="
         }
       },
       "is_incremental": false,
@@ -232,7 +300,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/client-center.html",
-          "hash": "+89uVUF5nouAO/j9/Pgntw=="
+          "hash": "I8Bluxqryiyqnqa/wVtpTw=="
         }
       },
       "is_incremental": false,
@@ -371,11 +439,12 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "features/general/WebView.png",
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/accounting.md",
       "output": {
-        "resource": {
-          "relative_path": "features/general/WebView.png"
+        ".html": {
+          "relative_path": "features/financials/accounting.html",
+          "hash": "S5cqqtziY6vicHbigK7xTw=="
         }
       },
       "is_incremental": false,
@@ -383,22 +452,83 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/azuread-login.md",
+      "source_relative_path": "features/financials/cost-accounting.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/azuread-login.html",
-          "hash": "0ipEJuq8YvtQnOz093HmrQ=="
+          "relative_path": "features/financials/cost-accounting.html",
+          "hash": "pVfUomyN8zSwnhMsHhSz+Q=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "features/general/azuread-login.png",
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/excise.md",
       "output": {
-        "resource": {
-          "relative_path": "features/general/azuread-login.png"
+        ".html": {
+          "relative_path": "features/financials/excise.html",
+          "hash": "WYMQLnHNzMaPH1J232y2Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/financial-analysis.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/financial-analysis.html",
+          "hash": "0acigHiC+ZPIBU5OtSGfCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/index.html",
+          "hash": "x3d4kLIlkcDDFY/uBljFuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/intrastat-reporting.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/intrastat-reporting.html",
+          "hash": "gN+p0qN7vIPzBMep1fsXOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/payments.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/payments.html",
+          "hash": "KuRDn40tKzt9dQzbMhSezA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/vat-reporting.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/vat-reporting.html",
+          "hash": "dLNRKgY8MhBhjJ5Mhlr0Fg=="
         }
       },
       "is_incremental": false,
@@ -435,29 +565,6 @@
         ".html": {
           "relative_path": "features/general/calculated-attributes.html",
           "hash": "MMLQq/uCUXPvfT3aZ33cSA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/general/chatter.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/chatter.html",
-          "hash": "6Kit9mrhg1O9I/GHoAeifQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/general/chatter.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/general/chatter.png"
         }
       },
       "is_incremental": false,
@@ -561,11 +668,22 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/web-view.md",
+      "source_relative_path": "features/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/web-view.html",
-          "hash": "xuBIYctkSPzpuXpW5jp9+Q=="
+          "relative_path": "features/index.html",
+          "hash": "jtNh/Y3UxaTGlk3bZUsPDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/integrations/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/integrations/WebView.png"
         }
       },
       "is_incremental": false,
@@ -573,11 +691,46 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/index.md",
+      "source_relative_path": "features/integrations/azuread-login.md",
       "output": {
         ".html": {
-          "relative_path": "features/index.html",
-          "hash": "jtNh/Y3UxaTGlk3bZUsPDA=="
+          "relative_path": "features/integrations/azuread-login.html",
+          "hash": "pB4a/HhSbwCkik4BFraAZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/integrations/azuread-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/integrations/azuread-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/integrations/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/integrations/index.html",
+          "hash": "TyG0o0nBXaB3gdVVa1tc0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/integrations/web-view.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/integrations/web-view.html",
+          "hash": "VyFIHSfX6ayxM+8j4FQZ0w=="
         }
       },
       "is_incremental": false,
@@ -633,6 +786,78 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/production/crp.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/crp.html",
+          "hash": "HBrIOL7kGioi1/IkM1H/yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/production/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/index.html",
+          "hash": "nAug1LliFU9e3Q+4tSPKAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/production/mrp.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/mrp.html",
+          "hash": "Ruvvoyw0gqV4Wto3+FFs5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/production/principal-technologies.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/principal-technologies.html",
+          "hash": "wQjAx2T9J0dRqQdqqFooIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/production/product-technologies.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/product-technologies.html",
+          "hash": "7duIr2vMevPhqH93KAz+UQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/production/shop-floor.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/shop-floor.html",
+          "hash": "GNLK0PRW/2DiUvoNe03ifA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/third-party-apps/index.md",
       "output": {
         ".html": {
@@ -673,7 +898,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "PPSBMKSqi6VFn4gL4AlGxg=="
+          "hash": "LvRVS/4iw6nuRzKtZ4wCCg=="
         }
       },
       "is_incremental": false,
@@ -709,7 +934,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "tGUKsdWJZNF3UQOZH8wL2A=="
+          "hash": "bEr+PMJCAZhFIG/JE5hlIQ=="
         }
       },
       "is_incremental": false,

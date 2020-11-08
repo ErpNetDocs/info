@@ -36,6 +36,8 @@ The system features are arguably one of the most important factors when selectin
 * [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
 * [Production](~/features/production/index.md) - conversion of raw materials to finished products.
 * [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
+* [Community Management](~/features/community/index.md) - management of all external relations with customers, fans, partners, suppliers, etc.
+* [Integrations](~/features/integrations/index.md) - built-in integrations with external services.
 * [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
 
 ## Information

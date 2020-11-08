@@ -15,6 +15,12 @@
 - name: Financials
   href: financials/toc.yml
   topicHref: financials/index.md
+- name: Community Management
+  href: community/toc.yml
+  topicHref: community/index.md
+- name: Integrations
+  href: integrations/toc.yml
+  topicHref: integrations/index.md
 - name: Third Party Apps
   href: third-party-apps/toc.yml
   topicHref: third-party-apps/index.md

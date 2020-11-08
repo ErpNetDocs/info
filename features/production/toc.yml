@@ -1,8 +1,12 @@
 - name: Overview
   href: index.md
-- name: Products and technologies
-  href: technologies/toc.yml
-- name: Materail and capacity planning
-  href: planning/toc.yml
-- name: Shop floor control
-  href: shop-floor/toc.yml
+- name: Technologies
+  href: product-technologies.md
+- name: MRP
+  href: mrp.md
+- name: CRP
+  href: crp.md
+- name: Shop Floor
+  href: shop-floor.md
+- name: Principal Technologies
+  href: principal-technologies.md

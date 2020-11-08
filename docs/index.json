@@ -9,6 +9,16 @@
     "title": "Customer Case Studies | ERP.net Information",
     "keywords": "Customer Case Studies This directory contains case studies about customer success using ERP.net solutions. To view study, select it from the menu on the left."
   },
+  "features/community/chatter.html": {
+    "href": "features/community/chatter.html",
+    "title": "Chatter | ERP.net Information",
+    "keywords": "Chatter The Chatter is a chat functionality, which is almost universally pluggable in any screen form. Social Interactions The Chatter component is central component of the broader ERP Social Interactions package, which includes functionality for close interaction with clients, partners, suppliers, fans, etc. It allows interactions with internal and external users much like the social networks, just in a business aspect. Client Center The Chatter is integrated in the Client Center and can be used by clients to chat directly with employees. The Chatter can be very useful for impromptu support, quick handling of delivery or paperwork problems, etc. Chats are attached to objects Each chat is related to an object in the system. In this sense, the Chatter can be used internally for taking notes or discussions for specific data objects like Sales Orders, Payment Orders, Invoices, etc. Reactions Much like the social networks, the Chatter allows reactions like Like, Haha, Wow, Sad, etc. This can further enhance the discussion of ideas and proposals in informal manner."
+  },
+  "features/community/index.html": {
+    "href": "features/community/index.html",
+    "title": "Community Management | ERP.net Information",
+    "keywords": "Community Management Community Management is the base for the so-called \"Social ERP\". Integration of customers, fans, partners, suppliers and generally all persons, having relation with our company is crucial for success in todays highly competitive economy. Community Management is a new discipline in this area, channeling all communication and allowing 360 degree view of not only the customers, but the whole community. Introducement of new and impromptu models of communication, like the Chatter brings everybody close and increases productivity. ERP.net has focused on the inclusion of Community Management within the single central business information system. New features will regularly be added to the Community Management subsystem."
+  },
   "features/crm/bonus-programs.html": {
     "href": "features/crm/bonus-programs.html",
     "title": "Bonus Programs | ERP.net Information",
@@ -74,10 +84,45 @@
     "title": "Unified Communications | ERP.net Information",
     "keywords": "Unified Communications Unified communications (UC) is a set of technologies that automate and unify human and device communications in a common set of knowledge. They optimize business processes in the company and eliminate the dependence on the physical presence of employees in the office. All customer information gathered in one place In ERP.net each customer has a file with information on communication by email, phone, etc. The entire verbal and written communications between your salespeople and customers will now be available in your ERP system. The information is available to all employees who need it, and greatly facilitates teamwork. VoIP/IP PBX integration and Click-to-Call The ability of ERP.net to integrate with VoIP/IP PBX allows you to collect information from all conversations with customers. It also lets you can call every customer with a single click in the ERP system, and every incoming call automatically opens the file of the customer calling. Each customer file in the system has a journal that compiles all calls, e-mails and issued documents into a single calendar screen. Email integration The main benefit of using the e-mail client built into EnterpriseOne® is the ability to save all e-mails exchanged with a counterparty in the file of this company. This gives you quick access to e-mails, convenient search options and a better overview of everything that happens with your partners. Access the information you need from anywhere ERP.net is optimized for mobile devices and supports continuous mobile synchronization, which means you will always have access to the information you need from your tablet or smartphone, wherever you are. Thanks to the synchronization, your employees will be able to receive and report completed tasks while out of the office. In addition, all departments and employees use a unified calendar in ERP.net, so they can easily transfer tasks between each other."
   },
-  "features/general/azuread-login.html": {
-    "href": "features/general/azuread-login.html",
-    "title": "Azure AD Integrated Login | ERP.net Information",
-    "keywords": "Azure AD Integrated Login Integration of Microsoft Azure Active Directory login provides single sign-on for companies, which manage their security with Azure AD. Azure AD is the Internet version of the popular Windows Domains. It is hosted (and secured) by Microsoft on behalf of the organizations. By utilizing the Azure AD account sign-in, your company can benefit in the many ways, including: Single Sign-On for your work accounts. Users no longer need to have separate passwords for the ERP and other work-related resources. Use your existing security infrastructure. Directly utilize your Azure AD setup. No longer store passwords in the ERP. Directly apply domain security policies (MFA, complexity, etc.) to the login security of the ERP."
+  "features/financials/accounting.html": {
+    "href": "features/financials/accounting.html",
+    "title": "Accounting Module | ERP.net Information",
+    "keywords": "Accounting Module"
+  },
+  "features/financials/cost-accounting.html": {
+    "href": "features/financials/cost-accounting.html",
+    "title": "Cost Accounting Module | ERP.net Information",
+    "keywords": "Cost Accounting Module"
+  },
+  "features/financials/excise.html": {
+    "href": "features/financials/excise.html",
+    "title": "Excise Management Module | ERP.net Information",
+    "keywords": "Excise Management Module"
+  },
+  "features/financials/financial-analysis.html": {
+    "href": "features/financials/financial-analysis.html",
+    "title": "Financial Analysis Module | ERP.net Information",
+    "keywords": "Financial Analysis Module"
+  },
+  "features/financials/index.html": {
+    "href": "features/financials/index.html",
+    "title": "Financials Subsystem | ERP.net Information",
+    "keywords": "Financials Subsystem The financials subsystem encompasses all functions related to the company financials, including the regulatory compliance requirements."
+  },
+  "features/financials/intrastat-reporting.html": {
+    "href": "features/financials/intrastat-reporting.html",
+    "title": "Intrastat Reporting Module | ERP.net Information",
+    "keywords": "Intrastat Reporting Module"
+  },
+  "features/financials/payments.html": {
+    "href": "features/financials/payments.html",
+    "title": "Payments Module | ERP.net Information",
+    "keywords": "Payments Module"
+  },
+  "features/financials/vat-reporting.html": {
+    "href": "features/financials/vat-reporting.html",
+    "title": "VAT Reporting Module | ERP.net Information",
+    "keywords": "VAT Reporting Module"
   },
   "features/general/business-intelligence.html": {
     "href": "features/general/business-intelligence.html",
@@ -93,11 +138,6 @@
     "href": "features/general/calculated-attributes.html",
     "title": "Calculated Attributes | ERP.net Information",
     "keywords": "Calculated Attributes"
-  },
-  "features/general/chatter.html": {
-    "href": "features/general/chatter.html",
-    "title": "Chatter | ERP.net Information",
-    "keywords": "Chatter The Chatter is a chat functionality, which is almost universally pluggable in any screen form. Social Interactions The Chatter component is central component of the broader ERP Social Interactions package, which includes functionality for close interaction with clients, partners, suppliers, fans, etc. It allows interactions with internal and external users much like the social networks, just in a business aspect. Client Center The Chatter is integrated in the Client Center and can be used by clients to chat directly with employees. The Chatter can be very useful for impromptu support, quick handling of delivery or paperwork problems, etc. Chats are attached to objects Each chat is related to an object in the system. In this sense, the Chatter can be used internally for taking notes or discussions for specific data objects like Sales Orders, Payment Orders, Invoices, etc. Reactions Much like the social networks, the Chatter allows reactions like Like, Haha, Wow, Sad, etc. This can further enhance the discussion of ideas and proposals in informal manner."
   },
   "features/general/custom-data-attributes.html": {
     "href": "features/general/custom-data-attributes.html",
@@ -139,15 +179,25 @@
     "title": "Reporting | ERP.net Information",
     "keywords": "Reporting"
   },
-  "features/general/web-view.html": {
-    "href": "features/general/web-view.html",
-    "title": "WebView | ERP.net Information",
-    "keywords": "WebView WebView allows integration of web-based apps in the main UI client. Single sign-on WebView shares the sign-in token between the main UI client and the web app. This has many benefits: The user enters credentials only once. The end user might not even realize they are using multiple apps. Only a single license session is consumed for the main UI and all integrated apps. Context integration WebView apps can be context integrated, based on parameters. This usually means, that the web app can show information, relevant to the current screen. For example, when opening: a customer - a BI web page can show some relevant BI dashboard about the customer. a vehicle - web view can easily be integrated with the maintenance service for the car, even if it was not purposely built for ERP.net integration. a sales order - can open a relevant web app which, for example, manages lot expiry dates and automatically selects lots for the lines. Context integration allows all applications to work seamlessly for the end user as one application."
-  },
   "features/index.html": {
     "href": "features/index.html",
     "title": "Features | ERP.net Information",
     "keywords": "Features Directory of ERP.net features. To view more information about a feature, select it from the menu."
+  },
+  "features/integrations/azuread-login.html": {
+    "href": "features/integrations/azuread-login.html",
+    "title": "Azure AD Integrated Login | ERP.net Information",
+    "keywords": "Azure AD Integrated Login Integration of Microsoft Azure Active Directory login provides single sign-on for companies, which manage their security with Azure AD. Azure AD is the Internet version of the popular Windows Domains. It is hosted (and secured) by Microsoft on behalf of the organizations. By utilizing the Azure AD account sign-in, your company can benefit in the many ways, including: Single Sign-On for your work accounts. Users no longer need to have separate passwords for the ERP and other work-related resources. Use your existing security infrastructure. Directly utilize your Azure AD setup. No longer store passwords in the ERP. Directly apply domain security policies (MFA, complexity, etc.) to the login security of the ERP."
+  },
+  "features/integrations/index.html": {
+    "href": "features/integrations/index.html",
+    "title": "Integrations | ERP.net Information",
+    "keywords": "Integrations There are many built-in integrations in ERP.net. Also, there are a lot of integration points, like Web View , for example. Also, Business Rules are frequently used to interact with external applications."
+  },
+  "features/integrations/web-view.html": {
+    "href": "features/integrations/web-view.html",
+    "title": "WebView | ERP.net Information",
+    "keywords": "WebView WebView allows integration of web-based apps in the main UI client. Single sign-on WebView shares the sign-in token between the main UI client and the web app. This has many benefits: The user enters credentials only once. The end user might not even realize they are using multiple apps. Only a single license session is consumed for the main UI and all integrated apps. Context integration WebView apps can be context integrated, based on parameters. This usually means, that the web app can show information, relevant to the current screen. For example, when opening: a customer - a BI web page can show some relevant BI dashboard about the customer. a vehicle - web view can easily be integrated with the maintenance service for the car, even if it was not purposely built for ERP.net integration. a sales order - can open a relevant web app which, for example, manages lot expiry dates and automatically selects lots for the lines. Context integration allows all applications to work seamlessly for the end user as one application."
   },
   "features/logistics/barcode-control.html": {
     "href": "features/logistics/barcode-control.html",
@@ -168,6 +218,36 @@
     "href": "features/logistics/serial-numbers.html",
     "title": "Serial Numbers | ERP.net Information",
     "keywords": "Serial Numbers ERP.net supports tracking serial numbers tracking throughout the supply chain. Relation to lot tracking Serial numbers tracking is a separate feature from Lot Tracking . Lots and serial numbers can be tracked simultaneously. Going down the document chain Serial numbers can (optionally) be specified up from the initial document in the chain and transferred down to the last. For example, even the Sales Order can specify concrete serial number, if so is desired. In this case, the serial number is transferred through the document chain down to the Store Order and eventually issued with the Store Transaction. However, if the serial number is left blank in the Store Order, it can be specified later in the chain - most probably when picking the product from the warehouse. More information For detailed information about the related entities see: Crm.Sales.SalesOrders Entity Logistics.Inventory.StoreOrders Entity Logistics.Inventory.StoreTransactions Entity Logistics.Inventory.StoreTransactionLines Entity"
+  },
+  "features/production/crp.html": {
+    "href": "features/production/crp.html",
+    "title": "Capacity Requirements Planning | ERP.net Information",
+    "keywords": "Capacity Requirements Planning"
+  },
+  "features/production/index.html": {
+    "href": "features/production/index.html",
+    "title": "Production subsystem overview | ERP.net Information",
+    "keywords": "Production subsystem overview The production subsystem encompasses modules related to the conversion of raw materials to finished products. Traditionally focused primarily at manufacturing, the modern production incorporates non-tangible inputs and outputs."
+  },
+  "features/production/mrp.html": {
+    "href": "features/production/mrp.html",
+    "title": "Material Requirements Planning | ERP.net Information",
+    "keywords": "Material Requirements Planning"
+  },
+  "features/production/principal-technologies.html": {
+    "href": "features/production/principal-technologies.html",
+    "title": "Principal technologies overview | ERP.net Information",
+    "keywords": "Principal technologies overview"
+  },
+  "features/production/product-technologies.html": {
+    "href": "features/production/product-technologies.html",
+    "title": "Product technologies overview | ERP.net Information",
+    "keywords": "Product technologies overview"
+  },
+  "features/production/shop-floor.html": {
+    "href": "features/production/shop-floor.html",
+    "title": "Shop floor control | ERP.net Information",
+    "keywords": "Shop floor control"
   },
   "features/third-party-apps/index.html": {
     "href": "features/third-party-apps/index.html",
@@ -197,7 +277,7 @@
   "index.html": {
     "href": "index.html",
     "title": "Welcome | ERP.net Information",
-    "keywords": "Welcome Welcome to the ERP.net information site! Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc. The information is geared towards prospect customers, previewing ERP.net for their ERP implementation plans. ERP.net takes a different approach than most vendors to the ERP selection process. The selection of a new ERP is a major decision for any company and such decision requires significant research. Hence, this info site is structured as an academic research site with as little as possible marketing stuff. Solutions & Customers Use this section to preview our tailor made solutions for the different industries. Each industry solution contains general description, highlighted features, customers and case studies. Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution Features Use this section to read more about the different modules and features of ERP.net. The system features are arguably one of the most important factors when selecting an ERP. General - General features, applicable to all modules. CRM - Features related to the CRM (Customer Relationship Management). Logistics - Logistics encompasses movement and storage of physical goods. Third-party apps - Third-party apps developed for the ERP.net platform. Information This section contains general information about the platform, hosting, licensing, etc. Licensing - concurrent user, core and other licensing topics explained. System Information - hosting, high-availability, disaster-recovery, etc. Q & A section - Questions & answers for the various topic regarding the platform, subsystems, integrations, implementation, etc."
+    "keywords": "Welcome Welcome to the ERP.net information site! Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc. The information is geared towards prospect customers, previewing ERP.net for their ERP implementation plans. ERP.net takes a different approach than most vendors to the ERP selection process. The selection of a new ERP is a major decision for any company and such decision requires significant research. Hence, this info site is structured as an academic research site with as little as possible marketing stuff. Solutions & Customers Use this section to preview our tailor made solutions for the different industries. Each industry solution contains general description, highlighted features, customers and case studies. Agribusiness Consumer Products Fashion Financial Services Health and Life Sciences High Tech Industrial Machinery and Components Professional Services Retail Transportation and Logistics Wholesale Distribution Features Use this section to read more about the different modules and features of ERP.net. The system features are arguably one of the most important factors when selecting an ERP. General - General features, applicable to all modules. CRM - Features related to the CRM (Customer Relationship Management). Logistics - Logistics encompasses movement and storage of physical goods. Production - conversion of raw materials to finished products. Financials - company financials management, including regulatory compliance. Community Management - management of all external relations with customers, fans, partners, suppliers, etc. Integrations - built-in integrations with external services. Third-party apps - Third-party apps developed for the ERP.net platform. Information This section contains general information about the platform, hosting, licensing, etc. Licensing - concurrent user, core and other licensing topics explained. System Information - hosting, high-availability, disaster-recovery, etc. Q & A section - Questions & answers for the various topic regarding the platform, subsystems, integrations, implementation, etc."
   },
   "information/index.html": {
     "href": "information/index.html",
