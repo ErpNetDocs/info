@@ -1,6 +1,6 @@
 # Pricing
 
-Module Pricing is part of the CRM subsystem of ERP.net and is particularly suitable for commercial companies. With it, you can flexibly create and manipulate prices.
+Module Pricing is part of the CRM subsystem of @@name and is particularly suitable for commercial companies. With it, you can flexibly create and manipulate prices.
 
 ![SalesPrice](SalesPrice.png)
 
