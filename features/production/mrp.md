@@ -25,33 +25,33 @@ The system supports both centralized and decentralized planning. For example, yo
 
 The quantity dimension of any shortfall can be calculated by several methods:
 
-* Minimum availability – if availability falls below a certain minimum amount, the system suggests an order to reach back the target value.
-* Calculating MRP – this method calculates the exact amount which is necessary for the planning period.
-* Economic order – comparing the cost for preparing and and transportation of an order to the cost of storing these goods in a warehouse.
-* At regular intervals – this method offers to order the quantity consumed during the previous interval.
+* **Minimum availability** – if availability falls below a certain minimum amount, the system suggests an order to reach back the target value.
+* **Calculating MRP** – this method calculates the exact amount which is necessary for the planning period.
+* **Economic order** – comparing the cost for preparing and and transportation of an order to the cost of storing these goods in a warehouse.
+* **At regular intervals** – this method offers to order the quantity consumed during the previous interval.
 
 Once you precise amount, the system can adjust it to meet certain criteria. The criteria that the system supports are:
 
-* Batch size – with this criterion, orders are always multiples of the given size.
-* Minimum/maximum – the supplier may require a minimum (more often) or a maximum amount of an order.
+* **Batch size** – with this criterion, orders are always multiples of the given size.
+* **Minimum/maximum** – the supplier may require a minimum (more often) or a maximum amount of an order.
 
 Using the given methods and criteria, the system calculates and suggests an order. The final decision on the confirmation or modification of the suggestion, however, is taken by an employee working with the program.
 
 You must keep in mind that accurate supply operations require the following subsystems to also function with a high level of precision:
 
-* Inventory management – if inventory data is not up-to-date and real-time, the supply system may generate inaccurate order suggestions.
-* Sales projections – projections of future sales are not mandatory but can contribute to the optimization of supply suggestions.
-* Customer orders – they reveal the real-life demand for finished products, and if they are not entered correctly, supply will give inaccurate suggestions.
-* Recipes in manufacturing – they are used to decompose the needs for finished products to needs for materials or manufactured products. If recipes are not true, it will lead to erroneous suggestions for supply.
+* **Inventory management** – if inventory data is not up-to-date and real-time, the supply system may generate inaccurate order suggestions.
+* **Sales projections** – projections of future sales are not mandatory but can contribute to the optimization of supply suggestions.
+* **Customer orders** – they reveal the real-life demand for finished products, and if they are not entered correctly, supply will give inaccurate suggestions.
+* **Recipes in manufacturing** – they are used to decompose the needs for finished products to needs for materials or manufactured products. If recipes are not true, it will lead to erroneous suggestions for supply.
 
 ## Document types
 
 The module works with several document types that cover the entire supply process:
 
-* Transfer order – for the transfer of goods from a warehouse/storage space to another warehouse/storage space.
-* Replenishment order – this is an order that addresses the need for products in a warehouse. It can come from different departments and is created by demand, with specifying a * supplier and prices not being obligatory. Such an order is processed by the Supply Department, which then uses it to generate a purchase order.
-* Purchase order – such an order can be proposed by the system (document status: Planned) or made manually. It indicates an intention to buy a product from a specific provider, at a certain (optional) price.
-* Receiving order – this type of document provides input control over supplies and a comparison between the ordered goods, the received goods and the invoice – the so-called “triple-check.”
+* **Transfer order** – for the transfer of goods from a warehouse/storage space to another warehouse/storage space.
+* **Replenishment order** – this is an order that addresses the need for products in a warehouse. It can come from different departments and is created by demand, with specifying a * supplier and prices not being obligatory. Such an order is processed by the Supply Department, which then uses it to generate a purchase order.
+* **Purchase order** – such an order can be proposed by the system (document status: Planned) or made manually. It indicates an intention to buy a product from a specific provider, at a certain (optional) price.
+* **Receiving order** – this type of document provides input control over supplies and a comparison between the ordered goods, the received goods and the invoice – the so-called “triple-check.”
 
 Module Material planning has high requirements to function properly but the benefits it brings are many times more than the efforts for its implementation. With this module, you can have more timely dispatches and optimize inventory and the time to process an order.
 
