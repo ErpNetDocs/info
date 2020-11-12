@@ -2,7 +2,7 @@
 
 Module Financial Analysis allows you to easily track the development of your company and to plan your financial policy. With its help, you can highlight various economic phenomena and processes, so it is easy to find patterns and trends in your business.
 
-ERP system @@bane allows making not only analyses and reports that are required by legislation, but also statements on the most important financial indicators for the management of a company.
+ERP system @@name allows making not only analyses and reports that are required by legislation, but also statements on the most important financial indicators for the management of a company.
 
 ## Statements:
 
