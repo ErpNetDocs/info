@@ -1,6 +1,6 @@
 # Financials Subsystem
 
-Module Finance fully meets the requirements of a modern, well structured finance department in a company, combining in a single system the tracking of all incoming and outgoing cash flows. This is the main reporting system in @@bane, and it covers both the financial aspects of planning and management and the control over company activities.
+Module Finance fully meets the requirements of a modern, well structured finance department in a company, combining in a single system the tracking of all incoming and outgoing cash flows. This is the main reporting system in @@name, and it covers both the financial aspects of planning and management and the control over company activities.
 
 The module allows for easy multi-company management in a single database, including making multi-company operational reports. It also simplifies the chart of accounts provides a wide range of reports and various analyzes.
 
