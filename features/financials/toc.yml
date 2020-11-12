@@ -2,15 +2,19 @@
   href: index.md
 - name: Accounting
   href: accounting.md
-- name: Payments
-  href: payments.md
+- name: Cash flows
+  href: cash-flows.md
 - name: Cost accounting
   href: cost-accounting.md
-- name: Financial analysis
-  href: financial-analysis.md
-- name: VAT reporting
-  href: vat-reporting.md
-- name: Intrastat reporting
-  href: intrastat-reporting.md
 - name: Excise management and reporting
   href: excise.md
+- name: Financial analysis
+  href: financial-analysis.md
+- name: Fixed Assets
+  href: fixed-assets.md
+- name: Intrastat reporting
+  href: intrastat-reporting.md
+- name: Payments
+  href: payments.md
+- name: VAT reporting
+  href: vat-reporting.md
