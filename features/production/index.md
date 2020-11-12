@@ -12,7 +12,7 @@ There is also a specific production module to manage the core of manufacturing. 
 
 @@name Production consists of 4 main modules:
 
-* **[Recipes](product-technologies.md)** - it enables the manufacturer to form the components of each item and the operational steps and supports multiple recipes for a single product type
+* **[Product technologies](product-technologies.md)** - it enables the manufacturer to form the components of each item and the operational steps and supports multiple recipes for a single product type
 * **[Capacity Requirements Planning (CRP)](crp.md)** - it monitors the percentage load of manufacturing resources, the scheduling of production activities, and Gantt charts
 * **[Material Requirements Planning (MRP)](mrp.md)** - it takes care of production planning and supply
-* **[Shop Floor Control (SFC)](shop-floor.md)** -  it manages the core manufacturing process. In the module, the manufacturer can create production orders, monitor inputs, and make reports about activities (used materials and operations) and production
+* **[Shop Floor Control (SFC)]** -  it manages the core manufacturing process. In the module, the manufacturer can create production orders, monitor inputs, and make reports about activities (used materials and operations) and production
