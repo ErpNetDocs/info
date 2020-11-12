@@ -15,7 +15,7 @@ They are used to manage the different aspects of the Financials processes:
 * **[Accounting](accounting.md)** 
 * **[Cash flows](cash-flows.md)**
 * **[Cost Accounting](cost-accounting.md)**
-* **[Excise](excise.md)**
+* **Excise**
 * **[Financial Analysis](financial-analysis.md)**
 * **[Fixed Assets](fixed-assets.md)**
 * **[Intrastat](intrastat-reporting.md)**
