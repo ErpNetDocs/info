@@ -5,7 +5,7 @@
 		
 
 * ERP.net_Logo_Vertical_Blue.svg 
-![High Availability](high-availabil;ity.png)
+![ERP.net_Logo_Vertical_Blue](erp_blue_square.svg)
 * ERP.net_Logo_Horizontal_Blue.svg
 * ERP.net_Logo_Vertical_White.svg
 * ERP.net_Logo_Horizontal_White.svg
