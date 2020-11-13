@@ -444,7 +444,19 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/accounting.html",
-          "hash": "S5cqqtziY6vicHbigK7xTw=="
+          "hash": "QZNzMWnwMtAkeZ+Gfc8tkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/cash-flows.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/cash-flows.html",
+          "hash": "WNWcC7EZTI7iQe/iWkI56w=="
         }
       },
       "is_incremental": false,
@@ -456,7 +468,7 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/cost-accounting.html",
-          "hash": "pVfUomyN8zSwnhMsHhSz+Q=="
+          "hash": "uDxq7MxNXk/Aqxt3jhhejg=="
         }
       },
       "is_incremental": false,
@@ -480,7 +492,19 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/financial-analysis.html",
-          "hash": "0acigHiC+ZPIBU5OtSGfCA=="
+          "hash": "GRtF+AIKJxGixxmc3EY+lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/fixed-assets.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/fixed-assets.html",
+          "hash": "Vfohw/DHNukSbcH4tjByDg=="
         }
       },
       "is_incremental": false,
@@ -492,7 +516,7 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/index.html",
-          "hash": "x3d4kLIlkcDDFY/uBljFuw=="
+          "hash": "pLj17hI8qDE61yMJsB8Rlw=="
         }
       },
       "is_incremental": false,
@@ -504,7 +528,7 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/intrastat-reporting.html",
-          "hash": "gN+p0qN7vIPzBMep1fsXOA=="
+          "hash": "5kmQZhvvFsfrtnNOZlcf3Q=="
         }
       },
       "is_incremental": false,
@@ -528,7 +552,7 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/vat-reporting.html",
-          "hash": "dLNRKgY8MhBhjJ5Mhlr0Fg=="
+          "hash": "Ue7EcoK3DzzvzOF4gFZGJA=="
         }
       },
       "is_incremental": false,
@@ -754,7 +778,7 @@
       "output": {
         ".html": {
           "relative_path": "features/logistics/index.html",
-          "hash": "pk5wfrWB7E2okN0qFDEEiA=="
+          "hash": "NEqLsGlwJwJ/KjymSgM55A=="
         }
       },
       "is_incremental": false,
@@ -790,7 +814,7 @@
       "output": {
         ".html": {
           "relative_path": "features/production/crp.html",
-          "hash": "HBrIOL7kGioi1/IkM1H/yQ=="
+          "hash": "0E31Y5hPz/2Sy4j4dh0dGA=="
         }
       },
       "is_incremental": false,
@@ -802,7 +826,7 @@
       "output": {
         ".html": {
           "relative_path": "features/production/index.html",
-          "hash": "nAug1LliFU9e3Q+4tSPKAQ=="
+          "hash": "dlq8CRCnm20jxHvpEQb7TA=="
         }
       },
       "is_incremental": false,
@@ -814,7 +838,7 @@
       "output": {
         ".html": {
           "relative_path": "features/production/mrp.html",
-          "hash": "Ruvvoyw0gqV4Wto3+FFs5g=="
+          "hash": "Ayu8znnwPcvAP+Nbvh4T0w=="
         }
       },
       "is_incremental": false,
@@ -838,7 +862,7 @@
       "output": {
         ".html": {
           "relative_path": "features/production/product-technologies.html",
-          "hash": "7duIr2vMevPhqH93KAz+UQ=="
+          "hash": "/NlBZGFdKHL0gMjwoZUjww=="
         }
       },
       "is_incremental": false,
@@ -898,7 +922,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "LvRVS/4iw6nuRzKtZ4wCCg=="
+          "hash": "RiE6nJuS8m1GqHvX30rnkg=="
         }
       },
       "is_incremental": false,
