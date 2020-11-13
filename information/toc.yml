@@ -9,3 +9,6 @@
 - name: Questions & Answers
   href: qa/toc.yml
   topicHref: qa/index.md
+- name: Logos & Banners
+  href: logos-banners.md
+  
