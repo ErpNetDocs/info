@@ -1002,6 +1002,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/logos-banners.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/logos-banners.html",
+          "hash": "v4aEfEoRr8GgoQXdIB4/Jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/qa/crm-qa.md",
       "output": {
         ".html": {
@@ -1173,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "6AoEQ9Dtv4CVv4g1Q+RpKg=="
+          "hash": "LLl/kW10pu3/ybON7UjDIA=="
         }
       },
       "is_incremental": false,
