@@ -4,7 +4,7 @@
 ## ERP.net
 		
 
-* ERP.net_Logo_Vertical_Blue.svg       [ALL // no condition needed](https://confluence.erp.net/display/techdoc/Country+Specific+Functionality) 
+* ERP.net_Logo_Vertical_Blue.svg       [ERP.net_Logo_Vertical_Blue.svg](https://u.pcloud.link/publink/show?code=XZWyvzXZN4AWKNOVFT4KvqnPfeTYhSp7Pfmy) 
 * ERP.net_Logo_Horizontal_Blue.svg
 * ERP.net_Logo_Vertical_White.svg
 * ERP.net_Logo_Horizontal_White.svg
