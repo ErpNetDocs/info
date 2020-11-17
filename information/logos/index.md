@@ -15,7 +15,7 @@
 * [ERP.net_Logo_Vertical_Blue_2.0x.png](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Vertical_Blue_2.0x.png)
 * [ERP.net_Logo_Horizontal_Blue_2.0x.png](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Horizontal_Blue_2.0x.png)
 * [ERP.net_Logo_Vertical_White_2.0x.png](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Vertical_White_2.0x.png)
-* [ERP.net_Logo_Horizontal_White_2.0x.png]()
+* [ERP.net_Logo_Horizontal_White_2.0x.png](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Horizontal_White_2.0x.png)
 		
 
 ## Powered by ERP.net
