@@ -22,7 +22,7 @@ The main objective of @@name Logistics is to help you provide products and mater
 
 * **Expedition** - organizes and prepares dispatching orders to customers
 * **[Warehouse](warehouse_management.md)** - distributes orders and helps you control the execution of storage operations that lead to changes in inventory
-* **[Supply Planning / DRP](mrp.md)** - built-in supply optimization models and product provisioning methods
+* **[Supply Planning / DRP](production/mrp.md)** - built-in supply optimization models and product provisioning methods
 
 ## Features 
 
