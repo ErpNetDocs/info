@@ -1,8 +1,11 @@
 - name: Overview
   href: index.md
+- name: Barcode Control
+  href: barcode-control.md
 - name: Lot Tracking
   href: lot-tracking.md
 - name: Serial Numbers
   href: serial-numbers.md 
-- name: Barcode Control
-  href: barcode-control.md
+- name: Warehouse Management
+  href: warehouse_management.md
+  
