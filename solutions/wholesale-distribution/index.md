@@ -14,13 +14,15 @@ The sales process is conducted faster and more easily, no matter where your cust
 
 ## Features
 
-* Pricing 
+* [Pricing](~/features/crm/pricing.md)
+* [Field sales](~/features/third-party-apps/mobileseller.md)
 * [Order Management](~/features/crm/sales.md)
-* Warehouse management
-* Barcode control
-* Field sales
-* Business Intelligence
-* Unified communications
+* [Warehouse management](~/features/logistics/warehouse_management.md)
+* [Barcode control](~/features/logistics/barcode-control.md)
+* [Lot Tracking](~/features/logistics/lot-tracking.md)
+* [Financials](~/features/financials/index.md)
+* [Business Intelligence](~/features/general/business-intelligence.md)
+* [Unified communications](~/features/crm/unified-communications.md)
 
 ## Case Studies
 
