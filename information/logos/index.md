@@ -4,7 +4,7 @@
 ## ERP.net
 		
 
-* [ERP.net_Logo_Vertical_Blue.svg](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Vertical_Blue.svg) 
+* [ERP.net_Logo_Vertical_Blue.svg]() 
 * [ERP.net_Logo_Horizontal_Blue.svg](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Horizontal_Blue.svg)
 * [ERP.net_Logo_Vertical_White.svg](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Vertical_White.svg)
 * [ERP.net_Logo_Horizontal_White.svg](https://github.com/ErpNetDocs/info/blob/main/information/logos/ERP.net_Logo_Horizontal_White.svg)
