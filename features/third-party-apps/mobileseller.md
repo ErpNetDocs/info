@@ -42,3 +42,8 @@ Mobile Seller has integrated support for barcode scanner. The feature is very su
 ## Back Office Synchronization
 
 Sales orders, invoices and payments entered in Mobile Seller is automatically sync with the ERP system. Meanwhile, all changes made about customers, products, prices, discounts, etc. in @@name will be reflected in Mobile Seller.
+
+## Mobile Seller can be downloaded from:
+
+https://play.google.com/store/apps/details?id=air.zrGTBxW1fAUg6WclT7YP
+
