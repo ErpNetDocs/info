@@ -29,17 +29,17 @@ Product cards hold the information that is required to buy, sell and account for
 * Catalog Description HTML:
 * Product Supply:
 * Shop Floor and Procurement Planning:
-* Offer Lines:
-* Sales Order Lines:
-* Shipment Order Lines:
-* Shipment Lines:
-* Invoice Lines:
-* Purchase Order Lines:
-* Receiving Order Lines:
-* Purchase Invoice Lines:
-* Store Order Lines:
-* Transaction Lines:
 * Product Document Amounts:
 * Available Quantities:
 * Current Stock Holds:
+* **Offer Lines**: contains information about the offer lines for the selected product
+* **Sales Order Lines**: contains information about the sales order lines for the selected product
+* **Shipment Order Lines**: contains information about the shipment order lines for the selected product
+* **Shipment Lines**: contains information about the shipment lines for the selected product
+* **Invoice Lines**: contains information about the invoice lines for the selected product
+* **Purchase Order Lines**: contains information about the purchase order lines for the selected product
+* **Receiving Order Lines**: contains information about the receiving order lines for the selected product
+* **Purchase Invoice Lines**: contains information about the purchase invoice lines for the selected product
+* **Store Order Lines**: contains information about the store order lines for the selected product
+* **Transaction Lines**: contains information about the transaction lines for the selected product
 
