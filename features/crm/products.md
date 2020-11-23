@@ -18,20 +18,13 @@ Product cards hold the information that is required to buy, sell and account for
 * **Product Distribution Channels**: allows you to specify through which distribution channels the product is sold
 * **Purchase Product Prices**: allows you to set the purchase prices of the selected product
 * **Bonus Programs**: allows you to set up a bonus - an additional free product or discount, based on the quantities of products or services purchased by the customer.
-* Bonus Program Products: 
-* Customer Products: 
-* Default Store Bins 
-* Lots: 
-* Serial Numbers:
-* Recipes:
-* Product Structure:
-* Product Structure – Material:
-* Catalog Description HTML:
-* Product Supply:
-* Shop Floor and Procurement Planning:
-* Product Document Amounts:
-* Available Quantities:
-* Current Stock Holds:
+* **Default Store Bins**: allows you to set the store bins where the products are situated by default  
+* **Lots**: contains information about the product lots
+* **Serial Numbers**: contains information about the product serial numbers
+* **Recipes**: contains information about the product recipes
+* **Product Supply**: allows you to set preferred supplier and planning parameters for purchase planning 
+* **Product Document Amounts**: 
+* **Available Quantities**: contains information about product quantities and available to promise quantities
 * **Offer Lines**: contains information about the offer lines for the selected product
 * **Sales Order Lines**: contains information about the sales order lines for the selected product
 * **Shipment Order Lines**: contains information about the shipment order lines for the selected product
