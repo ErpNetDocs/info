@@ -28,7 +28,7 @@ if ($lastexitcode -eq 1) {
 }
 
 Write-Host "Getting Latest Changes"
-git checkout master
+git checkout main
 git pull --rebase
 
 Write-Host "Building docfx"
