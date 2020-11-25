@@ -106,6 +106,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/crm/ProductCard.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/ProductCard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/crm/SalesPrice.png",
       "output": {
         "resource": {
