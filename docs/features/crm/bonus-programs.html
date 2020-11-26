@@ -8,7 +8,7 @@
     <title>Bonus Programs | ERP.net Information </title>
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Bonus Programs | ERP.net Information ">
-    <meta name="generator" content="docfx 1.0.0.0">
+    <meta name="generator" content="docfx 2.56.2.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
     <link rel="stylesheet" href="../../styles/docfx.vendor.css">
@@ -79,6 +79,22 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="bonus-programs">Bonus Programs</h1>
 
+<p>The bonus program is used for offering a bonus - an additional free product or discount, based on the quantities of products or services purchased by the customer.</p>
+<h2 id="required-fields">Required fields</h2>
+<ul>
+<li><strong>Bonus Program Name</strong>: allows you to enter a unique name of the bonus program</li>
+<li><strong>Bonus Action</strong>:  allows you to choose whether the bonus is a product or a discount. If you choose a product, you also must fill: <strong>Bonus Product</strong>, <strong>Bonus Product Quantity</strong>, <strong>Bonus Product Quantity Unit</strong>. If you choose a discount, you also must fill <strong>Bonus Line Discount Percent</strong></li>
+<li><strong>Bonus Line Discount Percent</strong>: allows you to specify the percentage discount for a sales line. The discount from the bonus program replaces the standard discount.</li>
+<li><strong>Bonus Product</strong>: choose the product that is received free of charge if the conditions of the bonus program are fulfilled</li>
+<li><strong>Bonus Product Quantity</strong>: allows you to specify how much of the bonus product the customer will receive</li>
+<li><strong>Bonus Product Quantity Unit</strong>: allows you to specify the unit of measure of the bonus product</li>
+<li><strong>Condition Product</strong>: allows you to specify a product for the sale of which the current bonus program will apply. If no product is specified and the field is empty, the conditions set in the other fields will be checked for the entire Sales Order. The bonus program can also be applied to more than one product. In this case it is necessary to specify all of the products that are included in the bonus program in the panel <strong>Bonus Program Products</strong>.</li>
+<li><strong>Priority</strong>:  allows you to determine which bonus program to execute when two or more bonus programs are applicable. Higher numbers give higher priority.</li>
+<li><strong>Active</strong>: you can specify whether the bonus program is active</li>
+</ul>
+<h2 id="condition-fields">Condition fields</h2>
+<p>These fields allow you to specify in detail the conditions under which the bonus program will be executed. You can apply conditions for: <strong>Min and Max Quantity, Min and Max Amount, From Date, To Date, Customer, Ship to Customer, Target Group, Price List, Document Currency</strong></p>
+<p><img src="BonusPrograms.png" alt="BonusPrograms"></p>
 </article>
           </div>
           
@@ -87,7 +103,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/info/blob/main/features/crm/bonus-programs.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/erpnetdocs/info/blob/main/features/crm/bonus-programs.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>

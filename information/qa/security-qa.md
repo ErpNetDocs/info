@@ -1,5 +1,15 @@
 # Security & Auditing Q&A
 
+## Security
+
+### Can the user permissions be assigned by using groups or roles?
+
+Yes.
+
+For more information, see [Security](../system-information/security.md#user-groups).
+
+## Auditing
+
 ### Are login and logouts of users tracked?
 
 Yes.
