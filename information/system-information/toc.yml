@@ -6,5 +6,7 @@
   href: high-availability.md
 - name: Disaster Recovery
   href: disaster-recovery.md
-- name: Logging
+- name: Security
+  href: security.md
+- name: Auditing
   href: logging.md

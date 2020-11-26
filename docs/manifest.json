@@ -1862,6 +1862,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/system-information/auditing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/auditing.html",
+          "hash": "WHhlbVRtFNuBZeosJMugQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/system-information/disaster-recovery.md",
       "output": {
         ".html": {
@@ -1909,18 +1921,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "information/system-information/logging.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/system-information/logging.html",
-          "hash": "KyyqdOMxFQoo92zDlDa32A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "information/system-information/security.md",
       "output": {
         ".html": {
@@ -1949,7 +1949,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "NkVJGaB84c9zrHcEMQuZxA=="
+          "hash": "yXEtni4T8r/WBJDXPV/ptw=="
         }
       },
       "is_incremental": false,

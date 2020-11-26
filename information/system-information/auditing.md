@@ -1,4 +1,6 @@
-# Log of everything
+# Auditing
+
+## Log of everything
 
 Everything in an @@name instance can be logged.
 This includes, but is not limited to:
