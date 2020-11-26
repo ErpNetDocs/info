@@ -1,5 +1,7 @@
 - name: Overview
   href: index.md
+- name: Bonus Programs
+  href: bonus-programs.md
 - name: Client Center
   href: client-center.md
 - name: Contact and Task Management
@@ -10,6 +12,8 @@
   href: presales.md
 - name: Pricing
   href: pricing.md
+- name: Products
+  href: products.md
 - name: Product Configurator
   href: product-configurator.md
 - name: Order Management
