@@ -18,3 +18,4 @@ The bonus program is used for offering a bonus - an additional free product or d
 
 These fields allow you to specify in detail the conditions under which the bonus program will be executed. You can apply conditions for: Min and Max Quantity, Min and Max Amount, From Date, To Date, Customer, Ship to Customer, Target Group, Price List, Document Currency
 
+![BonusPrograms](BonusPrograms.png)
