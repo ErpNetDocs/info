@@ -658,17 +658,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "features/crm/BonusPrograms.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/crm/BonusPrograms.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "features/crm/PricingModels.png",
       "output": {
         "resource": {
@@ -728,7 +717,62 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/bonus-programs.html",
-          "hash": "K+v34ejO0wTO9cHS3f8ubA=="
+          "hash": "BXYBMPUXP5ZXNqntLKYrrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/bpfree.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/bpfree.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/bpfreesl.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/bpfreesl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/bpget10.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/bpget10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/bpget10sl.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/bpget10sl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/bpsave40.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/bpsave40.png"
         }
       },
       "is_incremental": false,
@@ -920,7 +964,19 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/cost-accounting.html",
-          "hash": "V03arpjo/OsA1cSXRTvAvQ=="
+          "hash": "yJ5k6vwyXXjpr+89ElNi1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/financials/costs.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/costs.html",
+          "hash": "TfeaeCyK0N4TW6L2UlZIZw=="
         }
       },
       "is_incremental": false,
@@ -968,7 +1024,7 @@
       "output": {
         ".html": {
           "relative_path": "features/financials/index.html",
-          "hash": "OMHq8Hlb6uZ6xxybXKwBIw=="
+          "hash": "jzKyi6zDCDPZbCBbozCnRQ=="
         }
       },
       "is_incremental": false,
@@ -1398,7 +1454,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "o5Q7CBh5xOAr7IknQAd4HQ=="
+          "hash": "feYvT3j63mFvQsQA0m1yCA=="
         }
       },
       "is_incremental": false,
