@@ -139,6 +139,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/crm/bpfree.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/bpfree.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/bpfreesl.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/bpfreesl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/bpget10.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/bpget10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/bpget10sl.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/bpget10sl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/crm/bpsave40.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/crm/bpsave40.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/general/WebView.png",
       "output": {
         "resource": {
