@@ -757,6 +757,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "features/crm/PromoPackage.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/PromoPackage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/crm/PromoPackageSales.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/crm/PromoPackageSales.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "features/crm/SalesPrice.png",
       "output": {
         "resource": {
@@ -899,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/index.html",
-          "hash": "i4zKSzR/pm7/OwHx3UgVKA=="
+          "hash": "NElg2ptvPkdqM2knpBOm5A=="
         }
       },
       "is_incremental": false,
@@ -959,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/promotional-packages.html",
-          "hash": "RlG/3Fp6c4aj/0230CbpPw=="
+          "hash": "35l2xrgzeL+KgrjjWOEE6Q=="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1531,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "feYvT3j63mFvQsQA0m1yCA=="
+          "hash": "G/jXdA4baWLWWCOOnIxkhA=="
         }
       },
       "is_incremental": false,
