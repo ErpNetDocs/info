@@ -28,8 +28,8 @@ Each industry solution contains general description, highlighted features, custo
 
 ## Features
 
-Use this section to read more about the different modules and features of @@name.
 The system features are arguably one of the most important factors when selecting an ERP.
+Use this section to read more about the different modules and features of @@name.
 
 * [General](~/features/general/index.md) - General features, applicable to all modules.
 * [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
