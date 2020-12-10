@@ -1195,7 +1195,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/calculated-attributes.html",
-          "hash": "2ENeCg/8Tgd5qNHo0cZhsA=="
+          "hash": "bZwHS5iJpgnzwql0013xYA=="
         }
       },
       "is_incremental": false,
@@ -1207,7 +1207,7 @@
       "output": {
         ".html": {
           "relative_path": "features/general/custom-attributes.html",
-          "hash": "paUQ/JyWXL2MO6pqinNhJg=="
+          "hash": "2fhxeSX+4sJRoJLbHv1PKg=="
         }
       },
       "is_incremental": false,
@@ -1292,6 +1292,17 @@
         ".html": {
           "relative_path": "features/general/reporting.html",
           "hash": "3g4uD3u0m23PQHVcrTBakA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/general/user-data-attributes.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/user-data-attributes.png"
         }
       },
       "is_incremental": false,
@@ -1589,7 +1600,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "NE7oGZJI+LiyhoEtK+xxGQ=="
+          "hash": "2mtwKl2Dajvz99lIoufjFg=="
         }
       },
       "is_incremental": false,
