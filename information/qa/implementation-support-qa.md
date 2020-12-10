@@ -1,1 +1,0 @@
-# Implementation & Support Q&A

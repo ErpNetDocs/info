@@ -1,4 +1,4 @@
-# Hosting & Reliability Q&A
+# Hosting & Reliability FAQ
 
 ## High Availability & Monitoring
 

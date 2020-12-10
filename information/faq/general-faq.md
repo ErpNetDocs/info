@@ -1,4 +1,6 @@
-# General Questions & Answers
+# General FAQ
+
+## Integrations
 
 ### Is there open and documented API available for integrations?
 

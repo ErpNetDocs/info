@@ -1,4 +1,4 @@
-# Security & Auditing Q&A
+# Security & Auditing FAQ
 
 ## Security
 

@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Security &amp; Auditing FAQ | ERP.net Information </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Security &amp; Auditing FAQ | ERP.net Information ">
+    <meta name="generator" content="docfx 2.56.2.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="security--auditing-faq">Security &amp; Auditing FAQ</h1>
+
+<h2 id="security">Security</h2>
+<h3 id="can-the-user-permissions-be-assigned-by-using-groups-or-roles">Can the user permissions be assigned by using groups or roles?</h3>
+<p>Yes.</p>
+<p>For more information, see <a href="../system-information/security.html#user-groups">Security</a>.</p>
+<h2 id="auditing">Auditing</h2>
+<h3 id="are-login-and-logouts-of-users-tracked">Are login and logouts of users tracked?</h3>
+<p>Yes.</p>
+<p>The login and logout actions are tracked automatically and available in the tracking log.
+There is no need to activate anything - this functionality is always active.</p>
+<h3 id="can-the-system-track-updates-to-data">Can the system track updates to data?</h3>
+<p>Yes.</p>
+<p>Since tracking every update could be very space-consuming, this is subject to configuration.</p>
+<p>Track changes can track information about:</p>
+<ul>
+<li>The latest update to the record</li>
+<li>Each update to the record</li>
+<li>Each update to each attribute</li>
+</ul>
+<p>For more information, see <a class="xref" href="https://erpnetdocs.github.io/tech/advanced/track-changes.html">Track Changes</a>.</p>
+<h3 id="can-the-system-track-updates-to-individual-data-attributes">Can the system track updates to individual data attributes?</h3>
+<p>Yes.</p>
+<p>Track changes can track updates to attributes.</p>
+<h3 id="can-updates-to-user-defined-attributes-be-tracked">Can updates to user defined attributes be tracked?</h3>
+<p>Yes.</p>
+<p>Changes to user-defined attributes are tracked the same way as updates to system attributes.</p>
+<h3 id="can-the-system-track-reads">Can the system track reads?</h3>
+<p>Yes.</p>
+<p>To achieve the highest level of audit tracking and GDPR compliance, the system can be configured to track reads.
+This can be very space-consuming and should be used judiciously.</p>
+<p>Both reads of individual records and requests for general reports can be tracked.</p>
+<ul>
+<li>Report requests tracks just as the applied filters, not the actual data read.</li>
+<li>Individual record reads track the Id of the opened record.</li>
+</ul>
+<h3 id="is-access-to-personal-data-tracked">Is access to personal data tracked?</h3>
+<p>Yes.</p>
+<p>It is the same auditing system, used to track reads, but configured for personal data.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/erpnetdocs/info/blob/main/information/faq/security-faq.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

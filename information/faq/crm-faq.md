@@ -1,4 +1,6 @@
-# Questions & Answers related to CRM
+# CRM FAQ
+
+## Unified Communications
 
 ### What call center functionalities are available?
 

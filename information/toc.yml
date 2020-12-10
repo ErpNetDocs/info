@@ -6,9 +6,8 @@
 - name: System Information
   href: system-information/toc.yml
   topicHref: system-information/index.md
-- name: Questions & Answers
-  href: qa/toc.yml
-  topicHref: qa/index.md
+- name: Frequently Asked Questions
+  href: faq/toc.yml
+  topicHref: faq/index.md
 - name: Logos
   href: Logos/index.md
-  

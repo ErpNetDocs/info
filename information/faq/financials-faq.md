@@ -1,4 +1,6 @@
-# Questions & Answers related to the Financials subsystem
+# Financials FAQ
+
+## General Ledger
 
 ### Are Cost Centers supported?
 

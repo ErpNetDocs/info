@@ -1,4 +1,4 @@
-# Reporting & Business Intelligence Questions & Answers
+# Reporting & Business Intelligence FAQ
 
 ### Can I use external BI tool to analyze the data in @@name instance?
 

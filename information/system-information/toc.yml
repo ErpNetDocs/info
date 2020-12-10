@@ -9,4 +9,4 @@
 - name: Security
   href: security.md
 - name: Auditing
-  href: logging.md
+  href: auditing.md
