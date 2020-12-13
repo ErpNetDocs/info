@@ -8,7 +8,7 @@
     <title>Zone Based Routing | ERP.net Information </title>
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Zone Based Routing | ERP.net Information ">
-    <meta name="generator" content="docfx 2.56.2.0">
+    <meta name="generator" content="docfx 1.0.0.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
     <link rel="stylesheet" href="../../styles/docfx.vendor.css">
@@ -80,19 +80,34 @@
 <h1 id="zone-based-routing">Zone Based Routing</h1>
 
 <h2 id="the-basic-idea">The basic idea</h2>
-<p>With Zone based routing, the rules for processing the goods are determined based on the zone, in which the goods are stored for each step. The zones are sequentially numbered, relative to their &quot;closeness&quot; to final shipping. For example:</p>
+<p>With Zone based routing, the rules for processing the goods are determined based on the zone, in which the goods are stored for each step.
+The zones are sequentially numbered, relative to their &quot;closeness&quot; to final shipping. For example:</p>
 <blockquote>
 <p>1 IN -&gt; 2 INSP -&gt; 3 BULK -&gt; 4 PICK -&gt; 5 KIT -&gt; 6 PACK -&gt; 7 OUT</p>
 <p>RECEIVE ------------&gt; --OPTIMIZE--&gt; ----------------&gt; DISPATCH</p>
 </blockquote>
-<p>The main processes in the warehouse - receive, optimize and dispatch, are ordered consecutively through the zone sequence. The receive process starts at the inbound docks and runs until goods are placed in bulk. The optimization process usually deals with replenishment of the picking zones, but can also be used for pre-kitting. The planning of the dispatch process works backwards - from the final step (the dispatch from the outbound docks) to the first step (usually picking). This is similar to how MRP/DRP works, but applied for WMS.</p>
-<p>Zone based routing and sequencing provides great flexibility in the route formation process, while keeping things simple and understandable for the process designers. It allows the process designers to focus separately on each zone, leaving the complex full routing formation to the system. Zone based routing allows programming of very complicated routes, while still keeping things simple and maintainable.</p>
+<p>The main processes in the warehouse - receive, optimize and dispatch, are ordered consecutively through the zone sequence.
+The receive process starts at the inbound docks and runs until goods are placed in bulk.
+The optimization process usually deals with replenishment of the picking zones, but can also be used for pre-kitting.
+The planning of the dispatch process works backwards - from the final step (the dispatch from the outbound docks) to the first step (usually picking).
+This is similar to how MRP/DRP works, but applied for WMS.</p>
+<p>Zone based routing and sequencing provides great flexibility in the route formation process, while keeping things simple and understandable for the process designers.
+It allows the process designers to focus separately on each zone, leaving the complex full routing formation to the system.
+Zone based routing allows programming of very complicated routes, while still keeping things simple and maintainable.</p>
 <h2 id="how-it-works">How it works?</h2>
-<p>For each zone, there are rules, which define how the goods will be processed, when they pass the zone. The rules for a zone are defined separately for each of the WMS processes - receive, dispatch and replenishment. The full route is the concatenation of all route steps for each consecutive zone.</p>
+<p>For each zone, there are rules, which define how the goods will be processed, when they pass the zone.
+The rules for a zone are defined separately for each of the WMS processes - receive, dispatch and replenishment.
+The full route is the concatenation of all route steps for each consecutive zone.</p>
 <h2 id="hierarchical-rules">Hierarchical rules</h2>
-<p>Since zones are hierarchical, for any given zone there might be multiple rules, coming from different levels of the hierarchy. All rules in the hierarchy are combined when creating the routing. Combining the rules is performed separately for each STEP NO within each zone. To determine the &quot;winning&quot; rule for each step, the RULE PRIORITY is used within all rules, which satisfy the RULE CONDITIONs.</p>
+<p>Since zones are hierarchical, for any given zone there might be multiple rules, coming from different levels of the hierarchy.
+All rules in the hierarchy are combined when creating the routing.
+Combining the rules is performed separately for each STEP NO within each zone.
+To determine the &quot;winning&quot; rule for each step, the RULE PRIORITY is used within all rules, which satisfy the RULE CONDITIONs.</p>
 <h2 id="start-and-finish-of-the-process">Start and finish of the process</h2>
-<p>The receive process starts at the inbound dock and is planned through the zones, until there are no more steps. Usually, it finishes at the BULK zone. The dispatch process works in the opposite way - it first determines the quantities needed at the outbound docks, and than determines what previous steps could supply these quantities. The optimization process is a middle ground - it just runs for all zones, for which there is a definition for the optimization process.</p>
+<p>The receive process starts at the inbound dock and is planned through the zones, until there are no more steps.
+Usually, it finishes at the BULK zone.
+The dispatch process works in the opposite way - it first determines the quantities needed at the outbound docks, and than determines what previous steps could supply these quantities.
+The optimization process is a middle ground - it just runs for all zones, for which there is a definition for the optimization process.</p>
 </article>
           </div>
           
@@ -101,7 +116,7 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/erpnetdocs/info/blob/main/features/logistics/wms-zone-based-routing.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/info/blob/main/features/logistics/wms-zone-based-routing.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
