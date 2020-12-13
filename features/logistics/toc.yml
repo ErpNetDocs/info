@@ -8,4 +8,6 @@
   href: serial-numbers.md 
 - name: Warehouse Management
   href: warehouse_management.md
+- name: WMS Zone-based routing
+  href: wms-zone-based-routing.md
   
