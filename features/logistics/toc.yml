@@ -10,4 +10,5 @@
   href: warehouse_management.md
 - name: WMS Zone-based routing
   href: wms-zone-based-routing.md
-  
+- nameL WMS Zone-based routing examples
+  href: wms-zone-based-routing-examples.md
