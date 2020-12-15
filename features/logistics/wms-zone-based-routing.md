@@ -38,3 +38,7 @@ The receive process starts at the inbound dock and is planned through the zones,
 Usually, it finishes at the BULK zone.
 The dispatch process works in the opposite way - it first determines the quantities needed at the outbound docks, and than determines what previous steps could supply these quantities.
 The optimization process is a middle ground - it just runs for all zones, for which there is a definition for the optimization process.
+
+Related topics:
+
+* [Zone-based routing examples](wms-routing-examples.md)
