@@ -82,12 +82,12 @@
 <p>This article contains workflow examples and zone-based rules for warehouse management.
 The rules are portrait in a simplified manner just for demonstration purposes.
 The actual rules, although more complicated, are still easy to manage by the WMS process designers.</p>
-<h2 id="typical-flow">Typical flow</h2>
+<h2 id="typical-flow">TYPICAL FLOW</h2>
 <p>In the typical flow, the zones are sequantially numbered from 1 to 6, depending on their closeness to shipping.</p>
 <blockquote>
 <p>1 IN → 2 INSP → 3 BULK → 4 PICK → 5 PACK → 6 OUT</p>
 </blockquote>
-<h3 id="receive">RECEIVE</h3>
+<h3 id="on-receive">ON Receive</h3>
 <p>ON RECEIVE process rules for each zone:</p>
 <ol>
 <li>IN → INSP</li>
@@ -96,25 +96,25 @@ The actual rules, although more complicated, are still easy to manage by the WMS
 </ol>
 <p>The receive process moves the goods from the inbound docks to the inspection zone.
 After the goods are inspected, they are moved either to the bulk storage zone or to the quarantine zone.</p>
-<h3 id="optimize">OPTIMIZE</h3>
+<h3 id="on-optimize">ON Optimize</h3>
 <ol>
 <li>BULK → PICK (based on minimal qty)</li>
 </ol>
 <p>The optimize process is run twice per day.
 It ensures, that the picking zone has enough quantities to serve sales orders.</p>
-<h3 id="dispatch">DISPATCH</h3>
+<h3 id="on-dispatch">ON Dispatch</h3>
 <ol>
 <li>PICK → PACK</li>
 <li>PACK → OUT</li>
 <li>OUT: DISPATCH</li>
 </ol>
 <p>After a sales order is picked, it is sent to the packing tables and then to the outbound docks.</p>
-<h2 id="flow-with-kitting">Flow with kitting</h2>
+<h2 id="kitting">KITTING</h2>
 <p>With the kitting workflow, some items might need kitting, before they are sent to the customers.</p>
 <blockquote>
 <p>1 IN → 2 INSP → 3 BULK → 4 PICK → 5 KIT → 6 PACK → 7 OUT</p>
 </blockquote>
-<h3 id="receive-1">RECEIVE</h3>
+<h3 id="on-receive-1">ON Receive</h3>
 <ol>
 <li>IN → INSP</li>
 <li>Q:OK INSP → BULK</li>
@@ -122,7 +122,7 @@ It ensures, that the picking zone has enough quantities to serve sales orders.</
 </ol>
 <p>The receive process moves the goods from the inbound docks to the inspection zone.
 After the goods are inspected, they are moved either to the bulk storage zone or to the quarantine zone.</p>
-<h3 id="optimize-1">OPTIMIZE</h3>
+<h3 id="on-optimize-1">ON Optimize</h3>
 <ol>
 <li>BULK → PICK (based on minimal qty)</li>
 <li>PICK: KIT</li>
@@ -130,7 +130,7 @@ After the goods are inspected, they are moved either to the bulk storage zone or
 <p>The optimize process is run twice per day.
 It ensures, that the picking zone has enough quantities to serve sales orders.
 The kitting task is performed in the picking zone, again based on minimal quantities.</p>
-<h3 id="dispatch-1">DISPATCH</h3>
+<h3 id="on-dispatch-1">ON Dispatch</h3>
 <ol>
 <li>PICK → PACK</li>
 <li>KIT → PACK</li>
@@ -141,26 +141,26 @@ The kitting task is performed in the picking zone, again based on minimal quanti
 If there are enough quantities in the picking zone, the order is picked immediately.
 If not, the remaining quantities are scheduled for kitting first.</p>
 <p>After a sales order is kitted and picked, it is sent to the packing tables and then to the outbound docks.</p>
-<h2 id="cross-docking">Cross-docking</h2>
+<h2 id="cross-docking">CROSS-DOCKING</h2>
 <blockquote>
 <p>1 IN → 2 OUT</p>
 </blockquote>
-<h3 id="receive-2">RECEIVE</h3>
+<h3 id="on-receive-2">ON Receive</h3>
 <ol>
 <li>IN: IF CROSS_DOCK → OUT</li>
 </ol>
-<h3 id="dispatch-2">DISPATCH</h3>
+<h3 id="on-dispatch-2">ON Dispatch</h3>
 <ol>
 <li>OUT: DISPATCH</li>
 </ol>
 <p>Of course, the above rules can be easily combined with other rules.</p>
-<h2 id="labelling">Labelling</h2>
+<h2 id="labelling">LABELLING</h2>
 <p>The rules for labelling can easily be combined with other rules:</p>
-<h3 id="optimize-2">OPTIMIZE</h3>
+<h3 id="on-optimize-2">ON Optimize</h3>
 <ol>
 <li>PICK: LABEL (based on minimal qty)</li>
 </ol>
-<h3 id="dispatch-3">DISPATCH</h3>
+<h3 id="on-dispatch-3">ON Dispatch</h3>
 <ol>
 <li>PICK: LABEL (based on order qty)</li>
 </ol>
