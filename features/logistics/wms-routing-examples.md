@@ -1,6 +1,6 @@
-# Routing examples
+# WMS Routing examples
 
-This article contains workflow examples and zone-based rules.
+This article contains workflow examples and zone-based rules for warehouse management.
 The rules are portrait in a simplified manner just for demonstration purposes.
 The actual rules, although more complicated, are still easy to manage by the WMS process designers.
 
