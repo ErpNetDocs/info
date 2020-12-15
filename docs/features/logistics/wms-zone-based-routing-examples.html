@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Zone-based routing examples | ERP.net Information </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Zone-based routing examples | ERP.net Information ">
+    <meta name="generator" content="docfx 2.56.3.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    <meta property="docfx:rel" content="../../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="zone-based-routing-examples">Zone-based routing examples</h1>
+
+<p>This article contains workflow examples and zone-based rules.</p>
+<h2 id="typical-flow">Typical flow</h2>
+<p>In the typical flow, the zones are sequantially numbered from 1 to 6, depending on their closeness to shipping.</p>
+<blockquote>
+<p>1 IN → 2 INSP → 3 BULK → 4 PICK → 5 PACK → 6 OUT</p>
+</blockquote>
+<h3 id="receive-process">RECEIVE process</h3>
+<p>ON RECEIVE rules for each zone:</p>
+<ol>
+<li>IN → INSP</li>
+<li>Q:OK INSP → BULK</li>
+<li>Q:NOT-OK INSP → QUARANTINE</li>
+</ol>
+<p>The receive process moves the goods from the inbound docks to the inspection zone.
+After the goods are inspected, they are moved either to the bulk storage zone or to the quarantine zone.</p>
+<h3 id="optimize-process">OPTIMIZE process</h3>
+<p>ON OPTIMIZE rules for each zone:</p>
+<ol>
+<li>BULK → PICK (based on minimal qty)</li>
+</ol>
+<p>The optimize process is run twice per day.
+It ensures, that the picking zone has enough quantities to serve sales orders.</p>
+<h3 id="dispatch-process">DISPATCH process</h3>
+<p>ON DISPATCH rules for each zone:</p>
+<ol>
+<li>PICK → PACK</li>
+<li>PACK → OUT</li>
+</ol>
+<p>After a sales order is picked, it is sent to the packing tables and then to the outbound docks.</p>
+<h2 id="flow-with-kitting">Flow with kitting</h2>
+<p>With the kitting workflow, some items might need kitting, before they are sent to the customers.</p>
+<blockquote>
+<p>1 IN → 2 INSP → 3 BULK → 4 PICK → 5 KIT → 6 PACK → 7 OUT</p>
+</blockquote>
+<h3 id="receive-process-1">RECEIVE process</h3>
+<ol>
+<li>IN → INSP</li>
+<li>Q:OK INSP → BULK</li>
+<li>Q:NOT-OK INSP → QUARANTINE</li>
+</ol>
+<p>The receive process moves the goods from the inbound docks to the inspection zone.
+After the goods are inspected, they are moved either to the bulk storage zone or to the quarantine zone.</p>
+<h3 id="optimize-process-1">OPTIMIZE process</h3>
+<ol>
+<li>BULK → PICK (based on minimal qty)</li>
+<li>PICK: KIT</li>
+</ol>
+<p>The optimize process is run twice per day.
+It ensures, that the picking zone has enough quantities to serve sales orders.
+The kitting task is performed in the picking zone, again based on minimal quantities.</p>
+<h3 id="dispatch-process-1">DISPATCH process</h3>
+<ol>
+<li>PICK → PACK</li>
+<li>KIT → PACK</li>
+<li>PACK → OUT</li>
+</ol>
+<p>Here, two rules compete for the quantities of the order.
+If there are enough quantities in the picking zone, the order is picked immediately.
+If not, the remaining quantities are scheduled for kitting first.</p>
+<p>After a sales order is kitted and picked, it is sent to the packing tables and then to the outbound docks.</p>
+<h2 id="cross-docking">Cross-docking</h2>
+<blockquote>
+<p>1 IN → 2 OUT</p>
+</blockquote>
+<h3 id="receive-process-rules">RECEIVE process rules</h3>
+<ol>
+<li>IN: IF CROSS_DOCK → OUT</li>
+</ol>
+<p>Of course, the above rule is usually combined with other rules for the inbound docks.</p>
+<h2 id="labeling">Labeling</h2>
+<p>The rules for labeling can easily be combined with other rules:</p>
+<h3 id="optimize-process-2">OPTIMIZE process</h3>
+<ol>
+<li>PICK: LABEL (based on minimal qty)</li>
+</ol>
+<h3 id="dispatch-process-2">DISPATCH process</h3>
+<ol>
+<li>PICK: LABEL (based on order qty)</li>
+</ol>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ErpNetDocs/info/blob/main/features/logistics/wms-zone-based-routing-examples.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
