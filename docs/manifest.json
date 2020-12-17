@@ -1789,6 +1789,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/user-types.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/user-types.html",
+          "hash": "+zp+VC45uW8pEr5y5wSyzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "information/logos/ERP.net_Logo_Horizontal_Blue.svg",
       "output": {
