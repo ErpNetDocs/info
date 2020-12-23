@@ -25,10 +25,10 @@ Some quick tips:
 
 ## ERP.net Logo Mini
 
-* [ERP.net_Logo_Arrow_16x16.png](ERP.net_Logo_Arrow_16x16.png)
-* [ERP.net_Logo_Arrow_24x24.png](ERP.net_Logo_Arrow_24x24.png)
-* [ERP.net_Logo_Arrow_32x32.png](ERP.net_Logo_Arrow_32x32.png)
-* [ERP.net_Logo_Arrow_48x48.png](ERP.net_Logo_Arrow_48x48.png)
+* [ERP.net_Logo_Mini_Arrow_16x16.png](ERP.net_Logo_Arrow_16x16.png)
+* [ERP.net_Logo_Mini_Arrow_24x24.png](ERP.net_Logo_Arrow_24x24.png)
+* [ERP.net_Logo_Mini_Arrow_32x32.png](ERP.net_Logo_Arrow_32x32.png)
+* [ERP.net_Logo_Mini_Arrow_48x48.png](ERP.net_Logo_Arrow_48x48.png)
 		
 
 ## Powered by ERP.net
