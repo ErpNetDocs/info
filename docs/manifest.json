@@ -359,6 +359,50 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_16x16.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_16x16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_24x24.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_24x24.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_32x32.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_32x32.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_48x48.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_48x48.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/information/logos/ERP.net_Logo_Vertical_Blue.svg",
       "output": {
         "resource": {
