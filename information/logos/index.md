@@ -22,6 +22,10 @@ Some quick tips:
 * [ERP.net_Logo_Horizontal_Blue_2.0x.png](ERP.net_Logo_Horizontal_Blue_2.0x.png)
 * [ERP.net_Logo_Vertical_White_2.0x.png](ERP.net_Logo_Vertical_White_2.0x.png)
 * [ERP.net_Logo_Horizontal_White_2.0x.png](ERP.net_Logo_Horizontal_White_2.0x.png)
+* [ERP.net_Logo_Arrow_16x16.png](ERP.net_Logo_Arrow_16x16.png)
+* [ERP.net_Logo_Arrow_16x16.png](ERP.net_Logo_Arrow_24x24.png)
+* [ERP.net_Logo_Arrow_16x16.png](ERP.net_Logo_Arrow_32x32.png)
+* [ERP.net_Logo_Arrow_16x16.png](ERP.net_Logo_Arrow_48x48.png)
 		
 
 ## Powered by ERP.net
