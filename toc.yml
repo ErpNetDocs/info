@@ -1,6 +1,6 @@
-- name: Solutions
-  href: solutions/
 - name: Features
   href: features/
+- name: Solutions
+  href: solutions/
 - name: Information
   href: information/
