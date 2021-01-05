@@ -1,13 +1,33 @@
 # Welcome
 
 Welcome to the ERP.net information site!
+
+## About
+
+ERP.net is a comprehensive cloud ERP platform, accessible from web, desktop and mobile.
+It can be used to manage multiple legal entities in a single ERP instance, sharing processes and definitions.
+ERP.net tightly integrates a lot of applications and has a unique hybrid integration model, balancing between the all-in-one and best-of-breed approaches.
+
 Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc.
 The information is geared towards prospect customers, previewing ERP.net for their ERP implementation plans.
 
 ERP.net takes a different approach than most vendors to the ERP selection process.
 The selection of a new ERP is a major decision for any company and such decision requires significant research.
-
 Hence, this info site is structured as an academic research site with as little as possible marketing stuff.
+
+## Features
+
+The system features are arguably one of the most important factors when selecting an ERP.
+Use this section to read more about the different modules and features of @@name.
+
+* [General](~/features/general/index.md) - General features, applicable to all modules.
+* [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
+* [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
+* [Production](~/features/production/index.md) - conversion of raw materials to finished products.
+* [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
+* [Community Management](~/features/community/index.md) - management of all external relations with customers, fans, partners, suppliers, etc.
+* [Integrations](~/features/integrations/index.md) - built-in integrations with external services.
+* [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
 
 ## Solutions & Customers
 
@@ -25,20 +45,6 @@ Each industry solution contains general description, highlighted features, custo
 * [Retail](~/solutions/retail/index.md)
 * [Transportation and Logistics](~/solutions/transportation-and-logistics/index.md)
 * [Wholesale Distribution](~/solutions/wholesale-distribution/index.md)
-
-## Features
-
-The system features are arguably one of the most important factors when selecting an ERP.
-Use this section to read more about the different modules and features of @@name.
-
-* [General](~/features/general/index.md) - General features, applicable to all modules.
-* [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
-* [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
-* [Production](~/features/production/index.md) - conversion of raw materials to finished products.
-* [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
-* [Community Management](~/features/community/index.md) - management of all external relations with customers, fans, partners, suppliers, etc.
-* [Integrations](~/features/integrations/index.md) - built-in integrations with external services.
-* [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
 
 ## Information
 
