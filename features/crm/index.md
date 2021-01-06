@@ -27,7 +27,7 @@ They are used to manage the different aspects of the CRM processes:
 * **[Contacts and tasks](contacts-and-tasks.md)** - calendar appointments, party definitions, etc.
 * **[Pre-sales](presales.md)** - Opportunities management, quotation, etc.
 * **[Sales](sales.md)** - Sales Orders, customers, etc.
-* **Invoicing** - Invoicing process management, invoices and BI.
+* **[Invoicing](invoicing.md)** - Invoicing process management, invoices and BI.
 * **POS** - Manage point-of-sale activities in physical stores.
 * **Marketing** - Marketing campaigns, activities, distribution channels, etc.
 * **Distribution** - field sales, sales person targets management, etc.
