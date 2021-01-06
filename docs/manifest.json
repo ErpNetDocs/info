@@ -998,7 +998,19 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/index.html",
-          "hash": "ywLtj8c03eAiout2kqS81w=="
+          "hash": "xVzeGgAbfreJNAcLk7Fyyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/invoicing.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/invoicing.html",
+          "hash": "sM6mgyg5gZe/VY74F0MNGw=="
         }
       },
       "is_incremental": false,
@@ -1646,7 +1658,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "0nMd+U3PEtGBcf3d7vMTZw=="
+          "hash": "nTjqIA4ubntLbc0s89UOdw=="
         }
       },
       "is_incremental": false,
