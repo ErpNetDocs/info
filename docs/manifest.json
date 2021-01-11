@@ -982,6 +982,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/crm/distribution.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/distribution.html",
+          "hash": "pBoHEZvp5ckCJNBhiiQw+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/crm/end-customer.md",
       "output": {
         ".html": {
@@ -998,7 +1010,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/index.html",
-          "hash": "xVzeGgAbfreJNAcLk7Fyyg=="
+          "hash": "gEKeMuw0fbRHqkHP25IOgA=="
         }
       },
       "is_incremental": false,
@@ -1658,7 +1670,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "nTjqIA4ubntLbc0s89UOdw=="
+          "hash": "HqbBfB/1UZ5NlsmqwUveYA=="
         }
       },
       "is_incremental": false,
