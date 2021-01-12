@@ -25,3 +25,8 @@ A distribution channel is a chain of businesses through which goods or services 
 ## Forecast Items
 
 You can use Forecasts Items to plan future product sales. They are especially useful when you are planning to launch a new product, so the system cannot plan its sales and production. You can also use this functionality for products whose delivery time is much longer than the shipping time to the end customer.
+
+
+## Target groups
+
+You can use Target groups to group parties (persons and companies), in order to set specific conditions for them - prices, discounts, marketing campaigns, bonus programs, etc.
