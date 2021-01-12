@@ -1010,7 +1010,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/index.html",
-          "hash": "gEKeMuw0fbRHqkHP25IOgA=="
+          "hash": "/vlluBc6pJ3PZHNkrbGVFQ=="
         }
       },
       "is_incremental": false,
@@ -1023,6 +1023,18 @@
         ".html": {
           "relative_path": "features/crm/invoicing.html",
           "hash": "sM6mgyg5gZe/VY74F0MNGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/marketing.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/marketing.html",
+          "hash": "XC1dSffFCKIbPt4HB8ASKA=="
         }
       },
       "is_incremental": false,
@@ -1670,7 +1682,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "HqbBfB/1UZ5NlsmqwUveYA=="
+          "hash": "10q2za6Gg12iUyARPacP/g=="
         }
       },
       "is_incremental": false,
