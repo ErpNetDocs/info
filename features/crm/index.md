@@ -29,7 +29,7 @@ They are used to manage the different aspects of the CRM processes:
 * **[Sales](sales.md)** - Sales Orders, customers, etc.
 * **[Invoicing](invoicing.md)** - Invoicing process management, invoices and BI.
 * **POS** - Manage point-of-sale activities in physical stores.
-* **Marketing** - Marketing campaigns, activities, distribution channels, etc.
+* **[Marketing](marketing.md)** - Marketing campaigns, activities, distribution channels, etc.
 * **[Distribution](distribution.md)** - field sales, salesperson targets management, etc.
 * **[Pricing](pricing.md)** - price lists management.
 * **[Bonus Programs](bonus-programs.md)** - bonus programs management.
