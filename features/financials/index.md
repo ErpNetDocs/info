@@ -20,5 +20,5 @@ They are used to manage the different aspects of the Financials processes:
 * **[Financial Analysis](financial-analysis.md)**
 * **[Fixed Assets](fixed-assets.md)**
 * **[Intrastat](intrastat-reporting.md)**
-* **[Payments](payments.md**
+* **[Payments](payments.md)**
 * **[VAT](vat-reporting.md)**
