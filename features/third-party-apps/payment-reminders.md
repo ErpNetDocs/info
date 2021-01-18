@@ -4,7 +4,7 @@ Developer: [Smart Business Soft](https://smartbsoft.com/)
 
 The Payment Reminders is a solution that fully automatically sends emails to customers for their overdue payments and it is fully integrated with business software ERP.net.
 
-## The main problems that functionality solves:
+## The main features and optimizations include:
 
 * Limiting the human factor and excluding technical errors. Such mistakes lead to additional lost time in communication and discussion of the mistake.
 * Avoiding dependence on the current commitment of the team. With a momentary load, it is possible for the task to be delayed or missed, which would lead to a delay in the collection of debts.
