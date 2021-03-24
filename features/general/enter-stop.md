@@ -15,3 +15,5 @@ In this case we just select a few fields and when we press enter we will quick m
 ## Customize
 
 With ERP.net you can customize the enter stop fields in each form. Just check the field which you would like to rotate quickly.
+
+![Enterstop](enterstop-forms.png)
