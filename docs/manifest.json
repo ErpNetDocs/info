@@ -1318,6 +1318,40 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/enter-stop.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/enter-stop.html",
+          "hash": "pvvbNBZ/GqDo3sKYROo2RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/general/enterstop-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/enterstop-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/general/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/general/enterstop-lines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/index.md",
       "output": {
         ".html": {
