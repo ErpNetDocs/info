@@ -184,11 +184,6 @@
     "title": "Document Chains | ERP.net Information",
     "keywords": "Document Chains When documents are created in ERP.net they usually form document chains. For example, the basic document chain in CRM is: Activity → Opportunity → Offer → Sales Order → Invoice Order → Invoice The subsequent documents in the chain are usually automatically created, but can also be manually typed. ERP.net tracks the relations between each document instance, so that the users can easily traverse the document chain up and down. Example This feature can be especially useful for financials. Suppose you are investigating some financial statement. You open a Finance.Accounting.AccountingVouchers Entity . From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order. The saved navigation data helps you quickly spot the originating document."
   },
-  "features/general/enter-stop.html": {
-    "href": "features/general/enter-stop.html",
-    "title": "Enter stop | ERP.net Information",
-    "keywords": "Enter stop Did you what to skip to the important fields without touching the mouse? With ERP.net you can get right to the important data entry in a form with Enter Stop. This allows you to press enter and move to the next field in a predefined list. When you press enter in a field, you will move straight to the next important entry. A long form with many fields For example, when you enter new sales order, the form may contain a lot of fields, which are not relevant to your role. In this case we just select a few fields and when we press enter we will quick move to them, skipping all the rest. Customize With ERP.net you can customize the enter stop fields in each form. Just check the field which you would like to rotate quickly."
-  },
   "features/general/index.html": {
     "href": "features/general/index.html",
     "title": "General Features | ERP.net Information",
@@ -308,6 +303,16 @@
     "href": "features/production/shop-floor.html",
     "title": "Shop floor control | ERP.net Information",
     "keywords": "Shop floor control"
+  },
+  "features/productivity/enter-stop.html": {
+    "href": "features/productivity/enter-stop.html",
+    "title": "Enter stop | ERP.net Information",
+    "keywords": "Enter stop Did you what to skip to the important fields without touching the mouse? With ERP.net you can get right to the important data entry in a form with Enter Stop. This allows you to press enter and move to the next field in a predefined list. When you press enter in a field, you will move straight to the next important entry. A long form with many fields For example, when you enter new sales order, the form may contain a lot of fields, which are not relevant to your role. In this case we just select a few fields and when we press enter we will quick move to them, skipping all the rest. Customize With ERP.net you can customize the enter stop fields in each form. Just check the field which you would like to rotate quickly."
+  },
+  "features/productivity/index.html": {
+    "href": "features/productivity/index.html",
+    "title": "Productivity | ERP.net Information",
+    "keywords": "Productivity"
   },
   "features/third-party-apps/index.html": {
     "href": "features/third-party-apps/index.html",
@@ -443,6 +448,11 @@
     "href": "information/system-information/system-requirements.html",
     "title": "System requirements | ERP.net Information",
     "keywords": "System requirements ERP.net is a pure cloud solution. You do not need to do anything for the hosting of the servers, databases, etc. However, accessing an ERP.net instance from a client device has some system requirements. Windows Desktop Client System Requirements The Windows Desktop Client is the primary tool for work-heavy users accessing an ERP.net instance. Windows Desktop Client has some capabilities, related to its nature of being a native app: It allows local processing of huge data sets, provided there is enough RAM There are integrations with Windows for file management, working with office documents, etc. Minimal system requirements Windows 10 1809+ 2 GB RAM Internet Explorer 11 Internet access Recommended system specs Windows 10 (latest stable release) 8 GB RAM Microsoft Chromium Edge Internet access Web apps Web applications, (like Client Center) have no specific system requirements. They run on all modern browsers and require negligible amounts of local RAM. Note Internet Explorer is not considered \"modern\" browser and is not supported."
+  },
+  "productivity/index.html": {
+    "href": "productivity/index.html",
+    "title": "Productivity | ERP.net Information",
+    "keywords": "Productivity"
   },
   "README.html": {
     "href": "README.html",

@@ -249,6 +249,28 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/general/enterstop-forms.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/enterstop-forms.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/general/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/enterstop-lines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/general/user-data-attributes.png",
       "output": {
         "resource": {
@@ -1317,18 +1339,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "features/general/enter-stop.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/enter-stop.html",
-          "hash": "pvvbNBZ/GqDo3sKYROo2RA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "features/general/enterstop-forms.png",
       "output": {
@@ -1675,6 +1685,33 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "features/productivity/enter-stop.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/productivity/enter-stop.html",
+          "hash": "8RFjVQqZjjavlmyqn9m66A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/productivity/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/productivity/index.html",
+          "hash": "EV6273W2zHRoFUIDcJ5Xvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/third-party-apps/index.md",
       "output": {
@@ -1728,7 +1765,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "kRan6rlmCgTNTUJQfBsexQ=="
+          "hash": "e47NaWDm0Q925EHwjw3tMA=="
         }
       },
       "is_incremental": false,
@@ -2347,6 +2384,18 @@
       "output": {
         "resource": {
           "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "productivity/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "productivity/index.html",
+          "hash": "iQz+OvcqpJKC9pqtW12PwQ=="
         }
       },
       "is_incremental": false,
