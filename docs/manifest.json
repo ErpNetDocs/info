@@ -777,6 +777,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/applications/data-warehouse.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/applications/data-warehouse.html",
+          "hash": "sq6jyNBvON7To+SxgTlvwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/applications/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/applications/index.html",
+          "hash": "9YdOErkp3+KQKr3HlsI4rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/community/chatter.md",
       "output": {
         ".html": {
@@ -1765,7 +1789,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "e47NaWDm0Q925EHwjw3tMA=="
+          "hash": "Dv+V86M0wrzRcQ32lOPA5g=="
         }
       },
       "is_incremental": false,

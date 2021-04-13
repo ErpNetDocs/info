@@ -9,6 +9,16 @@
     "title": "Customer Case Studies | ERP.net Information",
     "keywords": "Customer Case Studies This directory contains case studies about customer success using ERP.net solutions. To view study, select it from the menu on the left."
   },
+  "features/applications/data-warehouse.html": {
+    "href": "features/applications/data-warehouse.html",
+    "title": "Data Warehouse | ERP.net Information",
+    "keywords": "Data Warehouse"
+  },
+  "features/applications/index.html": {
+    "href": "features/applications/index.html",
+    "title": "| ERP.net Information",
+    "keywords": ""
+  },
   "features/community/chatter.html": {
     "href": "features/community/chatter.html",
     "title": "Chatter | ERP.net Information",
