@@ -6,4 +6,4 @@ You can define which form fields can be navigated to with the Enter key, so that
 
 For example, when you enter a new sales order, the form may contain lots of fields that may not be relevant to your role or to the task at hand. Usually you just need to enter details about the product ordered, its price and required quantity. Thus, to save your time and avoid clicking through every single field or panel of the form, you select as Enter stops only the fields and panels applicable to your current workflow and context, so that you can quickly navigate to them, skipping all the rest.
 
-![Enterstop](enterstop-forms.png)
+![Enterstop](enterstop-lines.png)
