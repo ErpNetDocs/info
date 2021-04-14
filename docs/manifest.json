@@ -1363,28 +1363,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "features/general/enterstop-forms.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/general/enterstop-forms.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/general/enterstop-lines.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/general/enterstop-lines.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "features/general/index.md",
       "output": {
@@ -1709,15 +1687,23 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "features/productivity/enter-stop.md",
       "output": {
         ".html": {
           "relative_path": "features/productivity/enter-stop.html",
-          "hash": "Lj6Io+Zrr9CgNrEiracrFQ=="
+          "hash": "6vOk2rWaH4U2TsfwB0XxqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/productivity/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/productivity/enterstop-lines.png"
         }
       },
       "is_incremental": false,
@@ -2408,18 +2394,6 @@
       "output": {
         "resource": {
           "relative_path": "logo.svg"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "productivity/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "productivity/index.html",
-          "hash": "jIGD2M2oMj2d2LOw1BH8qw=="
         }
       },
       "is_incremental": false,
