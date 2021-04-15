@@ -304,6 +304,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/productivity/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/productivity/enterstop-lines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
       "output": {
         "resource": {
@@ -781,7 +792,7 @@
       "output": {
         ".html": {
           "relative_path": "features/applications/data-warehouse.html",
-          "hash": "sq6jyNBvON7To+SxgTlvwA=="
+          "hash": "dwdLtiOst7+Du1cIbA9Y9A=="
         }
       },
       "is_incremental": false,
