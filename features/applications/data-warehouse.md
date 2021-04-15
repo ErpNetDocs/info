@@ -3,11 +3,11 @@ In today’s information-dominated business landscape, making use and making sen
 
 Enter the new Data Warehouse module. This is the place where all company historic data from all sources lives and thrives. For example, you can enter sales records from a specific time period even if this data was accrued before you implemented the ERP system, or commonplace information, such as visits of sales associates with prospects. All audit records and version history are stored within the module and access is restricted only to users with the proper rights granted. As with the rest of the ERP.net system, you can easily customize predefined data fieldsand or add new ones, based on your specific needs or scenario.
 
-[!Data fields](https://github.com/ErpNetDocs/info/blob/main/features/applications/screenshot%201.png)
+[!Data fields](screenshot%201.png)
  
 Information input need not be a nuisance – with the Data Warehouse module you can simply copy and paste data in the Navigator – in the same field sequence as in your Excel table. You can then grant different levels of access rights to stakeholders, edit or update field data, and define which fields need to keep their historical versions.
 
-[Data input](https://github.com/ErpNetDocs/info/blob/main/features/applications/screenshot%202.png)
+[Data input](screenshot%202.png)
 
 What’s more – your team will appreciate the chat functionality that helps colleagues be in sync and discuss real-time what information needs an update, debate over field values, or analyze sales data on the go. Apart from being a collaboration tool, you can also use the chat as a simple project management tool to assign tasks to team members, send notifications, and track task execution.
 
