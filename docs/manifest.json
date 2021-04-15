@@ -792,7 +792,7 @@
       "output": {
         ".html": {
           "relative_path": "features/applications/data-warehouse.html",
-          "hash": "dwdLtiOst7+Du1cIbA9Y9A=="
+          "hash": "ZvsKVwaB8KjI04BWJ7TN+w=="
         }
       },
       "is_incremental": false,
@@ -805,6 +805,28 @@
         ".html": {
           "relative_path": "features/applications/index.html",
           "hash": "9YdOErkp3+KQKr3HlsI4rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/applications/screenshot 1.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/applications/screenshot 1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/applications/screenshot 2.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/applications/screenshot 2.png"
         }
       },
       "is_incremental": false,
