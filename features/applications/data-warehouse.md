@@ -32,3 +32,5 @@ With the *Data Warehouse* module, you can:
 * Empower teams to easily enter, edit, and understand data
 * Use the built-in chat functionality as a collaboration and project management tool
 
+@@cta
+
