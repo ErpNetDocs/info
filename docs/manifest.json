@@ -814,7 +814,7 @@
       "output": {
         ".html": {
           "relative_path": "features/applications/data-warehouse.html",
-          "hash": "R9S0vpuYiEW1smhJFp7fxA=="
+          "hash": "FHZFF6+5UTWNZXz9ERkA3A=="
         }
       },
       "is_incremental": false,
@@ -1831,6 +1831,18 @@
         ".html": {
           "relative_path": "features/toc.html",
           "hash": "Dv+V86M0wrzRcQ32lOPA5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "includes/cta.md",
+      "output": {
+        ".html": {
+          "relative_path": "includes/cta.html",
+          "hash": "anQrERZ2hgbUtRl6OFD1bg=="
         }
       },
       "is_incremental": false,
