@@ -20,7 +20,7 @@ Information input need not be a nuisance – with the *Data Warehouse* module yo
 
 What’s more – your team will appreciate the chat functionality that helps colleagues be in sync and discuss real-time what information needs an update, debate over field values, or analyze sales data on the go. Apart from being a collaboration tool, you can also use the chat as a simple project management tool to assign tasks to team members, send notifications, and track task execution.
 
-### Multiple Excel files are thing of the past
+### Multiple Excel files are a thing of the past
 
 Summing it up – in addition to being the data powerhouse of your business, the *Data Warehouse* module helps teams conduct complex data operations in a simple, yet effective manner. Managers can make data-driven decisions based on financial and operating reporting grounded on data from different sources and systems that is stored and analyzed within the ERP.net platform and its native BI functionality. You can also integrate and utilize external applications for analysis and reporting, such as Power BI.
 
