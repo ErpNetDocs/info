@@ -5,11 +5,11 @@ Enter the ERP.net *Data Warehouse* module – the digital storage of all your or
 
 Apart from helping analysts make sense of accrued financial, accounting, and performance data, the *Data Warehouse* module helps teams enter and operate with everyday data more easily and get a more profound overview of data within their workflows. For example, team members can enter information about sales within a specific time period, even for periods before you implemented the ERP system, or commonplace information, such as visits of sales associates with prospects. All audit records are stored within the module and access is restricted only to users with the proper rights granted. Version history of all entries is accessible and available in the Data Tracking module of ERP.net. As with the rest of the ERP.net system, you can easily customize and add new fields to the list of predefined ones, based on your specific needs or scenario.
 
-[!Data fields](screenshot%201.png)
+![Data fields](screenshot%201.png)
  
 Information input need not be a nuisance – with the *Data Warehouse* module you can simply copy and paste data in the navigator – in the same field sequence as in your Excel table. You can then grant different levels of access rights to stakeholders, edit or update field data, and define which fields need to keep their historical versions.
 
-[Data input](screenshot%202.png)
+![Data input](screenshot%202.png)
 
 What’s more – your team will appreciate the chat functionality that helps colleagues be in sync and discuss real-time what information needs an update, debate over field values, or analyze sales data on the go. Apart from being a collaboration tool, you can also use the chat as a simple project management tool to assign tasks to team members, send notifications, and track task execution.
 
