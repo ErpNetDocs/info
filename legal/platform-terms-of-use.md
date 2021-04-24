@@ -1,4 +1,4 @@
-# ERP.net Cloud Platform Terms Of Use
+# Platform Terms Of Use
 
 ## 1. Purpose
 
@@ -12,8 +12,9 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 - **“Affiliate”** means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. “Control,” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
 
-- **“Agreement”** means this ERP.net Cloud Platform User Agreement.
-“Authorized User” means any individual to whom Customer grants access authorization to use the Cloud Service that is an employee, agent, contractor or representative of Customer, Customer's Affiliates, and/or Customer’s and Customer’s Affiliates’ Business Partners.
+- **“Agreement”** means this ERP.net Cloud Platform Terms Of Use.
+
+- **“Authorized User”** means any individual to whom Customer grants access authorization to use the Cloud Service that is an employee, agent, contractor or representative of Customer, Customer's Affiliates, and/or Customer’s and Customer’s Affiliates’ Business Partners.
 
 - **“Beta Services”** means services or functionality that may be made available to Customer to try at its option at no additional charge which is clearly designated as beta, pilot, limited release, developer preview, non-production, evaluation, or by a similar description.
 
