@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its wholly owned subsidiaries (collectively "ERP.net") created the ERP Cloud Platform. These Terms are between you and the ERP.net that owns and operates the ERP Cloud Platform. They apply to the cloud software named above and any ERP.net services or software updates, except to the extent such services or updates are accompanied by new or additional terms.
+ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its wholly owned subsidiaries (collectively "ERP.net") created the ERP.net Cloud Platform. These Terms are between you and the ERP.net that owns and operates the ERP.net Cloud Platform. They apply to the cloud software named above and any ERP.net services or software updates, except to the extent such services or updates are accompanied by new or additional terms.
 
 “You” means the entity you represent in accepting this Agreement or, if that does not apply, you individually. If You are accessing and/or using the ERP Cloud Platform on behalf of Your employer or as a consultant or agent of a third party (collectively "Your Company"), You represent and warrant that You have the authority to act on behalf of and bind Your Company to the Terms of this Agreement and everywhere in this Agreement that refers to You or Your, shall also include Your Company. 
 
