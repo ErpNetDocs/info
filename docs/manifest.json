@@ -2461,7 +2461,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/index.html",
-          "hash": "5lE7sVcEMmd5maLcARkNUg=="
+          "hash": "7aIHNVGz4SKc3Dubv1j4Og=="
         }
       },
       "is_incremental": false,
@@ -2473,7 +2473,19 @@
       "output": {
         ".html": {
           "relative_path": "legal/platform-terms-of-use.html",
-          "hash": "iivNf713RboDKMGWkqrKyQ=="
+          "hash": "VcLtfW/a8FwfclyOnVg0Rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "legal/privacy.md",
+      "output": {
+        ".html": {
+          "relative_path": "legal/privacy.html",
+          "hash": "UruwaljQmia8l6N8a9VaNg=="
         }
       },
       "is_incremental": false,
@@ -2689,12 +2701,10 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because docfx version changed from 2.56.8.0 to 2.56.9.0.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "DocfxVersionChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
