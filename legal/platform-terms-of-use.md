@@ -41,13 +41,13 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 - **“Hyperlinks”** means links to web pages placed in text of this Agreement, in order to facilitate the readers and the Customers, containing Documentation and additional information. In view of the dynamic nature and possible frequent changes, any changes in these Hyperlinks, as well as any other links to web pages in this Agreement, are not considered to be a change or modification of the same. Some of the Hyperlinks used in this Agreement:
 
-  - Main page – https://www.erp.net;
-  - Resellers web page - https://info.erp.net/legal;
-  - Help Page -  https://info.erp.net/legal;
-  - Marketplace page - https://info.erp.net/legal;
+  - Main page – https://www.erp.net
+  - Resellers web page - https://info.erp.net/legal
+  - Help Page -  https://info.erp.net/legal
+  - Marketplace page - https://info.erp.net/legal
   - Billing e-mail – billing@erp.net
-  - Documentation page - http://docs.erp.net/
-  - Privacy and DPA page – https://info.erp.net/legal/privacy;
+  - Documentation page - http://docs.erp.net
+  - Privacy and DPA page – https://info.erp.net/legal/privacy
 
 - **“Malicious Code”** means code, files, scripts, agents, or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.
 
