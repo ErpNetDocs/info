@@ -17,7 +17,7 @@
   "features/applications/index.html": {
     "href": "features/applications/index.html",
     "title": "Applications | ERP.net Information",
-    "keywords": "Applications Directory of ERP.net applications. ERP.net Data Warehouse"
+    "keywords": "Applications Applications that are tightly integrated with ERP.net. The applications featured on this site are platform-first, meaning that they do not store data outside the platform. Data, managed by any of the applications is also accessible to all other applications. For more information about an app, select it from the list bellow: ERP.net Data Warehouse"
   },
   "features/community/chatter.html": {
     "href": "features/community/chatter.html",
