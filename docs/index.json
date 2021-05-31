@@ -16,8 +16,8 @@
   },
   "features/applications/index.html": {
     "href": "features/applications/index.html",
-    "title": "| ERP.net Information",
-    "keywords": ""
+    "title": "Applications | ERP.net Information",
+    "keywords": "Applications Directory of ERP.net applications. ERP.net Data Warehouse"
   },
   "features/community/chatter.html": {
     "href": "features/community/chatter.html",
@@ -227,7 +227,7 @@
   "features/index.html": {
     "href": "features/index.html",
     "title": "Features | ERP.net Information",
-    "keywords": "Features Directory of ERP.net features. Community Management Customer Relationship Management (CRM) Subsystem Financials Subsystem General Features Integrations Logistics Subsystem Marketplace Apps Production subsystem overview Productivity"
+    "keywords": "Features Directory of ERP.net features. Applications Community Management Customer Relationship Management (CRM) Subsystem Financials Subsystem General Features Integrations Logistics Subsystem Marketplace Apps Production subsystem overview Productivity"
   },
   "features/integrations/azuread-login.html": {
     "href": "features/integrations/azuread-login.html",
