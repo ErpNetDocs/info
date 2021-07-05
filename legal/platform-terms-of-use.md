@@ -47,7 +47,7 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
   - Marketplace page - https://info.erp.net/legal
   - Billing e-mail – billing@erp.net
   - Documentation page - http://docs.erp.net
-  - Privacy and DPA page – https://info.erp.net/legal/privacy
+  - Privacy and DPA page – https://info.erp.net/legal/privacy.html
 
 - **“Malicious Code”** means code, files, scripts, agents, or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.
 
