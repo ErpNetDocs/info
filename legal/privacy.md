@@ -5,9 +5,11 @@
 We are ERP.net, a British corporation. We are a social ERP platform, providing solutions for various industry needs.
 
 Our Data Protection Officer and Data Protection Representative can be contacted directly here:
+
 For our Data Protection Representative:
 -	ERP Bulgaria
 -	info@erp.bg
+
 For our Data Protection Officer:
 -	Gospodinov & Genchev Law Firm
 -	dpo@erp.net
@@ -94,17 +96,17 @@ The details for each of these contacts are:
 |                | **Supervisory authority contact details** |	**Data Protection Officer (DPO) contact details** |
 |--------------- |-----------------------------------------  | ------------------------------------------------- |
 | Contact Name:  | Information Commissioner's Office         |	Gospodinov & Genchev Law Firm                     |
-| Address line:  |	Wycliffe House,<br />Water Lane,<br />Wilmslow<br />Cheshire<br />SK9 5AF	3 | Tsar Ivan Shishman str., entr. 1<br />Sofia<br />Bulgaria |
+| Address line:  |	Wycliffe House<br />Water Lane<br />Wilmslow<br />Cheshire<br />SK9 5AF	3 | Tsar Ivan Shishman str., entr. 1<br />Sofia<br />Bulgaria |
 | Email:	        | icocasework@ico.org.uk	                   | dpo@erp.net                                       |
 | Telephone:	    | 0303 123 1113	                            |                                                   |
 
 ## 2.	More information on how we process your personal data.
 
-<ins>Personal data</ins>
+**Personal data**<br />
 Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as: 
 “any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”.
 
-<ins>How we use your information</ins>
+**How we use your information**<br />
 This privacy notice tells you how we, ERP.net, will collect and use your personal data in order to:
 -	fulfil our contractual obligations to you as a customer;
 -	improve the operations of our website and our business in general;
@@ -112,20 +114,20 @@ This privacy notice tells you how we, ERP.net, will collect and use your persona
 -	forward any complaints you may have to the Data Protection Officer and the competent Data Protection Authority; 
 -	serve cookies. 
 
-<ins>Why does ERP.net need to collect and store personal data?</ins>
+**Why does ERP.net need to collect and store personal data?**<br />
 In order for us to provide you with our services, namely the non-exclusive, worldwide, limited right to use the Cloud Service, Support Services and Professional Services, we need to collect personal data for correspondence purposes and detailed service provision. In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy. 
 In terms of being contacted for marketing purposes ERP.net would contact you for additional consent.
 
-<ins>Will ERP.net share my personal data with anyone else</ins>
+**Will ERP.net share my personal data with anyone else**<br />
 We may pass your personal data on to third-party service providers contracted to ERP.net in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only for product registration and support; providing business and consumer services; supporting, enabling and improving sales and analytics, including website analytics . When they no longer need your data to fulfil these services, they will dispose of the details in line with ERP.net’s procedures. If we wish to pass your sensitive personal data onto a third party we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
 
-<ins>How will ERP.net use the personal data it collects about me?</ins>
+**How will ERP.net use the personal data it collects about me?**<br />
 ERP.net will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. ERP.net is required to retain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices. Personal data may be held in addition to these periods depending on individual business needs.
 
-<ins>Under what circumstances will ERP.net contact me?</ins>
+**Under what circumstances will ERP.net contact me?**<br />
 Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimise the risk of unauthorised access or disclosure.
 
-<ins>Can I find out the personal data that the organisation holds about me?</ins>
+**Can I find out the personal data that the organisation holds about me?**<br />
 ERP.net at your request, can confirm what information we hold about you and how it is processed. If ERP.net does hold personal data about you, you can request the following information: 
 - Identity and the contact details of the person or organisation that has determined how and why to process your data. In some cases, this will be a representative in the EU. 
 -	Contact details of the data protection officer, where applicable.
@@ -142,13 +144,13 @@ ERP.net at your request, can confirm what information we hold about you and how 
 -	The source of personal data if it wasn’t collected directly from you.
 -	Any details and information of automated decision making, such as profiling, and any meaningful information about the logic involved, as well as the significance and expected consequences of such processing.
 
-<ins>What forms of ID will I need to provide in order to access this?</ins>
+**What forms of ID will I need to provide in order to access this?**<br />
 ERP.net might need the following forms of ID when information on your personal data is requested:
 -	passport;
 -	ID card;
 -	driving licence.   
 
-<ins>Contact details of the Data Protection Officer:</ins>
+**Contact details of the Data Protection Officer:**<br />
 |               | **Data Protection Officer** |
 | -----------   | --------------------------- |
 | Contact Name: |	Dimo Gospodinov             |
