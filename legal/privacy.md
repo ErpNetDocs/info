@@ -1,5 +1,162 @@
-# Privacy
-........
+# Privacy Statement
+
+## 1. Privacy notice
+### 1.1.	Who are we?
+We are ERP.net, a British corporation. We are a social ERP platform, providing solutions for various industry needs.
+
+Our Data Protection Officer and Data Protection Representative can be contacted directly here:
+For our Data Protection Representative:
+-	ERP Bulgaria
+-	info@erp.bg
+For our Data Protection Officer:
+-	Gospodinov & Genchev Law Firm
+-	dpo@erp.net
+
+The personal data we would like to collect and process on you is:  
+
+| **Personal data type**: | **Source** (where ERP.net obtained the personal data from if it has not been collected directly from you, the data subject. Note if the personal data has been accessed from publicly accessible sources):  |
+| ----------- | ----------- |
+| Name                                                           | You                                               |
+| E-mail                                                         | You                                               |
+| Telephone number                                               | You                                               |
+| Geolocation data                                               | Third party                                       |
+| Data regarding you organisation                                | You, or a third party                             |
+| Other contact information                                      | You, a third party, or publicly available sources |
+| Personal data relating to the issuing or reissuing of invoices | You, a third party, or publicly available sources |
+| Personal data from third-party advertising services	           | A third party                                     |
+
+The personal data we collect will be used for the following purposes:
+-	Managing client relations;
+-	Sales;
+-	Communications;
+-	Market research;
+-	Direct marketing;
+-	Executing contracts;
+-	Customer support;
+-	Customer engagement;
+-	Product research.
+
+Our legal basis for processing for the personal data:
+-	Consent;
+-	Contract obligation;
+-	Legitimate interest.
+
+Any legitimate interests pursued by us, or third parties we use, are as follows:
+-	Web analytics.  
+
+We will not process special categories of personal data.
+
+### 1.2.	Consent
+By consenting to this privacy notice you are giving us permission to process your personal data specifically for the purposes identified for which we rely on consent to process your personal data.
+
+You may withdraw consent at any time by contacting us at dpo@erp.net.
+
+### 1.3	Disclosure
+ERP.net will pass on your personal data to the following third parties:
+- Zendesk, Inc.;
+-	Microsoft Corporation;
+-	Google LLC;
+-	Facebook, Inc.
+
+### 1.4	Transfers of data in third country:
+ERP.net will pass on your personal data to third countries. The following third countries will receive your personal data with the following legal basis for transfer.
+
+| Third country	| Legal ground for transfer |
+| :-----------: | :-----------------------: |
+| Bulgaria	     | Adequacy regulation          |
+| Ireland	      | Adequacy regulation          |
+| United States |	Standard Contractual Clauses |  	
+
+### 1.5	Retention period
+ERP.net will store and process your personal data, depending on the legal grounds:
+-	For consent, until you withdraw it;
+-	For legitimate interest, until the legitimate interest persists; 
+-	For contract performance, 5 years after termination of the obligations under the contract. The purpose of this term is to cover any potential legal disputes relating to the contract which may arise.
+
+### 1.6	Your rights as a data subject
+At any point while we are in possession of or processing your personal data, you, the data subject, have the following rights:
+-	Right of access – you have the right to request a copy of the information that we hold about you.
+-	Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+-	Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.
+-	Right to restriction of processing – where certain conditions apply to have a right to restrict the processing.
+-	Right of portability – you have the right to have the data we hold about you transferred to another organisation.
+-	Right to object – you have the right to object to certain types of processing such as direct marketing.
+-	Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
+-	Right to judicial review: in the event that ERP.net refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined in clause 3.6 below.
+
+All of the above requests will be forwarded on should there be a third party involved (as stated in 3.4 above) in the processing of your personal data.
+
+### 1.7	Complaints
+In the event that you wish to make a complaint about how your personal data is being processed by ERP.net, or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and ERP.net’s Data Protection Officer.
+
+The details for each of these contacts are: 
+
+|                | **Supervisory authority contact details** |	**Data Protection Officer (DPO) contact details** |
+|--------------- |-----------------------------------------  | ------------------------------------------------- |
+| Contact Name:  | Information Commissioner's Office         |	Gospodinov & Genchev Law Firm                     |
+| Address line:  |	Wycliffe House,<br />Water Lane,<br />Wilmslow<br />Cheshire<br />SK9 5AF	3 | Tsar Ivan Shishman str., entr. 1<br />Sofia<br />Bulgaria |
+| Email:	        | icocasework@ico.org.uk	                   | dpo@erp.net                                       |
+| Telephone:	    | 0303 123 1113	                            |                                                   |
+
+## 2.	More information on how we process your personal data.
+
+<ins>Personal data</ins>
+Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as: 
+“any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”.
+
+<ins>How we use your information</ins>
+This privacy notice tells you how we, ERP.net, will collect and use your personal data in order to:
+-	fulfil our contractual obligations to you as a customer;
+-	improve the operations of our website and our business in general;
+-	analyse and address any objections you may have in relations to how we process your personal data;
+-	forward any complaints you may have to the Data Protection Officer and the competent Data Protection Authority; 
+-	serve cookies. 
+
+<ins>Why does ERP.net need to collect and store personal data?</ins>
+In order for us to provide you with our services, namely the non-exclusive, worldwide, limited right to use the Cloud Service, Support Services and Professional Services, we need to collect personal data for correspondence purposes and detailed service provision. In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy. 
+In terms of being contacted for marketing purposes ERP.net would contact you for additional consent.
+
+<ins>Will ERP.net share my personal data with anyone else</ins>
+We may pass your personal data on to third-party service providers contracted to ERP.net in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only for product registration and support; providing business and consumer services; supporting, enabling and improving sales and analytics, including website analytics . When they no longer need your data to fulfil these services, they will dispose of the details in line with ERP.net’s procedures. If we wish to pass your sensitive personal data onto a third party we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
+
+<ins>How will ERP.net use the personal data it collects about me?</ins>
+ERP.net will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. ERP.net is required to retain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices. Personal data may be held in addition to these periods depending on individual business needs.
+
+<ins>Under what circumstances will ERP.net contact me?</ins>
+Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimise the risk of unauthorised access or disclosure.
+
+<ins>Can I find out the personal data that the organisation holds about me?</ins>
+ERP.net at your request, can confirm what information we hold about you and how it is processed. If ERP.net does hold personal data about you, you can request the following information: 
+- Identity and the contact details of the person or organisation that has determined how and why to process your data. In some cases, this will be a representative in the EU. 
+-	Contact details of the data protection officer, where applicable.
+-	The purpose of the processing as well as the legal basis for processing.
+-	If the processing is based on the legitimate interests of ERP.net or a third party, information about those interests.
+-	The categories of personal data collected, stored and processed.
+-	Recipient(s) or categories of recipients that the data is/will be disclosed to.
+-	If we intend to transfer the personal data to a third country or international organisation, information about how we ensure this is done securely. The EU has approved sending personal data to some countries because they meet a minimum standard of data protection. In other cases, we will ensure there are specific measures in place to secure your information.
+-	How long the data will be stored.
+-	Details of your rights to correct, erase, restrict or object to such processing.
+-	Information about your right to withdraw consent at any time.
+-	How to lodge a complaint with the supervisory authority.
+-	Whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether you are obliged to provide the personal data and the possible consequences of failing to provide such data.
+-	The source of personal data if it wasn’t collected directly from you.
+-	Any details and information of automated decision making, such as profiling, and any meaningful information about the logic involved, as well as the significance and expected consequences of such processing.
+
+<ins>What forms of ID will I need to provide in order to access this?</ins>
+ERP.net might need the following forms of ID when information on your personal data is requested:
+-	passport;
+-	ID card;
+-	driving licence.   
+
+<ins>Contact details of the Data Protection Officer:</ins>
+|               | **Data Protection Officer** |
+| -----------   | --------------------------- |
+| Contact Name: |	Dimo Gospodinov             |
+| Address line: |	3 Tsar Ivan Shishman str., entr. 1 <br />Sofia<br />Bulgaria |
+| Email:	       | dpo@erp.net                 |
+
+
+
 # Data Processing Agreement
 
 This Data Processing agreement (“DPA”) is adopted by the parties as an Appendix of the erp.net’s Platform Terms of Use. All the definitions used in the Platform’s Terms of Use are valid in this DPA, unless otherwise stated.
