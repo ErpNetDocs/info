@@ -21,7 +21,7 @@ The personal data we would like to collect and process on you is:
 | Name                                                           | You                                               |
 | E-mail                                                         | You                                               |
 | Telephone number                                               | You                                               |
-| Geolocation data                                               | Third party                                       |
+| Geolocation data                                               | A third party                                     |
 | Data regarding you organisation                                | You, or a third party                             |
 | Other contact information                                      | You, a third party, or publicly available sources |
 | Personal data relating to the issuing or reissuing of invoices | You, a third party, or publicly available sources |
@@ -151,6 +151,7 @@ ERP.net might need the following forms of ID when information on your personal d
 -	driving licence.   
 
 **Contact details of the Data Protection Officer:**<br />
+
 |               | **Data Protection Officer** |
 | -----------   | --------------------------- |
 | Contact Name: |	Dimo Gospodinov             |
