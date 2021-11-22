@@ -1,1 +1,1 @@
-# Educational License Terms And Conditions
+# Educational License 
