@@ -462,13 +462,17 @@ If there is no Contract End Date specified in the applicable Order Form, the Agr
 
 ### 9.5. Price Changes
 
-#### 9.5.1. ERP.net may unilaterally change its pricing lists at any time. In such case, the prices under this Agreement shall change accordingly from the next Billing Period, provided that ERP.net has notified the Customer of such changes and the Agreement has remained in force.
+#### 9.5.1. Change in Pricing Lists
+ERP.net may unilaterally change its pricing lists at any time. In such case, the prices under this Agreement shall change accordingly from the next Billing Period, provided that ERP.net has notified the Customer of such changes and the Agreement has remained in force.
 
-#### 9.5.2. Except as expressly provided in the applicable Order Form, promotional or one-time prices will revert back to ERP.net’s standard list prices at the start of the next Billing Period.
+#### 9.5.2. Promotional prices
+Except as expressly provided in the applicable Order Form, promotional or one-time prices will revert back to ERP.net’s standard list prices at the start of the next Billing Period.
 
-#### 9.5.3. The Customer may request an increase or decrease in the Purchased Services at any time by placing a new Order Form. In such case, the change in Services shall take effect from the start date of the new Order Form. If the Customer has removed or decreased any pre-paid Services, ERP.net shall retain the applicable pre-paid fees. If the Customer has increased his pre-paid Services, the price increase for the remainder of the then-current Billing Period will be added to the Customer’s invoice or bank charge for the next Billing Period. If the Services were not pre-paid, they will be charged accordingly at the end of the applicable Billing Period.
+#### 9.5.3. Change in Purchased Services
+The Customer may request an increase or decrease in the Purchased Services at any time by placing a new Order Form. In such case, the change in Services shall take effect from the start date of the new Order Form. If the Customer has removed or decreased any pre-paid Services, ERP.net shall retain the applicable pre-paid fees. If the Customer has increased his pre-paid Services, the price increase for the remainder of the then-current Billing Period will be added to the Customer’s invoice or bank charge for the next Billing Period. If the Services were not pre-paid, they will be charged accordingly at the end of the applicable Billing Period.
 
-#### 9.5.4. ERP.net reserves the right to make any corrections to prices quoted due to clerical errors or errors of omission.
+#### 9.5.4. Clerical errors
+ERP.net reserves the right to make any corrections to prices quoted due to clerical errors or errors of omission.
 
 ### 9.6. No Refunds
 
