@@ -2457,6 +2457,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "legal/educational-license.md",
+      "output": {
+        ".html": {
+          "relative_path": "legal/educational-license.html",
+          "hash": "iJuzG2BqfcIRP7UxHhWxKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "legal/index.md",
       "output": {
         ".html": {
@@ -2497,7 +2509,7 @@
       "output": {
         ".html": {
           "relative_path": "legal/toc.html",
-          "hash": "WfRaXD08aPSx2Mf1zH2jKQ=="
+          "hash": "GJ1J0lULYTXpqVqe4PDksg=="
         }
       },
       "is_incremental": false,
