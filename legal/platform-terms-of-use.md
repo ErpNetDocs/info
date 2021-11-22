@@ -465,7 +465,7 @@ If there is no Contract End Date specified in the applicable Order Form, the Agr
 #### 9.5.1. Change in Pricing Lists
 ERP.net may unilaterally change its pricing lists at any time. In such case, the prices under this Agreement shall change accordingly from the next Billing Period, provided that ERP.net has notified the Customer of such changes and the Agreement has remained in force.
 
-#### 9.5.2. Promotional prices
+#### 9.5.2. Expiry of promotional prices
 Except as expressly provided in the applicable Order Form, promotional or one-time prices will revert back to ERP.net’s standard list prices at the start of the next Billing Period.
 
 #### 9.5.3. Change in Purchased Services
