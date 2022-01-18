@@ -50,6 +50,8 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
   - Billing e-mail – billing@erp.net
   - Documentation page - http://docs.erp.net
   - Privacy and DPA page – https://info.erp.net/legal/privacy.html
+  - Support site - https://support.erp.bg/hc/en-us 
+  - Announcements blog - https://support.erp.bg/hc/en-us/sections/201834599-Announcements
 
 - **“Malicious Code”** means code, files, scripts, agents, or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.
 
@@ -162,6 +164,10 @@ Unless specifically included in the Order Forms, the Customer must not use the C
 #### 4.2.3. Verification of Use
 
 Customer will monitor its own use of the Cloud Services and report any use in excess of the Usage Metrics and volume. ERP.net may monitor use to verify compliance with Usage Metrics, volume and the Agreement.
+
+#### 4.2.4. Support Site Registration
+
+The Customer shall register an account at ERP.net’s Support site (https://support.erp.bg), using the Administrative Contact name and email address specified on the Order Form. The Customer shall use the account to subscribe to the Announcements blog (https://support.erp.bg/hc/en-us/sections/201834599-Announcements), accessible from the Support site. The Customer is deemed to have notice of all announcements communicated through the Announcements blog on the Support site.
 
 ### 4.3. Security
 
