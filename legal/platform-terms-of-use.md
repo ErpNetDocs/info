@@ -8,7 +8,7 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 ## 2. Definitions
 
-- **“Administrators”** means User, appointed by and acting on behalf of Customer, who has control over other the use of the Cloud Service, including submitting Order Forms, purchasing or enabling Third-party Application, creating, monitoring, modifying, changing permissions or deleting Users.
+- **“Administrators”** means User, appointed by and acting on behalf of Customer, who has control over other the use of the Cloud Service, including submitting Subscription Orders, purchasing or enabling Third-party Application, creating, monitoring, modifying, changing permissions or deleting Users.
 
 - **“Affiliate”** means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. “Control,” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
 
@@ -18,7 +18,7 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 - **“Beta Services”** means services or functionality that may be made available to Customer to try at its option at no additional charge which is clearly designated as beta, pilot, limited release, developer preview, non-production, evaluation, or by a similar description.
 
-- **“Billing Period”** means the interval at which the Customer is charged for the Purchased Services under this Agreement, which is to be specified in the applicable Order Form.
+- **“Billing Period”** means the interval at which the Customer is charged for the Purchased Services under this Agreement, which is to be specified in the applicable Subscription Order.
 
 - **“Bug”** means any failure of the Services that results in a complete stop, error traceback or security breach, and is not directly caused by a defective installation or configuration. Non-compliance with specifications or requirements will be considered as Bugs at the discretion of ERP.net (typically, when the Services does not produce the results or performance it was designed to produce, or when a country-specific feature does not meet legal accounting requirements anymore). Any failures, arising from Beta Services, would not be treated as Bugs.
 
@@ -28,12 +28,12 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 - **“Cloud Materials”** mean any materials provided or developed by ERP.net (independently or with Customer’s cooperation) in the course of performance under the Agreement, including in the delivery of any support or Consulting Services to Customer. Cloud Materials do not include the Customer Data, Customer Confidential Information or the Cloud Service.
 
-- **“Cloud Service”** means any distinct, license-based, hosted, supported and operated on demand solution provided by ERP.net under an Order Form.  
-“Consulting Services” means professional services, such as implementation, configuration, custom development and training, performed by ERP’s employees or subcontractors as described in any Order Form and which may be governed by the Supplement.
+- **“Cloud Service”** means any distinct, license-based, hosted, supported and operated on demand solution provided by ERP.net under a Subscription Order.  
+“Consulting Services” means professional services, such as implementation, configuration, custom development and training, performed by ERP’s employees or subcontractors as described in any Subscription Order and which may be governed by the Supplement.
 
 - **“Customer Data”** means electronic data and information submitted by or for Customer to the Services.
 
-- **“Customer”** means in the case of an individual accepting this Agreement on their own behalf, such individual, or in the case of an individual accepting this Agreement on behalf of a company or other legal entity, the company or other legal entity for which such individual is accepting this Agreement, and Affiliates of that company or entity (for so long as they remain Affiliates) which have entered into Order Forms.
+- **“Customer”** means in the case of an individual accepting this Agreement on their own behalf, such individual, or in the case of an individual accepting this Agreement on behalf of a company or other legal entity, the company or other legal entity for which such individual is accepting this Agreement, and Affiliates of that company or entity (for so long as they remain Affiliates) which have entered into Subscription Orders.
 
 - **“Documentation”** means the applicable Service’s Trust and Compliance documentation accessible at Documentation page and its usage guides and policies, as updated from time to time.
 
@@ -61,19 +61,19 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 - **“Open-Source Software”** means any software that is subject to terms that, as a condition of access, use, copying, modification or redistribution, require such software or derivative works thereof to be disclosed or distributed in source code form, to be licensed for the purpose of making derivative works, or to be redistributed free of charge, including without limitation software distributed under the GNU Affero General Public License, GNU General Public License or GNU Lesser/Library GPL.
 
-- **“Order Form”** means an ordering document or online order specifying the Services to be provided hereunder that is entered into between Customer and ERP.net or any of their Affiliates, including any supplements thereto. By submitting an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto.
+- **“Subscription Order”** means an ordering document or online order specifying the Services to be provided hereunder that is entered into between Customer and ERP.net or any of their Affiliates, including any supplements thereto. By submitting a Subscription Order hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto.
 
 - **“Professional Services”** means the general consulting, implementation and/or training services to be provided to Customer pursuant to the terms hereof.
 
-- **“Purchased Services”** means Services that Customer or Customer’s Affiliate purchases under an Order Form or online purchasing portal, as distinguished from Free Services or those provided pursuant to a free trial.
+- **“Purchased Services”** means Services that Customer or Customer’s Affiliate purchases under a Subscription Order or online purchasing portal, as distinguished from Free Services or those provided pursuant to a free trial.
 
 - **“Reseller”** means an entity authorized by ERP.net to resell or licenses for Cloud Service or Bundles under this agreement.
 
-- **“Services”** means the products and services that are ordered by Customer under an Order Form or online purchasing portal or provided to Customer free of charge (as applicable) or under a free trial and made available online by ERP.net. “Services” exclude Third-party Application.
+- **“Services”** means the products and services that are ordered by Customer under a Subscription Order or online purchasing portal or provided to Customer free of charge (as applicable) or under a free trial and made available online by ERP.net. “Services” exclude Third-party Application.
 
-- **“Agreement Term”** means the term of this Agreement, identified in the applicable Order Form, including all renewals. If no Contract End Date is specified on the Order Form, this Agreement is concluded for an indefinite period of time and shall automatically renew every month unless terminated according to the provisions hereunder. 
+- **“Agreement Term”** means the term of this Agreement, identified in the applicable Subscription Order, including all renewals. If no Contract End Date is specified on the Subscription Order, this Agreement is concluded for an indefinite period of time and shall automatically renew every month unless terminated according to the provisions hereunder. 
 
-- **“Supplement”** means the supplemental terms and conditions that apply to the Cloud Service and that are incorporated in an Order Form.
+- **“Supplement”** means the supplemental terms and conditions that apply to the Cloud Service and that are incorporated in a Subscription Order.
 
 - **“Support Services”** means the supplemental, technical support services to be provided to Customer for the Cloud Service pursuant to the terms hereof. Support Services are subject to additional fees.
 
@@ -88,7 +88,7 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
   - That result from faulty input, instructions, or arguments (for example, requests to access files that do not exist); 
   - That result from your attempts to perform operations that exceed prescribed quotas or that resulted from our throttling of suspected abusive behaviour;
 
-- **“Usage Metric”** means the standard of measurement for determining the permitted use and calculating the fees due for a Cloud Service as set forth in an Order Form.
+- **“Usage Metric”** means the standard of measurement for determining the permitted use and calculating the fees due for a Cloud Service as set forth in a Subscription Order.
 
 - **“User”** means, in the case of an individual accepting these terms on their own behalf, such individual. In the case of an individual accepting this Agreement on behalf of a company or other legal entity, user is an individual who is authorized by Customer to use a Service, for whom Customer has purchased a license (or in the case of any Services provided by ERP.net without charge, for whom a Service has been provisioned), and to whom Customer (or, when applicable, ERP.net at Customer’s request) has supplied a user identification and password (for Services utilizing authentication). Users may include, for example, employees, consultants, contractors, and agents of Customer, and third parties with which Customer transacts business.
 
@@ -96,17 +96,17 @@ ERP.net Corporation Ltd (“ERP”, “we” or “us”), together with its who
 
 ### 3.1. Services
 
-Subject to the terms and conditions of this Agreement, Customer shall have the non-exclusive, worldwide, limited right to use the Cloud Service, Support Services and Professional Services ordered by Customer (collectively, the “Services”) during the applicable period set forth in Customer’s Order Form solely for the internal business operations of Customer. Customer may allow its Users to use the Services for this purpose, and Customer is responsible for their compliance with this Agreement and Customer’s applicable Order Form. The terms of this Agreement shall also apply to updates and upgrades subsequently provided by ERP.net to Customer for the Cloud Service. 
+Subject to the terms and conditions of this Agreement, Customer shall have the non-exclusive, worldwide, limited right to use the Cloud Service, Support Services and Professional Services ordered by Customer (collectively, the “Services”) during the applicable period set forth in Customer’s Subscription Order solely for the internal business operations of Customer. Customer may allow its Users to use the Services for this purpose, and Customer is responsible for their compliance with this Agreement and Customer’s applicable Subscription Order. The terms of this Agreement shall also apply to updates and upgrades subsequently provided by ERP.net to Customer for the Cloud Service. 
 
-### 3.2. Order Forms
+### 3.2. Subscription Orders
 
-The Services shall be ordered by Customer pursuant to Order Forms. Each Order Form shall include at a minimum a listing of the Cloud Service and any Support Services and/or Professional Services being ordered and the associated fees. Except as otherwise provided on the Order Form, or this Agreement, once placed, each Order Form is non-cancellable, and all sums paid are non-refundable. If Customer exceeds the quantity of Services ordered, then Customer promptly must purchase and pay fees for the excess quantity.
+The Services shall be ordered by Customer pursuant to Subscription Orders. Each Subscription Order shall include at a minimum a listing of the Cloud Service and any Support Services and/or Professional Services being ordered and the associated fees. Except as otherwise provided on the Subscription Order, or this Agreement, once placed, each Subscription Order is non-cancellable, and all sums paid are non-refundable. If Customer exceeds the quantity of Services ordered, then Customer promptly must purchase and pay fees for the excess quantity.
 
-Any one of Customer’s Affiliates may also order Services under this Agreement by submitting an Order Form, signed by such subsidiary and ERP.net, and agreeing to be bound by the terms of this Agreement.
+Any one of Customer’s Affiliates may also order Services under this Agreement by submitting a Subscription Order, signed by such subsidiary and ERP.net, and agreeing to be bound by the terms of this Agreement.
 
 ### 3.3. Acceptance
 
-These Terms are effective as of the date you first click “I agree” (or similar button or checkbox), use or access a Cloud Services, or you fill and submit Order Form, whichever is earlier (the “Date”). This Agreement does not have to be signed in order to be binding. You indicate your assent to this Agreement by clicking “I agree” (or similar button or checkbox) at the time you register for a Cloud Services, create a Cloud Services account, or place an Order Form. For Free Services, you also indicate your assent to this Agreement by accessing or using the applicable Free Service.
+These Terms are effective as of the date you first click “I agree” (or similar button or checkbox), use or access a Cloud Services, or you fill and submit a Subscription Order, whichever is earlier (the “Date”). This Agreement does not have to be signed in order to be binding. You indicate your assent to this Agreement by clicking “I agree” (or similar button or checkbox) at the time you register for a Cloud Services, create a Cloud Services account, or place a Subscription Order. For Free Services, you also indicate your assent to this Agreement by accessing or using the applicable Free Service.
 
 If you are accepting on behalf of your employer or another entity, you represent and warrant that:
 
@@ -132,10 +132,10 @@ Certain features of the Services may be subject to additional terms (“Suppleme
 
 #### 4.1.1. Access to Cloud Services
 
-Subject to and for the duration of this Agreement, Customer may access and use the Cloud Services for their own business purposes or personal use, as applicable, all in accordance with the Agreement, the applicable Order Form and the Documentation. The rights granted to the Customer in this section are non-exclusive, non-sublicensable and non-transferable.
+Subject to and for the duration of this Agreement, Customer may access and use the Cloud Services for their own business purposes or personal use, as applicable, all in accordance with the Agreement, the applicable Subscription Order and the Documentation. The rights granted to the Customer in this section are non-exclusive, non-sublicensable and non-transferable.
 
 #### 4.1.2. Support
-For the duration of this Agreement, ERP.net will provide Support for the Cloud Services in accordance with section 6.2., and the applicable Order Form.
+For the duration of this Agreement, ERP.net will provide Support for the Cloud Services in accordance with section 6.2., and the applicable Subscription Order.
 
 #### 4.1.3. Beta Services
 
@@ -155,11 +155,11 @@ ERP.net may make Free Services available to Customer. Use of Free Services is su
 
 Customer may not, may not cause or permit others to: (a) use the Services to harass any person; cause damage or injury to any person or property; publish any material that is false, defamatory, harassing or obscene; violate privacy rights; promote bigotry, racism, hatred or harm; send unsolicited bulk e-mail, junk mail, spam or chain letters; infringe property rights; or otherwise violate applicable laws, ordinances or regulations; (b) perform or disclose any benchmarking, availability or performance testing of the Services; or (c) perform or disclose any performance or vulnerability testing of the Services without ERP.net’s prior written approval, perform or disclose network discovery, port and service identification, vulnerability scanning, password cracking, remote access or penetration testing of the Services.
 
-Customer may not, and may not cause or permit others to: use Malicious Code, modify, make derivative works of, disassemble, decompile, reverse engineer, reproduce, republish, download, or copy any part of the Services (including data structures or similar materials produced by programs) or license, sell, transfer, assign, distribute, outsource, permit timesharing or service bureau use of, commercially exploit, or make available the Services to any third party except as permitted by this Agreement or Order Form.
+Customer may not, and may not cause or permit others to: use Malicious Code, modify, make derivative works of, disassemble, decompile, reverse engineer, reproduce, republish, download, or copy any part of the Services (including data structures or similar materials produced by programs) or license, sell, transfer, assign, distribute, outsource, permit timesharing or service bureau use of, commercially exploit, or make available the Services to any third party except as permitted by this Agreement or Subscription Order.
 
 #### 4.2.2. Data protection
 
-Unless specifically included in the Order Forms, the Customer must not use the Cloud Service to store or process any sensitive or special categories of data that imposes specific data security or data protection obligations on ERP.net in addition to or different from those specified or referenced in the Order Forms for the Services.
+Unless specifically included in the Subscription Order, the Customer must not use the Cloud Service to store or process any sensitive or special categories of data that imposes specific data security or data protection obligations on ERP.net in addition to or different from those specified or referenced in the Subscription Orders for the Services.
 
 #### 4.2.3. Verification of Use
 
@@ -167,7 +167,7 @@ Customer will monitor its own use of the Cloud Services and report any use in ex
 
 #### 4.2.4. Support Site Registration
 
-The Customer shall register an account at ERP.net’s Support site (https://support.erp.bg), using the Administrative Contact name and email address specified on the Order Form. The Customer shall use the account to subscribe to the Announcements blog (https://support.erp.bg/hc/en-us/sections/201834599-Announcements), accessible from the Support site. The Customer is deemed to have notice of all announcements communicated through the Announcements blog on the Support site.
+The Customer shall register an account at ERP.net’s Support site (https://support.erp.bg), using the Administrative Contact name and email address specified on the Subscription Order. The Customer shall use the account to subscribe to the Announcements blog (https://support.erp.bg/hc/en-us/sections/201834599-Announcements), accessible from the Support site. The Customer is deemed to have notice of all announcements communicated through the Announcements blog on the Support site.
 
 ### 4.3. Security
 
@@ -183,7 +183,7 @@ The Cloud Services are not intended for, and should not be used by, anyone under
 
 ### 5.1. Administrators
 
-Through the Cloud Services, Customer should specify certain User/s as Administrators, who will have important rights and controls over the use of Cloud Services and User Accounts. This may include submitting Order Forms or enabling Third-party Application, creating, de-provisioning, monitoring or modifying User Accounts, and setting User usage permissions; and managing access to Data by Users or others. Without limiting Section 5.3 (Responsibility for Users), you are responsible for whom you allow to become Administrators and any actions they take, including as described above. You agree that ERP.net responsibilities do not extend to the internal management or administration of the Cloud Services for you.
+Through the Cloud Services, Customer should specify certain User/s as Administrators, who will have important rights and controls over the use of Cloud Services and User Accounts. This may include submitting Subscription Orders or enabling Third-party Application, creating, de-provisioning, monitoring or modifying User Accounts, and setting User usage permissions; and managing access to Data by Users or others. Without limiting Section 5.3 (Responsibility for Users), you are responsible for whom you allow to become Administrators and any actions they take, including as described above. You agree that ERP.net responsibilities do not extend to the internal management or administration of the Cloud Services for you.
 
 The appointment of an Administrator does not in any way limit the liability of the Customer. In case of violation of this Agreement, the Administrator/s and the Customer are jointly and severally liable.
 
@@ -211,7 +211,7 @@ If Customer order Cloud Services through a Reseller, then the Customer is respon
 
 ### 5.3. Responsibility for Users
 
-Some Cloud Services require Users to be designated by Administrators and some may allow Users to invite other Users. The appointed Administrator is responsible for understanding the settings and controls for each Cloud Service you use and for controlling whom you allow to become a User. If payment is required for Users to use or access a Cloud Services, then we are only required to provide the Cloud Services to those Users for whom you have paid the applicable fees, and only such Users are permitted to access and use the Cloud Services. Some Cloud Services may allow you to designate different types of Users, in which case pricing and functionality may vary according to the type of User. You are responsible for compliance with this Agreement by all Users, including for any payment obligations. You are responsible for the activities of all Users, including Order Forms they may place and how Users use Your Data, even if those Users are not from your organization or domain. The Administrator and the Customer are directly responsible for any damages resulting from User activity.
+Some Cloud Services require Users to be designated by Administrators and some may allow Users to invite other Users. The appointed Administrator is responsible for understanding the settings and controls for each Cloud Service you use and for controlling whom you allow to become a User. If payment is required for Users to use or access a Cloud Services, then we are only required to provide the Cloud Services to those Users for whom you have paid the applicable fees, and only such Users are permitted to access and use the Cloud Services. Some Cloud Services may allow you to designate different types of Users, in which case pricing and functionality may vary according to the type of User. You are responsible for compliance with this Agreement by all Users, including for any payment obligations. You are responsible for the activities of all Users, including Subscription Orders they may place and how Users use Your Data, even if those Users are not from your organization or domain. The Administrator and the Customer are directly responsible for any damages resulting from User activity.
 
 ## 6. Platform rights and responsibilities
 
@@ -233,11 +233,11 @@ Maintenance time is scheduled if it is communicated with an Administrator at lea
 
 ##### 6.1.2.2. Unscheduled Maintenance
 
-ERP.net in its sole discretion may take the Service down for Unscheduled maintenance and in that event will attempt to notify Customer and/or Administrator in advance. Unscheduled Maintenance, which is performed when it’s necessary to ensure a higher level of security and stability of the Services will be typically scheduled to occur at night - 10:00 pm - 12:30 am, based on the time zone of the Cloud Server location, chosen by Administrator or Customer in the Order Form, and should not exceed one hour.
+ERP.net in its sole discretion may take the Service down for Unscheduled maintenance and in that event will attempt to notify Customer and/or Administrator in advance. Unscheduled Maintenance, which is performed when it’s necessary to ensure a higher level of security and stability of the Services will be typically scheduled to occur at night - 10:00 pm - 12:30 am, based on the time zone of the Cloud Server location, chosen by Administrator or Customer in the Subscription Order, and should not exceed one hour.
 
 #### 6.1.3. Postponement of an update
 
-Depending on the Support Services and Usage Limits, specified in the Order Forms by the Customer, ERP.net offers shared or private servers to its Customers.
+Depending on the Support Services and Usage Limits, specified in the Subscription Orders by the Customer, ERP.net offers shared or private servers to its Customers.
 
 Customers who use shared servers do not have the opportunity to postpone scheduled upgrades and such are done according to the information on the official site and by the terms in Section 6.1.2.
 
@@ -280,7 +280,7 @@ Tickets can be submitted via the web form or phone numbers listed on Help page. 
 
 #### 6.3.1. Third-party’s products and services
 
-ERP.net or Third-party may make available (for example, through the Marketplace or otherwise) Third-party products or services, including, for example, Third-party Applications and implementation and other Consulting services. Any acquisition by Customer of such products or services, and any exchange of data between Customer and any Third-party’s product or service is solely between Customer and the applicable Third-party. ERP.net does not warrant or support Third-party Applications or other Third-party products or services, whether or not they are designated by ERP.net as “certified” or otherwise, unless expressly provided otherwise in an Order Form. ERP.net is not responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Third-party Application or its provider.
+ERP.net or Third-party may make available (for example, through the Marketplace or otherwise) Third-party products or services, including, for example, Third-party Applications and implementation and other Consulting services. Any acquisition by Customer of such products or services, and any exchange of data between Customer and any Third-party’s product or service is solely between Customer and the applicable Third-party. ERP.net does not warrant or support Third-party Applications or other Third-party products or services, whether or not they are designated by ERP.net as “certified” or otherwise, unless expressly provided otherwise in a Subscription Order. ERP.net is not responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Third-party Application or its provider.
 
 #### 6.3.2. Integration with Third-party Applications
 
@@ -300,17 +300,17 @@ ERP.net certifies the various applications so that the Customer can choose safe 
 
 ### 7.1. Usage Limits
 
-Services are subject to usage limits specified in Order Forms and Documentation. If Customer exceeds a contractual usage limit, ERP.net may work with Customer to seek to reduce Customer’s usage so that it conforms to that limit. If, notwithstanding ERP.net’s efforts, Customer is unable or unwilling to abide by a contractual usage limit, Customer will execute an Order Form for additional quantities of the applicable Services promptly upon ERP.net’s request, and/or pay any invoice for excess usage in accordance with the “Invoicing and Payment” section below.
+Services are subject to usage limits specified in Subscription Orders and Documentation. If Customer exceeds a contractual usage limit, ERP.net may work with Customer to seek to reduce Customer’s usage so that it conforms to that limit. If, notwithstanding ERP.net’s efforts, Customer is unable or unwilling to abide by a contractual usage limit, Customer will execute a Subscription Order for additional quantities of the applicable Services promptly upon ERP.net’s request, and/or pay any invoice for excess usage in accordance with the “Invoicing and Payment” section below.
 
 The use of one User account by several different Users is expressly prohibited and will be considered a gross violation of this Agreement, which may result in termination of all Services without notice. This limit doesn’t apply for Business Partners accounts. If a Business Partner should access the system, a request for this is submitted through the platform and a Business Partner account of the given legal entity is created, which can be accessed by several Users.
 
-Additionally, the ERP.net may, at its discretion, provide Free services under section 4.1.5. to Customer who they consider that is classified for them according to the internal ERP.net rules (universities, non-governmental organizations, churches). In such cases, the usage is limited to the resources that the ERP.net has decided to provide free of charge and according to the constraints it deems appropriate for the need of the Customer, stated in the Order Form.
+Additionally, the ERP.net may, at its discretion, provide Free services under section 4.1.5. to Customer who they consider that is classified for them according to the internal ERP.net rules (universities, non-governmental organizations, churches). In such cases, the usage is limited to the resources that the ERP.net has decided to provide free of charge and according to the constraints it deems appropriate for the need of the Customer, stated in the Subscription Order.
 
 #### 7.1.1. Different type of usage limits
 
 - **Session Based** – this is a type of limitation that entitles the Customer to use the Cloud Service by User sessions, regardless of who the individual User is. In this case the number of licenses is equal to the number of User sessions, which can be performed simultaneously by Users of the Customer, which means there are no restriction on the number of registered Users.
 
-- **User Based** – this is a type of limitation that entitles 1 /one/ individual User, identified in an Order Form, or in another appropriate way, to use the Cloud Services. In this case, the number of licenses is equal to the number of individual Users who can use the Cloud Services, which means there are restriction on the number of registered Users.
+- **User Based** – this is a type of limitation that entitles 1 /one/ individual User, identified in an Subscription Order, or in another appropriate way, to use the Cloud Services. In this case, the number of licenses is equal to the number of individual Users who can use the Cloud Services, which means there are restriction on the number of registered Users.
 
 - **Resource Based** – this is a type of limitation that gives the Customer the right to use a certain capacity of the Cloud Services – until a certain load of resources or monthly quota is reached.
 
@@ -318,7 +318,7 @@ Additionally, the ERP.net may, at its discretion, provide Free services under se
 
 - **Functionality Based** – defines the functional modules or specific functions of the Cloud Services, which are subject to the license.
 
-Multiple usage limits may be applied to Customer, based on their Order Form and personal and business needs.
+Multiple usage limits may be applied to Customer, based on their Subscription Order and personal and business needs.
 
 ### 7.2. Bundles
 
@@ -334,7 +334,7 @@ Subject to the limited rights expressly granted hereunder, ERP.net, its Affiliat
 
 ### 7.4. Ownership of Customer Data
 
-As between ERP.net and Customer, all title and intellectual property rights in and to the Customer Data is owned exclusively by Customer. Customer acknowledges and agrees that in connection with the provision of the Services, ERP.net may store and maintain Customer Data for a period of time consistent with ERP.net’s standard business processes for the Services. Following expiration or termination of the Agreement or a Customer account, if applicable, ERP.net may deactivate the applicable Customer and User account(s) and delete any data therein. Customer grants ERP.net the right to host, use, process, display and transmit Customer Data to provide the Services pursuant to and in accordance with this Agreement and the applicable Order Form. Customer has sole responsibility for the accuracy, quality, integrity, legality, reliability, and appropriateness of Customer Data, and for obtaining all rights related to Customer Data required by ERP.net to perform the Services.
+As between ERP.net and Customer, all title and intellectual property rights in and to the Customer Data is owned exclusively by Customer. Customer acknowledges and agrees that in connection with the provision of the Services, ERP.net may store and maintain Customer Data for a period of time consistent with ERP.net’s standard business processes for the Services. Following expiration or termination of the Agreement or a Customer account, if applicable, ERP.net may deactivate the applicable Customer and User account(s) and delete any data therein. Customer grants ERP.net the right to host, use, process, display and transmit Customer Data to provide the Services pursuant to and in accordance with this Agreement and the applicable Subscription Order. Customer has sole responsibility for the accuracy, quality, integrity, legality, reliability, and appropriateness of Customer Data, and for obtaining all rights related to Customer Data required by ERP.net to perform the Services.
 
 ### 7.5. ERP.net Intellectual Property Rights
 
@@ -354,7 +354,7 @@ Except where noticed otherwise in writing, each party grants the other a non-tra
 
 #### 8.1.1. Definition of Confidential Information
 
-- **“Confidential Information”** means all information disclosed by a party (“Disclosing Party”) to the other party (“Receiving Party”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information of Customer includes Customer Data; Confidential Information of ERP.net includes the Services and the terms and conditions of this Agreement and all Order Forms (including pricing). Confidential Information of each party includes business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party.
+- **“Confidential Information”** means all information disclosed by a party (“Disclosing Party”) to the other party (“Receiving Party”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information of Customer includes Customer Data; Confidential Information of ERP.net includes the Services and the terms and conditions of this Agreement and all Subscription Orders (including pricing). Confidential Information of each party includes business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party.
 
 #### 8.1.2. Exceptions
 
@@ -364,9 +364,9 @@ Confidential Information does not include any information that (i) is or becomes
 
 As between the parties, each party retains all ownership rights in and to its Confidential Information. The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but not less than reasonable care).
 
-Each party agrees not to disclose the other party’s Confidential Information to any third party other than as set forth in the following sentence for a period of five years from the date of the disclosing party’s disclosure of the Confidential Information to the receiving party; however, ERP.net will protect the confidentiality of Customer Data residing in the Cloud Service for as long as such information resides in the Cloud Service. Each party may disclose Confidential Information only to those employees, agents or subcontractors who are required to protect it against unauthorized disclosure in a manner no less protective than required under this Agreement, and each party may disclose the other party’s Confidential Information in any legal proceeding or to a governmental entity as required by law. ERP.net will protect the confidentiality of Customer Data residing in the Services in accordance with the ERP.net security practices applicable to Customer’s Order Form as described in this Agreement or such Order Form.
+Each party agrees not to disclose the other party’s Confidential Information to any third party other than as set forth in the following sentence for a period of five years from the date of the disclosing party’s disclosure of the Confidential Information to the receiving party; however, ERP.net will protect the confidentiality of Customer Data residing in the Cloud Service for as long as such information resides in the Cloud Service. Each party may disclose Confidential Information only to those employees, agents or subcontractors who are required to protect it against unauthorized disclosure in a manner no less protective than required under this Agreement, and each party may disclose the other party’s Confidential Information in any legal proceeding or to a governmental entity as required by law. ERP.net will protect the confidentiality of Customer Data residing in the Services in accordance with the ERP.net security practices applicable to Customer’s Subscription Order as described in this Agreement or such Subscription Order.
 
-Notwithstanding the foregoing, ERP.net may disclose the terms of this Agreement and any applicable Order Form to a subcontractor or Third-party Developer to the extent necessary to perform ERP.net’s obligations under this Agreement, under terms of confidentiality materially as protective as set forth herein.
+Notwithstanding the foregoing, ERP.net may disclose the terms of this Agreement and any applicable Subscription Order to a subcontractor or Third-party Developer to the extent necessary to perform ERP.net’s obligations under this Agreement, under terms of confidentiality materially as protective as set forth herein.
 
 #### 8.1.4. Compelled Disclosure
 
@@ -384,7 +384,7 @@ Upon written request, Customer will promptly return or destroy (and certify such
 
 #### 8.2.1. Protection of Customer Data
 
-ERP.net will maintain appropriate administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Customer Data, as described in the Documentation. Those safeguards will include, but will not be limited to, measures designed to prevent unauthorized access to or disclosure of Customer Data (other than by Customer or Users). Except with respect to a free trial, the terms of the data processing addendum at Privacy and DPA page are hereby incorporated by reference and shall apply to the extent Customer Data includes Personal Data, as defined in the DPA. To the extent Personal Data from the European Economic Area (EEA), the United Kingdom and Switzerland are processed by us, ERP.net will not transfer personal data outside of EU, except in cases where that was explicitly demanded by the Customer or where it’s strictly necessary for the performance of the Service. In case of a data transfer outside of EEA in case there’s no Adequacy decision under art. 45 GDPR for this country/territory, the Customer agrees to a Standard Contractual Clauses, where Customer and its applicable Affiliates are each the data exporter, and Customer's acceptance of this Agreement, and an applicable Affiliate's execution of an Order Form, shall be treated as its execution of the Standard Contractual Clauses and Appendices.
+ERP.net will maintain appropriate administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Customer Data, as described in the Documentation. Those safeguards will include, but will not be limited to, measures designed to prevent unauthorized access to or disclosure of Customer Data (other than by Customer or Users). Except with respect to a free trial, the terms of the data processing addendum at Privacy and DPA page are hereby incorporated by reference and shall apply to the extent Customer Data includes Personal Data, as defined in the DPA. To the extent Personal Data from the European Economic Area (EEA), the United Kingdom and Switzerland are processed by us, ERP.net will not transfer personal data outside of EU, except in cases where that was explicitly demanded by the Customer or where it’s strictly necessary for the performance of the Service. In case of a data transfer outside of EEA in case there’s no Adequacy decision under art. 45 GDPR for this country/territory, the Customer agrees to a Standard Contractual Clauses, where Customer and its applicable Affiliates are each the data exporter, and Customer's acceptance of this Agreement, and an applicable Affiliate's execution of a Subscription Order, shall be treated as its execution of the Standard Contractual Clauses and Appendices.
 
 #### 8.2.2. Processing of Personal Data
 
@@ -422,13 +422,13 @@ In the event of third-party legal proceedings relating to the Customer Data, ERP
 
 ### 9.1. Billing Models
 
-Billing Models are different approaches for pricing and charging a Customer based on their needs, use of the Services, and purchased licenses. ERP.net offers three types of Billing Models for their Customers. Billing Models are applied to the different Usage limits (see Section 7.1.1). Depending on the details specified in the Order Form one Billing Model can be applied to all Usage limits or different Billing Models can be chosen for specific Usage limits.
+Billing Models are different approaches for pricing and charging a Customer based on their needs, use of the Services, and purchased licenses. ERP.net offers three types of Billing Models for their Customers. Billing Models are applied to the different Usage limits (see Section 7.1.1). Depending on the details specified in the Subscription Order one Billing Model can be applied to all Usage limits or different Billing Models can be chosen for specific Usage limits.
 
 #### 9.1.1. Types of Billing Models
 
-- **Subscription Billing Model** – You commit in advance to purchase a specific quantity of Services and to pay upfront for each Billing Period as stated on the Order Form. Committed quantities not used during the month will expire at the end of it.
+- **Subscription Billing Model** – You commit in advance to purchase a specific quantity of Services and to pay upfront for each Billing Period as stated on the Subscription Order. Committed quantities not used during the month will expire at the end of it.
 
-- **Usage Billing Models** (Pay-As-You-Go) – You pay based on actual usage in the preceding month with no upfront commitment. Payment is on a periodic basis, according to the Billing Period specified in the Order Form.
+- **Usage Billing Models** (Pay-As-You-Go) – You pay based on actual usage in the preceding month with no upfront commitment. Payment is on a periodic basis, according to the Billing Period specified in the Subscription Order.
 
 - **Combined billing model** (Pay-As-You-Grow) – This model combines the above two and it’s applied exceptionally to certain usage limits. Customer commits to specific quantity, which is paid upfront for every Billing Period (Subscription Model). In case the Customer's needs exceed this quantity, they are charged based on certain unit of cost (Usage Model). In the beginning of each Billing Period Customer is billed for all excess usage from the last Billing Period, plus the applicable subscription fee for the next.
 
@@ -438,33 +438,33 @@ With respect to ERP.net Cloud Services, when Customer has chosen the Subscriptio
 
 #### 9.1.3. Default Billing Model
 
-Unless otherwise provided in the applicable Order Form or Documentation, the Subscription Billing Model should apply to the Purchased Services and their Usage limits for the duration of the Agreement.
+Unless otherwise provided in the applicable Subscription Order or Documentation, the Subscription Billing Model should apply to the Purchased Services and their Usage limits for the duration of the Agreement.
 
 Customer can make a request for different combinations of Usage limits and Billing Models, but ERP.net reserves the right to prepare a personal offer that may better meet the needs of the Customer.
 
 ### 9.2. Agreement Term
 
-This Agreement commences on the date on which an Order Form is submitted by the Customer and shall continue in effect for an indefinite period of time until it is terminated in accordance with the provisions thereof. This Agreement is valid for the Order Forms which this Agreement accompanies.
+This Agreement commences on the date on which a Subscription Order is submitted by the Customer and shall continue in effect for an indefinite period of time until it is terminated in accordance with the provisions thereof. This Agreement is valid for the Subscription Orders which this Agreement accompanies.
 
 ### 9.3. Pricing and Payment
 
-Customer will provide ERP.net with valid and updated bank card information, or with a valid purchase order or alternative document reasonably acceptable to ERP.net. If Customer provides bank card (credit card, debit card, virtual card etc.) information to ERP.net, Customer authorizes ERP.net to charge such bank card for all Purchased Services listed in the Order Form for the duration of this Agreement.
+Customer will provide ERP.net with valid and updated bank card information, or with a valid purchase order or alternative document reasonably acceptable to ERP.net. If Customer provides bank card (credit card, debit card, virtual card etc.) information to ERP.net, Customer authorizes ERP.net to charge such bank card for all Purchased Services listed in the Subscription Order for the duration of this Agreement.
 
-Such charges shall be made either monthly or in accordance with any different Billing Period stated in Order Form. Depending on the Billing Models chosen, such charges will be made:
+Such charges shall be made either monthly or in accordance with any different Billing Period stated in Subscription Order. Depending on the Billing Models chosen, such charges will be made:
 
 - In case of **Subscription Billing Model** – on the 1st of the month for the advance use for next Billing Period;
 - In case of **Usage Billing Models** – on the 1st of the month for the use generated in the previous Billing Period;
 - In case of **Combined billing model** – on the 1st of the month for the advance and used quantities;
 
-Regardless of the start date of the Agreement, the Customer’s card shall be charged or the Customer shall be invoiced on the 1st day of the month. All Services used prior to that day shall be included in the first charge or invoice, together with the Fees for the next month. If the Order Form specifies that payment will be by a method other than a bank card, ERP.net will invoice Customer in advance and otherwise in accordance with the relevant Order Form. Unless otherwise stated in the Order Form, invoiced fees are due net 15 days from the invoice date. Customer is responsible for providing complete and accurate billing and contact information to ERP.net and notifying ERP.net of any changes to such information.
+Regardless of the start date of the Agreement, the Customer’s card shall be charged or the Customer shall be invoiced on the 1st day of the month. All Services used prior to that day shall be included in the first charge or invoice, together with the Fees for the next month. If the Subscription Order specifies that payment will be by a method other than a bank card, ERP.net will invoice Customer in advance and otherwise in accordance with the relevant Subscription Order. Unless otherwise stated in the Subscription Order, invoiced fees are due net 15 days from the invoice date. Customer is responsible for providing complete and accurate billing and contact information to ERP.net and notifying ERP.net of any changes to such information.
 
 Customer agrees that its purchases are not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by ERP.net regarding future functionality or features.
 
 ### 9.4. Renewal
 
-Except as otherwise specified in an Order Form, the Agreement Term will automatically renew for additional periods equal to the expiring Agreement Term or one year (whichever is shorter), unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant Agreement Term. Except as expressly provided in the applicable Order Form, renewal of promotional or one-time prices will be at ERP.net’s applicable list price in effect at the time of the applicable renewal. Notwithstanding anything to the contrary, any renewal in which Purchased Services volume or Agreement Term length for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior term’s per-unit pricing.
+Except as otherwise specified in a Subscription Order, the Agreement Term will automatically renew for additional periods equal to the expiring Agreement Term or one year (whichever is shorter), unless either party gives the other written notice (email acceptable) at least 30 days before the end of the relevant Agreement Term. Except as expressly provided in the applicable SubscriptionOrder, renewal of promotional or one-time prices will be at ERP.net’s applicable list price in effect at the time of the applicable renewal. Notwithstanding anything to the contrary, any renewal in which Purchased Services volume or Agreement Term length for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior term’s per-unit pricing.
 
-If there is no Contract End Date specified in the applicable Order Form, the Agreement shall renew automatically on the 1st of every month.
+If there is no Contract End Date specified in the applicable Subscription Order, the Agreement shall renew automatically on the 1st of every month.
 
 ### 9.5. Price Changes
 
@@ -472,10 +472,10 @@ If there is no Contract End Date specified in the applicable Order Form, the Agr
 ERP.net may unilaterally change its pricing lists at any time. In such case, the prices under this Agreement shall change accordingly from the next Billing Period, provided that ERP.net has notified the Customer of such changes and the Agreement has remained in force.
 
 #### 9.5.2. Expiry of promotional prices
-Except as expressly provided in the applicable Order Form, promotional or one-time prices will revert back to ERP.net’s standard list prices at the start of the next Billing Period.
+Except as expressly provided in the applicable Subscription Order, promotional or one-time prices will revert back to ERP.net’s standard list prices at the start of the next Billing Period.
 
 #### 9.5.3. Change in Purchased Services
-The Customer may request an increase or decrease in the Purchased Services at any time by placing a new Order Form. In such case, the change in Services shall take effect from the start date of the new Order Form. If the Customer has removed or decreased any pre-paid Services, ERP.net shall retain the applicable pre-paid fees. If the Customer has increased his pre-paid Services, the price increase for the remainder of the then-current Billing Period will be added to the Customer’s invoice or bank charge for the next Billing Period. If the Services were not pre-paid, they will be charged accordingly at the end of the applicable Billing Period.
+The Customer may request an increase or decrease in the Purchased Services at any time by placing a new Subscription Order. In such case, the change in Services shall take effect from the start date of the new Subscription Order. If the Customer has removed or decreased any pre-paid Services, ERP.net shall retain the applicable pre-paid fees. If the Customer has increased his pre-paid Services, the price increase for the remainder of the then-current Billing Period will be added to the Customer’s invoice or bank charge for the next Billing Period. If the Services were not pre-paid, they will be charged accordingly at the end of the applicable Billing Period.
 
 #### 9.5.4. Clerical errors
 ERP.net reserves the right to make any corrections to prices quoted due to clerical errors or errors of omission.
@@ -486,7 +486,7 @@ All amounts are non-refundable, non-cancellable and non-creditable. You agree th
 
 ### 9.7. Overdue Charges
 
-If any invoiced amount is not received by ERP.net by the due date, then without limiting ERP.net’s rights or remedies, (a) those charges may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower, and/or (b) ERP.net may condition future renewals and Order Forms on payment terms, shorter than those specified in this section.
+If any invoiced amount is not received by ERP.net by the due date, then without limiting ERP.net’s rights or remedies, (a) those charges may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower, and/or (b) ERP.net may condition future renewals and Subscription Orders on payment terms, shorter than those specified in this section.
 
 ### 9.8. Suspension of Service and Acceleration
 
@@ -498,7 +498,7 @@ ERP.net will not exercise its rights in the sections above if Customer is disput
 
 ### 9.9. Fees
 
-Customer will pay all Fees specified in Order Forms. Except as otherwise specified herein or in an Order Form, (i) Fees are based on Purchased Services and the chosen Billing Models, and (ii) payment obligations are non-cancellable and Fees paid are non-refundable.
+Customer will pay all Fees specified in Subscription Orders. Except as otherwise specified herein or in an Subscription Order, (i) Fees are based on Purchased Services and the chosen Billing Models, and (ii) payment obligations are non-cancellable and Fees paid are non-refundable.
 
 Customer will pay the Fees applicable to the Purchased Services and the Billing Models (“License Fees”) and any other Fees, including but not limited to Fees relating to currency conversion, bank charges, transfer charges and any related payment transaction charges (“Transaction Fees”), and any Fees relating to your purchase or use of any services such as App, Marketplace purchases, or Third-Party Services (“Additional Fees”).
 
@@ -508,7 +508,8 @@ License Fees are paid based on the applicable Billing Models and will be billed 
 
 If you make any purchases through an authorized partner or reseller of ERP.net (“Reseller”), instead of paying ERP.net, you will pay the applicable amounts to the Reseller, as agreed between you and the Reseller. We may suspend or terminate your rights to use Cloud Services if we do not receive the corresponding payment from the Reseller.
 
-Your order details (e.g., the Cloud Services you are entitled to use, the number of Users, the Billing Period, etc.) will be as stated in the Order Form placed with us by the Reseller on your behalf, and Reseller is responsible for the accuracy of any such Order Form as communicated to us.
+Your order details (e.g., the Cloud Services you are entitled to use, the number of Users, the Billing Period, etc.) will be as stated in the Subscription Order 
+placed with us by the Reseller on your behalf, and Reseller is responsible for the accuracy of any such Subscription Order as communicated to us.
 
 If you are entitled to a refund under this Agreement, then unless we otherwise specify, we will refund any applicable Fees to the Reseller and the Reseller will be solely responsible for refunding the appropriate amounts to you.
 
@@ -518,11 +519,11 @@ The amount paid or payable by the Reseller to us for your use of the applicable 
 
 ### 9.11. No contingencies on other products of future functionality
 
-You acknowledge that the Cloud Services and Additional Services referenced in an Order Form are being purchased separately from any of our other products or services. Payment obligations for any products or services are not contingent on the purchase or use of any of our other services (and for clarity, any purchases of Cloud Services and Additional Services are separate and not contingent on each other, even if listed on the same Order Form). You agree that your purchases are not contingent on the delivery of any future functionality or features (including future availability of any Cloud Services beyond the duration of this Agreement), or dependent on any oral or written public comments we make regarding future functionality or features.
+You acknowledge that the Cloud Services and Additional Services referenced in a Subscription Order are being purchased separately from any of our other products or services. Payment obligations for any products or services are not contingent on the purchase or use of any of our other services (and for clarity, any purchases of Cloud Services and Additional Services are separate and not contingent on each other, even if listed on the same Subscription Order). You agree that your purchases are not contingent on the delivery of any future functionality or features (including future availability of any Cloud Services beyond the duration of this Agreement), or dependent on any oral or written public comments we make regarding future functionality or features.
 
 ## 10. Tax
 
-Fees and other charges imposed under an Order Form will not include taxes, levies, duties or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction whatsoever (collectively, “Taxes”), all of which will be for Customer’s account. Customer is responsible for all taxes, other than ERP.net’s income and payroll taxes. Customer must provide to ERP.net any direct pay permits or valid tax-exempt certificates prior to signing an Order Form. If ERP.net has the legal obligation to pay or collect Taxes for which Customer is responsible under this section, ERP.net will invoice Customer and they will pay that amount unless Customer provides ERP.net with a valid tax exemption certificate authorized by the appropriate taxing authority. For clarity, ERP.net is solely responsible for taxes assessable against it based on its income, property and employees.
+Fees and other charges imposed under a Subscription Order will not include taxes, levies, duties or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction whatsoever (collectively, “Taxes”), all of which will be for Customer’s account. Customer is responsible for all taxes, other than ERP.net’s income and payroll taxes. Customer must provide to ERP.net any direct pay permits or valid tax-exempt certificates prior to signing a Subscription Order. If ERP.net has the legal obligation to pay or collect Taxes for which Customer is responsible under this section, ERP.net will invoice Customer and they will pay that amount unless Customer provides ERP.net with a valid tax exemption certificate authorized by the appropriate taxing authority. For clarity, ERP.net is solely responsible for taxes assessable against it based on its income, property and employees.
 
 ### 10.1. Withholding Taxes
 
@@ -534,7 +535,7 @@ You will pay all fees net of any applicable withholding taxes. You and we will w
 
 #### 11.1.1. Termination for Cause
 
-Either party may terminate this Agreement (including all related Order Forms) if the other party (a) fails to cure any material breach of this Agreement within thirty (30) days after notice; (b) ceases operation without a successor; or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if any such proceeding is instituted against that party (and not dismissed within sixty (60) days thereafter).
+Either party may terminate this Agreement (including all related Subscription Orders) if the other party (a) fails to cure any material breach of this Agreement within thirty (30) days after notice; (b) ceases operation without a successor; or (c) seeks protection under any bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if any such proceeding is instituted against that party (and not dismissed within sixty (60) days thereafter).
 
 If a Customer terminates this Agreement in accordance with this Section, ERP.net will refund the Customer any prepaid fees covering the remainder of the then-current Billing Period after the effective date of termination. If ERP.net terminates this Agreement in accordance with this Section, ERP.net will retain any prepaid fees under the Subscription Billing Model and Customer will pay any unpaid fees covering past usage under the Usage Billing Model.
 
@@ -543,7 +544,7 @@ If a Customer terminates this Agreement in accordance with this Section, ERP.net
 This Agreement will terminate:
 
 (i)	Upon receipt of a written notice by the Customer to ERP.net that the Customer wishes to terminate the Agreement, at any time and for any reason;
-(ii)	Upon the ‘Contract End Date’ in the applicable Order Form, if such is specified therein.
+(ii)	Upon the ‘Contract End Date’ in the applicable Subscription Order, if such is specified therein.
 
 Upon any such termination (i) you will not be entitled to a refund of any pre-paid fees and (ii) if you have not already paid all applicable fees for the then-current Billing Period (for example, fees covering past usage under the Usage Billing Model or additional fees for an increase in Services), any such fees that are outstanding will become immediately due and payable.
 
@@ -597,9 +598,9 @@ THIS SECTION (IP INDEMNIFICATION) STATES OUR SOLE LIABILITY AND YOUR EXCLUSIVE R
 
 ## 13. Communication
 
-All notices and communication will be in writing and given when delivered to the address set forth in an Order Form. Notices by ERP.net or Customer relating to the operation or support of the Cloud Service and those under Sections 6.2 (Support) and submitting new Order Forms may be in the form of an electronic notice to Customer’s Administrator/s identified in the Order Form.
+All notices and communication will be in writing and given when delivered to the address set forth in a Subscription Orde Form. Notices by ERP.net or Customer relating to the operation or support of the Cloud Service and those under Sections 6.2 (Support) and submitting new Subscription Order may be in the form of an electronic notice to Customer’s Administrator/s identified in the Subscription Order.
 
-All notices and communication will be addressed to the e-mails set forth in the last Order Form. ERP.net will communicate with Customer through their Administrator or Reseller, which one is applicable. Where necessary, the Parties may explicitly designate another person (Administrator for Customer) to temporarily or permanently serve as a Contact person.
+All notices and communication will be addressed to the e-mails set forth in the last Subscription Order. ERP.net will communicate with Customer through their Administrator or Reseller, which one is applicable. Where necessary, the Parties may explicitly designate another person (Administrator for Customer) to temporarily or permanently serve as a Contact person.
 
 This correspondence shall be deemed as binding on the Parties. The Parties shall consider all correspondence / statements sent by e-mail as written. Papers, documents and e-mails received by the Parties before 6:00 pm Eastern European time on the respective business day shall be deemed to have been received on the same day. Papers, documents and e-mails received by the parties after 06:00 pm on the respective business day are considered to be received on the next business day.
 
