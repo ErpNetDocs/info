@@ -1039,7 +1039,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/client-center.html",
-          "hash": "Xdaa5C0QNq2i6zDDF9oYHg=="
+          "hash": "aeXUwU1qZ8tRChaoXd3DoA=="
         }
       },
       "is_incremental": false,
@@ -1136,6 +1136,18 @@
         ".html": {
           "relative_path": "features/crm/marketing.html",
           "hash": "H1BIReSLWRzZQZqNL3ozqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/merchandising.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/merchandising.html",
+          "hash": "moS2g7NR/1NHqXmGXLyMEA=="
         }
       },
       "is_incremental": false,
@@ -1830,7 +1842,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "Dv+V86M0wrzRcQ32lOPA5g=="
+          "hash": "UbjZPUEBY4dkjUAjfh5DCA=="
         }
       },
       "is_incremental": false,

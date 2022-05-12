@@ -11,7 +11,7 @@ references:
   name: Chatter
   href: features/community/chatter.html
 - uid: client-center
-  name: Client Center
+  name: Client Center -  a single platform to engage with customers
   href: features/crm/client-center.html
 - uid: cta
   name: cta
