@@ -11,6 +11,5 @@ All value transactions in @@name are recorded in (at least) two currencies in pa
 The original currency records the transaction value as it is.
 The value is then converted to the base currency.
 
-The rule for conversion depend on the nature of the value, but is usually conversion, according to an attached currency rates directory.
-The conversion can also be performed based on average valuation of an account in original vs base currency.
+The rule for conversion depends on the nature of the value, but the conversion is usually carried out according to an attached currency rates directory. The conversion can also be performed based on average valuation of an account in original vs base currency.
 Other methods might also apply.
