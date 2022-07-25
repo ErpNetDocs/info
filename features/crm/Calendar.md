@@ -2,7 +2,8 @@
 
 ## Overview
 
-Calendars are well-known and widespread tools used for event management purposes. **@@name Calendar** is a valuable tool that empowers **coordinated planning, execution, and tracking** of personal and team assignments, as well as holding meetings related to **decision-making, project management, and other activities**.
+Calendars are well-known and widespread tools used for event management purposes. 
+**@@name Calendar** is a valuable tool that empowers **coordinated planning, execution, and tracking** of personal and team assignments, as well as holding meetings related to **decision-making, project management, and other activities**.
 
 ## User-Friendly Interface
 
@@ -94,4 +95,4 @@ Thus, the load for each participant can be assigned as a percentage in the range
 > @@name Calendar is compatible with Microsoft Windows calendar, Microsoft Teams calendar, and Outlook calendar. 
 > Appointments created or edited in @@name Calendar can be set to be automatically exported to external applications, notifying all concerned parties. 
 
-By bringing the individual schedules and integrating them into the platform, @@name Calendar facilitates **organizing, tracking, and carrying out** personal and group events for managers, employees, customers, partners, and all other stakeholders concerned no matter the size, location, or structure of the business. 
+By bringing the individual schedules and integrating them into the platform, @@name Calendar facilitates **organizing, tracking, and carrying out** personal and group events for managers, employees, customers, partners, and all other stakeholders concerned no matter the size, location, or structure of the business.
