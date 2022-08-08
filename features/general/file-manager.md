@@ -2,19 +2,28 @@
 
 ## Overview
 
-Oftentimes users have to search through complex directories to find a file they are looking for. 
-Especially when the file is **not associated** to a **specific document or record** in the ERP system, buth is a rather more **generic document** for business use, such as documentation regarding training courses, internal or external regulations, company practices, handbooks, and so on.  
+Oftentimes, keeping files in an external storage (like local drives or cloud platforms) leads to searching through complex external directories to find a file you are looking for. 
+And this often leaves a gap between navigating through internal ERP entities and external file storage.  
 
-Users tend to keep such files in an external storage, like local drives or cloud platforms. But this often leaves a gap between navigating through internal ERP entities and external file storage.  
+**File Management inside the ERP system** is a **feasible and productive way** to **close this gap** and **utilize the ERP system's full potential**.  
 
-A **File Manager inside the ERP system** is a **feasible and productive way** to **close this gap** and **utilize the ERP system's full potential**.  
+**Some files** are associated with **a specific record** in the ERP system. 
+They are an integral part of the record and make more sense if stored attached to it.  
 
-Your Business Management solution **@@name** comes with the updated functionality **File Management v2.0**.  
+To meet these needs, your **@@name system** provides you with the universal functionality of **attaching embedded or linked files** to an **internal record or other object**, available throughout all subsystems.  
 
-**File Manager of @@name** enables you to **store and access** your files and folders in an organized and straightforward way without having to attach them to specific records. 
+**Other files** are more **generic documents for business use**, such as documentation regarding training courses, internal or external regulations, company practices, handbooks, and so on. 
+These concern the organization as a whole and are used for **general reference** or as **informational sources**. 
+In this case, being able to upload them in an accessible storage, **unattached**, would be a more suitable solution.  
+
+To solve this, **@@name** now comes with the updated functionality **File Management v2.0**.  
+
+Built upon the proven and trusted functionality of **attaching documents to specific objects**, **File Manager of @@name** now extends its abilities featuring a way to **also store an unattached file**.  
+
+**File Manager** enables you to **store and access** your files and folders in an organized and straightforward way. 
 Its intuitive structure resembles the well-known **Windows File Explorer structure** users are used to.  
 
-The new functionality for organizing your work files and folders is accessible to all users of your @@name platform, regardless of their workplace's physical location.  
+The new functionality for organizing your work files and folders is accessible to all users of your @@name platform regardless of their workplace's physical location.  
 ## File Manager Structure
 
 **File Management v2.0** unlocks new opportunities by providing **a uniform, centralized and shared structure** for managing your business documentation in a cloud environment, integrated with the rest of your data within the ERP platform. 
@@ -32,7 +41,8 @@ In the Folder tree you can also:
 * Remove the selected folder from the folder tree and your storage
 * Refresh the contents of the folder tree  
 
-The **Files** window shows the files stored in the selected folder. It also allows to: 
+The **Files** window shows the files stored in the selected folder. 
+It also allows to: 
 
 * Open the selected file using an appropriate application
 * Save the selected file to your local storage or external storage
@@ -43,16 +53,8 @@ The **Files** window shows the files stored in the selected folder. It also allo
 
 The layout options for visualizing your files are identical to the popular ones in Windows File Explorer. 
 **Different layouts** represent a **different level of density and details** for the files in the current folder. 
-There are currently **eight available views** for viewing your documents: 
-
-* **Extra large icons** - displays the largest possible icons for files. Suitable for previews of images and thumbnails of video files 
-* **Large icons** - displays large icons for files. Suitable for previews of images and thumbnails of files 
-* **Medium icons** - displays medium-sized icons for files. Suitable for selecting multiple files while still being able to visually distinguish between separate files 
-* **Small icons** - displays small-sized icons for files. Suitable for viewing and selecting multiple files in a grid-like organization 
-* **Tiles** - displays medium-sized icons as well as basic details for your files. A balanced combination between *Medium icons* and *Content* 
-* **List** - displays files as a list of items. Files are ordered from top to bottom, then left to right 
-* **Content** - displays each file on a separate row. Additional details, such as size, type, date modified, or others are also displayed 
-* **Details** - displays each file on a separate row. This is the view with the highest level of details readily available for viewing without going to file properties 
+There are currently **eight available views** for viewing your documents. 
+You can choose between different icon sizes, tiles, list, details, and other.
 
 ## File Manager Sections
 
