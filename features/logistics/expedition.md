@@ -1,8 +1,8 @@
-# Expedition Module
+# Shipping Module
 
-You can use the Expedition module to plan and organize the physical transportation of goods to your customers. 
+You can use the Shipping module to plan and organize the physical transportation of goods to your customers. 
 You can print the documents required for the transport and you can attach external files and photos. 
-The module conforms the expedition details with the customer's requirements described in the Sales orders (for example required delivery date).
+The module conforms the shipping details with the customer's requirements described in the Sales orders (for example required delivery date).
 
 
 ## Shipment Orders
