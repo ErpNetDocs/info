@@ -890,6 +890,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "features/crm/Calendar.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/Calendar.html",
+          "hash": "5htjr0QitLdOkHG2s7Mh7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "features/crm/PricingModels.png",
       "output": {
@@ -1431,6 +1443,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/file-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/file-manager.html",
+          "hash": "mbQ7pzr7vuYDl8QWSamyag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/index.md",
       "output": {
         ".html": {
@@ -1842,7 +1866,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "UbjZPUEBY4dkjUAjfh5DCA=="
+          "hash": "vlZJKsFCbfCddPbU5nnFOA=="
         }
       },
       "is_incremental": false,
@@ -2011,6 +2035,18 @@
         ".html": {
           "relative_path": "information/index.html",
           "hash": "RJn1NNBII1f7hm8L+DRKBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/concurrent-sessions-based-licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/concurrent-sessions-based-licensing.html",
+          "hash": "O5hSLyKvIB5Sh3tbe13vIA=="
         }
       },
       "is_incremental": false,
