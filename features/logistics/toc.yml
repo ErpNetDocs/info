@@ -8,6 +8,8 @@
   href: lot-tracking.md
 - name: Serial Numbers
   href: serial-numbers.md 
+- name: Variable Measurement Ratios
+  href: variable-measurement-ratios.md   
 - name: Warehouse Management
   href: warehouse_management.md
 - name: WMS Zone-based routing
