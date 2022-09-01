@@ -2,8 +2,8 @@
   href: index.md
 - name: Barcode Control
   href: barcode-control.md
-- name: Expedition
-  href: expedition.md
+- name: Shipment
+  href: shipment.md
 - name: Lot Tracking
   href: lot-tracking.md
 - name: Serial Numbers
