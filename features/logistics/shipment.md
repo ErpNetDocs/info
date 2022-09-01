@@ -1,8 +1,8 @@
 # Shipment Module
 
-You can use the Shipment module to plan and organize the physical transportation of goods to your customers. 
-You can print the documents required for the transport and you can attach external files and photos. 
-The module conforms the shipment details with the customer's requirements described in the Sales orders (for example required delivery date).
+You can use the Shipment Module to plan and organize the shipment process of goods to your customers - whether you are using an external shipper or internal transport.
+You can also create all the supporting shipping documents, as well as attach external files and photos. 
+Shipment Module provides the means to adjust the shipment details with the customer's requirements described in the Sales orders (for example required delivery date).
 
 
 ## Shipment Orders
