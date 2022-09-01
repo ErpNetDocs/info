@@ -4,6 +4,8 @@
   href: barcode-control.md
 - name: Shipment
   href: shipment.md
+- name: Logistic Units
+  href: logistic-units.md  
 - name: Lot Tracking
   href: lot-tracking.md
 - name: Serial Numbers
