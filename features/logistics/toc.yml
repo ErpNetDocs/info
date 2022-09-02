@@ -2,6 +2,8 @@
   href: index.md
 - name: Barcode Control
   href: barcode-control.md
+- name: Composite Products
+  href: composite-products.md
 - name: Shipment
   href: shipment.md
 - name: Lot Tracking
