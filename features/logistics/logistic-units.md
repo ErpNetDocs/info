@@ -7,4 +7,4 @@ Boxes, crates, pallets, and containers are examples of logistic units.
 
 @@name's gives you full support for logistic units. 
 
-This feature finds wide use in Warehouse Management System of @@name, as well as other subsystems and functionalities.  
+This feature finds wide use in the Warehouse Management System of @@name, as well as other subsystems and functionalities.  
