@@ -2,7 +2,7 @@
 
 ## Overview
 
-Some industries trade products the quantity of which **may vary to some degree** for each individual piece of the product that is bought, processed, and sold. 
+Some industries trade products (like meat, potatoes, cheese, iron bars, fuel, and others), the quantity of which **may vary to some degree** for each individual piece of the product that is bought, processed, and sold. 
 The **quantity deviations** from the nominal quantity may be caused by **various reasons**. 
 Natural biological processes (for example, weight loss of dried foods), manufacturing specifics or inaccuracies (arranging pieces of the product in packages of larger units), or other processes and characteristics that are immutable by anyone.  
 
