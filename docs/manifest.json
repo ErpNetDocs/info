@@ -1619,18 +1619,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "features/logistics/expedition.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/logistics/expedition.html",
-          "hash": "Flpkgbh0Qd4tZeZonWeYgg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "log_codes": [
         "InvalidFileLink"
       ],
@@ -1639,7 +1627,7 @@
       "output": {
         ".html": {
           "relative_path": "features/logistics/index.html",
-          "hash": "0Lan4Bo+XK+eP8R+NkUX5w=="
+          "hash": "c8IBF5qSgZDuI8Sspzdbvw=="
         }
       },
       "is_incremental": false,
@@ -1664,6 +1652,18 @@
         ".html": {
           "relative_path": "features/logistics/serial-numbers.html",
           "hash": "Mc5KI50ONsV6YIBjToABjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/shipment.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/shipment.html",
+          "hash": "8uwRv8/Ka+iCShN3N6RvQQ=="
         }
       },
       "is_incremental": false,
@@ -1866,7 +1866,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "vlZJKsFCbfCddPbU5nnFOA=="
+          "hash": "2hjue+FmxVU3UHVOJOWCvw=="
         }
       },
       "is_incremental": false,
