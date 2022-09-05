@@ -17,11 +17,11 @@ Many other businesses, like those trading desktop and server configurations, HVA
 ## Implementing Composite Products into @@name WMS
 
 The Warehouse Management System of @@name provides complete and integrated support for handling and managing composite products. 
-The system provides all necessary means to fulfill all kinds of orders and tasks associated with handling and managing composite products, accompanied by their related documentation.  
+The system provides all necessary means to **fulfill all kinds of orders and tasks** associated with **handling and managing composite products**, accompanied by their related **documentation**.  
 
-WMS is capable of breaking down requisitions for composite products to generate new orders for executing operations with their components.  
+WMS is capable of **breaking down requisitions** for composite products to **generate new orders** for executing operations with their components.  
 
-Availabilities for all components of composite products can be tracked in real-time by the help of the built-in Warehouse Availabilities Report functionality.  
+**Availabilities for all components** of composite products can be **tracked in real-time** by the help of the built-in **Warehouse Availabilities Report** functionality.  
 
 ## Levels of Control for Composite Products in WMS of @@name
 
