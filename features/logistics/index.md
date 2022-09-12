@@ -16,12 +16,13 @@ The modules cover the management of various logistics activities, such as:
 * Addressing storage space
 * Management of returned products, scraps, etc.
 
-The main objective of @@name Logistics is to help you provide products and materials where and when they are needed. In order for the logistics process to be smooth, the system monitors it based on prescriptions, technologies, orders from customers and to suppliers, inventory, sales projections, etc.
+The main objective of @@name Logistics is to help you provide products and materials where and when they are needed. 
+In order for the logistics process to be smooth, the system monitors it based on prescriptions, technologies, orders from customers and to suppliers, inventory, sales projections, etc.
 
 ## Modules
 
-* **[Expedition](expedition.md)** - organizes and prepares dispatching orders to customers
-* **[Warehouse](warehouse_management.md)** - distributes orders and helps you control the execution of storage operations that lead to changes in inventory
+* **[Shipment](shipment.md)** - organizes and prepares dispatching orders to customers
+* **[Warehouse](warehouse-management.md)** - distributes orders and helps you control the execution of storage operations that lead to changes in inventory
 * **Supply Planning / DRP** - built-in supply optimization models and product provisioning methods
 
 ## Features 
