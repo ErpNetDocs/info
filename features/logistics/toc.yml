@@ -6,12 +6,18 @@
   href: composite-products.md
 - name: Shipment
   href: shipment.md
+- name: Logistic Units
+  href: logistic-units.md  
 - name: Lot Tracking
   href: lot-tracking.md
 - name: Serial Numbers
   href: serial-numbers.md 
+- name: Variable Measurement Ratios
+  href: variable-measurement-ratios.md   
 - name: Warehouse Management
   href: warehouse_management.md
+- name: WMS Worker Mobile App
+  href: wms-worker.md
 - name: WMS Zone-based routing
   href: wms-zone-based-routing.md
 - name: WMS routing examples
