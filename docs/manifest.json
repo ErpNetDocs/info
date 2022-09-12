@@ -1167,6 +1167,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/crm/omnichannel-sales.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/omnichannel-sales.html",
+          "hash": "swnz+av52vG8c+sP0e+jZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/crm/presales.md",
       "output": {
         ".html": {
@@ -1635,6 +1647,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/logistic-units.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/logistic-units.html",
+          "hash": "UctOe9H10UtD8XZ0bjdIrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/lot-tracking.md",
       "output": {
         ".html": {
@@ -1671,6 +1695,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/variable-measurement-ratios.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/variable-measurement-ratios.html",
+          "hash": "4GJ5JFmmkKJuMJLWkl5m6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/warehouse-management.md",
       "output": {
         ".html": {
@@ -1688,6 +1724,18 @@
         ".html": {
           "relative_path": "features/logistics/wms-routing-examples.html",
           "hash": "Mn48dIKyyabjpjVRYb8DCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/wms-worker.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/wms-worker.html",
+          "hash": "HRkfn1N7owEuxS3AyhS8zg=="
         }
       },
       "is_incremental": false,
@@ -1866,7 +1914,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "2hjue+FmxVU3UHVOJOWCvw=="
+          "hash": "9qurgr3n+He5LdX9wyaxkg=="
         }
       },
       "is_incremental": false,
