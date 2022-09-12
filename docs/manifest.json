@@ -1631,15 +1631,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "features/logistics/index.md",
       "output": {
         ".html": {
           "relative_path": "features/logistics/index.html",
-          "hash": "c8IBF5qSgZDuI8Sspzdbvw=="
+          "hash": "809uRf8bhNXhlYb3uc2iWw=="
         }
       },
       "is_incremental": false,
