@@ -1,19 +1,63 @@
-# Warehouse Management Module
+# Warehouse Management System (WMS) Module
 
-The Warehouse Management Module of @@name supports the daily operation of warehouses, taking care of orders and work monitoring. The module provides accurate, real-time information on inventory and shares it with the other subsystems of the ERP system.
+## Overview
 
-The solution provides a single point for receiving orders for performing warehouse operations, whether these are orders for shipment (from the CRM subsystem) requests for discharge of materials (from the Production subsystem) or transfer orders to another warehouse (from the supply module). Similarly, served are orders to receive purchased goods, logging in production and accepting products from other stores. The module provides a unified methodology for monitoring the implementation of warehouse orders, including alarms for delays and more.
+The **Warehouse Management System Module** or **WMS Module** is an extensive functionality of **@@name platform** offering a wide range of additional opportunities to you.  
 
-With the software, you can turn warehouses into a structure of storage locations. Storage locations can be roughly defined sections of the storage space or alternatively they can have a precise hierarchy with the position of each product. Thus, the module can provide navigated deployment and picking up of products from a warehouse. This means the system can direct warehouse workers to specific storage locations when they have to store new products or prepare goods for shipping. There are several methods to do this:
+The WMS module **keeps track, manages, and optimizes** all processes, tasks, and operations taking place in your warehouses. 
+Fully integrated, WMS comes with the mobile application **WMS Worker** built-in, and runs in your **unified database** while maintaining **constant connection** with all other @@name systems, sharing the **information between them**.  
 
-* **Preparation by order** — the navigation calculates the most economical route to the warehouse for the preparation of all products, order by order
-* **Group preparation by storage locations** — the navigation indicates the shortest route for group preparation of several orders simultaneously
+These characteristics of WMS inherently ensure **fast, smooth, and secure operation**, dealing away with any delays or need for synchronization.  
 
-The Warehouse Management Module also supports inventory planning, preparation and implementation. Inventory operations can be full or partial — by products or by storage spaces. In addition, the system can print out an inventory sheet which can be filled out by hand and then uploaded to a computer to check for discrepancies.
+## WMS Integration
 
-In order to fully support warehouse operations, @@name comes with integrated support for barcode and RFID readers. This way you can use such devices in all warehouse operations.
+The **WMS Solution of @@name** provides a **unified and centralized point** for tracking and processing **warehouse requests**, **orders**, and **transactions**. 
+Whether these are:
 
-Input data for the implementation of warehouse activities can be sent from external systems — automated lines, palmtops, etc. This happens though a universal interface, which you can leverage to set up fully automated reporting of storage operations.
+* requisitions and orders for shipment (from the CRM subsystem)
+* requests for material input (from the Production subsystem)
+* orders for transfer to other warehouses (from the Logistic subsystem)
 
+WMS keeps track of **all types of tasks** to provide **on-time fulfillment** and never allow downtime in production or delays in shipments due to unacceptable waiting periods.  
 
-In addition, the system also has built-in reporting features for planned and unplanned scraps. It is reported by reasons and can also be summed and analysed by reasons.
+Orders for:
+
+* material procurement
+* receipt of purchased goods 
+* orders for putting materials into production
+* receiving products from other stores  
+
+are executed in the same manner.  
+
+## Warehouse Structure and Storage Space
+
+With the help of the **WMS software system**, you can accurately **recreate your physical warehouse** as a **hierarchical structure** of **storage locations**. 
+WMS enables you to **define precise storage locations** for your products and arrange them in **shelves**, **racks**, **aisles**, **zones**, **warehouses**, and others. 
+This way, the system can provide **navigated deployment** and **picking** of products from a warehouse, as well as **receipt**, **storage**, and **issuing goods for delivery**.  
+WMS software system is able to **direct warehouse workers** to specific **storage locations** where the new products are suitable to be stored or goods are to be shipped.  
+
+The Warehouse Management Module also supports **stocking, storing, moving, and dispatching** product quantities in **lots**, allowing the user to **consider the expiration date** (in case products have one) to avoid being left with dead stock.  
+
+## Warehouse Policies
+
+You can define **warehouse policies** throughout your **hierarchical structure**. 
+Warehouse policies are used in order to **set the rules, restrictions, and possibilities** when carrying out warehouse operations. 
+The policies are designed with **exceptional flexibility**, so as such, they can be applied either **generally** for the whole warehouse or **partially** for the various storage locations, zones, product groups, and many other divisions of your **storage space**.
+
+## Warehouse Tasks and Activities
+
+The Warehouse Management System enables warehouse managers and supervisors to **order and track the progress** on various tasks carried out by warehouse workers.  
+Tasks include **receive, move, label, count, inspect, kit, assemble, dispatch**, and many other types.  
+**Warehouse order details** like warehouse zones and locations, products and product variants, lots, serial numbers, logistic units, workers assigned to, and other important attributes are taken into account when **assigning** or **reviewing** tasks.  
+
+## Integral functionality of Warehouse Management System of @@name
+
+Your WMS solution is equipped with many other functionalities of @@name:  
+
+* [**WMS Worker Application**](wms-worker.md) - mobile and flexible, WMS Worker streamlines the complex operations in the warehouse for a more sustainable operation 
+* [**Variable (Dynamic) Measurement Ratios**](variable-measurement-ratios.md) - utilizing the capabilities of WMS Worker, WMS can account for differences in bought and sold quantities due to natural or distributional specifics 
+* [**Logistic Units**](logistic-units.md) - WMS helps you arrange and transport your product items as logistic units 
+* [**Composite Products**](composite-products.md) - facilitating trade with products consisting of multiple components that may be stored separately 
+* [**Barcode Control**](barcode-control.md) - which can be used for various tasks like moving, checking availabilities, or reconciling goods for better fail-safe operations 
+* [**Serial Numbers**](serial-numbers.md) - WMS is fully able to track product serial numbers (simultaneously with [product lots](lot-tracking.md) and independently from them) and manage products in accordance with them 
+* [**Lot Tracking**](lot-tracking.md) - WMS is capable of tracking product lots (simultaneously with [serial numbers](serial-numbers.md) and independently from them) and manage products in accordance with them 
