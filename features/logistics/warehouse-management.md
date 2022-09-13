@@ -12,6 +12,9 @@ These characteristics of WMS inherently ensure **fast, smooth, and secure operat
 ## WMS Integration
 
 The **WMS Solution of @@name** provides a **unified and centralized point** for tracking and processing **warehouse requests**, **orders**, and **transactions**. 
+
+![outbound-warehouse-order](https://user-images.githubusercontent.com/106669250/189925747-4affb37a-504d-480d-bb6b-c407228e2959.jpg)
+
 Whether these are:
 
 * requisitions and orders for shipment (from the CRM subsystem)
