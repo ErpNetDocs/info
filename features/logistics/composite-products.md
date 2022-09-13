@@ -39,10 +39,10 @@ The mobile app displays a summarized view of all products and quantities, availa
 
 * **Level 3 - Check and complete**  
 The system checks if the whole order execution exactly matches the composite product's definition when a kit/dekit execution is attempted. 
-A warning is shown when differences are detected and the check is unsuccessful. 
+A warning is shown when differences are detected, and the check is unsuccessful. 
 
 * **Level 4 - Autocomplete**  
-The system automatically executes the kit/dekit operation if all component lines are fulfilled and exatcly match the the composite product's definition.  
+The system automatically executes the kit/dekit operation if all component lines are fulfilled and exactly match the composite product's definition.  
 
 During fulfillment, these levels of control **define the rules and allowances** which the worker is facing to carry out the job. 
 Various levels of control result in **different restrictions** to how orders in the **WMS Worker mobile app** may be carried out.  
