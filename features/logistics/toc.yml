@@ -15,7 +15,7 @@
 - name: Variable Measurement Ratios
   href: variable-measurement-ratios.md   
 - name: Warehouse Management
-  href: warehouse_management.md
+  href: warehouse-management.md
 - name: WMS Worker Mobile App
   href: wms-worker.md
 - name: WMS Zone-based routing
