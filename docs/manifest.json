@@ -1632,6 +1632,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/composite-products.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/composite-products.html",
+          "hash": "79wGP7RwVvcnLDpVDvYolg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/index.md",
       "output": {
         ".html": {
@@ -1708,7 +1720,7 @@
       "output": {
         ".html": {
           "relative_path": "features/logistics/warehouse-management.html",
-          "hash": "Kd+LUxex3SOiR/A2tCuv+g=="
+          "hash": "oAZ9LIIjTR07SPgqZn/MTQ=="
         }
       },
       "is_incremental": false,
@@ -1911,7 +1923,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "9qurgr3n+He5LdX9wyaxkg=="
+          "hash": "UDLuWGQkC8k/2xlppOXNOw=="
         }
       },
       "is_incremental": false,
