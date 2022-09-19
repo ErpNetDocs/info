@@ -21,5 +21,4 @@ To handle these complex challenges, agribusinesses need the right business softw
 * Finmark Commercial (BG)
 * GrowGreen (BG)
 * Omya Bulgaria (BG)
-* Rapid KB (BG)
 * Stoychevi 57-62 (BG)
