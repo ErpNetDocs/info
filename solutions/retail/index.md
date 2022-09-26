@@ -24,7 +24,6 @@ Retail ERP systems are designed to address many areas of a business, such as cus
 ## Customers
 
 * Agiva (Bulgaria)
-* Artgres (Bulgaria)
 * Klasa (Bulgaria)
 * Notos Bulgaria (Bulgaria)
 * Toni Bad (Bulgaria)
