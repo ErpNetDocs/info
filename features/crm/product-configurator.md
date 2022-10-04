@@ -4,11 +4,11 @@ The Product Configurator is a unique tool, particularly useful in manufacturing 
 
 ## Shortening the time from offer to order
 
-With the Product Configurator, you can easily configure new product models according to customer requirements. This enables sales teams to quickly make complex offers multi-component products and execute orders with 100% accuracy. The convenient user interface of the Product Configurator allows you to create flexible models by inputting only the parameters of the device. Thus you can customize products according to customer needs. Once a client sends you the features of a desired product, it can immediately be incorporated into the production schedule so you can calculate the delivery date and estimated value and price.
+With the Product Configurator, you can easily configure new product models according to customer requirements. This enables sales teams to quickly make complex offers for multi-component products and execute orders with 100% accuracy. The convenient user interface of the Product Configurator allows you to create flexible models by inputting only the parameters of the device. Thus, you can customize products according to customer needs. Once a client sends you the features of a desired product, it can immediately be incorporated into the production schedule so you can calculate the delivery date and estimated value and price.
 
 ## Improved communication between the Sales and the Manufacturing Department
 
-Creating products with the Product Configurator minimizes the risk of operational errors. It is closely tied with the production and financial modules of @@name and any change in price lists or in the information about the available production capacity is reflected in calculations. Thanks to this, your customers will always receive accurate information.
+Creating products with the Product Configurator minimizes the risk of operational errors. It is closely tied with the production and financial modules of @@name, and any change in price lists or in the information about the available production capacity is reflected in calculations. Thanks to this, your customers will always receive accurate information.
 
 ## Automatic creation of manufacturing technologies
 
