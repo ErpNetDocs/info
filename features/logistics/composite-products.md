@@ -35,7 +35,7 @@ The component products and product quantities must exactly match those in the co
 Same as level 0, but the application provides an option to still fulfill the order even when they do not match.  
 
 * **Level 2 - Just preview totals**  
-The mobile app displays a summarized view of all products and quantities, available for counting or checking, for the selected order, and does not require scanning or entering by product code.  
+The mobile app displays a summarized view of all products and quantities for the selected order, available for counting or checking, and does not require scanning or entering by product code.  
 
 * **Level 3 - Check and complete**  
 The system checks if the whole order execution exactly matches the composite product's definition when a kit/dekit execution is attempted. 
