@@ -7,6 +7,8 @@ Since these components comprise the final distributed and sold product, their fu
 
 @@name fully supports the **Composite Products** feature to **meet all needs** and help **overcome all challenges** when dealing with composite products.  
 
+![composite-products](https://user-images.githubusercontent.com/106669250/193801208-cce6a072-546d-4de6-8bdc-4acaa12c2e4a.jpg)
+
 ## Examples of Composite Products
 
 The **furniture manufacturing and distribution** businesses are just some key examples of industries that **rely heavily on composite products** to run their operations. 
