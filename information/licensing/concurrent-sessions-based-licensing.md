@@ -41,7 +41,7 @@ The starting maximum allowed number of concurring sessions is defined as a base 
 
 Additional concurrent sessions for your license may be purchased in accordance with our price lists. The maximum number of concurrent sessions available for purchase is **35** for all **Small Business** subscription plans. 
 
-If your @@name instance exceeds the this number of concurrent sessions and still does not cover your needs, we would be happy to offer a subscription plan that better matches your type of business and its needs. 
+If your @@name instance exceeds this number of concurrent sessions and still does not cover your needs, we would be happy to offer a subscription plan that better matches your type of business and its needs. 
 
 ## User Perspective and What This Means for You
 

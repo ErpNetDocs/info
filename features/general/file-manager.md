@@ -18,6 +18,8 @@ In this case, being able to upload them in an accessible storage, **unattached**
 
 To solve this, **@@name** now comes with the updated functionality **File Management v2.0**.  
 
+![file_manager](https://user-images.githubusercontent.com/106669250/192732488-31f8ae5e-e010-4510-9703-e8d463070d9e.jpg)
+
 Built upon the proven and trusted functionality of **attaching documents to specific objects**, **File Manager of @@name** now extends its abilities featuring a way to **also store an unattached file**.  
 
 **File Manager** enables you to **store and access** your files and folders in an organized and straightforward way. 
@@ -76,6 +78,8 @@ Files can be uploaded and stored in your **@@name storage** using one of the ava
 * **Embedded file** - your file's **full contents** are uploaded to your **@@name storage**  
 * **Linked file** - allows you to create **a shortcut** linked to the **physical location of the file** (a physical drive with shared access, or its shared partition or folder)  
 * **Internet URL** - create **a shortcut** linked to **an object located on the Internet** using a URL (for example, a shortcut to a website opened by your browser)  
+
+![file_manager_upload_options](https://user-images.githubusercontent.com/106669250/192736006-61e573e9-993f-4031-ade7-678d870cf62e.jpg)
 
 The **Embedded file** option is best suitable for **small-sized file** that are **frequently used** by your @@name instance's users.  
 
