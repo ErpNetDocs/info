@@ -2637,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/agribusiness/index.html",
-          "hash": "6Ebd9PycQmUa05UZ5NAPAQ=="
+          "hash": "TNppGyHL0i+BwCfDvLIgyg=="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/transportation-and-logistics/index.html",
-          "hash": "JdqSeqelX9IQc44r0AG4dQ=="
+          "hash": "Gs1cULbeYPvPPJEEzVVMpQ=="
         }
       },
       "is_incremental": false,
@@ -2796,7 +2796,58 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "l0Ekf7nMW3vELtXybCuRCA=="
+          "hash": "7S5nDvNF0SAIbTZnTlRAlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/wholesale-distribution/key-features-for-distribution.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/wholesale-distribution/key-features-for-distribution.html",
+          "hash": "MVQeQ3JNgt8f/YXsqLUdhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
+          "hash": "xZAhr3Swv2T8uud1AdEKqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "solutions/wholesale-distribution/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/wholesale-distribution/toc.html",
+          "hash": "nDcLfGNz9VmCJh3kFzZxAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "solutions/wholesale-distribution/wholesale-distribution-benefits.md",
+      "output": {
+        ".html": {
+          "relative_path": "solutions/wholesale-distribution/wholesale-distribution-benefits.html",
+          "hash": "kx7u+mc7n7MyR2mA4IfX7A=="
         }
       },
       "is_incremental": false,
