@@ -24,4 +24,3 @@ Enterprise resource planning (ERP) has become a must-have tool for transportatio
 
 * Venig Commerce (Bulgaria)
 * Destination Bulgaria (Bulgaria)
-* Triada Transport and Logistics (Bulgaria)
