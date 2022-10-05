@@ -1,4 +1,4 @@
-# Variable (Dynamic) Measurement Ratios
+# Catch Weight Products
 
 ## Overview
 
@@ -6,8 +6,16 @@ Some industries trade products (like meat, potatoes, cheese, iron bars, fuel, an
 The **quantity deviations** from the nominal quantity may be caused by **various reasons**. 
 Natural biological processes (for example, weight loss of dried foods), manufacturing specifics or inaccuracies (arranging pieces of the product in packages of larger units), or other processes and characteristics that are immutable by anyone.  
 
-Such products are traded by utilizing **variable measurement ratios**. 
-And @@name has got a detailed and specialized solution for them.  
+Such products are traded by utilizing what is called **Variable Measurement Ratios** - a unique characteristic accounting for the difference between the exactly measured quantity of any single item and the nominal or average quantity which the product is assigned for selling.  
+
+**Catch Weight**, as the term is widely known, is the **most commonly met case** of variable measurement ratios. 
+It concerns products with **varying weight** and represents the **actual measured ("caught") weight** of any individual product item as opposed to the nominal weight for this product (hence the term "Catch Weight"). 
+
+@@name has got a detailed and specialized solution for your industry operating with Catch Weight or any other Variable Measurement Ratio products.  
+
+> [!NOTE]
+> Catch Weight is just one variation of Variable Measurement Ratios available in our business management solution. 
+> @@name fully supports all kinds of units of measurement by which the product is accounted for and the quantity may vary.  
 
 ## Examples
 
@@ -30,11 +38,11 @@ Again, this leads to effective differences in the accounting records for the pro
 
 ## Industries That Typically Deal with Variable Measurement Ratios of Products
 
-Variable Measurement Ratios are typical for industries specialized in **process manufacturing**, **dosing**, and **packaging**, such as food and beverage production, steel and aluminium processing, textile manufacturing, and many others. 
+Variable Measurement Ratios, especially Catch Weight, are typical for industries specialized in **process manufacturing**, **dosing**, and **packaging**, such as food and beverage production, steel and aluminium processing, textile manufacturing, and many others. 
 Their products require a **specialized solution** which can take into account **all specific cases and details**.  
 
 ## @@name's Solution
 
-The Warehouse Management System of @@name is **designed to fully support** handling products with variable measurement ratios. 
+The Warehouse Management System of @@name is **designed to fully support** handling products with Catch Weight. 
 The mobile application allows **entering the weight measured** for any piece of product that is subject to warehouse operations.  
 The data for these products and operations is stored **directly in the integrated database** of @@name and gets **transferred through the whole dataflow**, acting on the inventory management system's **records**, and respectively, on the **warehouse transactions** for these activities.  
