@@ -21,4 +21,6 @@
 - name: Transportation and Logistics
   href: transportation-and-logistics/index.md
 - name: Wholesale Distribution
-  href: wholesale-distribution/index.md
+  href: wholesale-distribution/toc.yml
+  topicHref: wholesale-distribution/index.md
+  
