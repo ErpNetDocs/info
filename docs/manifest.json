@@ -26,6 +26,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "customers/alexfish-case-study.md",
+      "output": {
+        ".html": {
+          "relative_path": "customers/alexfish-case-study.html",
+          "hash": "q/Z6D/LZcTNUBAEgHOlXFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "customers/customer1.md",
       "output": {
         ".html": {
@@ -54,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "customers/toc.html",
-          "hash": "2I1pFftloNpYGcO//Fyxbw=="
+          "hash": "YEvUNUpui5/uesVgqdN7jg=="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/toc.html",
-          "hash": "I7IWqfEknNihJ0DwJNf3iA=="
+          "hash": "ymk4f/SpTxfXtDshkpnjDA=="
         }
       },
       "is_incremental": false,
@@ -2796,7 +2808,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "7S5nDvNF0SAIbTZnTlRAlA=="
+          "hash": "k+7IIE3U1RFCAVCDsgBB9A=="
         }
       },
       "is_incremental": false,
@@ -2808,7 +2820,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/key-features-for-distribution.html",
-          "hash": "MVQeQ3JNgt8f/YXsqLUdhw=="
+          "hash": "Tf8kvo1CBHOMgtgp6ACUYQ=="
         }
       },
       "is_incremental": false,
@@ -2823,19 +2835,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
-          "hash": "xZAhr3Swv2T8uud1AdEKqg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "solutions/wholesale-distribution/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/wholesale-distribution/toc.html",
-          "hash": "nDcLfGNz9VmCJh3kFzZxAA=="
+          "hash": "DiQzhqUSI4EGe6lzdr8zQg=="
         }
       },
       "is_incremental": false,
@@ -2847,7 +2847,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/wholesale-distribution-benefits.html",
-          "hash": "kx7u+mc7n7MyR2mA4IfX7A=="
+          "hash": "Q48JGkR+cgREngfb/mGeFQ=="
         }
       },
       "is_incremental": false,
