@@ -39,7 +39,7 @@ The new functionality brings countless opportunities for **digitalizing** and **
 Running your warehouses in a **well-organized and cost-effective** manner is an approach that explicably multiplies the achievements coming from the efforts you invest in your undertakings. 
 Operating a warehouse where internal operations and dispatch are **happening more predictably** minimizes the chances of making errors and falling behind schedules, **reducing the costs and time** for disaster recovery.  
 
-Solving the complex issues of warehouse management is **a crucial investment** for having a successful distribution company, and that is exactly why @@name now offers the **[Warehouse Management System](~/features/logistics/warehouse_management.md)** Module. 
+Solving the complex issues of warehouse management is **a crucial investment** for having a successful distribution company, and that is exactly why @@name now offers the **[Warehouse Management System](~/features/logistics/warehouse-management.md)** Module. 
 
 WMS of @@name is a **comprehensive and connected solution** empowering your business by **integrating** the activities of arranging, executing, and monitoring the ongoing processes **into, within, and coming from** your warehouses.  
 
