@@ -826,7 +826,7 @@
       "output": {
         ".html": {
           "relative_path": "features/applications/data-warehouse.html",
-          "hash": "Su5jXgvd7HSKs1/zt1K2+g=="
+          "hash": "PeX441OI/3HFU3N9ZXxuaA=="
         }
       },
       "is_incremental": false,
@@ -1935,7 +1935,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "UDLuWGQkC8k/2xlppOXNOw=="
+          "hash": "pI9QC/3V3qCzXJ17TMf+HA=="
         }
       },
       "is_incremental": false,
@@ -2566,7 +2566,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "BWxCD2XR2bmyAQ+M4rWh1Q=="
+          "hash": "5H0yczI+yDqqsVeC1qX0GA=="
         }
       },
       "is_incremental": false,
@@ -2827,15 +2827,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
-          "hash": "DiQzhqUSI4EGe6lzdr8zQg=="
+          "hash": "lLY0104LYvvY9k9G+mrPnQ=="
         }
       },
       "is_incremental": false,
