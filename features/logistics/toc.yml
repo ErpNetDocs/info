@@ -10,6 +10,8 @@
   href: logistic-units.md  
 - name: Lot Tracking
   href: lot-tracking.md
+- name: Projected Available Balance
+  href: projected-available-balance.md
 - name: Serial Numbers
   href: serial-numbers.md 
 - name: Variable Measurement Ratios
