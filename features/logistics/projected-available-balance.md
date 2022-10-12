@@ -36,7 +36,7 @@ Achieving this **balance** means always **keeping the right amounts** of product
 
 Successful inventory management is a sophisticated process that requires **an insightful approach with an eye to the future**.  
 
-## Projected Available Balance Definition
+## What Exactly Is Projected Available Balance?
 
 Projected available balance is basically **a listing of your planned product amounts** that are calculated for **one or more future periods** and are expected to **be on-hand at that time**, respectively.  
 
@@ -49,12 +49,23 @@ These amounts are called **projected** because they are **estimated into the fut
 
 The reason PAB is so essential is the fact it is used for several critical inventory operations, such as calculating the **Available to promise** product quantities your business can offer, releasing **Master Production Schedule (MPS)**, **making proper decisions** when the need for restocking arises, **balancing out** the manufacturing, warehouse, and delivery loads, and many others.  
 
-## Calculating Projected Available Balance
+## How to Find out Projected Available Balance
 
-PAB is derived from the **current inventory balance** by subtracting **planned customer orders** and adding **scheduled receipts of supplies**. 
+PAB is derived from the **current inventory balance** by subtracting **planned outbound store orders** and adding **scheduled receipts of supplies**. 
 It is a **running sum** that starts from the current values and is iteratively calculated for all **consecutive future periods** until calculations **reach the desired period**.  
 
-See [**Projected Available Balance - Calculation Example**](xref:PAB) for an example of calculating PAB for a given product.  
+The general formula for calculating PAB is as follows:  
+
+**PAB sum = PI + RS - SO**
+
+where:  
+
+* **PAB** sum is Projected Available Balance listing
+* **PI** is currently present inventory
+* **RS** are Scheduled receipts of supplies
+* **SO** are planned outbound store orders (for intrastore movement or customer delivery)
+
+all of which apply for a **single given product**.  
 
 > [!NOTE]
 > **Projected available balance** should NOT be mistaken for **Available to promise** inventory quantities.  
@@ -65,6 +76,40 @@ See [**Projected Available Balance - Calculation Example**](xref:PAB) for an exa
 > 
 > Although close in meaning and related in implementation, the two terms still express different concepts.  
 
+## PAB Example
+
+Suppose we run a company that trades hand tools and power tools. 
+Let us take some product, for example, **a cordless drill driver**. 
+We will take a look at how its quantity is projected over **the course of a week**.  
+
+For each day we have **a number of planned orders**, and respectively, expect to receive **a number of supplies** for this product.  
+
+We start with an initial inventory quantity of **30 drills**. 
+This quantity is also the projected available balance right now, as it matches the present.  
+
+Using the above-mentioned formula, we can calculate the number of cordless drivers we expect to have at hand on each subsequent day, shown in the last column:  
+
+| Day | Orders | Supplies | PAB | 
+| - | - | - | - | 
+| Starting | N/A | N/A | 30 | 
+| 1 | 20 | 5 | 15 | 
+| 2 | 25 | 18 | 8 | 
+| 3 | 17 | 27 | 18 | 
+| 4 | 0 | 20 | 38 | 
+| 5 | 38 | 0 | 0 | 
+| 6 | 0 | 0 | 0 | 
+| 7 | 10 | 35 | 25 | 
+
+> [!NOTE]
+> **Projected available balance** can be a **positive**, **zero**, or **negative number**, depending on the **planned orders** and s**cheduled receipts**.  
+> 
+> For successfully managing your store, you must make sure you enter each consequent time period with an inventory that is suited to the market demand. 
+> This means the **sum** of the **projected available balance for the current period** and the **scheduled supplies for the current period** must **at least match** the **outbound orders for the next period**.  
+
+You can find more information on how PAB is calculated in @@name on the following document:  
+
+[**Projected Available Balance - Technical Documentation**](xref:PAB)
+
 ## Why PAB Matters in Your Business
 
 Projected available balance is a **powerful inventory management tool** that can help you gain **better insight** into your inventory. 
@@ -72,9 +117,18 @@ Understanding it can help you **make smarter decisions** when replenishing and s
 
 **Utilizing** projected available balance and coming up with a **solid inventory management strategy** allows your business to **keep its promises** to customers while **avoiding overstocking or underdelivering**.  
 
+## PAB implementation into @@name
+
+Projected available balance is **deeply integrated** into @@name's Logistics subsystem.  
+
+PAB functionality in @@name, similarly ATP, **operates in real time**, so your business can **always receive the latest and most up to date inventory data**.  
+
+If any new orders are planned or supplies are scheduled, they will immediately take effect on PAB and ATP quantities and reports. 
+This way you can always stay tuned with your inventory movements and know what promises to make to your partners, customers, and other parties.  
+
 ## Benefits of Understanding and Utilizing PAB Concept
 
-By mastering **Projected available balance**, your business can go a long way towards:  
+By mastering **Projected available balance** and utilizing it via your @@name platform, your business can go a long way towards:  
 
 * Preventing accumulation of dead stock or stock shortages 
 * Increasing the efficiency of inventory operations
