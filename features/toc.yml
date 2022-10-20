@@ -1,5 +1,7 @@
 - name: Overview
   href: index.md
+- name: Highlighted Features
+  href: highlights.md
 - name: General
   href: general/toc.yml
   topicHref: general/index.md
