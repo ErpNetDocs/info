@@ -1562,6 +1562,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/highlights.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/highlights.html",
+          "hash": "xx4XBcGQDUGSKiCPatbkaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/index.md",
       "output": {
         ".html": {
@@ -1685,6 +1697,18 @@
         ".html": {
           "relative_path": "features/logistics/lot-tracking.html",
           "hash": "zxg0iVMusQ8vpvYQMTkDNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/logistics/projected-available-balance.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/projected-available-balance.html",
+          "hash": "ys0BM4UEcORqoYqSshejbQ=="
         }
       },
       "is_incremental": false,
@@ -1875,7 +1899,7 @@
       "output": {
         ".html": {
           "relative_path": "features/productivity/index.html",
-          "hash": "CtL4DpX+IrMq94XCz4bIJA=="
+          "hash": "QBaPyUKCMTg6nNbJzj6AxA=="
         }
       },
       "is_incremental": false,
@@ -1935,7 +1959,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "pI9QC/3V3qCzXJ17TMf+HA=="
+          "hash": "aOyswD/tOMPAYnXZoDe1vQ=="
         }
       },
       "is_incremental": false,
@@ -2103,7 +2127,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "RJn1NNBII1f7hm8L+DRKBA=="
+          "hash": "g9JMMjEhrVFj0cLmHUGu5Q=="
         }
       },
       "is_incremental": false,
