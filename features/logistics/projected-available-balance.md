@@ -92,13 +92,13 @@ Using the above-mentioned formula, we can calculate the number of cordless drive
 | Day | Orders | Supplies | PAB | 
 | - | - | - | - | 
 | Starting | N/A | N/A | 30 | 
-| 1 | 20 | 5 | 15 | 
-| 2 | 25 | 18 | 8 | 
-| 3 | 17 | 27 | 18 | 
-| 4 | 0 | 20 | 38 | 
-| 5 | 38 | 0 | 0 | 
-| 6 | 0 | 0 | 0 | 
-| 7 | 10 | 35 | 25 | 
+| 1 | 22 | 11 | 19 | 
+| 2 | 25 | 18 | 12 | 
+| 3 | 17 | 27 | 22 | 
+| 4 | 0 | 20 | 42 | 
+| 5 | 39 | 0 | 3 | 
+| 6 | 0 | 0 | 3 | 
+| 7 | 10 | 35 | 28 | 
 
 > [!NOTE]
 > **Projected available balance** can be a **positive**, **zero**, or **negative number**, depending on the **planned orders** and s**cheduled receipts**.  
