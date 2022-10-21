@@ -81,5 +81,5 @@ A software serving that kind of business evolution understandably has to be able
 12. **Enterprise-Grade Software Solution** – security and auditing play a huge role in any enterprise-grade company. 
 The platform of @@name covers end-to-end all corporative needs. 
 We know your system security is a timeless requirement that is set in stone. 
-@@name is built and regularly updated by the latest technology, providing adamant security, as well as full history log on every data change made. 
+@@name is built and regularly updated by the latest technology, providing adamant security, as well as a full history log on every data change made. 
 Disaster recovery and reverting to working data has never been easier.  
