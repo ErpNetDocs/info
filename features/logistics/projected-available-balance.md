@@ -60,7 +60,7 @@ The general formula for calculating PAB is as follows:
 
 where:  
 
-* **PAB** sum is Projected Available Balance listing
+* **PAB sum** is Projected Available Balance listing
 * **PI** is currently present inventory
 * **RS** are Scheduled receipts of supplies
 * **SO** are planned outbound store orders (for intrastore movement or customer delivery)
