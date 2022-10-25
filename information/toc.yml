@@ -1,5 +1,7 @@
 - name: Overview
   href: index.md
+- name: Try ERP.net For Free
+  href: try-our-system.md  
 - name: Licensing
   href: licensing/toc.yml
   topicHref: licensing/index.md
