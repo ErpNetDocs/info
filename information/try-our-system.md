@@ -26,7 +26,7 @@ You use your @@name instance to connect to the database you wish to access.
 
 As an already registered and subscribed user of @@name Platform, this is most often your business's unified database used for everyday activities (also called the **productive database**).  
 
-## Can I Try It For Free?
+## Can I Try It for Free?
 
 Sure! 
 You can try our full set of time-proven features and functionalities of our system in our demonstrational database, called DemoDB, for free. 
@@ -38,7 +38,7 @@ DemoDB can be accessed at the following URL address:
 > **[https://demodb.my.erp.net](https://demodb.my.erp.net)**  
 > 
 > The desktop client will be available for download according to your type of system.  
-> After installing and startup, the desktop client will ask you to sign in with the database URL and your credentials.  
+> After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
 
 > @@name on the web  
 > 
@@ -49,14 +49,11 @@ DemoDB can be accessed at the following URL address:
 
 > [!TIP]  
 > 
-> Use the following sign in details when accessing DemoDB  
+> Use the following sign-in details when accessing DemoDB  
 > 
-> User: Admin  
+> User: admin  
 > 
 > Password: 123  
-
-Most ERP instances should, by default, be configured to NOT accept basic authentication. 
-However, for demonstration purposes, DemoDB is configured to allow it.  
 
 ## Can I Try Your Newly Released Solutions?
 
@@ -69,7 +66,7 @@ TestDB can be accessed in a similar manner at the following URL address:
 > **[https://testdb.my.erp.net](https://testdb.my.erp.net)**  
 > 
 > The desktop client will be available for download according to your type of system.  
-> After installing and startup, the desktop client will ask you to sign in with the database URL and your credentials.  
+> After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://testdb.my.erp.net, and your credentials.  
 
 > @@name on the web  
 > 
@@ -80,9 +77,9 @@ TestDB can be accessed in a similar manner at the following URL address:
 
 > [!TIP]  
 > 
-> Use the following sign in details when accessing TestDB  
+> Use the following sign-in details when accessing TestDB  
 > 
-> User: Admin  
+> User: admin  
 > 
 > Password: 123  
 
