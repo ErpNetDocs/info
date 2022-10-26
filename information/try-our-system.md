@@ -35,21 +35,23 @@ DemoDB allows you to experience first-hand @@name's capabilities.
 DemoDB can be accessed at the following URL address:  
 
 > To try @@name for desktop, visit:  
+> 
 > **[https://demodb.my.erp.net](https://demodb.my.erp.net)**  
-> 
-> The desktop client will be available for download according to your type of system.  
-> After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
 
-> @@name on the web  
+The desktop client will be available for download according to your type of system. 
+After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
+
+> To try @@name on the web, visit:  
 > 
-> To try the web client, just add "/cl" (without the quotes) at the end of the URL in your browser:  
 > **[https://demodb.my.erp.net/cl](https://demodb.my.erp.net/cl)**  
-> 
-> A sign-in screen will be opened asking for your credentials.  
+
+Just add "/cl" (without the quotes) at the end of the URL in your browser. 
+This will directly open the web client. 
+A sign-in screen will be opened asking for your credentials.  
 
 > [!TIP]  
 > 
-> Use the following sign-in details when accessing DemoDB  
+> Use the following sign-in details when accessing DemoDB:  
 > 
 > User: admin  
 > 
@@ -57,27 +59,39 @@ DemoDB can be accessed at the following URL address:
 
 ## Can I Try Your Newly Released Solutions?
 
-You don't have to wait for a whole new system version to be released to try our new solutions. 
+You don't have to wait for the new system version to be released to try our new solutions. 
 Our brand-new features, functionalities, and modules can be tried just as they are released in our database for testing purposes, called TestDB.  
+
+> [!Warning]  
+> 
+> In addition to well established and fully functional system features, functionalities, and modules, TestDB offers access to new ones **that are still in developmental, testing, or other stage of the design process**.  
+> 
+> Such components of the system are unfinished. 
+> It is normal for them to generate warning and error messages, crash without any prior signs, or even completely fail to work. 
+> This behaviour is normal for all software products in development and should be expected.  
+> 
+> If you wish to test the stable part of the system, please refer to the previous section of this article describing access to DemoDB.  
 
 TestDB can be accessed in a similar manner at the following URL address:  
 
 > @@name for desktop:  
+> 
 > **[https://testdb.my.erp.net](https://testdb.my.erp.net)**  
-> 
-> The desktop client will be available for download according to your type of system.  
-> After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://testdb.my.erp.net, and your credentials.  
 
-> @@name on the web  
+The desktop client will be available for download according to your type of system. 
+After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://testdb.my.erp.net, and your credentials.  
+
+> To try @@name on the web, visit:  
 > 
-> To try the web client, just add "/cl" (without the quotes) at the end of the URL in your browser:  
 > **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)**  
-> 
-> A sign-in screen will be opened asking for your credentials.  
+
+Just add "/cl" (without the quotes) at the end of the URL in your browser. 
+This will directly open the web client. 
+A sign-in screen will be opened asking for your credentials.  
 
 > [!TIP]  
 > 
-> Use the following sign-in details when accessing TestDB  
+> Use the following sign-in details when accessing TestDB:  
 > 
 > User: admin  
 > 
