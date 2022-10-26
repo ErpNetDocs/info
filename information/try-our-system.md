@@ -100,9 +100,9 @@ A **sign-in screen** will be opened asking for your credentials.
 > [!Note]  
 > 
 > Our clients always receive the latest stable version of the system at their disposal. 
-> Any troubles that may be experienced in TestDB should be treated as isolated issues as this is not the system version our clients are using.  
+> Any troubles that may be experienced in TestDB should be treated as isolated issues as this is a beta version that includes ongoing developments, and it is not the official version our clients are using.  
 
 ## More Information
 
 * **[@@name Instance - Technical Concept](https://docs.erp.net/tech/concepts/erp-instances.html)** 
-* **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)** 
+* **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)**
