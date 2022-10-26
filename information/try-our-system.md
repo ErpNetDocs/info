@@ -24,30 +24,30 @@ You use your @@name instance to connect to the database you wish to access.
 > 
 > The **URL format** for accessing an instance is **https://<<instance_name>>.my.erp.net**, where <<instance_name>> is replaced by the instance's **unique name**.  
 
-As an already registered and subscribed user of @@name Platform, this is most often your business's unified database used for everyday activities (also called the **productive database**).  
+As an already registered and subscribed user of @@name Platform, this is most often your business's **unified database** used for everyday activities (also called the **productive database**).  
 
 ## Can I Try It for Free?
 
 Sure! 
-You can try our full set of time-proven features and functionalities of our system in our demonstrational database, called DemoDB, for free. 
-DemoDB allows you to experience first-hand @@name's capabilities.  
+You can try our **full set of time-proven features and functionalities of our system** in our demonstrational database, called **DemoDB**, for free. 
+DemoDB allows you to **experience first-hand @@name's capabilities**.  
 
 DemoDB can be accessed at the following URL address:  
 
-> To try @@name for desktop, visit:  
+> To try @@name for **desktop**, visit:  
 > 
 > **[https://demodb.my.erp.net](https://demodb.my.erp.net)**  
 
 The desktop client will be available for download according to your type of system. 
-After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
+After installing and startup, the desktop client will ask you to **sign in** with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
 
-> To try @@name on the web, visit:  
+> To try @@name **on the web**, visit:  
 > 
 > **[https://demodb.my.erp.net/cl](https://demodb.my.erp.net/cl)**  
 
 Just add "/cl" (without the quotes) at the end of the URL in your browser. 
 This will directly open the web client. 
-A sign-in screen will be opened asking for your credentials.  
+A **sign-in screen** will be opened asking for your credentials.  
 
 > [!TIP]  
 > 
@@ -57,37 +57,37 @@ A sign-in screen will be opened asking for your credentials.
 > 
 > Password: 123  
 
-## Can I Try Your Newly Released Solutions?
+## Can I Exclusively Try Your Pre-Release Solutions?
 
 You don't have to wait for the new system version to be released to try our new solutions. 
-Our brand-new features, functionalities, and modules can be tried just as they are released in our database for testing purposes, called TestDB.  
+Our brand-new features, functionalities, and modules can be **accessed exclusively** in our database for testing purposes, called **TestDB**.  
 
 > [!Warning]  
 > 
 > In addition to well established and fully functional system features, functionalities, and modules, TestDB offers access to new ones **that are still in developmental, testing, or other stage of the design process**.  
 > 
-> Such components of the system are unfinished. 
-> It is normal for them to generate warning and error messages, crash without any prior signs, or even completely fail to work. 
-> This behaviour is normal for all software products in development and should be expected.  
+> Such components of the system **are unfinished or in beta phase**. 
+> They may generate **warning and error messages**, **crash** without any prior signs, or even completely **fail** to work. 
+> This behaviour is normal for **all software products in development** and **should be expected** as they are still **not meant for normal use** by the end user.  
 > 
-> If you wish to test the stable part of the system, please refer to the previous section of this article describing access to DemoDB.  
+> If you wish to test the **stable version** of @@name, please refer to the previous section of this article describing access to **DemoDB**.  
 
 TestDB can be accessed in a similar manner at the following URL address:  
 
-> @@name for desktop:  
+> @@name for **desktop**:  
 > 
 > **[https://testdb.my.erp.net](https://testdb.my.erp.net)**  
 
 The desktop client will be available for download according to your type of system. 
-After installing and startup, the desktop client will ask you to sign in with the database URL, which in this case is https://testdb.my.erp.net, and your credentials.  
+After installing and startup, the desktop client will ask you to **sign in** with the database URL, which in this case is https://testdb.my.erp.net, and your credentials.  
 
-> To try @@name on the web, visit:  
+> To try @@name **on the web**, visit:  
 > 
 > **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)**  
 
 Just add "/cl" (without the quotes) at the end of the URL in your browser. 
 This will directly open the web client. 
-A sign-in screen will be opened asking for your credentials.  
+A **sign-in screen** will be opened asking for your credentials.  
 
 > [!TIP]  
 > 
@@ -97,7 +97,12 @@ A sign-in screen will be opened asking for your credentials.
 > 
 > Password: 123  
 
+> [!Note]  
+> 
+> Our clients always receive the latest stable version of the system at their disposal. 
+> Any troubles that may be experienced in TestDB should be treated as isolated issues as this is not the system version our clients are using.  
+
 ## More Information
 
-* **[@@name Instance - Technical Concept](https://docs.erp.net/tech/concepts/erp-instances.html)**
-* **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)**
+* **[@@name Instance - Technical Concept](https://docs.erp.net/tech/concepts/erp-instances.html)** 
+* **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)** 
