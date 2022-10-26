@@ -67,7 +67,7 @@ Our brand-new features, functionalities, and modules can be **accessed exclusive
 > In addition to well established and fully functional system features, functionalities, and modules, TestDB offers access to new ones **that are still in developmental, testing, or other stage of the design process**.  
 > 
 > Such components of the system **are unfinished or in beta phase**. 
-> They may generate **warning and error messages**, **crash** without any prior signs, or even completely **fail** to work. 
+> They may generate **warning and error messages**, **crash** without any prior signs, or even completely **fail to work**. 
 > This behaviour is normal for **all software products in development** and **should be expected** as they are still **not meant for normal use** by the end user.  
 > 
 > If you wish to test the **stable version** of @@name, please refer to the previous section of this article describing access to **DemoDB**.  
