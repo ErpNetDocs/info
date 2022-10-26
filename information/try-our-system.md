@@ -60,6 +60,7 @@ However, for demonstration purposes, DemoDB is configured to allow it.
 
 ## Can I Try Your Newly Released Solutions?
 
+You don't have to wait for a whole new system version to be released to try our new solutions. 
 Our brand-new features, functionalities, and modules can be tried just as they are released in our database for testing purposes, called TestDB.  
 
 TestDB can be accessed in a similar manner at the following URL address:  
