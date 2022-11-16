@@ -35,7 +35,7 @@ All in a single system and even a single view – on your desktop, on the web, a
 
 ---
 
-6. **Omni-company management** – run your enterprise in a streamlined crystal-clear manner. 
+6. **Omni-Company Management** – run your enterprise in a streamlined crystal-clear manner. 
 No matter how complex a structure your business may have and how many companies it may be arranged in, @@name helps you run them as one. 
 Consolidate data and use shared nomenclatures between your legal entities in a single database accessible by anyone you want. 
 Automate document transfer. 
