@@ -35,7 +35,7 @@ All in a single system and even a single view – on your desktop, on the web, a
 
 ---
 
-6. **Omni-company management** – run your enterprise in a streamlined crystal-clear manner. 
+6. **Omni-Company Management** – run your enterprise in a streamlined crystal-clear manner. 
 No matter how complex a structure your business may have and how many companies it may be arranged in, @@name helps you run them as one. 
 Consolidate data and use shared nomenclatures between your legal entities in a single database accessible by anyone you want. 
 Automate document transfer. 
@@ -58,7 +58,7 @@ All within @@name, never leaving the interface of the system.
 
 9. **Customizable UI** – @@name comes with a UI that is human-oriented, made to serve people. 
 Painless to set up, and even easier to use afterwards. 
-Customize your views to your desire and personal preferences and change it anytime you feel necessary. 
+Customize your views to your desire and personal preferences and change them anytime you feel necessary. 
 You can model your visual layout anywhere throughout the platform.  
 
 ---
@@ -72,7 +72,7 @@ Define your business rules as precisely as bit-level and add calculated attribut
 
 11. **Scalable with High Availability** – @@name has always been meant to grow and evolve together with your business. 
 And this is the only static characteristic of our platform you will ever find. 
-The system is adapting to your company irrespective of its number of employees, financial turnover, revenue, or other. 
+The scalable system adapts to your company irrespective of its number of employees, financial turnover, revenue, or other. 
 @@name platform expands to cover all your companies, customer base, and opportunities your business continually meets. 
 A software serving that kind of business evolution understandably has to be able to bear a lot of workload – and @@name excels in its high availability, 24/7/366.  
 
