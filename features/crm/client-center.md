@@ -17,7 +17,7 @@ The documents section allows the clients to quickly access their data and reduce
 
 ## New Orders
 
-Automate new orders placement with the Client Cetner orders. Your customers can make orders directly from Client Center, increasing sales. 
+Automate new orders placement with the Client Center orders. Your customers can make orders directly from Client Center, increasing sales. 
 
 # Chat
 
