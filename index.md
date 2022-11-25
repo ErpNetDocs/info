@@ -20,10 +20,6 @@ Hence, this info site is structured as an academic research site with as little 
 The system features are arguably one of the most important factors when selecting an ERP.
 Use this section to read more about the different modules and features of @@name.
 
-
-https://info.erp.net/features/highlights.md
-
-
 * [Highlighted Features](~/features/highlights.md) - @@name's universal strongpoints applicable throughout the platform's systems.
 * [General](~/features/general/index.md) - General features, applicable to all modules.
 * [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
