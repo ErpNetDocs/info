@@ -20,13 +20,18 @@ Hence, this info site is structured as an academic research site with as little 
 The system features are arguably one of the most important factors when selecting an ERP.
 Use this section to read more about the different modules and features of @@name.
 
+
+https://info.erp.net/features/highlights.md
+
+
+* [Highlighted Features](~/features/highlights.md) - @@name's universal strongpoints applicable throughout the platform's systems.
 * [General](~/features/general/index.md) - General features, applicable to all modules.
 * [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
 * [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
-* [Production](~/features/production/index.md) - conversion of raw materials to finished products.
-* [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
-* [Community Management](~/features/community/index.md) - management of all external relations with customers, fans, partners, suppliers, etc.
-* [Integrations](~/features/integrations/index.md) - built-in integrations with external services.
+* [Production](~/features/production/index.md) - Conversion of raw materials to finished products.
+* [Financials](~/features/financials/index.md) - Company financials management, including regulatory compliance.
+* [Community Management](~/features/community/index.md) - Management of all external relations with customers, fans, partners, suppliers, etc.
+* [Integrations](~/features/integrations/index.md) - Built-in integrations with external services.
 * [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
 
 ## Solutions & Customers
@@ -50,6 +55,7 @@ Each industry solution contains general description, highlighted features, custo
 
 This section contains general information about the platform, hosting, licensing, etc.
 
-* [Licensing](~/information/licensing/index.md) - concurrent user, core and other licensing topics explained.
+* [Try @@name For Free](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
+* [Licensing](~/information/licensing/index.md) - explaining concurrent sessions, core and other licensing topics.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
 * [FAQ](~/information/faq/index.md) - Frequently asked questions for the platform, subsystems, integrations, implementation, etc.
