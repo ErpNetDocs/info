@@ -115,4 +115,4 @@ You can try **To Do** - @@name's brand-new feature - at the following link:
 
 The credentials for access are available in this article: 
 
-> **[Try Out @@name Platform - Access Credentials](https://info.erp.net/information/try-our-system.md)**
+> **[Try Out @@name Platform - Access Credentials](~/information/try-our-system.md)**
