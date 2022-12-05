@@ -51,7 +51,7 @@ Each industry solution contains general description, highlighted features, custo
 
 This section contains general information about the platform, hosting, licensing, etc.
 
-* [Try @@name For Free](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
+* [Try @@name Live Now](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
 * [Licensing](~/information/licensing/index.md) - explaining concurrent sessions, core and other licensing topics.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
 * [FAQ](~/information/faq/index.md) - Frequently asked questions for the platform, subsystems, integrations, implementation, etc.

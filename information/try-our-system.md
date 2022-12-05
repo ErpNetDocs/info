@@ -9,7 +9,7 @@ You can try the latest stable version of @@name Platform **right away without an
 * **[https://demodb.my.erp.net/cl](https://demodb.my.erp.net/cl)**  
 
 This will directly open the web client. 
-A **sign-in screen** will be opened asking for your credentials.  
+A **sign-in screen** will be displayed asking for your credentials.  
 
 > [!TIP]  
 > 
@@ -38,8 +38,8 @@ Our brand-new features, functionalities, and modules can be **accessed exclusive
 
 > [!Warning]  
 > 
-> In addition to the well-established system, TestDB offers access to pre-released features. 
-> These features are still in **design, testing, or other stage of the developmental process**. 
+> In addition to the well-established system, TestDB offers access to pre-released features and apps. 
+> These components are still in **design, testing, or other stage of the developmental process**. 
 > They may generate **warning and error messages**, as well as occasionally **crash** without any prior signs.  
 
 > [!Note]  
