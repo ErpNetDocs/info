@@ -1,17 +1,16 @@
-# To Do Feature
+# To Do Application
 
 ## Overview
 
 No matter what you engage in or what responsibilities you carry, we repeatedly come across a **number of small tasks** every day. 
-These jobs usually **appear spontaneously** and tend to **gradually stack over** the course of work. 
+These jobs are usually pretty simple, **appear spontaneously**, and tend to **gradually stack over** the course of work. 
 With so many important activities we get involved, it is easy to forget some routine duties to the side. 
-Nevertheless, this doesn't make it less necessary to get them done.  
 
-Well-built work processes rely on tools that are more persistent and dependable than human memory. 
-For that, **@@name** adds a brand-new app to its integrated app suite: **To Do**.  
+Well-built work processes rely on more persistent and dependable tools than human memory. 
+For that, **@@name** adds a brand-new application to its integrated app suite: **To Do**.  
 
 The new **To Do** is a **personal reminder tool**. 
-Its purpose is to remind you to tend to some issues or pending jobs later.
+Its purpose is to remind you to tend to some issues or pending jobs later. 
 In this manner, it liberates your mind to focus on **the more productive aspects** of the business.  
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
@@ -47,18 +46,16 @@ and so on.
 ## Opportunities To Do Offers You
 
 Sometimes, a small or insignificant problem can slip out of your workflows and cause some trouble later. 
-@@name's new app **targets exactly those issues and small tasks** to be **noticed and addressed properly and timely**.  
+@@name's new app **targets exactly those issues and jobs** to be **noticed and addressed properly and timely**.  
 
 **To Do** excels in **speed** and **simplicity**. 
-The new feature provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform.  
+The new application provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform.  
 
-When opened afterwards, the reminder is shown in a **consistent** and **easy to navigate form** displaying more properties, such as the due date, time of reminding, assigned to user, level of importance, and other fields.  
+When opened, the reminder is shown in a **detailed form** containing more properties, such as due date, importance, and other fields.  
 
 ![to-do-2](https://user-images.githubusercontent.com/106669250/203780118-04d88a78-a70e-4549-87c7-e8b988a7f4f9.jpg)
 
-
-
-## Take Advantage of @@name's To Do Feature
+## Utilizing @@name's To Do App
 
 **To Do**s substitute sticky notes and paper notepads. 
 This enables your office to **deal away** with having to sort and store pieces of paper until completion and discard them afterwards.  
@@ -75,12 +72,12 @@ The new app makes use of the platform's extensive capabilities:
 
 > [!NOTE]
 > **To Do** is **available in all subscription plans** of @@name.  
-> The feature **remains always available to your business** regardless of the plan you initially choose or later switch to.  
+> The app **remains always available to your business** regardless of the plan you initially choose or later switch to.  
 
 ## The Bottom Line 
 
-**To Do** solves problems that are hard or inappropriate to be marked, addressed, and tracked elsewhere. 
-The feature provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
+**To Do** solves problems that are inappropriate to be marked, addressed, and tracked elsewhere. 
+It provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
 
 ## See and Try To Dos in Action
 
