@@ -23,9 +23,9 @@ It acts as a list of itemized reminders for you and everyone else in your teams.
 **To Dos** remind you to **take care of some little issues**, **run some errands**, or **fulfill some promises made**.  
 
 > [!NOTE]  
-> **To Dos** are meant to be simple and easily readable reminders. 
-> The full set of information necessary for the job is usually stored elsewhere. 
-> Therefore, they serve other purpose than that of task and project management systems.  
+> **To Dos** are meant to be **simple** and **easily readable reminders**.  
+> The **full set of information** necessary for the job is usually **stored elsewhere**.  
+> Other apps and functionalities of the system are used for **task management and project management**.  
 
 **To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**, such as:  
 
@@ -39,24 +39,9 @@ and so on.
 
 > [!NOTE]  
 > To Dos are usually given just some hints and small pieces of data to remind you of a pending duty.  
-> This keeps them 
-> As they function **as a personal reminder**, they are usually **kept assigned to their owner**.  
+> As they function **as a neat personal reminder**, they are usually **kept assigned to their owner**.  
 
-
-
-
-
-> This means t
-
-
-
-To Do tasks are meant to be relatively **fast and easy** to get done. 
-
-
-> [!NOTE]  
-> To Dos are too small, plain, or just generally standalone to exist as a part of a project. 
-> There are other system apps and modules used for project management.  
-
+**To Do** reminders are designed to be **created within seconds** by just **typing in a title**. 
 
 
 ## Opportunities To Do Offers You
@@ -67,7 +52,7 @@ Not with **To Do**, though, as @@name's new feature **targets exactly those issu
 **To Do** excels in **speed** and **simplicity**. 
 The new feature provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform. 
 
-**To Do** tasks are designed to be **created within seconds** by just **typing in a title**. 
+
 They are intended to be personal, and as such, can be assigned to you or other staff members.  
 
 When opened afterwards, the task is shown in a **consistent** and **easy to navigate form** displaying more properties, such as the due date, time of reminding, assigned to user, level of importance, and other fields.  
