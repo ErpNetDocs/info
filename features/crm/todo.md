@@ -16,6 +16,8 @@ By this it liberates your mind to focus on **the more productive aspects** of th
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
 
+**To Do** reminders are designed to be **created within seconds** by just **typing in a title**.  
+
 ## Implementation of To Do in @name
 
 The **To Do app** is designed to support you in your ordinary daily work. 
@@ -35,14 +37,11 @@ It acts as a list of itemized reminders for you and everyone else in your teams.
 
 and so on.  
 
-@@name enables you to **assign To Dos to yourself** or **anyone else in your group** responsible for the job. 
+@@name enables you to **assign To Dos to yourself** or **anyone else in your group** responsible for the job.  
 
 > [!NOTE]  
 > To Dos are usually given just some hints and small pieces of data to remind you of a pending duty.  
 > As they function **as a neat personal reminder**, they are usually **kept assigned to their owner**.  
-
-**To Do** reminders are designed to be **created within seconds** by just **typing in a title**. 
-
 
 ## Opportunities To Do Offers You
 
@@ -50,7 +49,7 @@ Sometimes, a small or insignificant problem can slip out of your workflows and c
 Not with **To Do**, though, as @@name's new feature **targets exactly those issues and small tasks** to be **noticed and addressed properly and timely**.  
 
 **To Do** excels in **speed** and **simplicity**. 
-The new feature provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform. 
+The new feature provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform.  
 
 
 They are intended to be personal, and as such, can be assigned to you or other staff members.  
