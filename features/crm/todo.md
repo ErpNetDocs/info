@@ -2,40 +2,34 @@
 
 ## Overview
 
-No matter what you engage in or what responsibilities you carry, we repeatedly come across a **number of small tasks** every day. 
-These jobs are usually pretty simple, **appear spontaneously**, and tend to **gradually stack over** the course of work. 
-With so many important activities we get involved, it is easy to forget some routine duties to the side. 
+No matter what we do, we repeatedly come across a **number of small tasks** every day. 
+These quick jobs usually **appear spontaneously** and tend to **gradually stack up**. 
+With so many important activities it is easy to forget some routine duties to the side. 
 
 Well-built work processes rely on more persistent and dependable tools than human memory. 
 For that, **@@name** adds a brand-new application to its integrated app suite: **To Do**.  
 
 The new **To Do** is a **personal reminder tool**. 
 Its purpose is to remind you to tend to some issues or pending jobs later. 
-In this manner, it liberates your mind to focus on **the more productive aspects** of the business.  
+In this manner, it lets you focus on **the more productive aspects** of the business.  
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
-
-**To Do** reminders are designed to be **created within seconds** by just **typing in a title**. 
-Checking a to do as completed is **a single-tap action**.  
 
 ## Implementation of To Do in @name
 
 The **To Do app** is designed to support you in your ordinary daily work. 
-It acts as a list of itemized reminders for you and everyone else in your teams. 
+It acts as a list of itemized reminders for you and everyone else in your teams.  
+
 **To Dos** remind you to **take care of some little issues**, **run some errands**, or **fulfill some promises made**.  
+The reminders are designed to be **created within seconds** by just **typing in a title**. 
+Checking a to do as completed is **a single-tap action**.  
 
 > [!NOTE]  
 > **To Dos** are meant to be **simple** and **easily readable reminders**.  
 > The **full set of information** necessary for the job is usually **stored elsewhere**.  
 > Other apps and functionalities of the system are used for **task management and project management**.  
 
-**To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**, such as:  
-
-* "Call Janine today" 
-* "Review the new safety procedure" 
-* "Schedule a meeting for the team"  
-
-and so on.  
+**To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**, such as "call Janine today", "Review the new safety procedure", "Schedule a meeting for the team", and so on.  
 
 @@name enables you to **assign To Dos to yourself** or **anyone else in your group** responsible for the job.  
 
@@ -49,11 +43,11 @@ Sometimes, a small or insignificant problem can slip out of your workflows and c
 @@name's new app **targets exactly those issues and jobs** to be **noticed and addressed properly and timely**.  
 
 **To Do** excels in **speed** and **simplicity**. 
-The new application provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform.  
+The new application provides a fast and simple way to **write down** and **check** pending duties and chores. 
 
-When opened, the reminder is shown in a **detailed form** containing more properties, such as due date, importance, and other fields.  
+Reminders feature a **detailed form** containing more properties, such as due date, importance, and other fields.  
 
-![to-do-2](https://user-images.githubusercontent.com/106669250/203780118-04d88a78-a70e-4549-87c7-e8b988a7f4f9.jpg)
+![to-do-5](https://user-images.githubusercontent.com/106669250/206742715-76493b66-3f46-47be-8f5b-9568e227aa52.jpg)
 
 ## Utilizing @@name's To Do App
 
@@ -81,9 +75,13 @@ It provides all means to distinguish quick duties from the general structure of 
 
 ## See and Try To Dos in Action
 
-You can try **To Do** - @@name's brand-new feature - at the following link:  
+You can try **To Do** - @@name's brand-new app.  
 
-> **[To Do in @@name - Try It Now for Free](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**
+![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)
+
+Visit the following link:  
+
+> **[To Do in @@name - Try It Now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**
 
 The credentials for access are available in this article: 
 
