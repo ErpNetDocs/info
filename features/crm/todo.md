@@ -2,11 +2,26 @@
 
 ## Overview
 
-Common chores and daily duties are a part of our everyday life - at and outside of work. 
-No matter what your engagements and activities are or what responsibilities you carry, you will repeatedly come across a number of **small tasks** every day. 
-These tasks are called **To Do tasks**.  
+No matter what you engage in or what responsibilities you carry, you will repeatedly come across a number of **small tasks** every day. 
+These jobs usually appear and gradually stack over the course of work. 
+With so many activities we get involved, it is easy to forget smaller routine duties. 
+Good work models rely on tools that are more reliable than human memory.  
 
-**To Dos** usually involve **taking quick actions** to **accomplish simple goals**. 
+For that, **@@name** adds a brand-new tool to its integrated app suite: **To Do**.  
+
+The **To Do app** is designed to support you in your complex daily work routine. 
+It acts as a list of reminders for you and everyone else in your teams.  
+
+To Do is a personal reminder tool. 
+It is meant to remind you of 
+
+It could be assigned to you or to someone else, although it is not a task management
+
+
+
+## To Do App in @@name
+
+**To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**.  
 They are too small, plain, or just generally standalone to exist as a part of a project. 
 Therefore, such tasks are often arranged in lists, known as **To Do Lists**, to facilitate **categorizing** and **navigating** through them.  
 
