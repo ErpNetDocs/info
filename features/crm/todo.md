@@ -12,11 +12,12 @@ For that, **@@name** adds a brand-new app to its integrated app suite: **To Do**
 
 The new **To Do** is a **personal reminder tool**. 
 Its purpose is to remind you to tend to some issues or pending jobs later.
-By this it liberates your mind to focus on **the more productive aspects** of the business.  
+In this manner, it liberates your mind to focus on **the more productive aspects** of the business.  
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
 
-**To Do** reminders are designed to be **created within seconds** by just **typing in a title**.  
+**To Do** reminders are designed to be **created within seconds** by just **typing in a title**. 
+Checking a to do as completed is **a single-tap action**.  
 
 ## Implementation of To Do in @name
 
@@ -46,7 +47,7 @@ and so on.
 ## Opportunities To Do Offers You
 
 Sometimes, a small or insignificant problem can slip out of your workflows and cause some trouble later. 
-@@name's new feature **targets exactly those issues and small tasks** to be **noticed and addressed properly and timely**.  
+@@name's new app **targets exactly those issues and small tasks** to be **noticed and addressed properly and timely**.  
 
 **To Do** excels in **speed** and **simplicity**. 
 The new feature provides a quick and simple way to **write down**, **track**, and **mark** pending duties and chores as completed within the business management platform.  
@@ -55,7 +56,7 @@ When opened afterwards, the reminder is shown in a **consistent** and **easy to 
 
 ![to-do-2](https://user-images.githubusercontent.com/106669250/203780118-04d88a78-a70e-4549-87c7-e8b988a7f4f9.jpg)
 
-Checking a to do as completed, as expected, is **a single-tap action**.  
+
 
 ## Take Advantage of @@name's To Do Feature
 
@@ -64,7 +65,7 @@ This enables your office to **deal away** with having to sort and store pieces o
 
 The new app makes use of the platform's extensive capabilities:  
 
-* **Simplicity** - a title is the single one requirement for creating a new To Do task. 
+* **Simplicity** - a title is the single one requirement for creating a new To Do reminder. 
 * **Integration** - You can use autofill with already existing object records, as well as chats and files attached to each reminder. 
 * **Visibility** - the most important attributes are visible under the reminder's name right on the To Do list.
 *  **Navigation-friendly** - your reminders are structured by Social Groups and current progress status.
@@ -78,11 +79,8 @@ The new app makes use of the platform's extensive capabilities:
 
 ## The Bottom Line 
 
-**To Do** solves problems that are hard or inappropriate to be tracked, addressed, or accounted for elsewhere. 
+**To Do** solves problems that are hard or inappropriate to be marked, addressed, and tracked elsewhere. 
 The feature provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
-
-Small tasks get done easily using **fast and simple tools**. 
-And **To Do** brings to you **precisely these tools**.  
 
 ## See and Try To Dos in Action
 
