@@ -2,42 +2,62 @@
 
 ## Overview
 
-No matter what you engage in or what responsibilities you carry, you will repeatedly come across a number of **small tasks** every day. 
-These jobs usually appear and gradually stack over the course of work. 
-With so many activities we get involved, it is easy to forget smaller routine duties. 
-Good work models rely on tools that are more reliable than human memory.  
+No matter what you engage in or what responsibilities you carry, we repeatedly come across a **number of small tasks** every day. 
+These jobs usually **appear spontaneously** and tend to **gradually stack over** the course of work. 
+With so many important activities we get involved, it is easy to forget some routine duties to the side. 
+Nevertheless, this doesn't make it less necessary to get them done.  
 
-For that, **@@name** adds a brand-new tool to its integrated app suite: **To Do**.  
+Well-built work processes rely on tools that are more persistent and dependable than human memory. 
+For that, **@@name** adds a brand-new app to its integrated app suite: **To Do**.  
 
-The **To Do app** is designed to support you in your complex daily work routine. 
-It acts as a list of reminders for you and everyone else in your teams.  
-
-To Do is a personal reminder tool. 
-It is meant to remind you of 
-
-It could be assigned to you or to someone else, although it is not a task management
-
-
-
-## To Do App in @@name
-
-**To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**.  
-They are too small, plain, or just generally standalone to exist as a part of a project. 
-Therefore, such tasks are often arranged in lists, known as **To Do Lists**, to facilitate **categorizing** and **navigating** through them.  
-
-To Do tasks are everywhere around us. 
-This makes it very easy to provide so many examples:  
-
-* **Communicational to-dos** - "Call Janine today", "Notify the team of the new changes tomorrow", "Ask Pete for help about...", etc. 
-* **Quick-action to-dos** - "Update the blogpost on...", "Review the new safety procedure", "Issue an invoice for customer...", and more. 
-* **Organizational and support to-dos** - "Book an HVAC service appointment", "Schedule a meeting for...", "Order new cleaning detergents", and so on.  
-
-To Do tasks are meant to be relatively **fast and easy** to get done. 
-They serve as **itemized reminders** for you to take care of some little issues, run some errands, or fulfill some promises made.  
-
-Continuously covering nothing less than everything in your business processes, **@@name** unveils its brand-new feature for lightning-fast handling of these tasks: **To Do**.  
+The new **To Do** is a **personal reminder tool**. 
+Its purpose is to remind you to tend to some issues or pending jobs later.
+By this it liberates your mind to focus on **the more productive aspects** of the business.  
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
+
+## Implementation of To Do in @name
+
+The **To Do app** is designed to support you in your ordinary daily work. 
+It acts as a list of itemized reminders for you and everyone else in your teams. 
+**To Dos** remind you to **take care of some little issues**, **run some errands**, or **fulfill some promises made**.  
+
+> [!NOTE]  
+> **To Dos** are meant to be simple and easily readable reminders. 
+> The full set of information necessary for the job is usually stored elsewhere. 
+> Therefore, they serve other purpose than that of task and project management systems.  
+
+**To Do reminders** usually involve **taking quick actions** to **accomplish simple goals**, such as:  
+
+* "Call Janine today" 
+* "Review the new safety procedure" 
+* "Schedule a meeting for the team"  
+
+and so on.  
+
+@@name enables you to **assign To Dos to yourself** or **anyone else in your group** responsible for the job. 
+
+> [!NOTE]  
+> To Dos are usually given just some hints and small pieces of data to remind you of a pending duty.  
+> This keeps them 
+> As they function **as a personal reminder**, they are usually **kept assigned to their owner**.  
+
+
+
+
+
+> This means t
+
+
+
+To Do tasks are meant to be relatively **fast and easy** to get done. 
+
+
+> [!NOTE]  
+> To Dos are too small, plain, or just generally standalone to exist as a part of a project. 
+> There are other system apps and modules used for project management.  
+
+
 
 ## Opportunities To Do Offers You
 
