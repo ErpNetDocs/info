@@ -72,13 +72,6 @@ The new app makes use of the platform's extensive capabilities:
 * **Teamwork support** - you can place and move To Dos in Social Groups to let all group members follow through the progress. 
 * **Cost-effective** - your business enjoys complete functionality without needing to pay for countless apps and subscriptions.  
 
-
-
-
-Leveraging this feature of @@name helps you sum up and arrange your work within the interface of the system.  
-Thus, your company can get free from juggling multiple external non-integrable apps. 
-Next to being practical, it is cost-reducing too, as 
-
 > [!NOTE]
 > **To Do** is **available in all subscription plans** of @@name.  
 > The feature **remains always available to your business** regardless of the plan you initially choose or later switch to.  
@@ -86,7 +79,7 @@ Next to being practical, it is cost-reducing too, as
 ## The Bottom Line 
 
 **To Do** solves problems that are hard or inappropriate to be tracked, addressed, or accounted for elsewhere. 
-The feature provides all means to distinguish small tasks and quick actions from the general work with primary documentation and object records in the system while still providing **@@name's native connectivity all between**.  
+The feature provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
 
 Small tasks get done easily using **fast and simple tools**. 
 And **To Do** brings to you **precisely these tools**.  
