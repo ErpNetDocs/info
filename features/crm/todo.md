@@ -15,7 +15,7 @@ In this manner, it lets you focus on **the more productive aspects** of the busi
 
 ![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
 
-## Implementation of To Do in @name
+## Implementation of To Do in @@name
 
 The **To Do app** is designed to support you in your ordinary daily work. 
 It acts as a list of itemized reminders for you and everyone else in your teams.  
@@ -58,8 +58,8 @@ The new app makes use of the platform's extensive capabilities:
 
 * **Simplicity** - a title is the single one requirement for creating a new To Do reminder. 
 * **Integration** - You can use autofill with already existing object records, as well as chats and files attached to each reminder. 
-* **Visibility** - the most important attributes are visible under the reminder's name right on the To Do list.
-*  **Navigation-friendly** - your reminders are structured by Social Groups and current progress status.
+* **Visibility** - the most important attributes are visible under the reminder's name right on the To Do list. 
+*  **Navigation-friendly** - your reminders are structured by Social Groups and current progress status. 
 * **Available on the web**: reminders are saved directly in your @@name's cloud storage, remaining always at hand. 
 * **Teamwork support** - you can place and move To Dos in Social Groups to let all group members follow through the progress. 
 * **Cost-effective** - your business enjoys complete functionality without needing to pay for countless apps and subscriptions.  
