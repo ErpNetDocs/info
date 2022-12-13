@@ -29,7 +29,7 @@ You can try @@name's **desktop client** in three easy steps:
 
 > [!Note]  
 > If you encounter a Microsoft Defender prompt, click on **More info**, and then select the button **Run Anyway**.  
-> This will not expose your system to any security risks.  
+> Downloading @@name desktop client from the officially provided source above will not expose your system to any security risks.  
 
 2. **Paste the following text** in the Unique Instance Name (UIN) field and press **Enter**:  
 
