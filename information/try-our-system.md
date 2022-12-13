@@ -13,7 +13,7 @@ A **sign-in screen** will be displayed asking for your credentials.
 
 > [!TIP]  
 > 
-> Use the following sign-in details when asked by the login screen:  
+> Use the following sign-in details when asked by the log-in screen:  
 > 
 > **User**: admin  
 > 
@@ -25,11 +25,17 @@ You can try @@name's **desktop client** in three easy steps:
 
 1. Download, install, and start **@@name desktop client**.  
 
-> **[@@name Desktop Client - Download](https://demodb.my.erp.net)**  
+> **[@@name Desktop Client - Download for 64-bit systems](https://demodb.my.erp.net/downloads/ErpNet.WinClient.Setup.x64.msi)**  
 
-2. **Paste the following text** in the address bar of the log-in screen and press **Enter**:  
+> [!Note]  
+> If you encounter a Microsoft Defender prompt, click on **More info**, and then select the button **Run Anyway**.  
+> This will not expose your system to any security risks.  
+
+2. **Paste the following text** in the Unique Instance Name (UIN) field and press **Enter**:  
 
 > **demodb**  
+
+![ERP_net_UIN_reduced_size](https://user-images.githubusercontent.com/106669250/207385876-364000a7-a3eb-42fc-93c0-4f16674fbef5.png)
 
 3. **Log in** with the credentials provided at the top of this article.  
 
