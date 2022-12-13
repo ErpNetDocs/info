@@ -21,20 +21,27 @@ A **sign-in screen** will be displayed asking for your credentials.
 
 ## Accessing @@name Platform Desktop Client
 
-> To try @@name's **desktop client**, visit:  
-> 
-* **[https://demodb.my.erp.net](https://demodb.my.erp.net)**  
+You can try @@name's **desktop client** in three easy steps:  
 
-The desktop client will be available for download according to your type of system. 
-After installing and startup, the desktop client will ask you to **sign in** with the database URL, which in this case is https://demodb.my.erp.net, and your credentials.  
+1. Download, install, and start **@@name desktop client**.  
+
+> **[@@name Desktop Client - Download](https://demodb.my.erp.net)**  
+
+2. **Paste the following text** in the address bar of the log-in screen and press **Enter**:  
+
+> **demodb**  
+
+3. **Log in** with the credentials provided at the top of this article.  
+
+You are ready to explore our platform.  
 
 ## Can I Exclusively Try Your Pre-Release Solutions?
 
 You don't have to wait for the new system version to be released to try our new solutions. 
 Our brand-new features, functionalities, and modules can be **accessed exclusively** in our database for testing purposes, called **TestDB**.  
 
-* **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)** - @@name on the web
-* **[https://testdb.my.erp.net](https://testdb.my.erp.net)** - @@name for desktop
+* **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)** - visit @@name on the web
+* **testdb** - paste into @@name desktop client's address bar  
 
 > [!Warning]  
 > 
