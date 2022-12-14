@@ -31,11 +31,11 @@ You can try @@name's **desktop client** in three easy steps:
 > If you encounter a Microsoft Defender prompt, click on **More info**, and then select the button **Run Anyway**.  
 > Downloading @@name desktop client from the officially provided source above will not expose your system to any security risks.  
 
-2. **Paste the following text** in the Unique Instance Name (UIN) field and press **Enter**:  
+2. **Paste the following text** in the Unique Instance Name (UIN) field and press **Enter** or select the **OK** button:  
 
 > **demodb**  
 
-![ERP_net_UIN_reduced_size](https://user-images.githubusercontent.com/106669250/207385876-364000a7-a3eb-42fc-93c0-4f16674fbef5.png)
+![ERP_net_UIN_demodb_reduced_size](https://user-images.githubusercontent.com/106669250/207625461-532ce399-6b14-4f53-b66e-f203dd36c153.jpg)
 
 3. **Log in** with the credentials provided at the top of this article.  
 
