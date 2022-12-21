@@ -4,9 +4,9 @@
 
 In the information-dominated business landscape, making use and making sense of accumulated data is becoming core to gaining knowledge and making informed decisions. 
 Organizations are collecting so much data that storing and processing it becomes a significant challenge. 
-It is still a common practice for companies to create numerous Excel tables to handle the data accrued. 
-While Excel tables are great for organizing and sorting data sets and applying basic calculations and formulas, when it comes to storing, controlling, and analyzing vast amounts of data from different sources to support business intelligence, mere tables will not cut it. 
-Even a simple everyday example, such as having multiple versions of the same table saved or edited by different users or accidentally deleting a crucial Excel table or field value can help highlight the need for a more streamlined method of handling and utilizing company data. 
+It is still a common practice for companies to create numerous spreadsheet tables to handle the data accrued. 
+While most of the spreadsheet tables are great for organizing and sorting data sets and applying basic calculations and formulas, when it comes to storing, controlling, and analyzing vast amounts of data from different sources to support business intelligence, mere tables will not cut it. 
+Even a simple everyday example, such as having multiple versions of the same table saved or edited by different users or accidentally deleting a crucial spreadsheet files or field value can help highlight the need for a more streamlined method of handling and utilizing company data. 
 Organizations need a *single source of truth* within their ERP system where *all* data is stored and managed, as opposed to having chunks of information living in disparate tables across systems and users.  
 
 Enter the @@name *Data Warehouse* module – the digital storage of all your organization’s information. 
@@ -35,7 +35,7 @@ As with the rest of the @@name system, you can easily customize and add new fiel
 
 ## Get meaningul information from @@name navigators
 
-Information input need not be a nuisance – with the *Data Warehouse* module you can simply copy and paste data in the navigator – in the same field sequence as in your Excel table. 
+Information input need not be a nuisance – with the *Data Warehouse* module you can simply copy and paste data in the navigator – in the same field sequence as in your spreadsheet. 
 You can then grant different levels of access rights to stakeholders, [edit or update field data](https://info.erp.net/features/general/custom-attributes.html), and define which fields need to keep their historical versions.
 
 ![Data input](screenshot%202.png)
@@ -43,7 +43,7 @@ You can then grant different levels of access rights to stakeholders, [edit or u
 What’s more – your team will appreciate the [chat functionality](https://info.erp.net/features/community/chatter.html) that helps colleagues be in sync and discuss real-time what information needs an update, debate over field values, or analyze sales data on the go. 
 Apart from being a collaboration tool, you can also use the chat as a simple project management tool to assign tasks to team members, send notifications, and track task execution.
 
-## Multiple Excel files are a thing of the past
+## Multiple spreadsheet files are a thing of the past
 
 Summing it up – in addition to being the data powerhouse of your business, *Data Warehouse* helps teams conduct complex data operations in a simple, yet effective manner. 
 Managers can make data-driven decisions based on financial and operating reporting grounded on data from different sources and systems that is stored and analyzed within the @@name platform and its native BI functionality. 
