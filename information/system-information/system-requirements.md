@@ -18,13 +18,15 @@ The @@winclient is the primary tool for work-heavy users accessing an @@name ins
 
 * Windows 10 1809+
 * 2 GB RAM
-* Internet Explorer 11
+* 1 GB disk space
+* Microsoft Chromium Edge
 * Internet access
 
 ### Recommended system specs
 
 * Windows 10 (latest stable release)
 * 8 GB RAM
+* 2 GB disk space
 * Microsoft Chromium Edge
 * Internet access
 
@@ -32,6 +34,3 @@ The @@winclient is the primary tool for work-heavy users accessing an @@name ins
 
 Web applications, (like Client Center) have no specific system requirements.
 They run on all modern browsers and require negligible amounts of local RAM.
-
-> [!note]
-> Internet Explorer is not considered "modern" browser and is not supported.
