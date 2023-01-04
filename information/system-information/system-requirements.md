@@ -19,7 +19,6 @@ The @@winclient is the primary tool for work-heavy users accessing an @@name ins
 * Windows 10 1809+
 * 2 GB RAM
 * 1 GB disk space
-* Microsoft Chromium Edge
 * Internet access
 
 ### Recommended system specs
@@ -27,7 +26,6 @@ The @@winclient is the primary tool for work-heavy users accessing an @@name ins
 * Windows 10/11 (latest stable release)
 * 8 GB RAM
 * 2 GB disk space
-* Microsoft Chromium Edge
 * Internet access
 
 ## Web apps
