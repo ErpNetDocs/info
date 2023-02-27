@@ -13,7 +13,7 @@ Partner Level – there are different tiers of partners to VENDOR which are desc
 The term “Partner Level” is used to describe the tier a specific partner is in.  
 
 Requirements – a document describing the requirements that need to be met and benefits that are received by partners of VENDOR according to their Partner Level. 
-This document is available on the following page: https://info.erp.net/partners/partnership-program-terms-and-conditions.html  
+This document is available on the following page: https://info.erp.net/partners/partner-program-terms-and-conditions.html  
 
 Reseller – a partner that has the right to conclude Sales with Customers on its own behalf and at its own expense. 
 Resellers are not authorized to conclude Sales on behalf/at the expense of VENDOR.  
