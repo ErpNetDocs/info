@@ -49,6 +49,14 @@ Our brand-new features, functionalities, and modules can be **accessed exclusive
 * **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)** - visit @@name on the web
 * **testdb** - paste into @@name desktop client's address bar  
 
+> [!TIP]  
+> 
+> Use the following sign-in details when asked by the log-in screen:  
+> 
+> **User**: admin  
+> 
+> **Password**: 123  
+
 > [!Warning]  
 > 
 > In addition to the well-established system, TestDB offers access to pre-released features and apps. 
