@@ -2693,6 +2693,54 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "partners/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "partners/index.html",
+          "hash": "TSz8SyQGCvsNl3K51E0B6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "partners/partner-program-requirements-and-benefits.md",
+      "output": {
+        ".html": {
+          "relative_path": "partners/partner-program-requirements-and-benefits.html",
+          "hash": "OkYnnWHfGx+6sQpv6M4ABw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "partners/partner-program-terms-and-conditions.md",
+      "output": {
+        ".html": {
+          "relative_path": "partners/partner-program-terms-and-conditions.html",
+          "hash": "poW0hYUmhGWmPsIvYEEG8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "partners/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "partners/toc.html",
+          "hash": "dOTFgQGONZZqfkExN1zlCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "solutions/agribusiness/index.md",
       "output": {
         ".html": {
