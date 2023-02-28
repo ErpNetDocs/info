@@ -1,6 +1,4 @@
-# Overview
-
-## Partnership Program
+# Partnership Program
 
 The current section provides information about our partnership program, including how you can join our partner network.  
 
