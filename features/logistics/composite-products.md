@@ -29,21 +29,21 @@ WMS is capable of **breaking down requisitions** for composite products to **gen
 
 WMS introduces several **levels of control** which can be set for **proper and controlled** task execution when working with composite products: 
 
-* **Level 0 - Check All**  
-Requires all products to be scanned or entered by product code for every piece. 
+* **Level 50 - Check all**  
+This is the highest and therefore the most restrictive level. Requires all products to be scanned or entered by product code for every piece. 
 The component products and product quantities must exactly match those in the composite product's definition, otherwise the system prevents order fulfillment.  
 
-* **Level 1 - Allow incomplete finish**  
-Same as level 0, but the application provides an option to still fulfill the order even when they do not match.  
+* **Level 40 - Check all + Allow incomplete finish**  
+Same as level 50, but the application provides an option to still fulfill the order even when they do not match.  
 
-* **Level 2 - Just preview totals**  
+* **Level 30 - Just preview totals**  
 The mobile app displays a summarized view of all products and quantities for the selected order, available for counting or checking, and does not require scanning or entering by product code.  
 
-* **Level 3 - Check and complete**  
+* **Level 20 - Check and complete**  
 The system checks if the whole order execution exactly matches the composite product's definition when a kit/dekit execution is attempted. 
 A warning is shown when differences are detected, and the check is unsuccessful. 
 
-* **Level 4 - Autocomplete**  
+* **Level 10 - Autocomplete**  
 The system automatically executes the kit/dekit operation if all component lines are fulfilled and exactly match the composite product's definition.  
 
 During fulfillment, these levels of control **define the rules and allowances** which the worker is facing to carry out the job. 
