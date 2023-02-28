@@ -96,21 +96,21 @@ The system provides all necessary means to <strong>fulfill all kinds of orders a
 <h2 id="levels-of-control-for-composite-products-in-wms-of-">Levels of Control for Composite Products in WMS of ERP.net</h2>
 <p>WMS introduces several <strong>levels of control</strong> which can be set for <strong>proper and controlled</strong> task execution when working with composite products:</p>
 <ul>
-<li><p><strong>Level 0 - Check All</strong><br>
-Requires all products to be scanned or entered by product code for every piece.
+<li><p><strong>Level 50 - Check all</strong><br>
+This is the highest and therefore the most restrictive level. Requires all products to be scanned or entered by product code for every piece.
 The component products and product quantities must exactly match those in the composite product's definition, otherwise the system prevents order fulfillment.</p>
 </li>
-<li><p><strong>Level 1 - Allow incomplete finish</strong><br>
-Same as level 0, but the application provides an option to still fulfill the order even when they do not match.</p>
+<li><p><strong>Level 40 - Check all + Allow incomplete finish</strong><br>
+Same as level 50, but the application provides an option to still fulfill the order even when they do not match.</p>
 </li>
-<li><p><strong>Level 2 - Just preview totals</strong><br>
+<li><p><strong>Level 30 - Just preview totals</strong><br>
 The mobile app displays a summarized view of all products and quantities for the selected order, available for counting or checking, and does not require scanning or entering by product code.</p>
 </li>
-<li><p><strong>Level 3 - Check and complete</strong><br>
+<li><p><strong>Level 20 - Check and complete</strong><br>
 The system checks if the whole order execution exactly matches the composite product's definition when a kit/dekit execution is attempted.
 A warning is shown when differences are detected, and the check is unsuccessful.</p>
 </li>
-<li><p><strong>Level 4 - Autocomplete</strong><br>
+<li><p><strong>Level 10 - Autocomplete</strong><br>
 The system automatically executes the kit/dekit operation if all component lines are fulfilled and exactly match the composite product's definition.</p>
 </li>
 </ul>
