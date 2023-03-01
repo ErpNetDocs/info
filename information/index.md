@@ -2,7 +2,9 @@
 
 In this section you can find fundamental information about @@name.  
 
-You can try our business management platform as well, without any prior registration necessary.  
+You can try our business management platform immediately as well, without any prior registration necessary:  
+
+* **[Try ERP.net Now](try-our-system.md)**
 
 Read on to explore the core functions of our products and solutions, including:  
 
