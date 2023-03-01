@@ -4,16 +4,13 @@ These Partner Program Terms and Conditions (“**Terms**”) govern your (“**P
 
 **1.	DEFINITIONS**  
 
-Bug – any failure of the Services that results in a complete stop, error traceback or security breach, and is not directly caused by a defective installation or configuration. 
-Non-compliance with specifications or requirements will be considered as Bugs at the discretion of VENDOR (typically, when the Services does not produce the results or performance it was designed to produce, or when a country-specific feature does not meet legal accounting requirements anymore).  
-
 Customer – an individual or company which wants to use/is using the Services for its own benefit.  
 
-Partner Level – there are different tiers of partners to VENDOR which are described in the Requirements. 
+Partner Level – there are different tiers of partners to VENDOR which are described in the Requirements & Benefits. 
 The term “Partner Level” is used to describe the tier a specific partner is in.  
 
-Requirements – a document describing the requirements that need to be met and benefits that are received by partners of VENDOR according to their Partner Level. 
-This document is available on the following page: https://info.erp.net/partners/partner-program-terms-and-conditions.html  
+Requirements & Benefits – a document describing the requirements that need to be met and benefits that are received by partners of VENDOR according to their Partner Level. 
+This document is available on the following page: https://info.erp.net/partners/partner-program-requirements-and-benefits.html .  
 
 Reseller – a partner that has the right to conclude Sales with Customers on its own behalf and at its own expense. 
 Resellers are not authorized to conclude Sales on behalf/at the expense of VENDOR.  
@@ -26,73 +23,99 @@ Subscription Order – an ordering document specifying the Services to be provid
 
 Support Services – the supplemental, technical support services to be provided to Customer for the Services pursuant to item 6.2. “Support” of VENDOR’s Platform Terms Of Use, available at: https://info.erp.net/legal/platform-terms-of-use.html  
 
+Bug – any failure of the Services that results in a complete stop, error traceback or security breach, and is not directly caused by a defective installation or configuration. 
+Non-compliance with specifications or requirements will be considered as Bugs at the discretion of VENDOR (typically, when the Services does not produce the results or performance it was designed to produce, or when a country-specific feature does not meet legal accounting requirements anymore).  
+
 **2.	BECOMING A PARTNER**  
 
-2.1.	To become a partner, you have to fill and submit the application form available on the following page: ... . 
+2.1.	**Application**. 
+To become a partner, you have to fill and submit the application form available on the following page: https://info.erp.net/partners/apply-for-a-partner.html .  
 VENDOR may accept your application at its discretion but is not obliged to do so. 
-If accepted, VENDOR sends you a “**Confirmation Letter**” by email. 
-From the date of your receival of the Confirmation Letter, an agreement between you and VENDOR is concluded and enters into force (the “**Partnership Agreement**”).  
+If accepted, VENDOR sends you a “**Confirmation Letter**” by email.  
 
-2.2.	The Partnership Agreement is governed by and consists of all conditions, included in these Terms, the Requirements, and the Confirmation letter.  
+2.2.	**Partnership Agreement**. 
+From the date of your receival of the Confirmation Letter, an agreement between you and VENDOR is concluded and enters into force (the “**Partnership Agreement**”). 
+The Partnership Agreement is governed by and consists of all conditions, included in these Terms, the Requirements & Benefits, and the Confirmation letter.  
 
-2.3.	You may propose to VENDOR the change of your Partner Level. 
-In such a case, VENDOR shall review your request and, If the request is approved, VENDOR shall send you a new Confirmation letter.  
+2.3.	**Change of Partner Level**. 
+You can apply to change your Partner Level by sending a written request for change to VENDOR. 
+In such a case, VENDOR shall review your request and, If you meet the necessary requirements, VENDOR shall approve your request by sending you a new Confirmation letter.  
 
 **3.	RIGHTS AND OBLIGATIONS OF PARTNER**  
 
-3.1.	Partner has the right to receive the benefits described in the Requirements according to its Partner Level.  
+3.1.	Partner has the right to receive the benefits described in the Requirements & Benefits document according to its Partner Level.  
 
-3.2.	Partner is obligated to meet the requirements described in the Requirements according to its Partner Level during the term of the Partnership Agreement.  
+3.2.	Partner is obligated to meet the requirements described in the Requirements & Benefits document according to its Partner Level during the term of the Partnership Agreement.  
 
 3.3.	VENDOR and the Partner may use each other’s logo to advertise their business and the fact of their partnership if this does not conflict with the confidentiality rules in these Terms.  
 
 **4.	RIGHTS AND OBLIGATIONS OF VENDOR**  
 
-4.1.	VENDOR has the right to give instructions to Resellers regarding the marketing and conclusion of Sales and give instructions to all Partners regarding the fulfilment of their obligations.  
+4.1.	VENDOR has the right to provide mandatory instructions and  requirements to Resellers regarding the marketing and conclusion of Sales and provide mandatory requirements and instructions to all Partners regarding the fulfilment of their obligations.  
 
 4.2.	VENDOR is obliged to provide the necessary assistance to the Partner in the performance of its contractual obligations.  
  
 **5.	SPECIAL TERMS FOR RESELLERS**  
 
-5.1.	The terms in this section apply only to partners who are also Resellers. 
-Reseller status may be granted by us through the Confirmation Letter at our discretion, only if you have requested this in your application form.  
+5.1.	**Applicability**. 
+The terms in this section apply only to partners who are also Resellers.  
 
-5.2.	VENDOR grants to Resellers for the term of their Partnership Agreement a non-transferable, non-exclusive license to advertise, promote, demonstrate and sublicense the Services to Customers. 
+5.2.	**Reseller Status**. 
+Reseller status may be granted by us through the Confirmation Letter at our discretion, only if you have requested this in your application form. 
+Reseller status may be revoked by us if we have reason to believe you do not fulfil your obligations in 5.4., 5.5., 5.6. or 5.9.  
+
+5.3.	**License**. VENDOR grants to Resellers for the term of their Partnership Agreement a non-transferable, non-exclusive license to advertise, promote, demonstrate and sublicense the Services to Customers. 
 This license is not subject to sublicensing.  
 
-5.3.	A partner, who is a Reseller, has the right to find Customers and conclude Sales with them on its own behalf. 
+5.4.	**Conclusion of Sales**. 
+A partner, who is a Reseller, has the right to find Customers and conclude Sales with them on its own behalf. 
 Resellers shall have sole responsibility for providing Support Services, customer service and billing to Customers with whom they have concluded Sales and will fulfill such obligations with professional care and skill. 
 We do not assume any responsibility in regard to fulfilment of your obligations to Customers, unless explicitly stated otherwise.  
 
-5.4.	In order to conclude Sales, Resellers must use VENDOR’s template Subscription Order, available on the following link: ... . 
-Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: ... . 
+5.5.	**Terms of Sales of Resellers**. 
+In order to conclude Sales, Resellers must use VENDOR’s template Subscription Order, available on the following link: ... .  
+Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: ... .  
 In case we change the template or pricing, we will notify you by email.  
 
-5.5.	Within 3 /three/ days’ time from concluding a Sale with Customer, Reseller is obliged to report this Sale by sending to VENDOR the filled Subscription Order of said Customer.  
+5.6.	**Reporting**. 
+Within 3 /three/ days’ time from concluding a Sale with Customer, Reseller is obliged to report this Sale by sending to VENDOR the filled Subscription Order of said Customer.  
 
-5.6.	Resellers receive a commission for each concluded Sale – commission amount is included in the Requirements. 
-For each concluded Sale, Reseller owes to VENDOR the fees owed by the Customer for the Services according to the Subscription Order. 
+5.7.	**Commission**. 
+Resellers receive a commission for each concluded Sale. 
+Commission is a percentage of the total amount due by Customer according to the Subscription Order - the specific percentage is included in the Requirements & Benefits document.  
+
+5.8.	**Payment Terms**. 
+For each concluded Sale, Reseller owes to VENDOR the fees due by Customer for the Services according to the Subscription Order. 
 VENDOR issues an invoice to Reseller for the fees of the Customer minus the due commission. 
 Reseller pays the invoice amount in 5 days’ time from receiving the invoice.  
 
-5.7.	Resellers are obliged to conduct all marketing, advertising, and other promotional activities with respect to the Services in a manner which is of high quality, in good taste, and which will preserve the professional image and reputation of VENDOR, and by using the marketing materials and instructions that have been provided by us, if any.  
-
-5.8.	Reseller status may be revoked by us if we have reason to believe you do not fulfil your obligations in 5.4. and 5.7.  
+5.9.	**Advertising**. 
+Resellers are obliged to conduct all marketing, advertising, and other promotional activities with respect to the Services in a manner which is of high quality, in good taste, and which will preserve the professional image and reputation of VENDOR, and by using the marketing materials and instructions that have been provided by us, if any.  
 
 **6.	SOLUTION PARTNERS**  
 
-6.1.	Customers that work directly with VENDOR can request a partner to be in charge of reporting Bugs to VENDOR on their behalf (so called “**Solution Partner**”). 
+6.1.	**Becoming a Solution Partner**. 
+Customers that work directly with VENDOR can request a partner to be in charge of reporting Bugs to VENDOR on their behalf (so called “**Solution Partner**”). 
 We will inform you, if you have been requested as a Solution Partner by a Customer. 
 You may either accept or reject this request in 10 days’ time from receiving notice from us.  
 
-6.2.	If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: ...  .  
+6.2.	**Obligations**. 
+If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: ... .  
 
-6.3.	You are not allowed to charge the Customer for this service. 
-As a compensation, you will receive a commission from us in the amount provided in the Requirements. 
-Commission is paid in 10 days’ time after the end of each month you have been a Solution Partner. 
-If you are a Solution Partner to several Customers, you are entitled to receive a separate commission for each of the Customers.  
+6.3.	**Commission**. 
+You are not allowed to charge the Customer for this service. 
+As a compensation, you will receive a commission from us, according to the following conditions:  
 
-6.4.	You cease to be the Solution Partner to a Customer:  
+a.	If you are a Solution Partner to several Customers, you are entitled to receive a separate commission for each of the Customers.  
+
+b.	Commission is in the amount provided in the Requirements & Benefits document and is paid to you *only* if Customer has paid the remuneration it owes to VENDOR.  
+
+c.	If Customer has paid its due remuneration to us, you can expect to receive your commission in 20 days’ time after the end of each month you have been a Solution Partner. 
+If we do not receive payment from Customer, we will timely inform you of this – in such case you have the right to stop providing services as a Solution Partner to this Customer immediately and request to cease being their Solution Partner. 
+If we receive payment from Customer with delay, we will pay your commission in 20 days’ time from receival of payment from Customer.  
+
+6.4.	**Termination of Solution Partner Status**. 
+You cease to be the Solution Partner to a Customer:  
 
 a.	Upon expiry of 10 days from the time of your request or the request of the Customer for this to us;  
 
@@ -100,34 +123,27 @@ b.	Immediately, in the event that the Customer’s license to use the Services i
 
 c.	Immediately, in the event that your partnership with us is terminated.  
 
-6.5.	If a Customer elects to replace you as a Solution Partner, you will not have any claim against VENDOR for damages or lost profits resulting from this.  
+6.5.	**Liability**. 
+If a Customer elects to replace you as a Solution Partner, you will not have any claim against VENDOR for damages or lost profits resulting from this.  
 
-**7.	AMENDMENT OF THE TERMS & REQUIREMENTS**  
 
-7.1.	These Terms and the Requirements might be amended from time to time by VENDOR. 
-In such case we will publish the updated Terms or Requirements on the webpages ... and will notify you of the change by email.  
+7.	**AMENDMENT OF THE TERMS AND ‘REQUIREMENTS & BENEFITS’**  
 
-7.2.	If you do not agree to be bound by the new Terms or the new Requirements and you wish to terminate your partnership with VENDOR, you must inform VENDOR of this in written form within 10 days after we send you notice of the change. 
-If no written notification for this is received from you, you are deemed to have agreed with the new Terms or Requirements and you will be bound by them.  
+7.1.	These Terms and the Requirements & Benefits document might be amended from time to time by VENDOR. 
+In such case we will publish the updated Terms or Requirements & Benefits on the webpages: https://info.erp.net/partners/partner-program-terms-and-conditions.html and https://info.erp.net/partners/partner-program-requirements-and-benefits.html and will notify you of the change by email.  
 
-**8.	TERM & TERMINATION OF THE PARTHERSHIP AGREEMENT**  
+7.2.	If you do not agree to be bound by the new Terms or the new Requirements & Benefits and you wish to terminate your partnership with VENDOR, you must inform VENDOR of this in written form within 10 days after we send you notice of the change. 
+If no written notification for this is received from you, you are deemed to have agreed with the new Terms or Requirements & Benefits and you will be bound by them.  
 
-8.1.	The Partnership Agreement is concluded for a term of 1 /one/ year. 
+8.	**TERM & TERMINATION OF THE PARTHERSHIP AGREEMENT**  
+
+8.1.	**Term**. 
+The Partnership Agreement is concluded for a term of 1 /one/ year. 
 Upon expiry of the term, the Partnership Agreement does not automatically renew.  
 
-8.2.	The Partnership Agreement shall terminate:  
-
-a.	by mutual agreement of the parties expressed in writing.  
-
-b.	by either party with 1-month notice.  
-
-c.	In case of liquidation or insolvency of either Party.  
-
-d.	and upon the occurrence of the other termination scenarios, described in these Terms.  
-
-8.3.	In case of violation of the obligations in this Agreement, the non-defaulting party has the right to unilaterally terminate the Agreement with 1 months’ notice to the defaulting party.  
-
-8.4.	VENDOR also has the right to terminate the Partnership Agreement upon 30 days’ notice to you, if:  
+8.2.	**Termination**. 
+The Partnership Agreement shall terminate (i) by mutual agreement of the parties expressed in writing; (ii) by either party with 1-month notice; (iii) in case of liquidation or insolvency of either Party; (iv) upon the occurrence of the other termination scenarios, described in these Terms. 
+VENDOR also has the right to terminate the Partnership Agreement upon 30 days’ notice to you, if:  
 
 a.	you breach your confidentiality obligations under these Terms or infringe or misappropriate our intellectual property rights;  
 
@@ -135,13 +151,18 @@ b.	we determine that you are acting, or have acted, in a way that has or may neg
 
 c.	Partner is unable to meet the requirements for its respective Partner Level for more than a month.  
 
-8.5.	In the event of termination of the Partnership Agreement:  
+8.3.	**Breach**. 
+In case a party breaches any of its obligations in this Agreement, the non-defaulting party has the right to unilaterally terminate the Agreement with 1 months’ notice to the defaulting party.  
+
+8.4.	**Termination Consequences**. 
+In the event of termination of the Partnership Agreement:  
 
 a.	Partner shall within 1 /one/ month from date of termination, return to VENDOR all advertising materials, software products, technical literature, and other materials and information provided to you in connection with the fulfillment of your obligations, if any.  
 
 b.	Partner shall refrain from promoting and offering the Services to Customers, from representing itself as a Partner of VENDOR, and shall immediately discontinue its use of VENDOR’s logo.  
 
-8.6.	In case of termination of the Partnership Agreement between a Reseller and VENDOR:  
+8.5.	**Termination Consequences regarding Resellers**. 
+In case of termination of the Partnership Agreement between a Reseller and VENDOR:  
 
 a.	 VENDOR shall within a period of 2 /two/ weeks present a person/entity (meaning another reseller, representative of VENDOR or VENDOR itself) that will substitute Reseller on all concluded Sales between the latter and Customers by assuming all obligations of the Reseller on these Sales. 
 Reseller is obliged to perform any necessary legal or other actions to ensure this assumption of obligations is performed.  
@@ -185,18 +206,21 @@ Confidential information shall also include any information and documentation wh
 
 12.1.	Each party may collect and process personal data related to the other party's employees and/or customers when relevant to the performance of the obligations in these Terms and the Partnership Agreement.  
 
-12.2.	Each party acknowledges that it acts as an administrator with respect to the collection and processing of such personal data. For this reason, each party undertakes to comply with all requirements and regulations of this matter.  
+12.2.	Each party acknowledges that it acts as an administrator with respect to the collection and processing of such personal data. 
+For this reason, each party undertakes to comply with all requirements and regulations of this matter.  
 
 12.3.	Partners are obliged to inform Customers and secure their consent for VENDOR to act as a processing subcontractor in relation to the personal data administered by Customer.  
 
-**13.	CORRESPONDENCE**  
+12.4.	The parties undertake to implement appropriate technical and organizational measures to protect personal data from accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.  
+
+13.	**CORRESPONDENCE**  
 
 13.1.	All notices and communications to VENDOR shall be sent only in writing at the addresses, included on the www.erp.net page. 
 All notices and communications to the Partner shall be sent to the addresses you have filled in the application form.  
 
 13.2.	The written form shall also be deemed to have been fulfilled when the communication is made by electronic mail or other technical means which exclude the possibility of inaccurate reproduction of the statement.  
 
-**14.	ADDITIONAL TERMS**  
+14.	**ADDITIONAL TERMS**  
 
 14.1.	The nullity of any of the provisions of these Terms does not lead to the nullity of another provision or of the Terms as a whole.  
 
