@@ -51,10 +51,10 @@ Some quick tips:
 * Download: [pdf] 
 * Download: [docx]
 
+[pdf2](PravilaGS1-V6.pdf)
 [docx2](test.docx)
 
 [pdf]: <https://ErpNetDocs.github.io/info/blob/main/information/logos/PravilaGS1-V6.pdf>
-
 [docx]: <https://github.com/ErpNetDocs/info/blob/main/information/logos/test.docx>
 
 
