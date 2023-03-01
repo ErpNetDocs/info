@@ -2502,6 +2502,18 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "information/logos/files/test.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/logos/files/test.html",
+          "hash": "LoNbTSVWSqeZ90+1AAVbOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "log_codes": [
         "InvalidFileLink"
       ],
@@ -2510,7 +2522,7 @@
       "output": {
         ".html": {
           "relative_path": "information/logos/index.html",
-          "hash": "QqwIf+mBX3Vnu+AVsgcw8w=="
+          "hash": "TDmgmoT810/rzL4ZeUE4Xg=="
         }
       },
       "is_incremental": false,
