@@ -48,18 +48,11 @@ Some quick tips:
 * [Powered by ERP.net_Logo_Horizontal_White_2.0x.png](Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png)
 
 ## test
-* Download: [pdf] 
-* Download: [docx]
+<a id="raw-url" href="https://github.com/ErpNetDocs/info/raw/main/information/logos/test2.pdf">Download pdf</a> 
 
-[pdf2](PravilaGS1-V6.pdf)
+<a id="raw-url" href="https://github.com/ErpNetDocs/info/raw/main/information/logos/test.docx">Download docx</a> 
 
-[docx2](test.docx)
 
-[pdf3](files/PravilaGS1-V6.pdf)
 
-[docx3](files/test.docx)
-
-[pdf]: <https://ErpNetDocs.github.io/info/blob/main/information/logos/PravilaGS1-V6.pdf>
-[docx]: <https://github.com/ErpNetDocs/info/blob/main/information/logos/test.docx>
 
 
