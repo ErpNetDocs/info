@@ -48,5 +48,5 @@ Some quick tips:
 * [Powered by ERP.net_Logo_Horizontal_White_2.0x.png](Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png)
 
 ## test
- [pdf](PravilaGS1-V6.pdf) 
- [docx](test.docx) 
+* [pdf](PravilaGS1-V6.pdf) 
+* [docx](test.docx) 
