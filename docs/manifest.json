@@ -2502,12 +2502,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "information/logos/index.md",
       "output": {
         ".html": {
           "relative_path": "information/logos/index.html",
-          "hash": "m4mUOjIRyDKGALFRi+lWIw=="
+          "hash": "QqwIf+mBX3Vnu+AVsgcw8w=="
         }
       },
       "is_incremental": false,
