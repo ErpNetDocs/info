@@ -2139,7 +2139,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "343dlZRJLcaKGEk7Id9vmw=="
+          "hash": "WHCSJcg/CYGqsMibR19d9w=="
         }
       },
       "is_incremental": false,
@@ -2514,15 +2514,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/logos/index.md",
       "output": {
         ".html": {
           "relative_path": "information/logos/index.html",
-          "hash": "TDmgmoT810/rzL4ZeUE4Xg=="
+          "hash": "6MB7a51EoNJ4b46rct8qmw=="
         }
       },
       "is_incremental": false,
