@@ -27,3 +27,6 @@ When the merchandisers perform a invetory check and record the existing store av
 @@name looks into the minimum and maximum quantity for the specific product and customer and suggest a new order quantity. 
 This ensurers that stores will keep selling our products without delivery delays.
 
+## See What You Can Do with Merchandizing
+
+[![Merchandizing Video](https://user-images.githubusercontent.com/106669250/222432839-71324e66-96dd-4a8b-aa62-f44f2fd2fe98.jpg)](https://www.youtube.com/watch?v=cnZG5upKA2I "ERP.net Merchandizing Video")
