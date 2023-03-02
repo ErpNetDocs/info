@@ -6,3 +6,7 @@ To view the details of our partnership program, refer to the topics below:
 
 * [Requirements and Benefits](partner-program-requirements-and-benefits.md)  
 * [Terms and Conditions](partner-program-terms-and-conditions.md)  
+
+You can apply for becoming a part of our partner network by following the steps through this topic:  
+
+* [Apply for Partnership](apply-for-a-partner.md)  
