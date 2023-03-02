@@ -26,3 +26,7 @@ Inspired heavily by social networks, it is integrated into the platform to be ut
 The chat is a powerful and convenient tool which helps you keep a timely comunication with customers a click away. 
 
 For more information, see the [Chatter component](xref:chatter).
+
+## See What You Can Do with Client Center
+
+[![Client Center Video](https://user-images.githubusercontent.com/106669250/222434380-8c40cdc7-1e28-4aa1-a1c9-3c714def2d0b.jpg)](https://www.youtube.com/watch?v=mbWfbsQ_Glk "ERP.net Client Center Video")
