@@ -1063,7 +1063,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/client-center.html",
-          "hash": "5JIN6AKTLNuxki85UEW31g=="
+          "hash": "yDZnL+qrGlRnmbFdPWh1Zw=="
         }
       },
       "is_incremental": false,
@@ -1171,7 +1171,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/merchandising.html",
-          "hash": "moS2g7NR/1NHqXmGXLyMEA=="
+          "hash": "QDE9N028ZXEpIyyqaLyjHw=="
         }
       },
       "is_incremental": false,
@@ -2503,18 +2503,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "information/logos/files/test.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/logos/files/test.html",
-          "hash": "LoNbTSVWSqeZ90+1AAVbOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "information/logos/index.md",
       "output": {
         ".html": {
@@ -2705,6 +2693,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "partners/apply-for-a-partner.md",
+      "output": {
+        ".html": {
+          "relative_path": "partners/apply-for-a-partner.html",
+          "hash": "WdmU67bfEFsvRScOz8b7Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "partners/index.md",
       "output": {
         ".html": {
@@ -2721,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "partners/partner-program-requirements-and-benefits.html",
-          "hash": "OkYnnWHfGx+6sQpv6M4ABw=="
+          "hash": "qRC4qZWgvcLolSyoIZhZ6w=="
         }
       },
       "is_incremental": false,
@@ -2733,7 +2733,7 @@
       "output": {
         ".html": {
           "relative_path": "partners/partner-program-terms-and-conditions.html",
-          "hash": "poW0hYUmhGWmPsIvYEEG8Q=="
+          "hash": "keDjViAjuW8pTHhFVzNX1A=="
         }
       },
       "is_incremental": false,
@@ -2745,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "partners/toc.html",
-          "hash": "fO2gH7vEkJGKS/VdZn5Adw=="
+          "hash": "AYEL4TbBa6ATnCE9bYhQHQ=="
         }
       },
       "is_incremental": false,
