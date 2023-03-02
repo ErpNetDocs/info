@@ -1,7 +1,7 @@
 # Overview
 
 Your business can benefit in multiple ways from becoming a member of our partner network. 
-Our new partner program provides **three levels of partnerships**:  
+Our partner program provides **three levels of partnerships**:  
 
 * Express Partner
 * Silver Partner
