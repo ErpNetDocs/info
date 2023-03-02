@@ -74,7 +74,7 @@ We do not assume any responsibility in regard to fulfilment of your obligations 
 
 5.5.	**Terms of Sales of Resellers**. 
 In order to conclude Sales, Resellers must use VENDOR’s template Subscription Order, available on the following link: ... .  
-Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: ... .  
+Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: https://erp.net/pricing/ .  
 In case we change the template or pricing, we will notify you by email.  
 
 5.6.	**Reporting**. 
@@ -100,7 +100,7 @@ We will inform you, if you have been requested as a Solution Partner by a Custom
 You may either accept or reject this request in 10 days’ time from receiving notice from us.  
 
 6.2.	**Obligations**. 
-If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: ... .  
+If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: https://support.erp.net/ .  
 
 6.3.	**Commission**. 
 You are not allowed to charge the Customer for this service. 
@@ -215,7 +215,7 @@ For this reason, each party undertakes to comply with all requirements and regul
 
 13.	**CORRESPONDENCE**  
 
-13.1.	All notices and communications to VENDOR shall be sent only in writing at the addresses, included on the www.erp.net page. 
+13.1.	All notices and communications to VENDOR shall be sent only in writing at the addresses, included on the https://erp.net/ page. 
 All notices and communications to the Partner shall be sent to the addresses you have filled in the application form.  
 
 13.2.	The written form shall also be deemed to have been fulfilled when the communication is made by electronic mail or other technical means which exclude the possibility of inaccurate reproduction of the statement.  
@@ -226,4 +226,4 @@ All notices and communications to the Partner shall be sent to the addresses you
 
 14.2.	VENDOR and Partner shall resolve any disputes arising out of the interpretation and performance of the Partnership Agreement by means of understanding and mutual concessions, and where this is not possible, shall submit the dispute to the competent Bulgarian court in Sofia, where Bulgarian law shall be applicable.  
 
-These Terms enter into force on [date].  
+These Terms enter into force on 2023-March-01.  
