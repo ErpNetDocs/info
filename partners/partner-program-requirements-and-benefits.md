@@ -39,7 +39,7 @@ It will help you **onboard our partnership program**, get familiar with **@@name
 
 ## Silver Partner
 
-After successfully meeting the requirements for Express for one year, you will be offered the opportunity to **progress to a Silver partner**. 
+After successfully meeting the requirements for Express for one year, you may be offered the opportunity to **progress to a Silver partner**. 
 
 ### Requirements for Silver
 
@@ -68,7 +68,7 @@ After successfully meeting the requirements for Express for one year, you will b
 
 ## Gold Partner
 
-Successfully meeting the requirements for Silver for three sequential years makes you eligible to **become a Gold partner**. 
+Successfully meeting the requirements for Silver for three sequential years allows you to apply for a **Gold partner**. 
 
 ### Requirements for Gold
 
