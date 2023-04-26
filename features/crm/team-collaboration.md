@@ -15,8 +15,7 @@ The platform supports your teams in day to day communication and aids them in pu
 
 Businesses of various sectors nowadays face many social and communicational challenges:  
 
-* Organizing a common environment for direct, universal communication 
-* Establishing a single channel for using the shared environment 
+* Organizing a common environment for direct, universal communication in a single channel
 * Implementing a sustainable solution for task distribution, event management, and file sharing 
 * Accurately recreating the physical teams, activities, and interaction in this environment 
 * Sorting out and finding relevant information entered by members in a quick and easy way 
@@ -71,3 +70,14 @@ Many businesses now rely on **remote** and **hybrid work models** to obtain flex
 
 Positive work culture and well-working teams give people in your company a **sense of connection and purpose**. 
 Such qualities can naturally boost overall performance.  
+
+## Try Team collaboration now
+
+You can try **Social Groups** immediately without any registration necessary. 
+Check out the links below.  
+
+> **[Team Collaboration in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=calendar)**  
+
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
+
+![Team-Collaboration-Thumbnail](https://user-images.githubusercontent.com/106669250/234641681-b65802bc-f5a5-408a-8bfd-c8401bd83556.png)
