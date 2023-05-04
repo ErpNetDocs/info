@@ -37,7 +37,7 @@ Checking a to do as completed is **a single-tap action**.
 > To Dos are usually given just some hints and small pieces of data to remind you of a pending duty.  
 > As they function **as a neat personal reminder**, they are usually **kept assigned to their owner**.  
 
-## Opportunities To Do Offers You
+## Opportunities To Do brings to you
 
 Sometimes, a small or insignificant problem can slip out of your workflows and cause some trouble later. 
 @@name's new app **targets exactly those issues and jobs** to be **noticed and addressed properly and timely**.  
@@ -49,7 +49,7 @@ Reminders feature a **detailed form** containing more properties, such as due da
 
 ![to-do-5](https://user-images.githubusercontent.com/106669250/206742715-76493b66-3f46-47be-8f5b-9568e227aa52.jpg)
 
-## Utilizing @@name's To Do App
+## Utilizing @@name's To Do app
 
 **To Do**s substitute sticky notes and paper notepads. 
 This enables your office to **deal away** with having to sort and store pieces of paper until completion and discard them afterwards.  
@@ -68,18 +68,18 @@ The new app makes use of the platform's extensive capabilities:
 > **To Do** is **available in all subscription plans** of @@name.  
 > The app **remains always available to your business** regardless of the plan you initially choose or later switch to.  
 
-## The Bottom Line 
+## The bottom line 
 
 **To Do** solves problems that are inappropriate to be marked, addressed, and tracked elsewhere. 
 It provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
 
-## See and Try To Dos in Action
+## See and try To Dos in action
 
 You can try **To Do** immediately without any registration necessary. 
 Check out the links below.  
 
 > **[To Do in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
-![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)
+[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)  
