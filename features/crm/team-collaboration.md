@@ -13,6 +13,8 @@ Companies increasingly identify success as the result of teams that work well to
 Incorporating **@@name's collaboration tools** into your organization enables you to build a foundation for a **socially oriented work model**. 
 The platform supports your teams in day to day communication and aids them in pursuing shared objectives. 
 
+## Express CRM solution to bring everyone together
+
 Businesses of various sectors nowadays face many social and communicational challenges:  
 
 * Organizing a common environment for direct, universal communication in a single channel
@@ -57,6 +59,10 @@ Social Groups include various integrated features:
 Groups place you in the center of action, letting you know about all current tasks and events the moment they are planned. 
 Team collaboration of @@name helps you never miss out on important details and events.  
 
+> [!TIP]
+> Calendar events and files belonging to a social group are visible inside it for every member of that group. 
+> People who are added as participants in group calendar events also see those in their personal calendars.
+
 ## Team collaboration in modern business
 
 Increasing competition, rising customer expectations, and uncertain economic environments can all challenge a company. 
@@ -65,7 +71,7 @@ Meeting these requirements calls for companies to look for ways to combine indiv
 Manually unifying the invidiual efforts of team members often consumes valuable time and resources. 
 **@@name's Team collaboration** module transfers this job from people to your system, letting you and your teams engage in more useful activities.  
 
-Many businesses now rely on **remote** and **hybrid work models** to obtain flexibility, attract more professionals, and expand their coverage.  
+Many businesses now rely on **remote** and **hybrid work models** to obtain flexibility, attract more professionals, and expand their coverage. 
 **@@name's Social Groups** can help you in fostering a culture of **social belonging** and **team participation**.  
 
 Positive work culture and well-working teams give people in your company a **sense of connection and purpose**. 
@@ -78,6 +84,6 @@ Check out the links below.
 
 > **[Team Collaboration in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=calendar)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
-![Team-Collaboration-Thumbnail](https://user-images.githubusercontent.com/106669250/234641681-b65802bc-f5a5-408a-8bfd-c8401bd83556.png)
+[![Team-Collaboration-Thumbnail](https://user-images.githubusercontent.com/106669250/234641681-b65802bc-f5a5-408a-8bfd-c8401bd83556.png)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=calendar)  
