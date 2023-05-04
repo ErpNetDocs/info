@@ -80,6 +80,6 @@ Check out the links below.
 
 > **[To Do in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
-[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)
+[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)  
