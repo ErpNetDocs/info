@@ -13,7 +13,7 @@ Companies increasingly identify success as the result of teams that work well to
 Incorporating **@@name's collaboration tools** into your organization enables you to build a foundation for a **socially oriented work model**. 
 The platform supports your teams in day to day communication and aids them in pursuing shared objectives. 
 
-## Express CRM solution to bring everyone together
+## Express CRM solution connects everyone
 
 Businesses of various sectors nowadays face many social and communicational challenges:  
 
