@@ -6,6 +6,8 @@
   href: composite-products.md
 - name: Shipment
   href: shipment.md
+- name: Inventory Control
+  href: inventory-control.md  
 - name: Logistic Units
   href: logistic-units.md  
 - name: Lot Tracking
