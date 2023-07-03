@@ -1704,6 +1704,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/logistics/inventory-control.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/inventory-control.html",
+          "hash": "T0wMqQ94mBNQFVkdA9No/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/logistics/logistic-units.md",
       "output": {
         ".html": {
@@ -1983,7 +1995,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "9dRpvfMf++rIEKgYpCiLSA=="
+          "hash": "8hxKBFpZjhrNj8DJtFVInA=="
         }
       },
       "is_incremental": false,
