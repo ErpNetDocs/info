@@ -15,7 +15,7 @@ The basic actions associated with the inventory of your store may be relatively 
 
 Retail stores and other simplified storage spaces go through three basic processes with their stock:  
 
-* **Receiving goods** from suppliers or from another stores 
+* **Receiving goods** from suppliers or from other stores 
 * **Issuing goods** that are sold to customers or moved to another store 
 * **Counting stock** in the storage area and on the shelves  
 
@@ -27,8 +27,8 @@ Implementing a solution that helps with menial operations is a way to achieve th
 
 **Inventory Control** streamlines these processes and lets your team focus on **serving your customers** and **consulting them on their needs**. 
 
-In result, your crew is able to direct their efforts at **increasing the quality of your services**. 
-The proper solution supporting your store is an investment which immediately starts to pay off, as keeping your customers happy and loyal drives in more sales for your retail business.   
+As a result, your crew is able to direct their efforts at **increasing the quality of your services**. 
+The proper solution supporting your store is an investment that immediately starts to pay off, as keeping your customers happy and loyal drives more sales to your retail business.   
 
 ## Boost your performance with Inventory Control
 
@@ -50,7 +50,7 @@ To fully live to its purpose, it is built to run extensively on mobile devices.
 **By rapid scanning of series of barcodes**, your store employees can accelerate the tedious process of manual data entry. 
 Even more, they can turn each step of line entry into **a split-second, single-button click** for whole stacks of products.  
 
-**Inventory Control** allows scanning of not only product barcodes, but also barcodes containing the quantity of the next product scanned. 
+**Inventory Control** allows scanning of not only product barcodes but also barcodes containing the quantity of the next product scanned. 
 Bringing up the built-in report of frequently used quantities allows you to view and print barcodes that represent these.  
 
 Use quantity barcodes to speed up your work tremendously - **print them** and **stick them conveniently** in your work area (on a wall, rack, or desk) where you process goods.  
@@ -59,11 +59,11 @@ Use quantity barcodes to speed up your work tremendously - **print them** and **
 > 
 > When your store receives, sells, or counts 100 chocolates or 50 packs of coffee all at once, your staff needs to scan just 2 barcodes.
 > 
-> Just scan the appropriate quantity barcode (50 or 100) and the app will load and apply this quantity for your next scanned product. 
+> Just scan the appropriate quantity barcode (50 or 100) and the app will load and apply this quantity to your next scanned product. 
 > Then, scan the product - and you are done.  
 
 This way your employees can carry out operations faster than ever and minimize the possibilities of manually made errors, all at the same time. 
-This applies for **all operations supported** by the app.  
+This applies to **all operations supported** by the app.  
 
 ## Designed to your needs
 
