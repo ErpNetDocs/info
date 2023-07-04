@@ -16,7 +16,7 @@ The basic actions associated with the inventory of your store may be relatively 
 Retail stores and other simplified storage spaces go through three basic processes with their stock:  
 
 * **Receiving goods** from suppliers or from other stores 
-* **Issuing goods** that are sold to customers or moved to another store 
+* **Issuing goods** that are sold to customers or moved to other stores 
 * **Counting stock** in the storage area and on the shelves  
 
 These processes are an essential part of your shop or retail business. 
