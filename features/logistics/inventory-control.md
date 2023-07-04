@@ -7,7 +7,7 @@ Many businesses operating small or uncomplicated storage spaces run **simple dai
 Shops and retail stores, functioning as standalone stores or retail chains, are examples of places that perform **basic storage manipulations**. 
 These are usually **replenishing stocks**, **counting available articles**, and **issuing sold products** from the inventory.  
 
-**@@name** brings the **Inventory Control** mobile app - the solution enabling you and your staff to execute all these regular operations in your platform **quickly and efficiently**.  
+Introduced in v.2024, **@@name** brings the **Inventory Control** mobile app - the solution enabling you and your staff to execute all these regular operations in your platform **quickly and efficiently**.  
 
 ## Running a more productive store
 
