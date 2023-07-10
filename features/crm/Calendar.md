@@ -7,7 +7,9 @@ Calendars are well-known and widespread tools used for event management purposes
 
 ## User-Friendly Interface
 
-@@name Calendar's visual design incorporates a **user-friendly interface** that helps you quickly and easily **navigate, view, and manage your business's appointments** throughout the full set of events. 
+@@name Calendar's visual design incorporates a **user-friendly interface** that helps you quickly and easily **navigate, view, and manage your business's appointments** throughout the full set of events.  
+
+![calendar-and-tasks-transformed](https://github.com/k1kolev/info/assets/106669250/63ca0293-14e4-4b60-bbdf-e51323ded612)
 
 You can see **all appointments** in one place for a more general view of your company's engagements and commitments. 
 Alternatively, you can easily adjust **filters** based on **various criteria** for the appointments in your Calendar.  
