@@ -17,9 +17,12 @@ The subsequent documents in the chain are usually automatically created, but can
 
 This feature can be especially useful for financials.
 Suppose you are investigating some financial statement.
-You open a @Finance.Accounting.AccountingVouchers.
-From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order.
+You open a @Finance.Accounting.AccountingVouchers:  
+
+![Document-chains-accounting-vaucher-2023-07-11](https://github.com/k1kolev/info/assets/106669250/ba0dde01-b6a7-4d0d-a21a-f8a2fd95157c)
+
+From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order.  
 
 The saved navigation data helps you quickly spot the originating document:  
 
-![2023-07-11-document-chains](https://github.com/k1kolev/info/assets/106669250/5a5bb677-f814-4e52-a601-9ef51fe67604)
+![Document-chains-purchase-order-2023-07-11](https://github.com/k1kolev/info/assets/106669250/de3f0980-35cd-4e0d-98d0-89e534b0cba5)
