@@ -20,4 +20,6 @@ Suppose you are investigating some financial statement.
 You open a @Finance.Accounting.AccountingVouchers.
 From there you traverse up the document chain and consequently find Store Transaction, Receiving Order and finally the Purchase Order.
 
-The saved navigation data helps you quickly spot the originating document.
+The saved navigation data helps you quickly spot the originating document:  
+
+![2023-07-11-document-chains](https://github.com/k1kolev/info/assets/106669250/5a5bb677-f814-4e52-a601-9ef51fe67604)
