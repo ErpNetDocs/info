@@ -305,6 +305,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/general/stored-attributes.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/general/stored-attributes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/integrations/WebView.png",
       "output": {
         "resource": {
