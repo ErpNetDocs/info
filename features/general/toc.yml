@@ -12,8 +12,8 @@
   href: document-chain.md
 - name: Business Intelligence
   href: business-intelligence.md
-- name: Custom Attributes
-  href: custom-attributes.md
+- name: Stored Attributes
+  href: stored-attributes.md
 - name: Calculated Attributes
   href: calculated-attributes.md
 - name: File Manager
