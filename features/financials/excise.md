@@ -67,6 +67,13 @@ Your business can benefit from this in multiple ways:
 * **Reduce the risk of error drastically** using already present records for new documents
 * **Reduce time and resource consumption** by automating menial tasks in creating and finalizing reports for exporting  
 
+The built-in reporting capabilities of @@name's Excise Management module make it extremely easy for your business to report to excise tax authorities.  
+
+**Excise Management in @@name** gives you an opportunity to share the complete excise data reports with regulatory institutions via an integrated, secure legislative web app. 
+By granting excise tax institutions access to this web app, authorities are able to visit it as a website and export the excise reports they require from your company in a single step.  
+
+This reduces your efforts on data exchange and greatly eases off communication with the respective authorities in your region.  
+
 Utilizing the **Excise Management module in @@name** helps your company **stay competitive and trouble-free** when managing and selling your alcohol products in a **confident, cost-effective way**.  
 
 ## Documentation and Reporting
