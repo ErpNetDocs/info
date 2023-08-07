@@ -85,21 +85,21 @@ Database servers:
 * Top of the line, data center grade, specialized frequency optimized CPU.
 These usually cost around 10 times more per core than regular CPUs.
 * 32 GB RAM per core.
-* Optane SSD drives for caching and temp db.
-* NVMe SSDs for databases.
-* 2 x 100 Gbit network to stand-by server.
-* 4 x 10 Gbit network connection to application servers.
+* Specialized memory-class SSD drives for caching and temp db.
+* Top of the line SSDs for databases.
+* 100 Gbit network connections to backup and hot-stand-by server.
+* 25 Gbit network connection to application servers.
 
 Application servers:
 
 * Enterprise grade general-purpose CPU for application processing.
-* 4 GB RAM per application core.
+* 8 GB (up from 4 until 2023) RAM per application core.
 * SSDs for storage.
-* 2 x 10 Gbit/s network connection
+* 25 Gbit network connections
 
 Network components:
 
-* Enterprise grade Cisco routers, switches and firewalls.
+* Enterprise grade routers, switches, firewalls, etc.
 
 ### What database size to expect?
 
