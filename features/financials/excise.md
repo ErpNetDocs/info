@@ -2,7 +2,7 @@
 
 ## Overview
 
-The production and distribution of alcohol products is an **exciting and lucrative market**. 
+The production and distribution of alcohol products is an **exciting and dynamic market**. 
 As a specialized industry, it comes with many distinct challenges.  
 
 Aside from the various challenges typically met in the production and distribution sectors, companies dealing with alcohol products face **branch-specific challenges**. 
