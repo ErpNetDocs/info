@@ -1,4 +1,4 @@
-# Run - UI Function
+# Run UI Function
 
 ## Overview
 
