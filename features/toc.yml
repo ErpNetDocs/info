@@ -5,6 +5,9 @@
 - name: General
   href: general/toc.yml
   topicHref: general/index.md
+- name: UI and UX
+  href: ui-ux-features/toc.yml
+  topicHref: ui-ux-features/index.md  
 - name: CRM
   href: crm/toc.yml
   topicHref: crm/index.md
