@@ -1578,7 +1578,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "LTMJU7Txg602HewjM461DQ=="
+          "hash": "CdWH7pu0NOaVVRxEi29fJw=="
         }
       },
       "is_incremental": false,
@@ -1816,7 +1816,7 @@
       "output": {
         ".html": {
           "relative_path": "features/my-apps/team-collaboration.html",
-          "hash": "VIon0rqlciD+uz4nvw8rwQ=="
+          "hash": "CUC8f1tpPGPaywi4w2wqlQ=="
         }
       },
       "is_incremental": false,
@@ -1828,22 +1828,7 @@
       "output": {
         ".html": {
           "relative_path": "features/my-apps/tiles.html",
-          "hash": "hAhN6ydimW7w/pCm0rN39Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "features/my-apps/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "features/my-apps/toc.html",
-          "hash": "Dr+ib/I9neFcn33jM76MyQ=="
+          "hash": "R/y0aUSrLrtaoCDSkZbJ4w=="
         }
       },
       "is_incremental": false,
@@ -1855,7 +1840,7 @@
       "output": {
         ".html": {
           "relative_path": "features/my-apps/todo.html",
-          "hash": "hvYx42LO6/8FXBbd1bQeUg=="
+          "hash": "iGVnwSxB0WEYgs3f2r3prg=="
         }
       },
       "is_incremental": false,
@@ -2017,12 +2002,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "rSUCgfdGZAfpk1/7fVy06Q=="
+          "hash": "g36wlnBizf3TLw89B3rEbw=="
         }
       },
       "is_incremental": false,
