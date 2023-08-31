@@ -15,4 +15,3 @@ Get to know your @@name platform's UI and UX features and the benefits your busi
 ## Common UI and UX Features
 
 * **[Run UI Function](run-ui-function.md)**
-* **[Tiles](tiles.md)**  
