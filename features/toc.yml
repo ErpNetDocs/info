@@ -8,6 +8,9 @@
 - name: UI and UX
   href: ui-ux-features/toc.yml
   topicHref: ui-ux-features/index.md  
+- name: My Apps
+  href: my-apps/toc.yml
+  topicHref: my-apps/index.md  
 - name: CRM
   href: crm/toc.yml
   topicHref: crm/index.md
