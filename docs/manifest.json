@@ -1578,7 +1578,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "CdWH7pu0NOaVVRxEi29fJw=="
+          "hash": "InbwNGT1pvoDkfRfHupl3Q=="
         }
       },
       "is_incremental": false,
@@ -1812,6 +1812,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/my-apps/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/index.html",
+          "hash": "vPR5l1TQbgjfddjAw5O0VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/my-apps/team-collaboration.md",
       "output": {
         ".html": {
@@ -2002,15 +2014,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "g36wlnBizf3TLw89B3rEbw=="
+          "hash": "Yylx3wmWCfwTeYV04GEuBg=="
         }
       },
       "is_incremental": false,
