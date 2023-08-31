@@ -1263,30 +1263,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/crm/team-collaboration.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/crm/team-collaboration.html",
-          "hash": "AnmGXRjIyUCX4mjzLRpfZg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/crm/todo.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/crm/todo.html",
-          "hash": "s3+3xwRPNgQPe1bGkwe6ag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/crm/unified-communications.md",
       "output": {
         ".html": {
@@ -1836,6 +1812,57 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/my-apps/team-collaboration.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/team-collaboration.html",
+          "hash": "VIon0rqlciD+uz4nvw8rwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/my-apps/tiles.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/tiles.html",
+          "hash": "hAhN6ydimW7w/pCm0rN39Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "features/my-apps/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/toc.html",
+          "hash": "Dr+ib/I9neFcn33jM76MyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/my-apps/todo.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/todo.html",
+          "hash": "hvYx42LO6/8FXBbd1bQeUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/production/crp.md",
       "output": {
         ".html": {
@@ -1995,7 +2022,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "wxj3PotnIEu+lYlYN7LXlw=="
+          "hash": "rSUCgfdGZAfpk1/7fVy06Q=="
         }
       },
       "is_incremental": false,
@@ -2007,7 +2034,7 @@
       "output": {
         ".html": {
           "relative_path": "features/ui-ux-features/index.html",
-          "hash": "CPim0IkjoHZtYqTxlQ9Kkg=="
+          "hash": "14yc6stw2LdOV5XRxG46jA=="
         }
       },
       "is_incremental": false,
@@ -2020,18 +2047,6 @@
         ".html": {
           "relative_path": "features/ui-ux-features/run-ui-function.html",
           "hash": "F4ndWSDdQosaHGQwcVuKuA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/ui-ux-features/tiles.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/ui-ux-features/tiles.html",
-          "hash": "NvAnnhrYm5FLkddMYbw63Q=="
         }
       },
       "is_incremental": false,
