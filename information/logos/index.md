@@ -47,12 +47,3 @@ Some quick tips:
 * [Powered by ERP.net_Logo_Vertical_White_2.0x.png](Powered_by_ERP.net_Logo_Vertical_White_2.0x.png)
 * [Powered by ERP.net_Logo_Horizontal_White_2.0x.png](Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png)
 
-## test
-<a id="raw-url" href="https://github.com/ErpNetDocs/info/raw/main/information/logos/test2.pdf">Download pdf</a> 
-
-<a id="raw-url" href="https://github.com/ErpNetDocs/info/raw/main/information/logos/test.docx">Download docx</a> 
-
-
-
-
-
