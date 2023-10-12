@@ -50,4 +50,3 @@ Check out the **[Key features](~/solutions/wholesale-distribution/key-features-f
 * Powermark (Bulgaria)
 * Stama Co (Bulgaria)
 * Tanand (Bulgaria)
-* Förch Bulgaria (Bulgaria)
