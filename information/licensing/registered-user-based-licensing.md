@@ -4,7 +4,7 @@
 
 **Registered User-Based Licensing** takes into account **the number of active users**, specified by your business, for using the **@@name platform**.  
 
-Instances of **@@name Express** editions are licensed under the **Registered User-Based** licensing.  
+For example, instances of **@@name Express** editions are licensed under the **Registered User-Based** licensing.  
 
 ## License terms
 
