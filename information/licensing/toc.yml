@@ -1,5 +1,7 @@
 - name: Overview
   href: index.md
+- name: Registered User-Based Licensing
+  href: registered-user-based-licensing.md
 - name: Concurrent Sessions-Based Licensing
   href: concurrent-sessions-based-licensing.md
 - name: Core licensing
