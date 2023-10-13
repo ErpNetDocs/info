@@ -1578,7 +1578,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "InbwNGT1pvoDkfRfHupl3Q=="
+          "hash": "83XeeZgNi0abgjJj6S7meg=="
         }
       },
       "is_incremental": false,
@@ -2223,7 +2223,7 @@
       "output": {
         ".html": {
           "relative_path": "information/licensing/concurrent-sessions-based-licensing.html",
-          "hash": "o80MU4bg55cz9Vb76d2Hcg=="
+          "hash": "B2pHK0OLXusAkfBw0jKuhg=="
         }
       },
       "is_incremental": false,
@@ -2247,7 +2247,19 @@
       "output": {
         ".html": {
           "relative_path": "information/licensing/index.html",
-          "hash": "IQ22Xe5uMLsPKRLy32hgGw=="
+          "hash": "NPyb0tYRq3gZNb6+noFP9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/registered-user-based-licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/registered-user-based-licensing.html",
+          "hash": "D64TWG4CWtG930Ll7IFOkg=="
         }
       },
       "is_incremental": false,
@@ -2674,7 +2686,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "1WDc+oZHvtaMA4BiHjKQxA=="
+          "hash": "6d74xqMmlWTFNLIsG6D8Nw=="
         }
       },
       "is_incremental": false,
