@@ -47,7 +47,7 @@ If your @@name instance exceeds this number of concurrent sessions and still doe
 
 For your business this means **you** and **your team** can have **as many active and unactive users and devices** configured to use your @@name instance as you like, even if the full number of users and devices exceeds the maximum allowed number of concurrent sessions in your personal subscription plan.  
 
-As long as the **maximum number of concurrent sessions** that are running between your **applications and web clients**, on one hand, and the **@@name system instance**, one the other, **at the same time**, does not exceed the **maximum allowed number of concurrent sessions** for your plan, your stakeholders can use the platform fully functionally without any licensing obstacles. 
+As long as the **maximum number of concurrent sessions** that are running between your **applications and web clients**, on one hand, and the **@@name system instance**, on the other, **at the same time**, does not exceed the **maximum allowed number of concurrent sessions** for your plan, your stakeholders can use the platform fully functionally without any licensing obstacles. 
 
 > [!note]  
 > The full number of devices that are configured to access or have previously accessed the system, as well as the full number of users that are granted rights for accessing your @@name instance are not limited by any manner regarding your license.
