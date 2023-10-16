@@ -26,7 +26,7 @@ After reaching the **permitted number of active users** for your subscription, a
 
 ### Per-user sessions
 
-@@name editions that are licensed on a registered user basis allow all of your registered users to use the @@name platform simultaneously, as long as everyone is accessing the platform via a single session.  
+@@name editions that are licensed on a registered user basis allow all of your active registered users to use the @@name platform simultaneously, as long as everyone is accessing the platform via a single session.  
 
 A single session is brought up and active when a user is accessing @@name platform via either:  
 
@@ -41,7 +41,7 @@ Accessing **@@name platform** by the same user via multiple desktop clients, bro
 This is a multi-session access.  
 
 > [!NOTE]  
-> Multi-session access is available for your users on the condition that the total number of active sessions at a time does not exceed the total number of registered users.
+> Multi-session access is available for your users on the condition that the total number of active sessions at a time does not exceed the total number of registered users whose accounts are set to be active.
 
 ### Learn more about single and multiple sessions
 
