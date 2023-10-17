@@ -2,7 +2,8 @@
 
 ## Overview
 
-Nowadays everyone comes across an immense variety of activities throughout their work day. 
+Nowadays everyone comes across an immense variety of activities throughout their work day.  
+
 Based on the role we take in our comapny, we do so much:  
 
 * **Operative Activities** - engaging with tasks, entering and finding information, preparing documentation  
