@@ -21,11 +21,11 @@ This is the horizontally oriented logo of ERP.net in its full contents.
 
 ## ERP.net Arrow-Style Logo Mark
 
-* [Logo - Arrow.svg](Logo - Arrow.svg)
-* [Logo - Arrow.png](Logo - Arrow.png)
-* [Logo - Arrow-with-Background-White.png](Logo - Arrow-with-Background-White.png)
-* [Logo - Arrow-with-Background-Black.png](Logo - Arrow-with-Background-Black.png
-* [Logo - Arrow-with-Background-Brand-Blue.png](Logo - Arrow-with-Background-Brand-Blue.png)
+* [Logo-Arrow.svg](Logo-Arrow.svg)
+* [Logo-Arrow.png](Logo-Arrow.png)
+* [Logo-Arrow-with-Background-White.png](Logo-Arrow-with-Background-White.png)
+* [Logo-Arrow-with-Background-Black.png](Logo-Arrow-with-Background-Black.png)
+* [Logo-Arrow-with-Background-Brand-Blue.png](Logo-Arrow-with-Background-Brand-Blue.png)
 
 
 ## Powered by ERP.net
