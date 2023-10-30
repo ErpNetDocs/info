@@ -657,6 +657,61 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo-Arrow-with-Background-Black.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo-Arrow-with-Background-Black.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo-Arrow-with-Background-Brand-Blue.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo-Arrow-with-Background-Brand-Blue.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo-Arrow-with-Background-White.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo-Arrow-with-Background-White.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo-Arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo-Arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo-Arrow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo-Arrow.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_Blue.svg",
       "output": {
         "resource": {
@@ -1743,7 +1798,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "UTTutGUO7gKPMMIIg5FriA=="
+          "hash": "MBsr0sLgjzOgitFvj70z6Q=="
         }
       },
       "is_incremental": false,
