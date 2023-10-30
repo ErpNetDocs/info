@@ -360,6 +360,72 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-01-Color-with-Background.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-01-Color-with-Background.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-01-Color.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-01-Color.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-01-Color.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-01-Color.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2-with-Background.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2-with-Background.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_Blue.svg",
       "output": {
         "resource": {
@@ -529,6 +595,61 @@
       "output": {
         "resource": {
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_White_2.0x.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo - Arrow-with-Background-Black.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo - Arrow-with-Background-Black.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo - Arrow-with-Background-Brand-Blue.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo - Arrow-with-Background-Brand-Blue.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo - Arrow-with-Background-White.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo - Arrow-with-Background-White.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo - Arrow.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo - Arrow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/Logo - Arrow.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/Logo - Arrow.svg"
         }
       },
       "is_incremental": false,
@@ -793,6 +914,50 @@
       "output": {
         "resource": {
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_White_2.0x.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_Blue.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_Blue.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_White.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_White.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_Blue.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_Blue.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_White.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_White.svg"
         }
       },
       "is_incremental": false,
@@ -1578,7 +1743,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "jpp6xWwVZdm91vIDLhdNOA=="
+          "hash": "UTTutGUO7gKPMMIIg5FriA=="
         }
       },
       "is_incremental": false,
@@ -2389,10 +2554,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Logo - Arrow-with-Background-Black.png",
+      "source_relative_path": "information/logos/Logo-Arrow-with-Background-Black.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Logo - Arrow-with-Background-Black.png"
+          "relative_path": "information/logos/Logo-Arrow-with-Background-Black.png"
         }
       },
       "is_incremental": false,
@@ -2400,10 +2565,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Logo - Arrow-with-Background-Brand-Blue.png",
+      "source_relative_path": "information/logos/Logo-Arrow-with-Background-Brand-Blue.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Logo - Arrow-with-Background-Brand-Blue.png"
+          "relative_path": "information/logos/Logo-Arrow-with-Background-Brand-Blue.png"
         }
       },
       "is_incremental": false,
@@ -2411,10 +2576,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Logo - Arrow-with-Background-White.png",
+      "source_relative_path": "information/logos/Logo-Arrow-with-Background-White.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Logo - Arrow-with-Background-White.png"
+          "relative_path": "information/logos/Logo-Arrow-with-Background-White.png"
         }
       },
       "is_incremental": false,
@@ -2422,10 +2587,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Logo - Arrow.png",
+      "source_relative_path": "information/logos/Logo-Arrow.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Logo - Arrow.png"
+          "relative_path": "information/logos/Logo-Arrow.png"
         }
       },
       "is_incremental": false,
@@ -2433,10 +2598,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Logo - Arrow.svg",
+      "source_relative_path": "information/logos/Logo-Arrow.svg",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Logo - Arrow.svg"
+          "relative_path": "information/logos/Logo-Arrow.svg"
         }
       },
       "is_incremental": false,
@@ -2580,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "information/logos/index.html",
-          "hash": "s7ttpZPP9b9wscGDFom8fg=="
+          "hash": "U31LVFaWG/Gg8rCO/y+duA=="
         }
       },
       "is_incremental": false,
