@@ -1,28 +1,48 @@
 # Overview
 
 Your business can benefit in multiple ways from becoming a member of our partner network. 
-Our partner program provides **three levels of partnerships**:  
+Our partner program provides several levels of partnerships, depending on the level of your commitment with our products and services.
 
+The levels are:
+
+* Affiliate
 * Express Partner
 * Silver Partner
 * Gold Partner
 
 Each level provides its own **benefits** and comes with its own **requirements**.  
 
+## Affiliate
+
+This is the lowest level of partnership.
+It is designated for partners, which conduct businesses, unrelated to our products, but might provide links/leads/opportunities for our software products.
+
+### Requirements
+
+* None
+* Partner fee: Free
+
+### Benefits
+
+* Referral
+  * Lead (referal links, cold contacts): 3-5% of the license revenue for the first year (depending of the level of commitment)
+  * Opportunity (direct contact with decision maker): 5-10% of the license revenue for the first year (depending on the level of commitment)
+
 ## Express Partner
 
 This is the starting level which you can apply for. 
 It will help you **onboard our partnership program**, get familiar with **@@name platform**, and start enjoying **new market opportunities**.  
 
-### Requirements for Express
+### Requirements
 
 * 1 Tech specialist - Express
 * 1 new project / year
 * Use @@name Express for internal teams
 * Partner fee / month: EUR 55 (billed annually)
 
-### Benefits of Express
+### Benefits
 
+* All from Affiliate
 * Technical & sales guidance
 * Internal chat for Express partners
 * Internal use licenses
@@ -31,17 +51,15 @@ It will help you **onboard our partnership program**, get familiar with **@@name
 * Support incidents
   * 200 EUR allowance / year
   * Discount: 20%
-* Referral
-  * 20% for Express / first year
 * Customer support commission
-  * 15% for Express edition
+  * 8% of the license revenue
 * Marketing opportunity for Express clients
 
 ## Silver Partner
 
 After successfully meeting the requirements for Express for one year, you may be offered the opportunity to **progress to a Silver partner**. 
 
-### Requirements for Silver
+### Requirements
 
 * 1 Certified Tech specialist
 * 1 new project / year
@@ -50,7 +68,7 @@ After successfully meeting the requirements for Express for one year, you may be
 * 1 year partnership
 * Partner fee / month: EUR 194 (billed annually)
 
-### Benefits of Silver
+### Benefits
 
 * All from EXPRESS
 * Internal chat for ERP partners
@@ -60,9 +78,6 @@ After successfully meeting the requirements for Express for one year, you may be
 * Support incidents
   * 800 EUR allowance / year
   * Discount: 30%
-* Customer support commission
-  * 15% Express edition
-  * 8% all other editions
 * Test + Demo + Model instances
 * Marketing opportunity for Small Business clients
 
@@ -70,7 +85,7 @@ After successfully meeting the requirements for Express for one year, you may be
 
 Successfully meeting the requirements for Silver for three sequential years allows you to apply for a **Gold partner**. 
 
-### Requirements for Gold
+### Requirements
 
 * 1 Certified Sales specialist
 * 4 Certified Tech specialists
@@ -82,7 +97,7 @@ Successfully meeting the requirements for Silver for three sequential years allo
 * 3 consecutive years partnership
 * Partner fee / month: EUR 316 (billed annually)
 
-### Benefits of Gold
+### Benefits
 
 * All from SILVER
 * Internal use licenses
@@ -91,9 +106,8 @@ Successfully meeting the requirements for Silver for three sequential years allo
 * Support incidents
   * 2000 EUR allowance / year
   * Discount: 50%
-* Reseller agreement
-  * 20% Express edition
-  * 12% all other editions
+* Reseller agreement (optional)
+  * 4% of license revenue
 * Priority for medium/large opportunities
 
 # Definitions
