@@ -30,7 +30,7 @@ It is designated for partners, which conduct businesses, unrelated to our produc
 
 ## Express Partner
 
-This is the starting level which you can apply for. 
+This is the starting level for Solution partnership with us. 
 It will help you **onboard our partnership program**, get familiar with **@@name platform**, and start enjoying **new market opportunities**.  
 
 ### Requirements
