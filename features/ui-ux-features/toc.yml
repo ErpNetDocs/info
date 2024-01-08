@@ -1,5 +1,7 @@
 - name: Overview
   href: index.md
+- name: Chatter
+  href: chatter.md  
 - name: Enter Stops
   href: enter-stop.md
 - name: Run UI Function
