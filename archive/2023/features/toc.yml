@@ -26,6 +26,12 @@
 - name: Applications
   href: applications/toc.yml
   topicHref: applications/index.md
+- name: Community Management
+  href: community/toc.yml
+  topicHref: community/index.md
+- name: Productivity
+  href: productivity/toc.yml
+  topicHref: productivity/index.md
 - name: Integrations
   href: integrations/toc.yml
   topicHref: integrations/index.md
