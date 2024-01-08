@@ -33,37 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "archive/2023/features/community/index.html",
-          "hash": "EJd5pAC3mRklqOeUSMvBNg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "archive/2023/features/community/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "archive/2023/features/community/toc.html",
-          "hash": "+z/jaJ9VwZOe9cbMF4fEsw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Toc",
-      "source_relative_path": "archive/2023/features/integrations/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "archive/2023/features/integrations/toc.html",
-          "hash": "L2wFWml6x7deuNMAlX513w=="
+          "hash": "Sq22RXRHrFne/dIBUT8e+Q=="
         }
       },
       "is_incremental": false,
@@ -75,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "archive/2023/features/productivity/index.html",
-          "hash": "iziA3xbNcy9CgSrn57hefg=="
+          "hash": "ZUbCHnrmJTHkHT9lEaFj+w=="
         }
       },
       "is_incremental": false,
@@ -83,14 +53,15 @@
     },
     {
       "log_codes": [
+        "InvalidTocInclude",
         "InvalidFileLink"
       ],
       "type": "Toc",
-      "source_relative_path": "archive/2023/features/productivity/toc.yml",
+      "source_relative_path": "archive/2023/features/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/features/productivity/toc.html",
-          "hash": "epN9UYJ+Ww1EHN0sYRtkxA=="
+          "relative_path": "archive/2023/features/toc.html",
+          "hash": "ftr3y2E26oZYr1OYaQav5g=="
         }
       },
       "is_incremental": false,
@@ -632,10 +603,65 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/features/integrations/sso-microsoft-entra-id-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/integrations/sso-microsoft-entra-id-login.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/features/productivity/enterstop-lines.png",
       "output": {
         "resource": {
           "relative_path": "docs/features/productivity/enterstop-lines.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/system/stored-attributes.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/system/stored-attributes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/ui-ux-features/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/ui-ux-features/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/ui-ux-features/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/ui-ux-features/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/features/ui-ux-features/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/features/ui-ux-features/enterstop-lines.png"
         }
       },
       "is_incremental": false,
@@ -2010,7 +2036,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "4Ut3hg2XxM7Z2OYILDib1Q=="
+          "hash": "JSd9rlJBQamPwIu6XJ3doA=="
         }
       },
       "is_incremental": false,
@@ -2357,7 +2383,7 @@
       "output": {
         ".html": {
           "relative_path": "features/system/index.html",
-          "hash": "MGbF2xyVWAQLx19VOHbUSA=="
+          "hash": "ZLFtvBLCGDO/ZZwthSyxXw=="
         }
       },
       "is_incremental": false,
@@ -2447,16 +2473,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidTocInclude",
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "y9E3aeJ7Nb2PdLUasoIHJQ=="
+          "hash": "+tgLC0+ykG/3Ij8krj94vw=="
         }
       },
       "is_incremental": false,
