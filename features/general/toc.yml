@@ -2,8 +2,6 @@
   href: index.md
 - name: Multi-company
   href: multi-company.md
-- name: Multi-language
-  href: multi-language.md
 - name: Multi-currency
   href: multi-currency.md
 - name: International Enterprises
@@ -12,9 +10,5 @@
   href: document-chain.md
 - name: Business Intelligence
   href: business-intelligence.md
-- name: Stored Attributes
-  href: stored-attributes.md
-- name: Calculated Attributes
-  href: calculated-attributes.md
 - name: File Manager
   href: file-manager.md

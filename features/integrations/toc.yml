@@ -1,6 +1,4 @@
 - name: Overview
   href: index.md
-- name: Web View
-  href: web-view.md
-- name: Azure AD
-  href: azuread-login.md
+- name: SSO via Entra ID
+  href: sso-microsoft-entra-id-login.md
