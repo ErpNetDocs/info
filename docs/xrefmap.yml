@@ -9,7 +9,7 @@ references:
   href: features/general/business-rules.html
 - uid: chatter
   name: Chatter
-  href: features/community/chatter.html
+  href: features/ui-ux-features/chatter.html
 - uid: client-center
   name: Client Center -  a single platform to engage with customers
   href: features/crm/client-center.html

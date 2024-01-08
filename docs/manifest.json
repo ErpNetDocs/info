@@ -25,6 +25,297 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/features/community/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/community/index.html",
+          "hash": "EJd5pAC3mRklqOeUSMvBNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/community/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/community/toc.html",
+          "hash": "+z/jaJ9VwZOe9cbMF4fEsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/integrations/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/integrations/toc.html",
+          "hash": "L2wFWml6x7deuNMAlX513w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/features/productivity/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/productivity/index.html",
+          "hash": "iziA3xbNcy9CgSrn57hefg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/productivity/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/productivity/toc.html",
+          "hash": "epN9UYJ+Ww1EHN0sYRtkxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/agribusiness/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/agribusiness/index.html",
+          "hash": "U9nyjr6n+iLTAPISa7/8/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/consumer-products/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/consumer-products/index.html",
+          "hash": "Rz4notpvu7scsvVznizgGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/fashion/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/fashion/index.html",
+          "hash": "kVrfi9ysqSQRXld1885ziQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/financial-services/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/financial-services/index.html",
+          "hash": "XUk/sP2gxM6w9nbhjBmZBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/health-and-life-sciences/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/health-and-life-sciences/index.html",
+          "hash": "BlWrWvamWAfp3AQHfXvcGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/high-tech/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/high-tech/index.html",
+          "hash": "fJL5M13tklpob334O1el0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/index.html",
+          "hash": "df39kRPWIKZnn+4fs3b4Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/industrial-machinery-and-components/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/industrial-machinery-and-components/index.html",
+          "hash": "bpRsZvaUl+Fak0QSGXsS0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/industrial-manufacturing/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/industrial-manufacturing/index.html",
+          "hash": "Ta/jB5JnkfRq532Dfuf7QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/professional-services/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/professional-services/index.html",
+          "hash": "saUQxP82dyO9mnKybVtYdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/retail/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/retail/index.html",
+          "hash": "sAGk9NAbbsyo5RjyffBGpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "archive/2023/solutions/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/toc.html",
+          "hash": "ymk4f/SpTxfXtDshkpnjDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/transportation-and-logistics/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/transportation-and-logistics/index.html",
+          "hash": "J8H4LRbh2n/6KjVFtJZB9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/wholesale-distribution/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/index.html",
+          "hash": "C1ECp/yIS2XwZTWMGITaFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/wholesale-distribution/key-features-for-distribution.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/key-features-for-distribution.html",
+          "hash": "9fXYNHeKzntqV/7FtBvivg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
+          "hash": "6jU1oM/iv77/+Yx4WgsX6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/2023/solutions/wholesale-distribution/wholesale-distribution-benefits.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/wholesale-distribution-benefits.html",
+          "hash": "R3IVrTltzUAqFQ0xr/w5kA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "archive/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "archive/index.html",
+          "hash": "0F8rFQC9g2d/Bck+ahY8tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "customers/alexfish-case-study.md",
       "output": {
@@ -37,12 +328,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "customers/customer1.md",
       "output": {
         ".html": {
           "relative_path": "customers/customer1.html",
-          "hash": "/5yTlMEbmqtaUjx8ZB4Biw=="
+          "hash": "3ZU+Xbfjruu2xhG0fV2oVg=="
         }
       },
       "is_incremental": false,
@@ -1088,41 +1382,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/community/chatter.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/community/chatter.html",
-          "hash": "suiUVL1LIHCEiz1gztcMRQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/community/chatter.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/community/chatter.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/community/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/community/index.html",
-          "hash": "eMITmpfU9PhyGV+6sPRO5w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/crm/Calendar.md",
       "output": {
         ".html": {
@@ -1283,7 +1542,7 @@
       "output": {
         ".html": {
           "relative_path": "features/crm/client-center.html",
-          "hash": "yDZnL+qrGlRnmbFdPWh1Zw=="
+          "hash": "YqXIU0cgLxLFO6aCVtPGSA=="
         }
       },
       "is_incremental": false,
@@ -1651,18 +1910,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/calculated-attributes.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/calculated-attributes.html",
-          "hash": "Lv8ZepG3C0EJPuE3yLtLZg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/general/document-chain.md",
       "output": {
         ".html": {
@@ -1723,18 +1970,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/multi-language.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/multi-language.html",
-          "hash": "DZgWav1cRR8zLtnDzUdk+w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/general/multiple-legislations.md",
       "output": {
         ".html": {
@@ -1759,29 +1994,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/stored-attributes.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/stored-attributes.html",
-          "hash": "/D/Nl9IIWS3BTw25QAeJrA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/general/stored-attributes.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/general/stored-attributes.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/highlights.md",
       "output": {
         ".html": {
@@ -1798,41 +2010,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "07h83IZi/yPQX6BKGjwtmQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/integrations/WebView.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/integrations/WebView.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/integrations/azuread-login.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/integrations/azuread-login.html",
-          "hash": "wQq/atmtL4id0W8hXFpCMQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/integrations/azuread-login.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/integrations/azuread-login.png"
+          "hash": "4Ut3hg2XxM7Z2OYILDib1Q=="
         }
       },
       "is_incremental": false,
@@ -1844,7 +2022,7 @@
       "output": {
         ".html": {
           "relative_path": "features/integrations/index.html",
-          "hash": "2MOctyuVuqcXCAXcYK8LOA=="
+          "hash": "hXgONJiyVBckArnA4iJApg=="
         }
       },
       "is_incremental": false,
@@ -1852,11 +2030,22 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/integrations/web-view.md",
+      "source_relative_path": "features/integrations/sso-microsoft-entra-id-login.md",
       "output": {
         ".html": {
-          "relative_path": "features/integrations/web-view.html",
-          "hash": "L8fIXbjFak9c+hw17wHuMQ=="
+          "relative_path": "features/integrations/sso-microsoft-entra-id-login.html",
+          "hash": "9kmhUgBqkZf7e4JovqCsdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/integrations/sso-microsoft-entra-id-login.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/integrations/sso-microsoft-entra-id-login.png"
         }
       },
       "is_incremental": false,
@@ -2152,22 +2341,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/productivity/enter-stop.md",
+      "source_relative_path": "features/system/calculated-attributes.md",
       "output": {
         ".html": {
-          "relative_path": "features/productivity/enter-stop.html",
-          "hash": "sQ/V+MqqU78EveFexXaujA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "features/productivity/enterstop-lines.png",
-      "output": {
-        "resource": {
-          "relative_path": "features/productivity/enterstop-lines.png"
+          "relative_path": "features/system/calculated-attributes.html",
+          "hash": "bpkuc72S8sL3VyI/xoWALg=="
         }
       },
       "is_incremental": false,
@@ -2175,11 +2353,46 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/productivity/index.md",
+      "source_relative_path": "features/system/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/productivity/index.html",
-          "hash": "QBaPyUKCMTg6nNbJzj6AxA=="
+          "relative_path": "features/system/index.html",
+          "hash": "MGbF2xyVWAQLx19VOHbUSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system/multi-language.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system/multi-language.html",
+          "hash": "ag6Cyy7LeuU34NWwnYkbjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/system/stored-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/system/stored-attributes.html",
+          "hash": "ltzDpy/UhzYVUSO+uRsszA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/system/stored-attributes.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/system/stored-attributes.png"
         }
       },
       "is_incremental": false,
@@ -2234,12 +2447,73 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidTocInclude",
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "Yylx3wmWCfwTeYV04GEuBg=="
+          "hash": "y9E3aeJ7Nb2PdLUasoIHJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/ui-ux-features/WebView.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/ui-ux-features/WebView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/chatter.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/chatter.html",
+          "hash": "6AnIOvCf5ks/CQI4+mkW3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/ui-ux-features/chatter.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/ui-ux-features/chatter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/enter-stop.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/enter-stop.html",
+          "hash": "ZLOu9CXPf3CSPCzeK2exvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "features/ui-ux-features/enterstop-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/ui-ux-features/enterstop-lines.png"
         }
       },
       "is_incremental": false,
@@ -2264,6 +2538,18 @@
         ".html": {
           "relative_path": "features/ui-ux-features/run-ui-function.html",
           "hash": "9/x8zzrAps81ZZ1jddjZsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/web-view.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/web-view.html",
+          "hash": "4yyAoe9NRJH+msm0Q+rjhA=="
         }
       },
       "is_incremental": false,
@@ -2306,12 +2592,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "U3yBLxxvt5XQ8FbDeLGSnQ=="
+          "hash": "pH7ogx65F21tNXNFiPdxAw=="
         }
       },
       "is_incremental": false,
@@ -3083,213 +3372,6 @@
         ".html": {
           "relative_path": "partners/toc.html",
           "hash": "AYEL4TbBa6ATnCE9bYhQHQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/agribusiness/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/agribusiness/index.html",
-          "hash": "TNppGyHL0i+BwCfDvLIgyg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/consumer-products/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/consumer-products/index.html",
-          "hash": "gLyY5Z5RtWU2JbTZn2EB0Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/fashion/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/fashion/index.html",
-          "hash": "66prhLAO2AvyIV8xrMt+Og=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/financial-services/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/financial-services/index.html",
-          "hash": "/gxZniZk8Q8w5zW7mCMHOQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/health-and-life-sciences/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/health-and-life-sciences/index.html",
-          "hash": "oUKs54G3cV0JazGMBmfsLg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/high-tech/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/high-tech/index.html",
-          "hash": "6M7/cqZ7OnJKG4n4kAXE3g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/index.html",
-          "hash": "MpPDtgD23JNq1CbJjiwOxg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/industrial-machinery-and-components/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/industrial-machinery-and-components/index.html",
-          "hash": "6yXVGyh4owP4TJV5IkBwmQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/industrial-manufacturing/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/industrial-manufacturing/index.html",
-          "hash": "e0FU0JL6FuTgZxgr9R9uSw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/professional-services/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/professional-services/index.html",
-          "hash": "zZXToUCBzsJlJMqlX6X25w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/retail/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/retail/index.html",
-          "hash": "X0bY8HAv1DpTk3Fab1iXJQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "solutions/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/toc.html",
-          "hash": "ymk4f/SpTxfXtDshkpnjDA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/transportation-and-logistics/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/transportation-and-logistics/index.html",
-          "hash": "Gs1cULbeYPvPPJEEzVVMpQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Conceptual",
-      "source_relative_path": "solutions/wholesale-distribution/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "JQBsP6AYHzzbL1O/MxSp0A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/wholesale-distribution/key-features-for-distribution.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/wholesale-distribution/key-features-for-distribution.html",
-          "hash": "Tf8kvo1CBHOMgtgp6ACUYQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
-          "hash": "lLY0104LYvvY9k9G+mrPnQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "solutions/wholesale-distribution/wholesale-distribution-benefits.md",
-      "output": {
-        ".html": {
-          "relative_path": "solutions/wholesale-distribution/wholesale-distribution-benefits.html",
-          "hash": "Q48JGkR+cgREngfb/mGeFQ=="
         }
       },
       "is_incremental": false,

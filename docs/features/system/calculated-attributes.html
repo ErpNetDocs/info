@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Integrations | ERP.net Information </title>
+    <title>Calculated Attributes | ERP.net Information </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Integrations | ERP.net Information ">
+    <meta name="title" content="Calculated Attributes | ERP.net Information ">
     <meta name="generator" content="docfx 2.56.9.0">
     
     <link rel="shortcut icon" href="../../favicon.ico">
@@ -77,21 +77,124 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="integrations">Integrations</h1>
+<h1 id="calculated-attributes">Calculated Attributes</h1>
 
-<p><strong>ERP.net</strong> provides countless options for <strong>integrations</strong> with <strong>various external apps and software services</strong>.
-The integration capabilities of the platform enable it to support your organization with regards to its custom workflows and specific external applications.</p>
-<p>The <strong>ERP.net system</strong> is capable of <strong>integrating with widely used software products</strong> having specific purposes (such as business intelligence, analytics, communicational, and other types of applications or SaaS services).
-Much in the same manner, ERP.net embraces <strong>integrating custom-made applications</strong> created uniquely for your business.</p>
-<p>This opens even greater opportunities for <strong>tailoring the ERP.net platform to your business model</strong>.
-For those cases when your company happens to have <strong>deeply specific workflows</strong> and <strong>particular necessities</strong> that require exclusive approaches and solutions, the ERP.net system has it all covered.</p>
-<p>ERP.net provides a variety of <strong>built-in integration points</strong>, like <strong><a href="../ui-ux-features/web-view.html">Web View</a></strong>, for example.
-<strong><a class="xref" href="../general/business-rules.html">Business Rules</a></strong> are another mechanisms frequently used to interact with external applications.</p>
-<p>The <strong>integration-friendly</strong> approach of ERP.net help your company in <strong>its operational and executive activities</strong>, as well as <strong>its connections and exchange of information</strong> with other organizations.</p>
-<h2 id="more-information">More Information</h2>
+<p>User Calculated Attributes are user-defined objects, which extend the system entities.
+Calculated attributes are defined like formulas.
+When the value of a calculated attribute is requested, it is calculated &quot;on the fly&quot;, in real time.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Calculated attribute formulas are compiled to native executable format.
+Their calculation speed is very similar to the speed of the system defined calculated attributes.</p>
+</div>
+<h2 id="example---get-default-payment-term-days">Example - Get default payment term days</h2>
+<p>Suppose, that in a Sales Order, we want to display the customers default payment term (in days).
+In the Sales Order, we can define the following Calculated Attribute:</p>
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Operation</th>
+<th>Param1</th>
+<th>Param2</th>
+<th>Param3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>GETREF</td>
+<td>REF:Customer</td>
+<td>ATTRIB:DefaultPaymentTermDays</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Explanation:</p>
 <ul>
-<li><strong><a href="sso-microsoft-entra-id-login.html">Single Sign-On (SSO) via Entra ID</a></strong></li>
+<li>GETREF - gets information from a related entity. The related entity is specified in Param1. The desired information is specified in Param2.</li>
+<li>Line number 10 is the only line in the calculated attribute</li>
+<li>The return value is the value of the attribute DefaultPaymentTermDays in the Customer entity.</li>
 </ul>
+<h2 id="example---complex-filter-and-summation">Example - Complex filter and summation</h2>
+<p>The following calculated attribute sums all sales order lines, whose product:</p>
+<ul>
+<li>has a user data attribute, called &quot;CustPropPrj&quot;, equal to '500'</li>
+<li>has a Name, containing the word 'Tool'</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Operation</th>
+<th>Param1</th>
+<th>Param2</th>
+<th>Param3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>SUM</td>
+<td>EXP:20</td>
+<td>ATTRIB:LineAmount</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>FILTER</td>
+<td>CHILD:Lines</td>
+<td>EXP:30</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>IN</td>
+<td>ATTRIB:Product</td>
+<td>EXP:40</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>FILTER</td>
+<td>QUERY:Gen_Products</td>
+<td>EXP:50</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td>AND</td>
+<td>EXP:60</td>
+<td>EXP:70</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td>EQUALS</td>
+<td>ATTRIB:CustPropPrj</td>
+<td>CONST:500</td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td>LIKE</td>
+<td>ATTRIB:Name</td>
+<td>CONST:'Tool'</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Explanation:</p>
+<ul>
+<li>Line 10: Iterates through the data set, specified on Line 20 (EXP:20), then SUMs the attribute LineAmount.</li>
+<li>Line 20: Filters the Lines subset with the filter, specified in Line 30 (EXP:30).</li>
+<li>Line 30: Creates a filter, which will be satisfied only by products, specified in the query on Line 40 (EXP:40).</li>
+<li>Line 40: Creates a query, which filters the products with the condition, specified on Line 50.</li>
+<li>Line 50: Specifies that the condition is comprised of two conditions, linked with AND.</li>
+<li>Line 60: Specifies that the first condition is the value of an attribute, called CustPropPrj should be 500.</li>
+<li>Line 70: Specifies that the second condition is that the Name of the product should contain 'Tool'.</li>
+</ul>
+<p>This example demonstrates, that Calculated Attributes can calculate very complicated formulas, query the database, get related values, etc.</p>
 </article>
           </div>
           
@@ -100,7 +203,7 @@ For those cases when your company happens to have <strong>deeply specific workfl
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/ErpNetDocs/info/blob/main/features/integrations/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/ErpNetDocs/info/blob/main/features/system/calculated-attributes.md/#L1" class="contribution-link">Improve this Doc</a>
                   </li>
                 </ul>
               </div>
