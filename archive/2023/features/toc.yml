@@ -1,0 +1,43 @@
+- name: Overview
+  href: index.md
+- name: Highlighted Features
+  href: highlights.md
+- name: General
+  href: general/toc.yml
+  topicHref: general/index.md
+- name: UI and UX
+  href: ui-ux-features/toc.yml
+  topicHref: ui-ux-features/index.md  
+- name: My Apps
+  href: my-apps/toc.yml
+  topicHref: my-apps/index.md  
+- name: CRM
+  href: crm/toc.yml
+  topicHref: crm/index.md
+- name: Logistics
+  href: logistics/toc.yml
+  topicHref: logistics/index.md
+- name: Production
+  href: production/toc.yml
+  topicHref: production/index.md
+- name: Financials
+  href: financials/toc.yml
+  topicHref: financials/index.md
+- name: Applications
+  href: applications/toc.yml
+  topicHref: applications/index.md
+- name: Community Management
+  href: community/toc.yml
+  topicHref: community/index.md
+- name: Productivity
+  href: productivity/toc.yml
+  topicHref: productivity/index.md
+- name: Integrations
+  href: integrations/toc.yml
+  topicHref: integrations/index.md
+- name: Third Party Apps
+  href: third-party-apps/toc.yml
+  topicHref: third-party-apps/index.md
+- name: System module
+  href: system/toc.yml
+  topicHref: system/index.md
