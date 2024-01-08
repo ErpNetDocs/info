@@ -14,3 +14,7 @@ For those cases when your company happens to have **deeply specific workflows** 
 
 The **integration-friendly** approach of @@name help your company in **its operational and executive activities**, as well as **its connections and exchange of information** with other organizations.  
 
+## More Information
+
+* **[Single Sign-On (SSO) via Entra ID](sso-microsoft-entra-id-login.md)**
+
