@@ -4,15 +4,15 @@ Welcome to the ERP.net information site!
 
 ## About
 
-ERP.net is a comprehensive cloud ERP platform, accessible from web, desktop and mobile.
+@@name is a comprehensive cloud ERP-CRM platform, accessible from web, desktop, and mobile.
 It can be used to manage multiple legal entities in a single ERP instance, sharing processes and definitions.
 ERP.net tightly integrates a lot of applications and has a unique hybrid integration model, balancing between the all-in-one and best-of-breed approaches.
 
-Use this site to get detailed information about the ERP.net platform - solutions, features, case studies, etc.
-The information is geared towards prospect customers, previewing ERP.net for their ERP implementation plans.
+Use this site to get detailed information about the @@name platform - general information such as features, apps, modules, licensing models, system information, terms and conditions, etc.
+The information is geared towards prospective customers, previewing ERP.net for their ERP implementation plans, as well as existing ones, eager to learn more about newly released modules and apps or upgrades and modernizations of existing functionalities.
 
-ERP.net takes a different approach than most vendors to the ERP selection process.
-The selection of a new ERP is a major decision for any company and such decision requires significant research.
+@@name takes a different approach than most vendors to the ERP selection process.
+The selection of a new ERP is a major decision for any company and such a decision requires significant research.
 Hence, this info site is structured as an academic research site with as little as possible marketing stuff.
 
 ## Features
@@ -21,37 +21,30 @@ The system features are arguably one of the most important factors when selectin
 Use this section to read more about the different modules and features of @@name.
 
 * [Highlighted Features](~/features/highlights.md) - @@name's universal strongpoints applicable throughout the platform's systems.
-* [General](~/features/general/index.md) - General features, applicable to all modules.
-* [CRM](~/features/crm/index.md) - Features related to the CRM (Customer Relationship Management).
-* [Logistics](~/features/logistics/index.md) - Logistics encompasses movement and storage of physical goods.
-* [Production](~/features/production/index.md) - Conversion of raw materials to finished products.
-* [Financials](~/features/financials/index.md) - Company financials management, including regulatory compliance.
-* [Community Management](~/features/community/index.md) - Management of all external relations with customers, fans, partners, suppliers, etc.
-* [Integrations](~/features/integrations/index.md) - Built-in integrations with external services.
-* [Third-party apps](~/features/third-party-apps/index.md) - Third-party apps developed for the @@name platform.
-
-## Solutions & Customers
-
-Use this section to preview our tailor made solutions for the different industries.
-Each industry solution contains general description, highlighted features, customers and case studies.
-
-* [Agribusiness](~/solutions/agribusiness/index.md)
-* [Consumer Products](~/solutions/consumer-products/index.md)
-* [Fashion](~/solutions/fashion/index.md)
-* [Financial Services](~/solutions/financial-services/index.md)
-* [Health and Life Sciences](~/solutions/health-and-life-sciences/index.md)
-* [High Tech](~/solutions/high-tech/index.md)
-* [Industrial Machinery and Components](~/solutions/industrial-machinery-and-components/index.md)
-* [Professional Services](~/solutions/professional-services/index.md)
-* [Retail](~/solutions/retail/index.md)
-* [Transportation and Logistics](~/solutions/transportation-and-logistics/index.md)
-* [Wholesale Distribution](~/solutions/wholesale-distribution/index.md)
+* [General](~/features/general/index.md) - general features, applicable to all modules.
+* [UI and UX](~/features/ui-ux-features/index.md) - universal UI and UX features of the @@name platform for boosting productivity and ease of use.
+* [My Apps](~/features/my-apps/index.md) - @@name app suite for personal productivity and team collaboration.
+* [CRM](~/features/crm/index.md) - features related to the CRM (Customer Relationship Management).
+* [Logistics](~/features/logistics/index.md) - logistics encompasses movement and storage of physical goods.
+* [Production](~/features/production/index.md) - conversion of raw materials to finished products.
+* [Financials](~/features/financials/index.md) - company financials management, including regulatory compliance.
+* [System module](~/features/system/index.md) - the system module containing system settings in general and custom configurations.
+* [Integrations](~/features/integrations/index.md) - built-in integrations with external services.
+* [Third-party apps](~/features/third-party-apps/index.md) - third-party apps developed for the @@name platform.
 
 ## Information
 
 This section contains general information about the platform, hosting, licensing, etc.
 
 * [Try @@name Live Now](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
-* [Licensing](~/information/licensing/index.md) - explaining concurrent sessions, core and other licensing topics.
+* [Licensing](~/information/licensing/index.md) - explaining the licensing models for editions of @@name platform.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
-* [FAQ](~/information/faq/index.md) - Frequently asked questions for the platform, subsystems, integrations, implementation, etc.
+* [FAQ](~/information/faq/index.md) - frequently asked questions for the platform, subsystems, integrations, implementation, etc.
+
+## Legal
+
+Here you will find legal details and topics about the @@name platform.
+
+* [Platform Terms of Use]([url](~/legal/platform-terms-of-use.md) - the terms and conditions for the using @@name platform.
+* [Privacy Statement](~/legal/privacy.md) - our privacy statement regarding who we are and how we process your data.
+* [Educational License](~/legal/educational-license.md) - opportunities for utilizing @@name for educational purposes.
