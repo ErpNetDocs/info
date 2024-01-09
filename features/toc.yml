@@ -26,12 +26,12 @@
 - name: Applications
   href: applications/toc.yml
   topicHref: applications/index.md
+- name: System module
+  href: system/toc.yml
+  topicHref: system/index.md
 - name: Integrations
   href: integrations/toc.yml
   topicHref: integrations/index.md
 - name: Third Party Apps
   href: third-party-apps/toc.yml
   topicHref: third-party-apps/index.md
-- name: System module
-  href: system/toc.yml
-  topicHref: system/index.md
