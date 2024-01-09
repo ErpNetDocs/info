@@ -21,4 +21,7 @@ Get to know your **@@name platform's UI and UX features** and **the benefits you
 
 ## Common UI and UX Features
 
+* **[Chatter](chatter.md)**
+* **[Enter Stops](enter-stop.md)**
 * **[Run UI Function](run-ui-function.md)**
+* **[Web View](web-view.md)**
