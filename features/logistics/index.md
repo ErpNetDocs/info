@@ -28,5 +28,7 @@ In order for the logistics process to be smooth, the system monitors it based on
 ## Features 
 
 * **[Barcode control](barcode-control.md)** - expands the system’s built-in functionality for inventory control
+* **[Composite products](composite-products.md)** - enables operating with products that are composed of precise sets of other products that are treated as a single unit (one complete single product)
+* **[Variable Measurement Ratios](variable-measurement-ratios.md)** - supports product quantities conversions between different measurement units when receiving, processing, or issuing products
 * **[Lot tracking](lot-tracking.md)** - supports lot tracking throughout the supply chain
 * **[Serial Numbers](serial-numbers.md)** - supports serial numbers tracking throughout the supply chain
