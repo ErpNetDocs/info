@@ -4,8 +4,6 @@
   href: barcode-control.md
 - name: Composite Products
   href: composite-products.md
-- name: Shipment
-  href: shipment.md
 - name: Inventory Control
   href: inventory-control.md  
 - name: Logistic Units
@@ -15,7 +13,9 @@
 - name: Projected Available Balance
   href: projected-available-balance.md
 - name: Serial Numbers
-  href: serial-numbers.md 
+  href: serial-numbers.md
+- name: Shipment
+  href: shipment.md
 - name: Variable Measurement Ratios
   href: variable-measurement-ratios.md   
 - name: Warehouse Management
