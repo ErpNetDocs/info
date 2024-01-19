@@ -27,6 +27,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 
 ## @@name Express Plans Comparison
 
+@@name Express edition is available through the following subscription plans:  
+
 |**FEATURE**|**for Teams**|**CRM**|**Pro**|
 |:----|:----|:----|:----|
 |Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
