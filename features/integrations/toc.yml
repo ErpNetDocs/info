@@ -1,4 +1,4 @@
 - name: Overview
   href: index.md
-- name: SSO via Entra ID
+- name: Single Sign-On (SSO) via Entra ID
   href: sso-microsoft-entra-id-login.md
