@@ -13,7 +13,7 @@ Each edition comes with **a specific purpose** and is geared towards **the needs
 All editions of **@@name** are intended to help business users **build a strong foundation for their teamwork**, **enjoy smooth company operations**, **boost productivity**, and **maximize the profit** they get in return for their efforts. 
 This way **@@name** empowers them to overcome the typical and modern challenges in their industry, as well as the unique ones their business faces.  
 
-## @@name Editions and Plans
+## @@name Editions Description
 
 **@@name platform** is available in several editions:  
 
