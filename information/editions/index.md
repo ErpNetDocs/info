@@ -18,7 +18,9 @@ This way **@@name** empowers them to overcome the typical and modern challenges 
 **@@name platform** is available in several editions:  
 
 > [!Note]  
-> Check out each edition in detail by following its link below to find out the plans that can be purchased with this edition.  
+> Each edition of @@name is offered through subscription plans that can be purchased.  
+>
+> Check out each edition in detail by following its link below to find out the plans that can be purchased with this edition, as well as to compare the different plans and what they include.  
 
 ### [@@name Express](express-edition.md)
 
