@@ -2367,6 +2367,42 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/projects/agile-projects.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/agile-projects.html",
+          "hash": "pMHYO97JVtqV3NWaZy9PnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/projects/artificial-intelligence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/artificial-intelligence.html",
+          "hash": "MdocBe6rdWCtfBzUmzJOBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/projects/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/index.html",
+          "hash": "ddD+mWYbt6WL8/K9WPSBpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/system/calculated-attributes.md",
       "output": {
         ".html": {
@@ -2478,7 +2514,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "JEWPeHXupCQwtPYSPCMx3Q=="
+          "hash": "pXHX+xRQQ2RbRdXjTFlp7w=="
         }
       },
       "is_incremental": false,
@@ -2619,7 +2655,55 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "viDn/6PY4TsNza///BmM6g=="
+          "hash": "0hdq1SXwAg+5DFm6p4EQxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions/enterprise-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions/enterprise-edition.html",
+          "hash": "gNouYeUzCu9rnQ0LKMfIZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions/express-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions/express-edition.html",
+          "hash": "Ij9vBd5XCGPFAdgJ1wlxkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions/index.html",
+          "hash": "vWBMfTGNlyMelf+cgRYwVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions/small-business-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions/small-business-edition.html",
+          "hash": "DmBcRVtFLpCupeUF+R5pCQ=="
         }
       },
       "is_incremental": false,
@@ -3242,12 +3326,16 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidTocInclude",
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "information/toc.yml",
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "6d74xqMmlWTFNLIsG6D8Nw=="
+          "hash": "W86EyiXS0VvOXy1Tf2eXTQ=="
         }
       },
       "is_incremental": false,
