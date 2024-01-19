@@ -25,6 +25,8 @@ This ensures your business **scales in a flexible and seamless manner** dependin
 
 ## @@name Enterprise Plans Comparison
 
+**@@name Enterprise** edition is available through the following subscription plans:  
+
 |**FEATURE**|**Standard Select**|**Standard MAX**|
 |:----|:----|:----|
 |Licensing model|**[Compute Capacity](~/information/licensing/core-licensing.md)**|**[Compute Capacity](~/information/licensing/core-licensing.md)**|

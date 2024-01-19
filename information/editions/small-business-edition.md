@@ -30,6 +30,8 @@ From **interacting with customers and suppliers**, to reliably **carrying out in
 
 ## @@name Small Business Plans Comparison
 
+**@@name Small Business** edition is available through the following subscription plans:  
+
 |**FEATURE**|**Basic Service**|**Basic Logistics**|**Advanced**|
 |:----|:----|:----|:----|
 |Licensing model|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|
