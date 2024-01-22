@@ -48,7 +48,7 @@ From **interacting with customers and suppliers**, to reliably **carrying out in
 |AI - Personalized models, AI chat, AI business rules|√| |√|
 |Classic Project Management (beta)|√| |√|
 |Service Management|√| |√|
-|Subcription Management (beta)|√| |√|
+|Subscription Management (beta)|√| |√|
 |Asset Management (beta)| | |√|
 |Fleet Management (beta)| | |√|
 |Lease-out Management (beta)| | |√|
