@@ -65,6 +65,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |ERP Functionality| |✔|✔|
 |Software Delivery Method|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|
 |Dedicated Application Server| |Optional|✔|
+
 |Dedicated Database Server| | |Optional|
 |Company Size|All sizes|Small and Medium Enterprises (SMEs)|Corporations, Holdings, Multi-National Enterprises|
 |Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Usage Capacity](~/information/licensing/core-licensing.md)**|
