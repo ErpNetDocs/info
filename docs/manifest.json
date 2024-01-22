@@ -2655,55 +2655,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "0hdq1SXwAg+5DFm6p4EQxA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "information/editions/enterprise-edition.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/editions/enterprise-edition.html",
-          "hash": "gNouYeUzCu9rnQ0LKMfIZw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "information/editions/express-edition.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/editions/express-edition.html",
-          "hash": "Ij9vBd5XCGPFAdgJ1wlxkQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "information/editions/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/editions/index.html",
-          "hash": "vWBMfTGNlyMelf+cgRYwVA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "information/editions/small-business-edition.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/editions/small-business-edition.html",
-          "hash": "DmBcRVtFLpCupeUF+R5pCQ=="
+          "hash": "l/B9/08jyY8idQwpge29aw=="
         }
       },
       "is_incremental": false,
@@ -2823,7 +2775,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "WHCSJcg/CYGqsMibR19d9w=="
+          "hash": "73sY8nY70ek3clmcEYphZQ=="
         }
       },
       "is_incremental": false,
@@ -3326,16 +3278,27 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "information/testing-purposes/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/testing-purposes/index.html",
+          "hash": "HlqNHAYAYXvO2YzFqAdvXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "log_codes": [
-        "InvalidTocInclude",
-        "InvalidFileLink"
+        "EmptyTocItemName"
       ],
       "type": "Toc",
       "source_relative_path": "information/toc.yml",
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "W86EyiXS0VvOXy1Tf2eXTQ=="
+          "hash": "zWh0ZEPMDvJGb/ITvIcyEg=="
         }
       },
       "is_incremental": false,
