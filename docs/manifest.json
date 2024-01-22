@@ -3290,15 +3290,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "EmptyTocItemName"
-      ],
       "type": "Toc",
       "source_relative_path": "information/toc.yml",
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "SjXjSRKAjrW6s1J1DyNmdA=="
+          "hash": "tVel/sJ7ecrxdBe1+hqcAw=="
         }
       },
       "is_incremental": false,
