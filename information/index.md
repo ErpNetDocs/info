@@ -6,6 +6,8 @@ You can try our business management platform immediately as well, without any pr
 
 * **[Try ERP.net Now](~/information/try-our-system.md)**
 
+* [Testing Purposes](~/information/testing-purposes/index.md) - Test
+
 Read on to explore the core functions of our products and solutions, including:  
 
 * their operation and functioning 
