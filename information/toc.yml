@@ -5,9 +5,6 @@
 - name: Licensing
   href: licensing/toc.yml
   topicHref: licensing/index.md
-- name: Test
-  href: testing-purposes/toc.yml
-  topicHref: testing-purposes/index.md
 - name: System Information
   href: system-information/toc.yml
   topicHref: system-information/index.md
