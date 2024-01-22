@@ -2,12 +2,12 @@
   href: index.md
 - name: Try ERP.net Live Now
   href: try-our-system.md  
-- name: Editions and Plans
-  href: editions-and-plans/toc.yml
-  topicHref: editions-and-plans/index.md
 - name: Licensing
   href: licensing/toc.yml
   topicHref: licensing/index.md
+- name: Test
+- href: testing-purposes/toc.yml
+- topicHref: testing-purposes/index.md
 - name: System Information
   href: system-information/toc.yml
   topicHref: system-information/index.md
