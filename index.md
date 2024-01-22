@@ -37,7 +37,6 @@ Use this section to read more about the different modules and features of @@name
 This section contains general information about the platform, hosting, licensing, etc.
 
 * [Try @@name Live Now](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
-* [Test](~/information/testing-purposes/index.md) - test
 * [Licensing](~/information/licensing/index.md) - explaining the licensing models for editions of @@name platform.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
 * [FAQ](~/information/faq/index.md) - frequently asked questions for the platform, subsystems, integrations, implementation, etc.
