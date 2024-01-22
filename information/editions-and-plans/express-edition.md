@@ -15,7 +15,7 @@ This edition offers **a set of widely used, intuitive business tools**, all inte
 **@@name Express** combines these tools for **personal productivity** and **team collaboration** with the expanded functionality of the built-in **CRM system**, **Agile project management**, and **Artificial Intelligence (AI) module**, working together to **strengthen your teamwork**, **greatly reduce the need for a plurality of specialized external apps**, and **boost your staff's output**.  
 
 > [!TIP]  
-> The **apps and modules packaged in Express** are created to **operate unconstrained by local, national, or any other legal regulations**, making it a **worldwide applicable solution**.  
+> The **apps and modules packaged in Express** are created to **operate unconstrained by local, national, or any other legal regulations**, making Express **a worldwide applicable solution**.  
 
 This makes it the perfect choice for businesses that want to **unify and centralize** their **team efforts, CRM processes, contacts and campaigns records, and project management** in **a single place**, controlled via **the same unified user interface**.  
 
@@ -45,7 +45,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |AI - Personalized models, AI chat, AI business rules| | |√|
 |Classic Project Management (beta)| | |√|
 |Service Management| | |√|
-|Subcription Management (beta)| | |√|
+|Subscription Management (beta)| | |√|
 |**PROCESS MANAGEMENT**|**for Teams**|**CRM**|**Pro**|
 |**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|√|√|√|
 |**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |√|
