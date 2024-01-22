@@ -43,7 +43,7 @@ This ensures your business **scales in a flexible and seamless manner** dependin
 |AI - Personalized models, AI chat, AI business rules|(optional)|√|
 |Classic Project Management (beta)|(optional)|√|
 |Service Management|(optional)|√|
-|Subcription Management (beta)|(optional)|√|
+|Subscription Management (beta)|(optional)|√|
 |Asset Management (beta)|(optional)|√|
 |Fleet Management (beta)|(optional)|√|
 |Lease-out Management (beta)|(optional)|√|
