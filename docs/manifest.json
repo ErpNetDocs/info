@@ -679,6 +679,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/information/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/information/index.html",
+          "hash": "SX6UpfgBKPRUsGEdw0ZyQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "docs/information/logos/ERP-net-Logo-01-Color-with-Background.png",
       "output": {
@@ -2655,7 +2670,55 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "l/B9/08jyY8idQwpge29aw=="
+          "hash": "YZHo1gri3fCDnYiT4zYe2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/enterprise-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/enterprise-edition.html",
+          "hash": "pQ/ZRp1u2G4yv52qua7ZRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/express-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/express-edition.html",
+          "hash": "ag7eoWyGWX/J+nQzMoortA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/index.html",
+          "hash": "M2qX9KM8yUfWugvGt1bc3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/small-business-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/small-business-edition.html",
+          "hash": "AGtnJnFdHxlXKAzEQP94Kw=="
         }
       },
       "is_incremental": false,
@@ -2775,7 +2838,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "73sY8nY70ek3clmcEYphZQ=="
+          "hash": "k0yAnpWHWwsiRWLDPt1n4w=="
         }
       },
       "is_incremental": false,
@@ -3278,24 +3341,12 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "information/testing-purposes/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "information/testing-purposes/index.html",
-          "hash": "HlqNHAYAYXvO2YzFqAdvXg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "information/toc.yml",
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "tVel/sJ7ecrxdBe1+hqcAw=="
+          "hash": "VJaa/zLpr1IoHTCKHvY2Cg=="
         }
       },
       "is_incremental": false,
