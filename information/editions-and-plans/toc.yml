@@ -1,8 +1,8 @@
 - name: Overview
   href: index.md
-- name: @@name Express
+- name: ERP.net Express
   href: express-edition.md
-- name: @@name Small Business
+- name: ERP.net Small Business
   href: small-business-edition.md
-- name: @@name Enterprise
+- name: ERP.net Enterprise
   href: enterprise-edition.md
