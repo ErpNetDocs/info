@@ -16,10 +16,8 @@ Explore the following section to learn more about the editions of @@name, the av
 
 ## More Information
 
-Read on to explore the core functions of our products and solutions, including:  
+Explore more topics to learn more about the technical, licensing, and other aspects of the @@name platform:  
 
-* their operation and functioning 
-* the way they are licensed 
-* system requirements 
-* basic features, as well as 
-* answers to more questions you may have in general.  
+* **[Licensing Models](~/information/licensing/index.md)** - Explains the ways @@name platform and its related components are licensed for use. 
+* **[System Information](~/information/system-information/index.md)** - Provides more information on the technical aspects of the @@name platform. 
+* **[Frequently Asked Questions](~/information/faq/index.md)** - Get to know the answers to more questions you may have in general.  
