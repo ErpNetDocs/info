@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nowadays everyone comes across an immense variety of activities throughout their work day.  
+Nowadays everyone comes across an immense variety of activities throughout their workday.  
 
 Based on the role we take in our company, we do so much:  
 
