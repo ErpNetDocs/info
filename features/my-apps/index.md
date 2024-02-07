@@ -18,11 +18,12 @@ However, juggling disparate apps from various vendors, designed for different sy
 
 **@@name** integrates all of your **information**, **processes**, and **interactions** in **a centralized platform**, making their management so easy.  
 
-The same way, **My Apps** in @@name combines **all the necessary apps** in **a single, integrated app suite** capable of covering all your daily activities.  
+**My Apps** is the light, modern app package in **@@name** focused entirely onto **you**. 
+**My Apps** combines **all the necessary digital tools** in **a single, integrated app suite**, intended for boosting your **personal productivity** and ensuring seamless **team collaboration**.  
 
 ## Your App Suite in @@name
 
-* **Dashboard**  
+* **[Dashboard](dashboard.md)**  
 * **[Groups](team-collaboration.md)**  
 * **Calendar**  
 * **[To Do](todo.md)**  
