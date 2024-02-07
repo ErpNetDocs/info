@@ -2262,11 +2262,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/my-apps/dashboard.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/dashboard.html",
+          "hash": "w1OfgE266Axo2MGo1x1AUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/my-apps/index.md",
       "output": {
         ".html": {
           "relative_path": "features/my-apps/index.html",
-          "hash": "N2xfIAkcGQvv0L9fQYJNnA=="
+          "hash": "kb0U6Z9sNrjcc8fmPJZM5g=="
         }
       },
       "is_incremental": false,
@@ -2302,7 +2314,7 @@
       "output": {
         ".html": {
           "relative_path": "features/my-apps/todo.html",
-          "hash": "iGVnwSxB0WEYgs3f2r3prg=="
+          "hash": "k3fmOf00/R1WCo5yhjA/cQ=="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2541,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "pXHX+xRQQ2RbRdXjTFlp7w=="
+          "hash": "s2Iehu3kTEpYEEqAkeSb2g=="
         }
       },
       "is_incremental": false,
