@@ -23,10 +23,10 @@ However, juggling disparate apps from various vendors, designed for different sy
 
 ## Your App Suite in @@name
 
-* **[Dashboard](dashboard.md)**  
-* **[Groups](team-collaboration.md)**  
-* **Calendar**  
-* **[To Do](todo.md)**  
-* **Timeline**  
-* **[Tiles](tiles.md)**  
-* **Favorites**  
+* **[Dashboard](dashboard.md)** - your homeplace to start your day with ease and get an at-a-glimpse view of your most interesting events, records, and so many more. 
+* **[Groups](team-collaboration.md)** - the means to break down silos between your teams and employees through an integrated and team-shared chat, calendar, to do lists, files, and others. 
+* **Calendar** - summarizing your personal engagement across appointments, meetings, and other events. 
+* **[To Do](todo.md)** - your personal reminders to make sure nothing ever has the slightest chance to slip through your fingers. 
+* **Timeline** - showing what new has been going on recently involving you and your company, visually mapping out how those events unfold in a set timeframe with regards to each other. 
+* **[Tiles](tiles.md)** - offering an opportunity to create and save various views of different sections of your data that can be accessed and switched between in a single tap. 
+* **Favorites** - bringing together all the people, companies, documents, and items that you find interesting, keeping them in a one-touch reach.  
