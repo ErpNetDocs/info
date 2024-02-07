@@ -39,7 +39,7 @@ Checking a to do as completed is **a single-tap action**.
 
 ## Opportunities To Do brings to you
 
-Sometimes, a small or insignificant problem can slip out of your workflows and cause some trouble later. 
+Sometimes, a small or seemingly insignificant thing can slip through your workflow and create more work for you later. 
 @@name's new app **targets exactly those issues and jobs** to be **noticed and addressed properly and timely**.  
 
 **To Do** excels in **speed** and **simplicity**. 
@@ -70,8 +70,8 @@ The new app makes use of the platform's extensive capabilities:
 
 ## The bottom line 
 
-**To Do** solves problems that are inappropriate to be marked, addressed, and tracked elsewhere. 
-It provides all means to distinguish quick duties from the general structure of work processes in the system while still providing **@@name's native connectivity all between**.  
+**To Do** helps you **manage and solve simple issues with ease** that are inappropriate to be marked, addressed, and tracked elsewhere. 
+It provides all means to **distinguish these quick duties** in the general structure of your work processes represented in the system and take care of them while still providing **@@name's native connectivity all between**.  
 
 ## See and try To Dos in action
 
