@@ -4,7 +4,7 @@
 
 Nowadays everyone comes across an immense variety of activities throughout their work day.  
 
-Based on the role we take in our comapny, we do so much:  
+Based on the role we take in our company, we do so much:  
 
 * **Operative Activities** - engaging with tasks, entering and finding information, preparing documentation  
 * **Creative Work** - idea generation, brainstorming, project management, authoring content and shaping product design  
