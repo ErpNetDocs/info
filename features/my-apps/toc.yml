@@ -1,5 +1,7 @@
 - name: Overview  
   href: index.md  
+- name: Dashboard  
+  href: dashboard.md  
 - name: Team Collaboration  
   href: team-collaboration.md  
 - name: To Do  
