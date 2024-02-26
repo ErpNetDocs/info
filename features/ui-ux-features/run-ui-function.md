@@ -52,7 +52,7 @@ Context-dependent actions take into account factors like:
 This helps your business easily get things done like:  
 
 * Create an **opportunity** from a qualified or qualifying **lead** in presales activities
-* **Suggest replenishments** to automatically fill out the order form's lines when **producing goods**, **ordering supplies**, or **transfering materials and products to another store**
+* **Suggest replenishments** to automatically fill out the order form's lines when **producing goods**, **ordering supplies**, or **transferring materials and products to another store**
 * **Change assigned worker** or automatically **suggest warehouse locations** when managing the tasks and items in your warehouse
 
 By connecting **actions** to the **context of your work**, **Run** enables your teams to **carry out otherwise complex tasks with ease and comfort**.  
