@@ -14,7 +14,7 @@ This edition offers a set of widely used, intuitive business tools, all integrat
 
 * Personal and team calendars and To do lists 
 * Group chats with available AI assistants 
-* Shared file management 
+* Personally assigned documents and shared file management
 
 and others.  
 
@@ -92,6 +92,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 * **Personal Calendar**: Stay on top of your schedule with a calendar that pulls in a single place every activity requiring your attendance.
 * **To-Do Tasks**: Manage your small and simple tasks quickly and safely to guarantee nothing is too small to slip away in a busy day.
 * **Timeline**: Check your timeline to see what new events have been going on recently involving you and your company.
+* **Documents**: View and manage all documents that you created and those assigned to you - in your neat, organized personal space.
 * **Tiles**: Create and use various views with different sections of your data that you can access and switch between in a single tap.
 * **Favorites**: Learn what happens with any company, product, campaign, or document flow of interest.
 * **Live Notifications**: Receive real-time updates on chats, favorites, to dos, and other social and business aspects to stay in touch with everyone and everything.
