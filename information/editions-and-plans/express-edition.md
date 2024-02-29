@@ -14,7 +14,7 @@ This edition offers a set of widely used, intuitive business tools, all integrat
 
 * Personal and team calendars and To do lists 
 * Group chats with available AI assistants 
-* Personal documents and shared file management
+* Personally assigned documents and shared file management
 
 and others.  
 
