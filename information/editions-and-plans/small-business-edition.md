@@ -2,17 +2,26 @@
 
 ## Edition Overview
 
-**Small Business** is a **complete, all-around business management solution** in the form of a **fully functional ERP-CRM platform**.  
+**Small Business** is a complete, all-around business management solution in the form of a fully functional ERP-CRM platform.  
 
-Intended for **small to medium enterprises (SMEs)**, **Small Business** delivers the benefits of **all the standard ERP and CRM functionalities** to your company. 
-These come complemented by **business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities**, all running in **real time** in a **centralized software system**.  
+Intended for small to medium enterprises (SMEs), **Small Business** delivers the benefits of **all the standard ERP and CRM functionalities** to your company. 
+These come complemented by **business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities**, all running in real time in a centralized software system.  
 
 ## Functionality and Purpose
 
-The **Small Business edition of @@name** helps your organization **streamline all of its business operations**. 
-Thanks to its **extensive functionality** and **everything-integrated architecture**, this edition is fully capable of covering **all the processes, workflows, and data management actions** taking place at your company.  
+The **Small Business edition of @@name** helps your organization streamline all of its business operations. 
+Thanks to its **extensive functionality** and everything-integrated architecture, this edition is fully capable of covering all the processes, workflows, and data management actions taking place at your company.  
 
-**Small Business** comprises an **immense and growing set of modules, apps, and features** to support your business in every aspect - **contact and lead management**, **presales and sales processes**, **logistic operations and supply chain management**, **manufacturing activities**, **project management**, **accounting and tax reporting**, **financial management and analysis**, and uncountably more business details.  
+**Small Business** comprises an immense and growing set of modules, apps, and features to support your business in every aspect:
+
+* **contact and lead management**
+* **presales and sales processes**
+* **logistic operations and supply chain management**
+* **manufacturing activities**
+* **project management**
+* **accounting and tax reporting**
+* **financial management and analysis**
+* **uncountably more business details** 
 
 ## Application and Benefits for Your Business
 
