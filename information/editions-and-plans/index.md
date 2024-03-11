@@ -31,7 +31,7 @@ The **Express** edition comes with an integrated toolset for **personal producti
 
 ### [@@name Small Business](small-business-edition.md)
 
-**@@name Small Business** edition provides **a fully functional, complete ERP-CRM system** intended to **bring the benefits of ERP and CRM systems to all small to medium enterprises (SMEs)**.  
+**@@name Small Business** edition provides **a fully functional**, complete ERP-CRM system intended to **bring the benefits of ERP and CRM systems** to all small to medium enterprises (SMEs).  
 
 **Small Business** unifies a comprehensive set of modules and apps for supporting all your business operations and strategic decision making - CRM module, logistics and supply chain management (SCM), manufacturing activities, project management, accounting and tax reporting, financial management and analysis, and even more.  
 
