@@ -16,9 +16,9 @@ This edition allows dedicated application and database servers for **hosting the
 
 ## Application and Benefits for Your Business
 
-Designed to support **a corporate-grade business logic** with **the most sophisticated workflows and data processing**, the **Enterprise** edition serves the digital backbone for your business.  
+Designed to support a corporate-grade business logic with **the most sophisticated workflows and data processing**, the **Enterprise edition** serves the digital backbone for your business.  
 
-**@@name Enterprise** allows **an unrestricted number of simultaneously active **active users** and **specific external applications** made specially for your organization.  
+**@@name Enterprise** allows an unrestricted number of simultaneously active **active users** and **specific external applications** made specially for your organization.  
 
 **Enterprise** provides the **computational power and usage capacity purchased with this edition**. 
 This ensures your business **scales in a flexible and seamless manner** depending on the capacity your team and your systems need to operate with cost effectiveness, highly optimized performance, and maximum efficiency.  
