@@ -33,7 +33,7 @@ Thanks to its **extensive functionality** and everything-integrated architecture
 > Your organization retains all the saved workflows, data (such as documents and records), settings, user base, configurations, and everything that the business has achieved and stored so far in your **Express** instance.  
 
 In case your business operates through multiple legal entities, **Small Business** is capable of **integrating all the processes and data** for all your companies into a single instance of your system. 
-This way **@@name** provides **proper process and data management for each legal entity**, while helping you **run all your companies as a single, unified business**, sharing the data throughout under the desired access level and control.  
+This way **@@name** provides **proper process and data management for each legal entity**, while helping you run all your companies as a single, unified business, sharing the data throughout under the desired access level and control.  
 
 From **interacting with customers and suppliers**, to reliably **carrying out internal operations**, to business analysis and strategic decision making for a stable future - **@@name Small Business** completely covers **the full cycle of business activities for everyone and everything**.  
 
