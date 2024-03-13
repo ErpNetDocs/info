@@ -8,6 +8,14 @@ It is meant for businesses that are looking for ways to enhance their teamwork a
 Designed to blend social and technological functionality into one, **Express** is easy to implement into your business and straightforward for your teams to use. 
 These properties power **Express** to be a productivity-driven investment that enables your company to reap swift results in return for minimal efforts on your side.  
 
+## Take a Look at Our Express Overview Video
+
+Check out our **@@name Express** overview video to discover how your business can benefit from our **Express** solution.  
+
+Explore functionalities like personal productivity, team collaboration, and our 360-degree CRM to empower your teams and accelerate success:  
+
+[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/415418f9-99ce-4a69-ab2b-19e0b5a12d19)](https://www.youtube.com/watch?v=L5uqj5QYDNM)  
+
 ## Functionality and Purpose
 
 This edition offers a set of widely used, intuitive business tools, all integrated in a single system:  
