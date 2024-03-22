@@ -16,6 +16,23 @@ Each network component is cross-connected to each host.
 
 The point is, there is no single point of failure.
 
+### What is the platform availability @@name offers?
+
+As a cloud-native, web-based software, the @@name platform offers a world-class hosting and availability.  
+
+In this sense, the monthly availability of the platform always exceeds 99.5 per cent. 
+The rest up to a 100 per cent is most often than not due to rare, short interruptions for system maintenance that go on for a couple of minutes (often done outside normal working hours).
+
+The annual availability of @@name is well above this level, achieving 99.95 per cent and more.  
+
+In the unlikely event that the platform availability goes below the standards we guarantee, users have the option to file requests for compensations.  
+
+> [!Note]  
+> 
+> Clients paying 90 per cent (or more) of their subscription plan's standard price are eligible to claim compensations should they ever experience lower platform availability than the outlined in our terms of use.  
+>
+> Further information about our uptime commitments and eligibility for compensations can be found in our [Platform Terms of Use](~/info/legal/platform-terms-of-use.md).  
+
 ### Is the system monitored at all times?
 
 Yes.
