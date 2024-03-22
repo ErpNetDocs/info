@@ -25,12 +25,10 @@ The rest up to a 100 per cent is most often than not due to rare, short interrup
 
 The annual availability of @@name is well above this level, achieving 99.95 per cent and more.  
 
-In the unlikely event that the platform availability goes below the standards we guarantee, users have the option to file requests for compensations.  
-
 > [!Note]  
-> 
-> Clients paying 90 per cent (or more) of their subscription plan's standard price are eligible to claim compensations should they ever experience lower platform availability than the outlined in our terms of use.  
 >
+> In the unlikely event that the platform availability goes below the standards we guarantee in our terms of use, users are eligible to file requests for compensations.  
+> 
 > Further information about our uptime commitments and eligibility for compensations can be found in our [Platform Terms of Use](~/info/legal/platform-terms-of-use.md).  
 
 ### Is the system monitored at all times?
