@@ -23,7 +23,7 @@ As a cloud-native, web-based software, the @@name platform offers a world-class 
 In this sense, the monthly availability of the platform always exceeds 99.5 per cent. 
 The rest up to a 100 per cent is most often than not due to rare, short interruptions for system maintenance that go on for a couple of minutes (often done outside normal working hours).
 
-The annual availability of @@name is well above this level, achieving 99.95 per cent and more.  
+The annual availability of @@name is well above these levels, achieving 99.95 per cent and more.  
 
 > [!Note]  
 >
