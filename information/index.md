@@ -6,7 +6,9 @@ In this section you can find fundamental information about @@name.
 
 You can try our business management platform immediately as well, without any prior registration necessary:  
 
-> **[Try ERP.net Now](~/information/try-our-system.md)**
+### [Express CRM and Team Collaboration - Try Live Now](~/information/try-out-erp-net-express-crm.md)
+
+### [Full-Scale ERP Platform ERP.net - Try Live Now](~/information/try-our-system.md)
 
 ## @@name Editions and Subscription Plans
 
