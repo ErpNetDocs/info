@@ -4,7 +4,7 @@
 
 You can try the latest version of **the @@name** Platform - the all-around ERP system supporting your business in every process and aspect on your way to success.  
 
-Test it **right away** without any registration or installation necessary. 
+Test it **right away** without any registration or installation necessary.  
 
 > Visit the following address:  
 
