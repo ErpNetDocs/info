@@ -2773,15 +2773,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/faq/hosting-faq.md",
       "output": {
         ".html": {
           "relative_path": "information/faq/hosting-faq.html",
-          "hash": "1i5fsl+4Qlyb4lunJa6JkA=="
+          "hash": "jtc0ELbeXkfxa6S/6t9cEw=="
         }
       },
       "is_incremental": false,
@@ -3373,7 +3370,19 @@
       "output": {
         ".html": {
           "relative_path": "information/try-our-system.html",
-          "hash": "Jrbb4UciDqxzhYZrrNlGCw=="
+          "hash": "pXNRvpRMW1zBC63e0ds3Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/try-out-erp-net-express-crm.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/try-out-erp-net-express-crm.html",
+          "hash": "IcDgTwxJgeIsqusiKZ2fyQ=="
         }
       },
       "is_incremental": false,
