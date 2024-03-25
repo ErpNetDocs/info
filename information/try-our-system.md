@@ -38,5 +38,6 @@ Our publicly accessible test database, called **TestDB**, lets you experience ex
 
 ## More Information
 
+* **[Try the 360-degree Express CRM and Team Collaboration](~/information/try-out-erp-net-express-crm.md)**
 * **[@@name Instance - Technical Concept](https://docs.erp.net/tech/concepts/erp-instances.html)** 
 * **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)**
