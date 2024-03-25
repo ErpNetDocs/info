@@ -1,14 +1,14 @@
-# Try Out the Full-Scale @@name Platform
+# Try Out Our Express CRM solution
 
 ## Introduction
 
-You can try the latest version of **the @@name** Platform - the all-around ERP system supporting your business in every process and aspect on your way to success.  
+You can try the latest version of **@@name Express** - the flexible, 360-degree CRM and team collaboration system that helps your business strengthen teamwork, improve its customer service, and drive more sales with less time and effort.  
 
 Test it **right away** without any registration or installation necessary.  
 
 > Visit the following address:  
 
-* **[https://testdb.my.erp.net/cl](https://testdb.my.erp.net/cl)**  
+* **[https://express-demo.my.erp.net/cl](https://express-demo.my.erp.net/cl)**  
 
 This will directly open the web client of @@name. 
 A **sign-in screen** will be displayed asking for your credentials.  
@@ -24,11 +24,11 @@ A **sign-in screen** will be displayed asking for your credentials.
 ## Can I Exclusively Try Your Pre-Released Solutions?
 
 You don't have to wait for the new system version to be released to try our new solutions. 
-Our publicly accessible test database, called **TestDB**, lets you experience exclusively and firsthand our brand-new features, functionalities, and modules in @@name.  
+Our publicly accessible CRM test database, called **Express Demo**, lets you experience exclusively and firsthand our brand-new features, functionalities, and modules in the Express edition of @@name.  
 
 > [!Warning]  
 > 
-> In addition to the well-established and stable functionalities and modules, TestDB offers access to **pre-released features and apps**. 
+> In addition to the well-established and stable functionalities and modules, Express Demo offers access to **pre-released features and apps**. 
 > These components are still in design, testing, or other stage of the **developmental process**. 
 > They may generate **warning and error messages**, happen to **not function** as intended, as well as occasionally **crash** without any prior signs.  
 
@@ -38,6 +38,6 @@ Our publicly accessible test database, called **TestDB**, lets you experience ex
 
 ## More Information
 
-* **[Try the 360-degree Express CRM and Team Collaboration](~/information/try-out-erp-net-express-crm.md)**
+* **[Try the full-scale, all-around ERP platform](~/information/try-our-system.md)**
 * **[@@name Instance - Technical Concept](https://docs.erp.net/tech/concepts/erp-instances.html)** 
 * **[@@name Instance - Developer's Documentation](https://docs.erp.net/dev/topics/erp-instances.html)**
