@@ -1,6 +1,8 @@
 - name: Overview
   href: index.md
-- name: Try ERP.net Live Now
+- name: Try Out Express CRM Live Now
+  href: try-out-erp-net-express-crm.md
+- name: Try the full ERP system Now
   href: try-our-system.md
 - name: Editions and Plans
   href: editions-and-plans/toc.yml
