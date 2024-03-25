@@ -34,7 +34,7 @@ Our publicly accessible test database, called **TestDB**, lets you experience ex
 
 > [!Note]  
 > 
-> Our clients always receive the latest **stable version** of the system for their business use. 
+> Our clients always receive the latest **stable version** of the system for their business use.  
 
 ## More Information
 
