@@ -1,8 +1,10 @@
-# Try Out @@name Platform
+# Try Out the Full-Scale @@name Platform
 
 ## Introduction
 
-You can try the latest version of @@name Platform **right away without any registration or installation necessary**. 
+You can try the latest version of **the @@name** Platform - the all-around ERP system supporting your business in every process and aspect on your way to success.  
+
+Test it **right away** without any registration or installation necessary. 
 
 > Visit the following address:  
 
@@ -22,13 +24,13 @@ A **sign-in screen** will be displayed asking for your credentials.
 ## Can I Exclusively Try Your Pre-Released Solutions?
 
 You don't have to wait for the new system version to be released to try our new solutions. 
-Our brand-new features, functionalities, and modules can be **accessed exclusively** in our database for testing purposes, called **TestDB**.  
+Our publicly accessible test database, called **TestDB**, lets you experience exclusively and firsthand our brand-new features, functionalities, and modules in @@name.  
 
 > [!Warning]  
 > 
 > In addition to the well-established and stable functionalities and modules, TestDB offers access to **pre-released features and apps**. 
-> These components are still in **design, testing, or other stage of the developmental process**. 
-> They may generate **warning and error messages**, happen to **not function as intended**, as well as occasionally **crash** without any prior signs.  
+> These components are still in design, testing, or other stage of the **developmental process**. 
+> They may generate **warning and error messages**, happen to **not function** as intended, as well as occasionally **crash** without any prior signs.  
 
 > [!Note]  
 > 
