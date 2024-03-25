@@ -29,7 +29,7 @@ The annual availability of @@name is well above these levels, achieving uptimes 
 >
 > In the unlikely event that the platform availability goes below the standards we guarantee in our terms of use, users are eligible to file requests for compensations.  
 > 
-> Further information about @@name's uptime commitments, eligibility for compensations, and compensation amounts can be found in our [Platform Terms of Use](~/info/legal/platform-terms-of-use.md).  
+> Further information about @@name's uptime commitments, eligibility for compensations, and compensation amounts can be found in our **[Platform Terms of Use](~/legal/platform-terms-of-use.md)**.  
 
 ### Is the system monitored at all times?
 
