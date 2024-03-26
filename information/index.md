@@ -2,19 +2,38 @@
 
 In this section you can find fundamental information about @@name.  
 
-## Try @@name Immediately
+## Try Out @@name Express CRM
 
-You can try our business management platform immediately as well, without any prior registration necessary:  
+Experience **@@name Express** - the ultimate web-based solution that empowers your business with all the necessary functionalities for unrivaled marketing and sales success.  
 
-### [Express CRM and Team Collaboration - Try Live Now](~/information/try-out-erp-net-express-crm.md)
+**Express** is a light edition of the **@@name** platform that blends a 360-degree **CRM system** with apps and modules for personal productivity and excellent teamwork - all in one software.  
 
-### [Full-Scale ERP Platform ERP.net - Try Live Now](~/information/try-our-system.md)
+**Express** is **easy** to get, **fast** to get used to, **simple** to use by everyone, and **efficient** in accelerating your sales closing and business growth.  
+
+Sound interesting? 
+See it in action!  
+
+Check out our all-around Express CRM immediately in your browser, without any prior registration necessary - it's as simple as 1-2-3:  
+
+> **[Express CRM and Team Collaboration - Try Live Now](~/information/try-out-erp-net-express-crm.md)**  
+
+## Try The Full-Featured ERP.net Platform
+
+The @@name platform is a web accessible, all-in-one business management solution that offers a scalable, comprehensive ERP-CRM system to support your business end to end.  
+
+Marketing and sales, logistics and manufacturing, administration and project management, finance and accounting - @@name bridges the gaps between departments and makes your business function as a unified, precise system.  
+
+Want to see how @@name can help your business grow and achieve more with less?  
+
+Try it now in your browser by following these simple instructions:  
+
+> **[Full-Scale ERP Platform ERP.net - Try Live Now](~/information/try-our-system.md)**  
 
 ## @@name Editions and Subscription Plans
 
 Explore the following section to learn more about the editions of @@name, the available subscription plans for each of them, and the included functionality and benefits provided by a specific edition and plan:  
 
-> **[Editions and Plans](~/information/editions-and-plans/index.md)**
+> **[Editions and Plans](~/information/editions-and-plans/index.md)**  
 
 ## More Information
 
