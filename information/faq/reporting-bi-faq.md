@@ -8,4 +8,5 @@ Yes.
 
 ### How to pull data from @@name instance to external BI tool?
 
-External BI tools can pull data locally through the [Table API](xref:the-table-api)
+External BI tools can pull data locally through the [Table API](xref:the-table-api) 
+The Table API is located at /tableapi/odata/ within the API site.
