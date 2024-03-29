@@ -2821,15 +2821,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/faq/reporting-bi-faq.md",
       "output": {
         ".html": {
           "relative_path": "information/faq/reporting-bi-faq.html",
-          "hash": "xaq0k3Xca8kbPJlGzZEVaw=="
+          "hash": "5I2+DynD7tMunNsXWAa5kg=="
         }
       },
       "is_incremental": false,
