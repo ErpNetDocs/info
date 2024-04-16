@@ -1376,6 +1376,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "docs/logo_old.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo_old.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/applications/data-warehouse.md",
       "output": {
@@ -3461,10 +3472,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "logo_old.svg",
+      "source_relative_path": "logo_new.svg",
       "output": {
         "resource": {
-          "relative_path": "logo_old.svg"
+          "relative_path": "logo_new.svg"
         }
       },
       "is_incremental": false,
