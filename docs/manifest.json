@@ -3494,6 +3494,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "logo_new1.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo_new1.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "logo_old.svg",
       "output": {
         "resource": {
