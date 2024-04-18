@@ -1388,6 +1388,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/logo_new1.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo_new1.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo_old.svg",
       "output": {
         "resource": {
@@ -3483,10 +3494,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "logo_new.svg",
+      "source_relative_path": "logo2.svg",
       "output": {
         "resource": {
-          "relative_path": "logo_new.svg"
+          "relative_path": "logo2.svg"
         }
       },
       "is_incremental": false,
@@ -3494,10 +3505,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "logo_new1.svg",
+      "source_relative_path": "logo_new.svg",
       "output": {
         "resource": {
-          "relative_path": "logo_new1.svg"
+          "relative_path": "logo_new.svg"
         }
       },
       "is_incremental": false,
