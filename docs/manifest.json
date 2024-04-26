@@ -1366,6 +1366,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/logo-docs.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo-docs.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo.svg",
       "output": {
         "resource": {
