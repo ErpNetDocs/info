@@ -2,24 +2,22 @@
 
 ## Overview
 
-Oftentimes in today's business environment, we **take on many roles and responsibilities**. 
-Respectively, we **face all kinds of tasks and carry out various actions to accomplish them**. 
-Many experts, managers, and creators are **adept to work in multiple areas, professional fields, and industries**.  
+[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/fb46181a-221c-4a8d-b998-de6abdf7b3ec)](https://www.youtube.com/watch?v=kCCrffJJiC0)  
 
-The comprehensiveness and scope of our work **requires our attention and eye for detail at so many places**. 
+Oftentimes in today's business environment, we take on many roles and responsibilities. 
+Respectively, we face all kinds of tasks and carry out various actions to accomplish them. 
+Many experts, managers, and creators are adept to work in multiple areas, professional fields, and industries.  
+
+The comprehensiveness and scope of our work requires our attention and **eye for detail** at so many places. 
 This can have us **going back and forth**, **navigating through** various modules, apps, and panels of our business software, **searching for** information and continuously **checking for** something.  
 
 What if, instead of dashing rapidly through here and there, we had **a single location that greets us** every time we access our business management platform?  
 
-A **spot that contains everything we need in a simple, yet effective form**, allowing us to **review the things that matter the most**, in a quick look. 
-Something that we can **personalize to suit perfectly to every role we and our team members decide to take** for the projects and assignments we face ahead.  
+A spot that contains everything we need in a simple, yet effective form, allowing us to review the things that **matter the most**, in a quick look. 
+Something that we can **personalize** to suit perfectly to every role we and our team members decide to take for the projects and assignments we face ahead.  
 
 This way we'll always know where to start from. 
-The **@@name platform** has a definite answer to help you with this. 
-
-Meet your **Dashboard**:  
-
-[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/fb46181a-221c-4a8d-b998-de6abdf7b3ec)](https://www.youtube.com/watch?v=kCCrffJJiC0)  
+The **@@name platform** has a definite answer to help you with this.  
 
 ## Dashboard in @@name
 
