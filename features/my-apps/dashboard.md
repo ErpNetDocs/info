@@ -1,8 +1,8 @@
 # Dashboard
 
-## Overview
-
 [![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/fb46181a-221c-4a8d-b998-de6abdf7b3ec)](https://www.youtube.com/watch?v=kCCrffJJiC0)  
+
+## Overview
 
 Oftentimes in today's business environment, we take on many roles and responsibilities. 
 Respectively, we face all kinds of tasks and carry out various actions to accomplish them. 
