@@ -22,7 +22,6 @@ Use this section to read more about the different modules and features of @@name
 
 * [Highlighted Features](~/features/highlights.md) - @@name's universal strongpoints applicable throughout the platform's systems.
 * [General](~/features/general/index.md) - general features, applicable to all modules.
-* [UI and UX](~/features/ui-ux-features/index.md) - universal UI and UX features of the @@name platform for boosting productivity and ease of use.
 * [My Apps](~/features/my-apps/index.md) - @@name app suite for personal productivity and team collaboration.
 * [CRM](~/features/crm/index.md) - features related to the CRM (Customer Relationship Management).
 * [Logistics](~/features/logistics/index.md) - logistics encompasses movement and storage of physical goods.
