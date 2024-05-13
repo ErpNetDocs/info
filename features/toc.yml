@@ -5,9 +5,6 @@
 - name: General
   href: general/toc.yml
   topicHref: general/index.md
-- name: UI and UX
-  href: ui-ux-features/toc.yml
-  topicHref: ui-ux-features/index.md  
 - name: My Apps
   href: my-apps/toc.yml
   topicHref: my-apps/index.md  
