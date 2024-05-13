@@ -20,7 +20,6 @@ This section contains the modules in the @@name platform that are available for 
 
 * **[Highlighted Features](highlights.md)**
 * **[General](~/features/general/index.md)**
-* **[UI and UX](~/features/ui-ux-features/index.md)**
 * **[My Apps](~/features/my-apps/index.md)**
 * **[CRM](~/features/crm/index.md)**
 * **[Logistics](~/features/logistics/index.md)**
