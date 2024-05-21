@@ -54,39 +54,39 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Min users|2|2|2|
 |Max users|1 000|1 000|1 000|
 |**CRM & APPS**|**Team Collaboration**|**CRM**|**Pro**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|√|√|√|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do Tasks, Files|√|√|√|
-|File Manager|√|√|√|
-|**[Contact & Lead Management](~/features/crm/presales.md)**| |√|√|
-|**[Opportunity & Quotation](~/features/crm/presales.md)**| |√|√|
-|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |√|√|
-|Agile Project Management (beta)| | |√|
-|AI - Personalized models, AI chat, AI business rules| | |√|
-|Classic Project Management (beta)| | |√|
-|Service Management| | |√|
-|Subscription Management (beta)| | |√|
+|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✓|✓|✓|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✓|✓|✓|
+|File Manager|✓|✓|✓|
+|**[Contact & Lead Management](~/features/crm/presales.md)**| |✓|✓|
+|**[Opportunity & Quotation](~/features/crm/presales.md)**| |✓|✓|
+|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✓|✓|
+|Agile Project Management (beta)| | |✓|
+|Classic Project Management (beta)| | |✓|
+|Service Management| | |✓|
+|Subscription Management (beta)| | |✓|
+|Basic AI (AI Assistant)|||✓|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
-|**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|√|√|√|
-|**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |√|
-|User-defined Business Rules| | |√|
-|User-defined Jobs| | |√|
+|**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|✓|✓|✓|
+|**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |✓|
+|User-defined Business Rules| | |✓|
+|User-defined Jobs| | |✓|
 |**WEBSITES**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|√|√|√|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |√|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |√|
-|**[Client Center](~/features/crm/client-center.md)**| | |√|
-|Microsoft Sync|(optional)|(optional)|(optional)|
+|Web Client|✓|✓|✓|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✓|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✓|
+|**[Client Center](~/features/crm/client-center.md)**| | |✓|
+|Microsoft Sync|||✓|
 |Number of websites included|1|1|1|
-|Websites Extendable|||√|
+|Websites Extendable|||✓|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|√|√|√|
-|Included Storage|10 GB per user|10 GB per user|10 GB per user|
-|Storage Extendable|√|√|√|
-|Test Instances allowed (billed separately)|√|√|√|
-|Track Changes| | |√|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|(optional)|(optional)|(optional)|
+|Web Client|✓|✓|✓|
+|Included Storage|3 GB per user|3 GB per user|3 GB per user|
+|Storage Extendable|✓|✓|✓|
+|Test Instances allowed (billed separately)|||✓|
+|Track Changes| | |✓|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**||✓|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|
-|PRICE per month - starting from|$19/user|$29/user|$49/user|
+|PRICE per month - starting from|$12/user|$29/user|$49/user|
 |Plan codes|130|150|170|
 
 ## Key functionalities Express brings to your business
@@ -102,6 +102,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 * **Tiles**: Create and use various views with different sections of your data that you can access and switch between in a single tap.
 * **Favorites**: Learn what happens with any company, product, campaign, or document flow of interest.
 * **Live Notifications**: Receive real-time updates on chats, favorites, to dos, and other social and business aspects to stay in touch with everyone and everything.
+* **AI Assistant**: Quickly find answers to your questions, delegate tasks to your personal assistant, and receive insights and summaries right next to your data.  
 
 ### The built-in 360-degree CRM system of @@name
 
