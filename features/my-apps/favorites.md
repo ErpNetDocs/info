@@ -1,5 +1,7 @@
 # Overview
 
+![Favorites app 2024-05-22 170242](https://github.com/lhadzhieva/info/assets/169468131/a1f38a83-4678-4f8c-96a4-97a2d4b9900e)
+
 In today's business environment, data-driven decisions are a must. To make adequate decisions, when you need them, based on information, one of the things you must do is organize your individual space properly. 
 At your workplace, you receive a lot of information from multiple sources. You participate in meetings and a variety of projects, deal with customers, support colleagues when they need, prepare campaigns, etc. 
 Over time you become overwhelmed by a great deal of data, and it is challenging to navigate quickly through an ocean of information and to find easily what you are searching for. 
@@ -16,8 +18,6 @@ The Favorites app enables you to personalize your workflow within the ERP platfo
 * Frequently performed actions
 
 so, you can focus on the most important items and improve your decision–making process.  
-
-**Screenshot**
 
 When you open the My Favorites page you will see all records you have marked as shortcuts with the name of the object of interest.  
 
