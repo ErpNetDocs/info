@@ -25,8 +25,6 @@ so, you can focus on the most important items and improve your decision–making
 
 When you open the My Favorites page you will see all records you have marked as shortcuts with the name of the object of interest.  
 
-**Screenshot**
-
 In the Favorites app page, each item is automatically assigned to a group of objects depending on which navigator it belongs to, for example, Campaigns, Customers, Target groups, Offers, etc. 
 With one click on the shortcut, the system sends you to the page with the corresponding record of the object. Thus, you save time from navigating the platform, reaching detailed information about the item.  
 
@@ -35,22 +33,20 @@ With one click on the shortcut, the system sends you to the page with the corres
 With the never-ending workflow and your expanding list of daily duties, you need to find records in the resource planning platform as easily as possible. 
 ERP.net Favorites app enables you to do that with minimum effort. 
 When you add an object to the Favorites app, it is not confined only to the Favorites page. 
-You can use the application as a widget too, displayed in a specific context of a record form, navigator, or module. 
+You can use the application as a **widget** too, displayed in a specific context of a record form, navigator, or module. 
 ERP.net system automatically visualizes the item as a shortcut in the panel of the particular place.  
 
 > [!Tip]  
 > Favorite objects are not limited to the application page in the ERP.net system. 
 > The system refines them according to the context of the place you are in.  
 
-**Screenshot**
+![Favorites as a widget](https://github.com/lhadzhieva/info/assets/169468131/335e5169-60ba-4b70-a37b-9cbf7af92c2e)
 
 ## Boost team collaboration
 
 As part of a team, you collaborate with colleagues on projects, participate in various activities, share information, and help each other with different tasks. 
 The Favorites app assists not only in adapting the workflow to your style of work but also makes communication between you and your colleagues easier. 
 You can tag colleagues to discuss team goals, add a conversation subject to Favorites, ask for help, or be asked for support when needed, etc.  
-
-**Screenshot**
 
 The tagged person will receive a notification and will have quick access to the record.  
 
@@ -63,3 +59,5 @@ The tagged person will receive a notification and will have quick access to the 
 If you are eager to try the Favorites application without registration!  
 
 **[Try My Favorites Now](https://testdb.my.erp.net/cl/favorites)**
+
+[![Favorites preview](https://github.com/lhadzhieva/info/assets/169468131/e85fe7a3-b2bb-43a8-8c07-6b78c67992b3)](https://testdb.my.erp.net/cl/favorites)
