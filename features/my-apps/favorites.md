@@ -1,9 +1,13 @@
 # Overview
 
+In today's business environment, data-driven decisions are a must. 
+To make adequate decisions, when you need them, based on information, one of the things you must do is organize your individual space properly.  
+
 ![Favorites app 2024-05-22 170242](https://github.com/lhadzhieva/info/assets/169468131/a1f38a83-4678-4f8c-96a4-97a2d4b9900e)
 
-In today's business environment, data-driven decisions are a must. To make adequate decisions, when you need them, based on information, one of the things you must do is organize your individual space properly. 
-At your workplace, you receive a lot of information from multiple sources. You participate in meetings and a variety of projects, deal with customers, support colleagues when they need, prepare campaigns, etc. 
+At your workplace, you receive a lot of information from multiple sources. 
+You participate in meetings and a variety of projects, deal with customers, support colleagues when they need, prepare campaigns, etc.  
+
 Over time you become overwhelmed by a great deal of data, and it is challenging to navigate quickly through an ocean of information and to find easily what you are searching for. 
 Here comes the Favorites app designed to improve your experience within the ERP.net system.  
 
