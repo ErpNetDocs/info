@@ -60,4 +60,4 @@ If you are eager to try the Favorites application without registration!
 
 **[Try My Favorites Now](https://testdb.my.erp.net/cl/favorites)**
 
-[![Favorites preview](https://github.com/lhadzhieva/info/assets/169468131/e85fe7a3-b2bb-43a8-8c07-6b78c67992b3)](https://testdb.my.erp.net/cl/favorites)
+[![Favorites preview](https://github.com/lhadzhieva/info/assets/169468131/e85fe7a3-b2bb-43a8-8c07-6b78c67992b3)](https://testdb.my.erp.net/cl/favorites)  
