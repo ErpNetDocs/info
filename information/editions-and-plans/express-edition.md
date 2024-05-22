@@ -84,7 +84,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Storage Extendable|✓|✓|✓|
 |Test Instances allowed (billed separately)|||✓|
 |Track Changes| | |✓|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**||✓|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|||✓|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|
 |PRICE per month - starting from|$12/user|$29/user|$49/user|
 |Plan codes|130|150|170|
