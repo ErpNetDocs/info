@@ -2,6 +2,8 @@
 
 ## Overview
 
+[![ERP-net-Team-Collaboration-Video](https://github.com/k1kolev/info/assets/106669250/81a03116-18cf-45d3-81cb-878d2ed647c5)](https://www.youtube.com/watch?v=hZqUHhEe_NA&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=7)
+
 Automation and technology continue to lift a lot of manual labor off people. 
 Human activities are mostly shifting to creative and expert work. 
 Modern business increasingly puts the focus on **people** and their **social interactions**. 
