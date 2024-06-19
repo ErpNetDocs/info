@@ -4,7 +4,7 @@
 
 **Enterprise** is the **corporate-level edition of @@name** designed to support large business structures like corporations, holdings, multinational enterprises, and others alike.  
 
-The **Enterprise** edition enables your corporation to utilize a **large-scale** business management platform throughout **one or multiple** owned companies and subsidiaries.  
+The **Enterprise** edition enables your corporation to utilize a **large-scale** business management platform throughout **one or multiple owned** companies and subsidiaries.  
 
 ## Functionality and Purpose
 
