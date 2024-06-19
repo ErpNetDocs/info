@@ -53,7 +53,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |Business app suite|✔|✔|✔|
 |ERP Functionality| |✔|✔|
 |Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Usage Capacity](~/information/licensing/core-licensing.md)**|
-|Description|License grants a number of registered users in your system|License grants a number of simultaneously running user sessions|License grants predominantly an amount of processing capacity|
+|Description|License grants a number of registered users in your system|License grants a number of simultaneously running user sessions|License grants an amount of processing capacity|
 |Plans|Team Collaboration, CRM, Pro|Basic Financials, Basic Logistics, Advanced|Standard, Premium, Corporate|
 |**Hosting**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
 |Software Delivery Method|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|
@@ -62,7 +62,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |Database size included|3 GB per user|10 GB per plan|100 GB per plan|
 |Database maximum size|100 GB|200 GB|Unlimited|
 |Minimum users|2|3|30|
-|Maximum users|1000|35|Unlimited|
+|Maximum users|1000|35|Unlimited (with respect to the purchased capacity)|
 
 ## @@name Editions Description
 
