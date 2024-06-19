@@ -4,15 +4,15 @@
 
 **Enterprise** is the **corporate-level edition of @@name** designed to support large business structures like corporations, holdings, multinational enterprises, and others alike.  
 
-The **Enterprise** edition enables your corporation to utilize a large-scale business management platform throughout one or multiple owned companies and subsidiaries.  
+The **Enterprise** edition enables your corporation to utilize a **large-scale** business management platform throughout **one or multiple** owned companies and subsidiaries.  
 
 ## Functionality and Purpose
 
 To fully commit to your business and its scale, **Enterprise** offers all modules and apps packaged in a **complete, single solution**.  
 
-**@@name Enterprise** is made to be flexible and easy to **extend in terms of usage capacity and computational power** to serve your business under even the toughest of demands and loads during your company's day to day operations.  
+**@@name Enterprise** is made to be flexible and easy to extend in terms of **usage capacity** and **computational power** to serve your business under even the toughest of demands and loads during your company's day to day operations.  
 
-This edition allows dedicated application and database servers for **hosting the @@name instance for your business**.  
+This edition allows **dedicated** application and database servers for hosting the @@name instance for your business.  
 
 ## Application and Benefits for Your Business
 
@@ -21,7 +21,7 @@ Designed to support a corporate-grade business logic with **the most sophisticat
 **@@name Enterprise** allows an unrestricted number of simultaneously active **active users** and **specific external applications** made specially for your organization.  
 
 **Enterprise** provides the computational power and usage capacity purchased with this edition. 
-This ensures your business **scales in a flexible and seamless manner** depending on the capacity your team and your systems need to operate with cost effectiveness, highly optimized performance, and maximum efficiency.  
+This ensures your business scales in a **flexible and seamless manner** depending on the capacity your team and your systems need to operate with cost effectiveness, highly optimized performance, and maximum **efficiency**.  
 
 ## @@name Enterprise Plans Comparison
 
