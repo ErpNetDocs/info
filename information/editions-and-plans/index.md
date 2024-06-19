@@ -21,9 +21,12 @@ All editions of **@@name** are intended to:
 
 This way **@@name** empowers companies to overcome the traditional and modern challenges in every industry, as well as the unique ones their business faces.  
 
-## @@name Editions Description
+## @@name Editions Purposes and Comparison
 
-**@@name platform** is available in several editions:  
+The following table offers an at-a-glance comparison of the different editions of @@name.  
+
+This will help you understand the purpose of each edition, **the functionalities** available with it, and **the benefits** it offers to your business. 
+Use it to orient you toward the **@@name edition** your business will get the most value from as an investment.  
 
 > [!Note]  
 > 
@@ -32,13 +35,6 @@ This way **@@name** empowers companies to overcome the traditional and modern ch
 > Check out each edition in depth by visiting its link to learn more about the plans available for it.
 > 
 > There you can compare the included functionalities and benefits by plan.  
-
-## @@name Editions Purposes and Comparison
-
-The following table offers an at-a-glance comparison of the different editions of @@name.  
-
-This will help you understand the purpose of each edition, **the functionalities** available with it, and **the benefits** it offers to your business. 
-Use it to orient you toward the **@@name edition** your business will get the most value from as an investment.  
 
 |**Business Aspect**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
 |:----|:----|:----|:----|
@@ -67,6 +63,10 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |Database maximum size|100 GB|200 GB|Unlimited|
 |Minimum users|2|3|30|
 |Maximum users|1000|35|Unlimited|
+
+## @@name Editions Description
+
+**@@name platform** is available in several editions:  
 
 ### [@@name Express](express-edition.md)
 
