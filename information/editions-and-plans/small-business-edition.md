@@ -2,31 +2,40 @@
 
 ## Edition Overview
 
-**Small Business** is a **complete, all-around business management solution** in the form of a **fully functional ERP-CRM platform**.  
+**Small Business** is a complete, all-around business management solution in the form of a fully functional **ERP-CRM platform**.  
 
-Intended for **small to medium enterprises (SMEs)**, **Small Business** delivers the benefits of **all the standard ERP and CRM functionalities** to your company. 
-These come complemented by **business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities**, all running in **real time** in a **centralized software system**.  
+Intended for small to medium enterprises (SMEs), **Small Business** delivers the benefits of all the standard **ERP and CRM functionalities** to your company. 
+These come complemented by business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities, all running real-time in a centralized software system.  
 
 ## Functionality and Purpose
 
-The **Small Business edition of @@name** helps your organization **streamline all of its business operations**. 
-Thanks to its **extensive functionality** and **everything-integrated architecture**, this edition is fully capable of covering **all the processes, workflows, and data management actions** taking place at your company.  
+The **Small Business** edition of **@@name** helps your organization streamline all of its business operations. 
+Thanks to its **extensive functionality** and everything-integrated architecture, this edition is fully capable of covering all the processes, workflows, and data management actions taking place at your company.  
 
-**Small Business** comprises an **immense and growing set of modules, apps, and features** to support your business in every aspect - **contact and lead management**, **presales and sales processes**, **logistic operations and supply chain management**, **manufacturing activities**, **project management**, **accounting and tax reporting**, **financial management and analysis**, and uncountably more business details.  
+**Small Business** comprises an immense and growing set of modules, apps, and features to support your business in every aspect:
+
+* **contact and lead management**
+* **presales and sales processes**
+* **logistic operations and supply chain management**
+* **manufacturing activities**
+* **project management**
+* **accounting and tax reporting**
+* **financial management and analysis**
+* **uncountably more business details** 
 
 ## Application and Benefits for Your Business
 
-**@@name Small Business** can easily be **implemented into your company from scratch**, **personalizing it** to **the special needs**, **the individual workflows**, and **the established specific practices** of your organization in the process.  
+**@@name Small Business** can easily be implemented into your company from scratch, **personalizing it** to the special needs, the individual workflows, and the established specific practices of your organization in the process.  
 
 > [!TIP]  
 > Companies that have been using **@@name Express** can make a seamless transition to **@@name Small Business** for extending the available business functionality through an even smoother implementation process.
 > 
-> Your organization retains **all the saved workflows**, **data** (such as documents and records), **settings**, **user base**, **configurations**, and **everything that the business has achieved and stored so far** in your **Express** instance.  
+> Your organization retains all the saved workflows, data (such as documents and records), settings, user base, configurations, and everything that the business has achieved and stored so far in your **Express** instance.  
 
-In case your business operates **through multiple legal entities**, **Small Business** is capable of **integrating all the processes and data** for all your companies **into a single instance of your system**. 
-This way **@@name** provides **proper process and data management for each legal entity**, while helping you **run all your companies as a single, unified business**, **sharing the data throughout** under the desired access level and control.  
+In case your business operates through multiple legal entities, **Small Business** is capable of **integrating all the processes and data** for all your companies into a single instance of your system. 
+This way **@@name** provides proper process and data management for **each legal entity**, while helping you run all your companies as a single, unified business, sharing the data throughout under the desired access level and control.  
 
-From **interacting with customers and suppliers**, to reliably **carrying out internal operations**, to **business analysis and strategic decision making** for a stable future - **@@name Small Business** completely covers **the full cycle of business activities for everyone and everything**.  
+From interacting with customers and suppliers, to reliably carrying out internal operations, to business analysis and strategic decision making for a stable future - **@@name Small Business** completely covers the full cycle of business activities for everyone and everything.  
 
 ## @@name Small Business Plans Comparison
 
