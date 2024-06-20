@@ -64,7 +64,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Classic Project Management (beta)| | |✔|
 |Service Management| | |✔|
 |Subscription Management (beta)| | |✔|
-|Basic AI (AI Assistant)|||✔|
+|Basic AI (AI Assistant, Data Analysis)| | |✔|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
 |**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
 |**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |✔|
@@ -75,16 +75,16 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✔|
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|
 |**[Client Center](~/features/crm/client-center.md)**| | |✔|
-|Microsoft Sync|||✔|
+|Microsoft Sync| | |✔|
 |Number of websites included|1|1|1|
-|Websites Extendable|||✔|
+|Websites Extendable| | |✔|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
 |Web Client|✔|✔|✔|
 |Included Storage|3 GB per user|3 GB per user|3 GB per user|
 |Storage Extendable|✔|✔|✔|
-|Test Instances allowed (billed separately)|||✔|
+|Test Instances allowed (billed separately)| | |✔|
 |Track Changes| | |✔|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|||✔|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|
 |PRICE per month - starting from|$9/user|$19/user|$39/user|
 |Plan codes|130|150|170|
