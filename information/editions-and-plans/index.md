@@ -21,6 +21,12 @@ All editions of **@@name** are intended to:
 
 This way **@@name** empowers companies to overcome the traditional and modern challenges in every industry, as well as the unique ones their business faces.  
 
+> [!Tip]
+> 
+> For more information or help with choosing an edition and plan, please contact us through our global website:
+> 
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
+
 ## @@name Editions Purposes and Comparison
 
 The following table offers an at-a-glance comparison of the different editions of @@name.  
@@ -39,7 +45,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |**Business Aspect**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
 |:----|:----|:----|:----|
 |Primary Designation|Easy to implement universal business solution|All-in-one ERP-CRM solution for small businesses|Solid ERP-CRM integration platform for medium and large enterprises|
-|Business Purpose|Team Collaboration and CRM System|Fully-Functional, Comprehensive, All-Around ERP-CRM Platform|Large-Scale Business Management Solution|
+|Business Purpose|Team Collaboration and CRM System with business apps|Fully-Functional, Comprehensive, All-Around ERP-CRM Platform|Large-Scale Business Management Solution|
 |Software solution type|Horizontal|Vertical|Vertical|
 |Applicability|Any company|Specific industries|Specific industries|
 |External ERP system compatibility|Compatible to run alongside external ERP systems|Designed to be used as the company's ERP platform|Designed to be used as the company's ERP platform|
@@ -52,13 +58,13 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |CRM Functionality|✔|✔|✔|
 |Business app suite|✔|✔|✔|
 |ERP Functionality| |✔|✔|
-|Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Usage Capacity](~/information/licensing/core-licensing.md)**|
-|Description|License grants a number of registered users in your system|License grants a number of simultaneously running user sessions|License grants an amount of processing capacity|
-|Plans|Team Collaboration, CRM, Pro|Basic Financials, Basic Logistics, Advanced|Standard, Premium, Corporate|
+|Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Processing Capacity](~/information/licensing/core-licensing.md)**|
+|Description|License grants a number of registered users in your system|License grants a number of simultaneously running sessions, not depending on specific users|License grants an amount of processing capacity (computational power of your system instance)|
+|Plans|Team Collaboration, CRM, Pro|Basic Financials, Basic Logistics, Advanced, Max|Standard, Premium, Corporate|
 |**Hosting**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
-|Software Delivery Method|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|
-|Application Server|Shared|Shared, with a Dedicated option (depending on plan)|Dedicated|
-|Database Server|Shared|Shared|Shared or Dedicated (depending on plan)|
+|Software Delivery Method|Web Based, Cloud-Hosted Solution|Web Based, Cloud-Hosted Solution|Web Based, Cloud-Hosted Solution|
+|Application Server|Shared|Shared or Dedicated (depending on selected plan and option)|Dedicated|
+|Database Server|Shared|Shared|Shared or Dedicated (depending on selected plan and option)|
 |Database size included|3 GB per user|10 GB per plan|100 GB per plan|
 |Database maximum size|100 GB|200 GB|Unlimited|
 |Minimum users|2|3|30|
@@ -108,7 +114,17 @@ all unified in a single platform and accessible via the same user interface.
 
 Enterprise edition enables your corporation to utilize a **large-scale business management platform** with all modules and apps included throughout **one or multiple owned** companies and subsidiaries.  
 
-Created to maintain and support highly sophisticated business logic, multi-stage complex workflows, and highly intensive data processing and integrations, Enterprise ensures **quick and easy scaling** of the processing power and computational capacity necessary for your business to operate with cost effectiveness, highly optimized performance, and maximum productivity.  
+Moreover, the Enterprise edition provides a solid foundation for integrations with external web-based, desktop, and mobile systems and apps that are specifically designed for the individual needs of your business.  
+
+@@name Enterprise is an excellent choice for your corporation or multi-national business as it is created to support:  
+
+* Highly sophisticated business logic
+* Multi-stage complex workflows
+* Highly intensive data processing
+* High number of integrations and simultaneous external app processing and connections
+* Solution cost effectiveness based on scale
+* Highly optimized performance thanks to various automations
+* Quick and easy scaling of the processing power and computational capacity
 
 > [!TIP]
 > **The @@name platform** is designed as an all-around ERP-CRM platform with **built-in modules, apps, and features**.  
@@ -116,3 +132,13 @@ Created to maintain and support highly sophisticated business logic, multi-stage
 > These are **standardized**, **connected to each other in real time**, and **fully integrated within the platform itself**.  
 > 
 > This enables your business to have the edition of your choice **directly implemented from scratch**, as well as make a **smooth transition** from one edition to the next, **retaining all of your data, settings, and configurations for your system**.  
+
+# Contact us for more information
+
+You can purchase a subscription plan for an @@name edition by heading to our global website to place your inquiry.  
+
+In case you want help with deciding the best edition and plan for your company, as well as if you have more questions, you'd like a demonstration of the @@name platform, or you're looking for more specific information - feel free to ask us or request a meeting with us.  
+
+We will contact you back to help you with the best possible plans and options for your business.  
+
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
