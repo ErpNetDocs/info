@@ -129,7 +129,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 ### Manage Services
 
 * **Maintenance and Repair**: Manage and track the services for physical assets.
-* **Service Orders and SLAs**: Streamlined processes for service contracts, service-level agreements (SLAs) and delivery.
+* **Service Orders and SLAs**: Streamlined processes for service contracts, service-level agreements (SLAs), and delivery.
 * **Billing and Invoicing**: Automated and transparent billing for services rendered.
 
 ---
