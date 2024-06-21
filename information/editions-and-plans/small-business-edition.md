@@ -110,3 +110,4 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
 |**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |PRICE per month - starting from|€49/user|€49/user|€69/user|€99/user|
+|Annual prepayment discount|12%|12%|12%|12%|
