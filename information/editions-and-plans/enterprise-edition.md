@@ -27,69 +27,79 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 
 **@@name Enterprise** edition is available through the following subscription plans:  
 
-|**FEATURE**|**Standard Select**|**Standard MAX**|
-|:----|:----|:----|
-|Licensing model|**[Compute Capacity](~/information/licensing/core-licensing.md)**|**[Compute Capacity](~/information/licensing/core-licensing.md)**|
-|Min users|30|30|
-|Max users|10 000|10 000|
-|**CRM & APPS**|**Standard Select**|**Standard MAX**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|√|√|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|√|√|
-|File Manager|√|√|
-|**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|√|
-|**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|√|
-|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|√|
-|Agile Project Management (beta)|(optional)|√|
-|AI - Personalized models, AI chat, AI business rules|(optional)|√|
-|Classic Project Management (beta)|(optional)|√|
-|Service Management|(optional)|√|
-|Subscription Management (beta)|(optional)|√|
-|Asset Management (beta)|(optional)|√|
-|Fleet Management (beta)|(optional)|√|
-|Lease-out Management (beta)|(optional)|√|
-|**[Data Warehouse](~/features/applications/data-warehouse.md)**|(optional)|√|
-|Personal Data Management (GDPR)|(optional)|√|
-|Mail Sorting (beta)|(optional)|√|
-|**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)|√|√|
-|**ERP modules & functions**|**Standard Select**|**Standard MAX**|
-|**[Order Management](~/features/crm/sales.md)**|(optional)|√|
-|**[Invoicing](~/features/crm/invoicing.md)**|(optional)|√|
-|**[Payments](~/features/financials/payments.md)**|(optional)|√|
-|POS|(optional)|√|
-|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|√|
-|Basic Logistics (Suggest replenish)|(optional)|√|
-|Basic Production (Assembly)|(optional)|√|
-|**[Advanced Production](~/features/production/index.md)**|(optional)|√|
-|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)|(optional)|√|
-|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)|(optional)|√|
-|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**|(optional)|√|
-|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**|(optional)|√|
-|**PROCESS MANAGEMENT**|**Standard Select**|**Standard MAX**|
-|**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|√|√|
-|**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**|√|√|
-|User-defined Business Rules|√|√|
-|User-defined Jobs|√|√|
-|**WEB SITES**|**Standard Select**|**Standard MAX**|
-|Web Client|(optional)|(optional)|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|(optional)|(optional)|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|(optional)|(optional)|
-|**[Client Center](~/features/crm/client-center.md)**|(optional)|(optional)|
-|**[WMS Worker](~/features/logistics/wms-worker.md)**|(optional)|(optional)|
-|**[Inventory Control](~/features/logistics/inventory-control.md)**|(optional)|(optional)|
-|Revenue Service Portals|(optional)|(optional)|
-|Microsoft Sync|(optional)|(optional)|
-|Number of web sites included|0|0|
-|**TECHNICAL OPTIONS**|**Standard Select**|**Standard MAX**|
-|Web Client|√|√|
-|Windows Desktop Client|√|√|
-|**[Multiple Managed Entities](~/features/general/multi-company.md)**|(optional)|√|
-|Included Storage|10 GB|100 GB|
-|Storage Extendable|√|√|
-|Test Instance(s)|(optional)|(optional)|
-|Dedicated APP server|√|√|
-|Dedicated DB server|(optional)|(optional)|
-|Track Changes|√|√|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|(optional)|√|
-|**PRICE**|**Standard Select**|**Standard MAX**|
-|PRICE per month - starting from|$1900|$3000|
-|Plan codes|510, 710|590, 790|
+|**FEATURE**|**Standard**|**Premium**|**Corporate**|
+|:----|:----|:----|:----|
+|Licensing model|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|
+|Min users|30|120|120|
+|Max users|90|360|Unlimited (depending on the purchased capacity)|
+|Maximum short-burst user limit|135|540|(Depending on the purchased capacity)|
+|**CRM & APPS**|**Standard**|**Premium**|**Corporate**|
+|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
+|File Manager|✔|✔|✔|
+|**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
+|**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|✔|✔|
+|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|✔|✔|
+|Agile Project Management (beta)|(optional)|✔|✔|
+|Classic Project Management (beta)|(optional)|✔|✔|
+|Service Management|(optional)|✔|✔|
+|Subscription Management (beta)|(optional)|✔|✔|
+|Basic AI (AI Assistant, Data Analysis)|(optional)|✔|✔|
+|Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
+|Asset Management (beta)|(optional)|✔|✔|
+|Fleet Management (beta)|(optional)|✔|✔|
+|Lease-out Management (beta)|(optional)|✔|✔|
+|**[Data Warehouse](~/features/applications/data-warehouse.md)**|(optional)|✔|✔|
+|Personal Data Management (GDPR)|(optional)|✔|✔|
+|Mail Sorting (beta)|(optional)|✔|✔|
+|**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)|(optional)|✔|✔|
+|Product Configurator (desktop only)|(optional)|✔|✔|
+|**ERP modules & functions**|**Standard**|**Premium**|**Corporate**|
+|**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
+|**[Invoicing](~/features/crm/invoicing.md)**|(optional)|✔|✔|
+|**[Payments](~/features/financials/payments.md)**|(optional)|✔|✔|
+|POS|(optional)|✔|✔|
+|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
+|Basic Logistics|(optional)|✔|✔|
+|Advanced Logistics (Suggest replenish + DRP)|(optional)|✔|✔|
+|Distribution Management (Desktop only)|(optional)|✔|✔|
+|Price Lists Management (Desktop only)|(optional)|✔|✔|
+|Basic Production (Assembly)|(optional)|✔|✔|
+|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**|(optional)|✔|✔|
+|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)|(optional)|✔|✔|
+|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)|(optional)|✔|✔|
+|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**|(optional)|✔|✔|
+|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**|(optional)|✔|✔|
+|**PROCESS MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
+|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
+|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**|✔|✔|✔|
+|User-defined Business Rules|✔|✔|✔|
+|User-defined Jobs|✔|✔|✔|
+|**WEB SITES**|**Standard**|**Premium**|**Corporate**|
+|Web Client|✔|✔|✔|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|✔|✔|✔|
+|**[Client Center](~/features/crm/client-center.md)**|✔|✔|✔|
+|**[WMS Worker](~/features/logistics/wms-worker.md)**|✔|✔|✔|
+|**[Inventory Control](~/features/logistics/inventory-control.md)**|✔|✔|✔|
+|Revenue Service Portals|✔|✔|✔|
+|Microsoft Sync|✔|✔|✔|
+|Number of web sites included|1|1|1|
+|**TECHNICAL OPTIONS**|**Standard**|**Premium**|**Corporate**|
+|Web Client|✔|✔|✔|
+|Windows Desktop Client|✔|✔|✔|
+|**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**|(optional)|✔|✔|
+|Included Storage|10 / 100 GB|100 GB|1 TB|
+|Storage Extendable|✔|✔|✔|
+|Test Instances allowed (billed separately)|✔|✔|✔|
+|Dedicated APP server|✔|✔|✔|
+|Dedicated DB server|(optional)|✔|✔|
+|SQL Server Edition|Standard|Standard|Enterprise|
+|Readable secondary replica| | |(optional)|
+|Multiple read-write database sites| | |(optional)|
+|Dedicated hardware| | |(optional)|
+|Track Changes|✔|✔|✔|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|(optional)|✔|✔|
+|**PRICE**|**Standard**|**Premium**|**Corporate**|
+|PRICE per month - starting from|Contact us to request|Contact us to request|Contact us to request|
+|Annual prepayment discount|12%|12%|12%|
