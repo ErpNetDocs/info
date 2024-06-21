@@ -66,7 +66,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Personal Data Management (GDPR)| | | |✔|
 |Mail Sorting (beta)| | |✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)| | |✔|✔|
-|Product Configurator (desktop only)| | |✔|✔|
+|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| | |✔|✔|
 |**ERP modules & functions**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
