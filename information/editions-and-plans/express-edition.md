@@ -66,8 +66,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Subscription Management (beta)| | |✔|
 |Basic AI (AI Assistant, Data Analysis)| | |✔|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
-|**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
-|**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |✔|
+|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
+|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|
 |User-defined Business Rules| | |✔|
 |User-defined Jobs| | |✔|
 |**WEBSITES**|**Team Collaboration**|**CRM**|**Pro**|
