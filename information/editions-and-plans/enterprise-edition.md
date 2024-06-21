@@ -53,18 +53,18 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Personal Data Management (GDPR)|(optional)|✔|✔|
 |Mail Sorting (beta)|(optional)|✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)|(optional)|✔|✔|
-|Product Configurator (desktop only)|(optional)|✔|✔|
+|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
 |**ERP modules & functions**|**Standard**|**Premium**|**Corporate**|
 |**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
 |**[Invoicing](~/features/crm/invoicing.md)**|(optional)|✔|✔|
 |**[Payments](~/features/financials/payments.md)**|(optional)|✔|✔|
 |POS|(optional)|✔|✔|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
-|Basic Logistics|(optional)|✔|✔|
-|Advanced Logistics (Suggest replenish + DRP)|(optional)|✔|✔|
+|**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
+|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**|(optional)|✔|✔|
 |Distribution Management (Desktop only)|(optional)|✔|✔|
-|Price Lists Management (Desktop only)|(optional)|✔|✔|
-|Basic Production (Assembly)|(optional)|✔|✔|
+|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**|(optional)|✔|✔|
+|**[Basic Production (Assembly)](~/features/production/index.md)**|(optional)|✔|✔|
 |**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**|(optional)|✔|✔|
 |Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)|(optional)|✔|✔|
 |Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)|(optional)|✔|✔|
