@@ -45,7 +45,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |**Business Aspect**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
 |:----|:----|:----|:----|
 |Primary Designation|Easy to implement universal business solution|All-in-one ERP-CRM solution for small businesses|Solid ERP-CRM integration platform for medium and large enterprises|
-|Business Purpose|Team Collaboration and CRM System|Fully-Functional, Comprehensive, All-Around ERP-CRM Platform|Large-Scale Business Management Solution|
+|Business Purpose|Team Collaboration and CRM System with business apps|Fully-Functional, Comprehensive, All-Around ERP-CRM Platform|Large-Scale Business Management Solution|
 |Software solution type|Horizontal|Vertical|Vertical|
 |Applicability|Any company|Specific industries|Specific industries|
 |External ERP system compatibility|Compatible to run alongside external ERP systems|Designed to be used as the company's ERP platform|Designed to be used as the company's ERP platform|
@@ -58,13 +58,13 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |CRM Functionality|✔|✔|✔|
 |Business app suite|✔|✔|✔|
 |ERP Functionality| |✔|✔|
-|Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Usage Capacity](~/information/licensing/core-licensing.md)**|
-|Description|License grants a number of registered users in your system|License grants a number of simultaneously running user sessions|License grants an amount of processing capacity|
-|Plans|Team Collaboration, CRM, Pro|Basic Financials, Basic Logistics, Advanced|Standard, Premium, Corporate|
+|Licensing Model|**[Registered Users](~/information/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Processing Capacity](~/information/licensing/core-licensing.md)**|
+|Description|License grants a number of registered users in your system|License grants a number of simultaneously running sessions, not depending on specific users|License grants an amount of processing capacity (computational power of your system instance)|
+|Plans|Team Collaboration, CRM, Pro|Basic Financials, Basic Logistics, Advanced, Max|Standard, Premium, Corporate|
 |**Hosting**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|
-|Software Delivery Method|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|Web Based, Cloud-Hosted|
-|Application Server|Shared|Shared, with a Dedicated option (depending on plan)|Dedicated|
-|Database Server|Shared|Shared|Shared or Dedicated (depending on plan)|
+|Software Delivery Method|Web Based, Cloud-Hosted Solution|Web Based, Cloud-Hosted Solution|Web Based, Cloud-Hosted Solution|
+|Application Server|Shared|Shared or Dedicated (depending on selected plan and option)|Dedicated|
+|Database Server|Shared|Shared|Shared or Dedicated (depending on selected plan and option)|
 |Database size included|3 GB per user|10 GB per plan|100 GB per plan|
 |Database maximum size|100 GB|200 GB|Unlimited|
 |Minimum users|2|3|30|
