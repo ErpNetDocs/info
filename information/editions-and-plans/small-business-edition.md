@@ -73,11 +73,11 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
 |POS|✔| |✔|✔|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔| |✔|✔|
-|Basic Logistics|✔| |✔|✔|
-|Advanced Logistics (Suggest replenish + DRP)| | |✔|✔|
+|**[Basic Logistics](~/features/logistics/index.md)**|✔| |✔|✔|
+|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| | |✔|✔|
 |Distribution Management (Desktop only)| | |✔|✔|
-|Price Lists Management (Desktop only)| | |✔|✔|
-|Basic Production (Assembly)|✔| |✔|✔|
+|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| | |✔|✔|
+|**[Basic Production (Assembly)](~/features/production/index.md)**|✔| |✔|✔|
 |**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**| | |✔|✔|
 |Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)| | |✔|✔|
 |Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)| | |✔|✔|
