@@ -97,7 +97,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Inventory Control](~/features/logistics/inventory-control.md)**| | |✔|✔|
 |Revenue Service Portals| | |✔|✔|
 |Microsoft Sync|✔|✔|✔|✔|
-|Number of web sites included|1|1|1|1|x
+|Number of web sites included|1|1|1|1|
 |**TECHNICAL OPTIONS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|✔|
