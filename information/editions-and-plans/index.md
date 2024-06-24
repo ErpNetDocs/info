@@ -129,9 +129,9 @@ Moreover, the Enterprise edition provides a solid foundation for integrations wi
 > [!TIP]
 > **The @@name platform** is designed as an all-around ERP-CRM platform with **built-in modules, apps, and features**.  
 >
-> These are **standardized**, **connected to each other in real time**, and **fully integrated within the platform itself**.  
+> These are standardized, connected to each other in **real time**, and fully integrated **within the platform** itself.  
 > 
-> This enables your business to have the edition of your choice **directly implemented from scratch**, as well as make a **smooth transition** from one edition to the next, **retaining all of your data, settings, and configurations for your system**.  
+> This enables your business to have the edition of your choice **directly implemented** from scratch, as well as make a **smooth transition** from one edition to the next, **retaining** all of your data, settings, and configurations for your system.  
 
 # Get @@name for your organization
 
