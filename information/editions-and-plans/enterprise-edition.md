@@ -2,9 +2,23 @@
 
 ## Edition Overview
 
-**Enterprise** is the **corporate-level edition of @@name** designed to support large business structures like corporations, holdings, multinational enterprises, and others alike.  
+**@@name Enterprise** is the corporate-grade solution for the toughest of business needs and demands.  
 
-The **Enterprise** edition enables your corporation to utilize a **large-scale** business management platform throughout **one or multiple owned** companies and subsidiaries.  
+The largest edition of the platform is designed to empower large business structures like **corporations**, **holdings**, **multinational enterprises**, and similar organizations with sophisticated business models.  
+
+The **Enterprise** edition enables your corporation to utilize a **large-scale** business management solution through **one or multiple owned** companies and subsidiaries, all managed via a single, centralized platform.  
+
+This edition brings everything from the **[@@name Express](express-edition.md)** and **[@@name Small Business](small-business-edition.md)** editions while providing a heavy-duty, **solid integration platform** for managing your enterprise throughout all departments, projects, levels, and teams.  
+
+Engineered to handle extremely large volumes of data, and intensive processing operations, the **Enterprise** edition offers countless opportunities for integrations with a vast variety of parralelly running **external apps and systems**.  
+
+**@@name Enterprise** is the professional solution to streamline your complex multi-stage workflows, optimize your data management, and benefit from seamless integration across your entire corporate environment.  
+
+> [!Tip]  
+> 
+> For more information or help with choosing the best edition and plan for your business, please get in touch with us through our global website:  
+> 
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)  
 
 ## Functionality and Purpose
 
@@ -12,7 +26,7 @@ To fully commit to your business and its scale, **Enterprise** offers all module
 
 **@@name Enterprise** is made to be flexible and easy to extend in terms of **usage capacity** and **computational power** to serve your business under even the toughest of demands and loads during your company's day to day operations.  
 
-This edition allows **dedicated** application and database servers for hosting the @@name instance for your business.  
+This edition offers also **dedicated** application and database servers for hosting the @@name instance for your business.  
 
 ## Application and Benefits for Your Business
 
@@ -103,3 +117,13 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |**PRICE**|**Standard**|**Premium**|**Corporate**|
 |PRICE per month|Price available at request|Price available at request|Price available at request|
 |Annual prepayment discount|12%|12%|12%|
+
+# Get @@name for your organization
+
+You can purchase a subscription plan for an @@name edition by heading to our global website to place your inquiry.  
+
+In case you need help with deciding the best edition and plan for your company, as well as if you have more questions, you'd like a demonstration of the @@name platform, or you're looking for more specific information - feel free to ask us or request a meeting with us.  
+
+We will contact you back to help you with the best possible plans and options for your business.  
+
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
