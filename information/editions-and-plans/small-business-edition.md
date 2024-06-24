@@ -4,15 +4,22 @@
 
 **Small Business** is a complete, all-around business management solution in the form of a fully functional **ERP-CRM platform**.  
 
-Intended for small to medium enterprises (SMEs), **Small Business** delivers the benefits of all the standard **ERP and CRM functionalities** to your company. 
-These come complemented by business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities, all running real-time in a centralized software system.  
+Intended for small to medium enterprises (SMEs), **Small Business** delivers the benefits of all the standard **ERP and CRM functionalities** to your company.  
+
+The ERP-CRM solution **@@name Small Business** comes complemented by business intelligence (BI), teamwork, project management, artificial intelligence (AI), and other capabilities, all running real-time in a centralized software system.  
+
+> [!Tip]  
+> 
+> For more information or help with choosing the best edition and plan for your business, please get in touch with us through our global website:  
+> 
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)  
 
 ## Functionality and Purpose
 
 The **Small Business** edition of **@@name** helps your organization streamline all of its business operations. 
 Thanks to its **extensive functionality** and everything-integrated architecture, this edition is fully capable of covering all the processes, workflows, and data management actions taking place at your company.  
 
-**Small Business** comprises an immense and growing set of modules, apps, and features to support your business in every aspect:
+**Small Business** comprises an immense and growing set of modules, apps, and features to support your business in every aspect:  
 
 * contact and lead management
 * presales and sales processes
@@ -111,3 +118,13 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |PRICE per month - starting from|€49/user|€49/user|€69/user|€99/user|
 |Annual prepayment discount|12%|12%|12%|12%|
+
+# Get @@name for your organization
+
+You can purchase a subscription plan for an @@name edition by heading to our global website to place your inquiry.  
+
+In case you need help with deciding the best edition and plan for your company, as well as if you have more questions, you'd like a demonstration of the @@name platform, or you're looking for more specific information - feel free to ask us or request a meeting with us.  
+
+We will contact you back to help you with the best possible plans and options for your business.  
+
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
