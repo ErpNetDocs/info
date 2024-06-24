@@ -18,7 +18,7 @@ These properties power **Express** to be a productivity-driven investment that e
 > 
 > For more information or help with choosing the best edition and plan for your business, please get in touch with us through our global website:  
 > 
-> [ERP.net Global | Contact Form](https://erp.net/contact-us/)  
+> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
 
 ## Functionality and Purpose
 
@@ -151,4 +151,4 @@ In case you need help with deciding the best edition and plan for your company, 
 
 We will contact you back to help you with the best possible plans and options for your business.  
 
-> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
+> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
