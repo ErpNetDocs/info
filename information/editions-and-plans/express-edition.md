@@ -14,6 +14,12 @@ It is meant for businesses that are looking for ways to enhance their teamwork a
 Designed to blend social and technological functionality into one, **Express** is easy to implement into your business and straightforward for your teams to use. 
 These properties power **Express** to be a productivity-driven investment that enables your company to reap swift results in return for minimal efforts on your side.  
 
+> [!Tip]  
+> 
+> For more information or help with choosing the best edition and plan for your business, please get in touch with us through our global website:  
+> 
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)  
+
 ## Functionality and Purpose
 
 This edition offers a set of widely used, intuitive business tools, all integrated in a single system:  
@@ -136,3 +142,13 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 ---
 
 Streamline your daily workflows, strengthen your teamwork, and drive productivity beyond limits - with @@name.  
+
+# Get @@name for your organization
+
+You can purchase a subscription plan for an @@name edition by heading to our global website to place your inquiry.  
+
+In case you need help with deciding the best edition and plan for your company, as well as if you have more questions, you'd like a demonstration of the @@name platform, or you're looking for more specific information - feel free to ask us or request a meeting with us.  
+
+We will contact you back to help you with the best possible plans and options for your business.  
+
+> [ERP.net Global | Contact Form](https://erp.net/contact-us/)
