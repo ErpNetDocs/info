@@ -87,7 +87,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Client Center](~/features/crm/client-center.md)**| | |✔|
 |Microsoft Sync| | |✔|
 |Number of website licenses included|1|1|1|
-|Websites Extendable| | |✔|
+|Extendable number of websites| | |✔|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
 |Web Client Included|✔|✔|✔|
 |Storage Included|3 GB per user|3 GB per user|3 GB per user|
