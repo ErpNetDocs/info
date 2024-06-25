@@ -53,19 +53,41 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|
 |Min users|3|3|5|5|
 |Max users|35|35|35|35|
-|**CRM & APPS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**PRODUCTIVITY**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
+|Basic AI (AI Assistant, Data Analysis)| | |✔|✔|
+|Advanced AI (Personalized models, Business rules)| | | |✔|
+|**CRM**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
+|**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
+|Subscription Management (beta)| |✔|✔|✔|
+|POS|✔| |✔|✔|
+|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| | |✔|✔|
+|**PROJECT MANAGEMENT**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Agile Project Management (beta)| |✔|✔|✔|
 |Classic Project Management (beta)| |✔|✔|✔|
-|Service Management| |✔|✔|✔|
-|Subscription Management (beta)| |✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)| | |✔|✔|
-|Advanced AI (Personalized models, Business rules)| | | |✔|
+|**LOGISTICS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔| |✔|✔|
+|**[Basic Logistics](~/features/logistics/index.md)**|✔| |✔|✔|
+|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| | |✔|✔|
+|Distribution Management (Desktop only)| | |✔|✔|
+|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| | |✔|✔|
+|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
+|**PRODUCTION**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**[Basic Production (Assembly)](~/features/production/index.md)**|✔| |✔|✔|
+|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**| | |✔|✔|
+|**FINANCE AND ACCOUNTING**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
+|**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
+|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)| | |✔|✔|
+|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)| | |✔|✔|
+|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**| | |(optional)|✔|
+|**BUSINESS APPS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|Service Center Management| |✔|✔|✔|
 |Asset Management (beta)| | |(optional)|✔|
 |Fleet Management (beta)| | |(optional)|✔|
 |Lease-out Management (beta)| | |(optional)|✔|
@@ -73,29 +95,12 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Personal Data Management (GDPR)| | | |✔|
 |Mail Sorting (beta)| | |✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)| | |✔|✔|
-|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| | |✔|✔|
-|**ERP modules & functions**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
-|**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
-|**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
-|POS|✔| |✔|✔|
-|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔| |✔|✔|
-|**[Basic Logistics](~/features/logistics/index.md)**|✔| |✔|✔|
-|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| | |✔|✔|
-|Distribution Management (Desktop only)| | |✔|✔|
-|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| | |✔|✔|
-|**[Basic Production (Assembly)](~/features/production/index.md)**|✔| |✔|✔|
-|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**| | |✔|✔|
-|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)| | |✔|✔|
-|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)| | |✔|✔|
-|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
-|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**| | |(optional)|✔|
 |**PROCESS MANAGEMENT**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**|✔|✔|✔|✔|
 |User-defined Business Rules|✔|✔|✔|✔|
 |User-defined Jobs|✔|✔|✔|✔|
-|**WEB SITES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**Compatible WEBSITES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|✔|
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|✔|✔|✔|✔|
@@ -103,12 +108,13 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[WMS Worker](~/features/logistics/wms-worker.md)**| | |✔|✔|
 |**[Inventory Control](~/features/logistics/inventory-control.md)**| | |✔|✔|
 |Revenue Service Portals| | |✔|✔|
-|Microsoft Sync|✔|✔|✔|✔|
-|Number of web sites included|1|1|1|1|
+|Microsoft Sync| | |✔|✔|
+|Number of website licenses included|1|1|1|1|
+|Extendable number of websites|✔|✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|✔|
-|**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**|(optional)|(optional)|(optional)|✔|
+|**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| | |(optional)|✔|
 |Included Storage|10 GB|10 GB|10 GB|10 GB|
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)|✔|✔|✔|✔|
