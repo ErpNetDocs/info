@@ -47,19 +47,41 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Min users|30|120|120|
 |Max users|90|360|Unlimited (depending on the purchased capacity)|
 |Maximum short-burst user limit|135|540|(Depending on the purchased capacity)|
-|**CRM & APPS**|**Standard**|**Premium**|**Corporate**|
+|**PRODUCTIVITY**|**Standard**|**Premium**|**Corporate**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
 |File Manager|✔|✔|✔|
+|Basic AI (AI Assistant, Data Analysis)|(optional)|✔|✔|
+|Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
+|**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|✔|✔|
+|**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
+|Subscription Management (beta)|(optional)|✔|✔|
+|POS|(optional)|✔|✔|
+|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
+|**PROJECT MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
 |Agile Project Management (beta)|(optional)|✔|✔|
 |Classic Project Management (beta)|(optional)|✔|✔|
-|Service Management|(optional)|✔|✔|
-|Subscription Management (beta)|(optional)|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)|(optional)|✔|✔|
-|Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
+|**LOGISTICS**|**Standard**|**Premium**|**Corporate**|
+|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
+|**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
+|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**|(optional)|✔|✔|
+|Distribution Management (Desktop only)|(optional)|✔|✔|
+|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**|(optional)|✔|✔|
+|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**|(optional)|✔|✔|
+|**PRODUCTION**|**Standard**|**Premium**|**Corporate**|
+|**[Basic Production (Assembly)](~/features/production/index.md)**|(optional)|✔|✔|
+|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**|(optional)|✔|✔|
+|**FINANCE AND ACCOUNTING**|**Standard**|**Premium**|**Corporate**|
+|**[Invoicing](~/features/crm/invoicing.md)**|(optional)|✔|✔|
+|**[Payments](~/features/financials/payments.md)**|(optional)|✔|✔|
+|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)|(optional)|✔|✔|
+|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)|(optional)|✔|✔|
+|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**|(optional)|✔|✔|
+|**BUSINESS APPS**|**Standard**|**Premium**|**Corporate**|
+|Service Center Management|(optional)|✔|✔|
 |Asset Management (beta)|(optional)|✔|✔|
 |Fleet Management (beta)|(optional)|✔|✔|
 |Lease-out Management (beta)|(optional)|✔|✔|
@@ -67,29 +89,12 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Personal Data Management (GDPR)|(optional)|✔|✔|
 |Mail Sorting (beta)|(optional)|✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)|(optional)|✔|✔|
-|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
-|**ERP modules & functions**|**Standard**|**Premium**|**Corporate**|
-|**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
-|**[Invoicing](~/features/crm/invoicing.md)**|(optional)|✔|✔|
-|**[Payments](~/features/financials/payments.md)**|(optional)|✔|✔|
-|POS|(optional)|✔|✔|
-|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
-|**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
-|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**|(optional)|✔|✔|
-|Distribution Management (Desktop only)|(optional)|✔|✔|
-|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**|(optional)|✔|✔|
-|**[Basic Production (Assembly)](~/features/production/index.md)**|(optional)|✔|✔|
-|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**|(optional)|✔|✔|
-|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)|(optional)|✔|✔|
-|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)|(optional)|✔|✔|
-|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**|(optional)|✔|✔|
-|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**|(optional)|✔|✔|
 |**PROCESS MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**|✔|✔|✔|
 |User-defined Business Rules|✔|✔|✔|
 |User-defined Jobs|✔|✔|✔|
-|**WEB SITES**|**Standard**|**Premium**|**Corporate**|
+|**Compatible WEBSITES**|**Standard**|**Premium**|**Corporate**|
 |Web Client|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|✔|✔|✔|
@@ -98,7 +103,8 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |**[Inventory Control](~/features/logistics/inventory-control.md)**|✔|✔|✔|
 |Revenue Service Portals|✔|✔|✔|
 |Microsoft Sync|✔|✔|✔|
-|Number of web sites included|1|1|1|
+|Number of website licenses included|1|1|1|
+|Extendable number of websites|✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Standard**|**Premium**|**Corporate**|
 |Web Client|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|
