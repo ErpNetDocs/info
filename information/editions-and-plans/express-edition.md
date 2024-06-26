@@ -89,7 +89,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Number of website licenses included|1|1|1|
 |Extendable number of websites| | |✔|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client Included|✔|✔|✔|
+|Web Client|✔|✔|✔|
 |Storage Included|3 GB per user|3 GB per user|3 GB per user|
 |Storage Extendable|✔|✔|✔|
 |Test Instances allowed (billed separately)| | |✔|
