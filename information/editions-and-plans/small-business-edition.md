@@ -115,7 +115,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Web Client|✔|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|✔|
 |**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| | |(optional)|✔|
-|Included Storage|10 GB|10 GB|10 GB|10 GB|
+|Storage Included|10 GB per plan|10 GB per plan|10 GB per plan|10 GB per plan|
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)|✔|✔|✔|✔|
 |Dedicated APP server| | |(optional)|(optional)|
