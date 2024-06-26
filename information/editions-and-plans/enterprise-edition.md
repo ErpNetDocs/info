@@ -46,7 +46,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Licensing model|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/licensing/core-licensing.md)**|
 |Min users|30|120|120|
 |Max users|90|360|Unlimited (depending on the purchased capacity)|
-|Maximum short-burst user limit|135|540|(Depending on the purchased capacity)|
+|Maximum short-burst user limit|135|540|Depending on the purchased capacity|
 |**PRODUCTIVITY**|**Standard**|**Premium**|**Corporate**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
