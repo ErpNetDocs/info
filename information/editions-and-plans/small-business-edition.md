@@ -117,7 +117,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| | |(optional)|✔|
 |Storage Included|10 GB per plan|10 GB per plan|10 GB per plan|10 GB per plan|
 |Storage Extendable|✔|✔|✔|✔|
-|Test Instances allowed (billed separately)|✔|✔|✔|✔|
+|Test Instances allowed (billed separately)| | |✔|✔|
 |Dedicated APP server| | |(optional)|(optional)|
 |Track Changes|✔|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
