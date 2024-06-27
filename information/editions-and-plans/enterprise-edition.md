@@ -121,7 +121,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Track Changes|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|(optional)|✔|✔|
 |**PRICE**|**Standard**|**Premium**|**Corporate**|
-|PRICE per month|Price available at request|Price available at request|Price available at request|
+|Price per month|Price available at request|Price available at request|Price available at request|
 
 # Get @@name for your organization
 
