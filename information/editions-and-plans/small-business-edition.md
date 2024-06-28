@@ -61,6 +61,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Advanced AI (Personalized models, Business rules)| | | |✔|
 |**CRM**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
+|Customer Management|✔|✔|✔|✔|
+|**[Product Management](~/info/features/crm/products.md)**|✔|✔|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
