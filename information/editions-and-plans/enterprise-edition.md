@@ -55,6 +55,8 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
 |**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
+|Customer Management|(optional)|✔|✔|
+|**[Product Management](~/info/features/crm/products.md)**|(optional)|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
