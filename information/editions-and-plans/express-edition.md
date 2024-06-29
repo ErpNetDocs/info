@@ -71,12 +71,6 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|
 |**[Order Management](~/features/crm/sales.md)**| |✔|✔|
-|Subscription Management (beta)| | |✔|
-|**PROJECT MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
-|Agile Project Management (beta)| | |✔|
-|Classic Project Management (beta)| | |✔|
-|**BUSINESS APPS**|**Team Collaboration**|**CRM**|**Pro**|
-|Service Center Management| | |✔|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|
