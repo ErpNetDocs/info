@@ -54,7 +54,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 
 **@@name Express** edition is available through the following subscription plans:  
 
-|**FEATURE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|**Max**|
+|**FEATURE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |:----|:----|:----|:----|:----|
 |Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
 |Min users|2|2|2|5|
