@@ -55,8 +55,8 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |AI Assistant|(optional)|✔|✔|
 |AI Data Analysis|(optional)|✔|✔|
 |AI Chat Arbiter|(optional)|✔|✔|
-|AI Personalization|(optional)|✔|✔|
-|AI Business Rules|(optional)|✔|✔|
+|AI Personalization (Fine-tuning)|(optional)|✔|✔|
+|AI Workflow (Business rules)|(optional)|✔|✔|
 |**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
 |Customer Management|(optional)|✔|✔|
