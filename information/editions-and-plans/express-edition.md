@@ -67,8 +67,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
 |AI Chat Arbiter| | |✔|✔|
-|AI Personalization| | | |✔|
-|AI Business Rules| | | |✔|
+|AI Personalization (Fine-tuning)| | | |✔|
+|AI Workflow (Business rules)| | | |✔|
 |**CRM**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**| |✔|✔|✔|
 |Customer Management| |✔|✔|✔|

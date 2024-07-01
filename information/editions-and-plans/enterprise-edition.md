@@ -51,8 +51,12 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
 |File Manager|✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)|(optional)|✔|✔|
-|Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
+|**AI CAPABILITIES**|**Standard**|**Premium**|**Corporate**|
+|AI Assistant|(optional)|✔|✔|
+|AI Data Analysis|(optional)|✔|✔|
+|AI Chat Arbiter|(optional)|✔|✔|
+|AI Personalization (Fine-tuning)|(optional)|✔|✔|
+|AI Workflow (Business rules)|(optional)|✔|✔|
 |**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
 |Customer Management|(optional)|✔|✔|

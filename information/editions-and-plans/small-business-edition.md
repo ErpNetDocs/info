@@ -57,8 +57,12 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)| | |✔|✔|
-|Advanced AI (Personalized models, Business rules)| | | |✔|
+|**AI CAPABILITIES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|AI Assistant| | |✔|✔|
+|AI Data Analysis| | |✔|✔|
+|AI Chat Arbiter| | |✔|✔|
+|AI Personalization (Fine-tuning)| | | |✔|
+|AI Workflow (Business rules)| | | |✔|
 |**CRM**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
