@@ -60,12 +60,8 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
-|Subscription Management (beta)|(optional)|✔|✔|
 |POS|(optional)|✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
-|**PROJECT MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
-|Agile Project Management (beta)|(optional)|✔|✔|
-|Classic Project Management (beta)|(optional)|✔|✔|
 |**LOGISTICS**|**Standard**|**Premium**|**Corporate**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
