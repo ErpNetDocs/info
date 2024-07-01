@@ -54,46 +54,51 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 
 **@@name Express** edition is available through the following subscription plans:  
 
-|**FEATURE**|**Team Collaboration**|**CRM**|**Pro**|
-|:----|:----|:----|:----|
-|Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
-|Min users|2|2|2|
-|Max users|1 000|1 000|1 000|
-|**PRODUCTIVITY**|**Team Collaboration**|**CRM**|**Pro**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
-|File Manager|✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)| | |✔|
-|**CRM**|**Team Collaboration**|**CRM**|**Pro**|
-|**[Contact & Lead Management](~/features/crm/presales.md)**| |✔|✔|
-|Customer Management| |✔|✔|
-|**[Product Management](~/info/features/crm/products.md)**| |✔|✔|
-|**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|
-|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|
-|**[Order Management](~/features/crm/sales.md)**| |✔|✔|
-|**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
-|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
-|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|
-|User-defined Business Rules| | |✔|
-|User-defined Jobs| | |✔|
-|**Compatible WEBSITES**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|✔|✔|✔|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✔|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|
-|**[Client Center](~/features/crm/client-center.md)**| | |✔|
-|Microsoft Sync| | |✔|
-|Number of website licenses included|1|1|1|
-|Extendable number of websites| | |✔|
-|**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|✔|✔|✔|
-|Storage Included|3 GB per user|3 GB per user|3 GB per user|
-|Storage Extendable|✔|✔|✔|
-|Test Instances allowed (billed separately)| | |✔|
-|Track Changes| | |✔|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|
-|**PRICE**|**Team Collaboration**|**CRM**|**Pro**|
-|Price per month|€9/user|€19/user|€39/user|
-|Price per month (annual payment)|€7.92/user|€16.72/user|€34.32/user|
+|**FEATURE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|**Max**|
+|:----|:----|:----|:----|:----|
+|Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
+|Min users|2|2|2|5|
+|Max users|1 000|1 000|1 000|1 000|
+|**PRODUCTIVITY**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
+|File Manager|✔|✔|✔|✔|
+|**AI CAPABILITIES**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|AI Assistant| | |✔|✔|
+|AI Data Analysis| | |✔|✔|
+|AI Chat Arbiter| | |✔|✔|
+|AI Personalization| | | |✔|
+|AI Business Rules| | | |✔|
+|**CRM**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|**[Contact & Lead Management](~/features/crm/presales.md)**| |✔|✔|✔|
+|Customer Management| |✔|✔|✔|
+|**[Product Management](~/info/features/crm/products.md)**| |✔|✔|✔|
+|**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|✔|
+|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|✔|
+|**[Order Management](~/features/crm/sales.md)**| |✔|✔|✔|
+|**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
+|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|✔|
+|User-defined Business Rules| | |✔|✔|
+|User-defined Jobs| | |✔|✔|
+|**Compatible WEBSITES**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|Web Client|✔|✔|✔|✔|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✔|✔|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|✔|
+|**[Client Center](~/features/crm/client-center.md)**| | |✔|✔|
+|Microsoft Sync| | |✔|✔|
+|Number of website licenses included|1|1|1|1|
+|Extendable number of websites| | |✔|✔|
+|**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|Web Client|✔|✔|✔|✔|
+|Storage Included|3 GB per user|3 GB per user|3 GB per user|3 GB per user|
+|Storage Extendable|✔|✔|✔|✔|
+|Test Instances allowed (billed separately)| | |✔|✔|
+|Track Changes| | |✔|✔|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
+|**PRICE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|Price per month|€9/user|€19/user|€39/user|€69/user|
+|Price per month (annual payment)|€7.92/user|€16.72/user|€34.32/user|€60.72/user|
 
 ## Key functionalities Express brings to your business
 
