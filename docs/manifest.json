@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "C:/TFSAgent15/_work/24/s",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -9,34 +8,52 @@
         "resource": {
           "relative_path": "index.json"
         }
-      },
-      "is_incremental": false
+      }
     },
     {
       "type": "Conceptual",
       "source_relative_path": "README.md",
       "output": {
         ".html": {
-          "relative_path": "README.html",
-          "hash": "l41it7fVCCxlbwL6p5RvWQ=="
+          "relative_path": "README.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "archive/2023/features/community/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/features/community/index.html",
-          "hash": "Sq22RXRHrFne/dIBUT8e+Q=="
+          "relative_path": "archive/2023/features/community/index.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/community/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/community/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/features/community/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/integrations/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/integrations/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/features/integrations/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -44,27 +61,35 @@
       "source_relative_path": "archive/2023/features/productivity/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/features/productivity/index.html",
-          "hash": "ZUbCHnrmJTHkHT9lEaFj+w=="
+          "relative_path": "archive/2023/features/productivity/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidTocInclude",
-        "InvalidFileLink"
-      ],
+      "type": "Toc",
+      "source_relative_path": "archive/2023/features/productivity/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/features/productivity/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/features/productivity/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "archive/2023/features/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/features/toc.html",
-          "hash": "ftr3y2E26oZYr1OYaQav5g=="
+          "relative_path": "archive/2023/features/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/features/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -72,11 +97,9 @@
       "source_relative_path": "archive/2023/solutions/agribusiness/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/agribusiness/index.html",
-          "hash": "U9nyjr6n+iLTAPISa7/8/w=="
+          "relative_path": "archive/2023/solutions/agribusiness/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -84,11 +107,9 @@
       "source_relative_path": "archive/2023/solutions/consumer-products/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/consumer-products/index.html",
-          "hash": "Rz4notpvu7scsvVznizgGg=="
+          "relative_path": "archive/2023/solutions/consumer-products/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -96,11 +117,9 @@
       "source_relative_path": "archive/2023/solutions/fashion/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/fashion/index.html",
-          "hash": "kVrfi9ysqSQRXld1885ziQ=="
+          "relative_path": "archive/2023/solutions/fashion/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -108,11 +127,9 @@
       "source_relative_path": "archive/2023/solutions/financial-services/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/financial-services/index.html",
-          "hash": "XUk/sP2gxM6w9nbhjBmZBg=="
+          "relative_path": "archive/2023/solutions/financial-services/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -120,11 +137,9 @@
       "source_relative_path": "archive/2023/solutions/health-and-life-sciences/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/health-and-life-sciences/index.html",
-          "hash": "BlWrWvamWAfp3AQHfXvcGQ=="
+          "relative_path": "archive/2023/solutions/health-and-life-sciences/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -132,11 +147,9 @@
       "source_relative_path": "archive/2023/solutions/high-tech/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/high-tech/index.html",
-          "hash": "fJL5M13tklpob334O1el0Q=="
+          "relative_path": "archive/2023/solutions/high-tech/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -144,11 +157,9 @@
       "source_relative_path": "archive/2023/solutions/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/index.html",
-          "hash": "df39kRPWIKZnn+4fs3b4Kg=="
+          "relative_path": "archive/2023/solutions/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -156,11 +167,9 @@
       "source_relative_path": "archive/2023/solutions/industrial-machinery-and-components/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/industrial-machinery-and-components/index.html",
-          "hash": "bpRsZvaUl+Fak0QSGXsS0Q=="
+          "relative_path": "archive/2023/solutions/industrial-machinery-and-components/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -168,11 +177,9 @@
       "source_relative_path": "archive/2023/solutions/industrial-manufacturing/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/industrial-manufacturing/index.html",
-          "hash": "Ta/jB5JnkfRq532Dfuf7QQ=="
+          "relative_path": "archive/2023/solutions/industrial-manufacturing/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -180,11 +187,9 @@
       "source_relative_path": "archive/2023/solutions/professional-services/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/professional-services/index.html",
-          "hash": "saUQxP82dyO9mnKybVtYdw=="
+          "relative_path": "archive/2023/solutions/professional-services/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -192,11 +197,9 @@
       "source_relative_path": "archive/2023/solutions/retail/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/retail/index.html",
-          "hash": "sAGk9NAbbsyo5RjyffBGpg=="
+          "relative_path": "archive/2023/solutions/retail/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -204,11 +207,12 @@
       "source_relative_path": "archive/2023/solutions/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/toc.html",
-          "hash": "ymk4f/SpTxfXtDshkpnjDA=="
+          "relative_path": "archive/2023/solutions/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/solutions/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -216,26 +220,19 @@
       "source_relative_path": "archive/2023/solutions/transportation-and-logistics/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/transportation-and-logistics/index.html",
-          "hash": "J8H4LRbh2n/6KjVFtJZB9A=="
+          "relative_path": "archive/2023/solutions/transportation-and-logistics/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "archive/2023/solutions/wholesale-distribution/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/wholesale-distribution/index.html",
-          "hash": "C1ECp/yIS2XwZTWMGITaFw=="
+          "relative_path": "archive/2023/solutions/wholesale-distribution/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -243,11 +240,9 @@
       "source_relative_path": "archive/2023/solutions/wholesale-distribution/key-features-for-distribution.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/wholesale-distribution/key-features-for-distribution.html",
-          "hash": "9fXYNHeKzntqV/7FtBvivg=="
+          "relative_path": "archive/2023/solutions/wholesale-distribution/key-features-for-distribution.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -255,11 +250,22 @@
       "source_relative_path": "archive/2023/solutions/wholesale-distribution/solutions-for-distribution-businesses.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/wholesale-distribution/solutions-for-distribution-businesses.html",
-          "hash": "6jU1oM/iv77/+Yx4WgsX6A=="
+          "relative_path": "archive/2023/solutions/wholesale-distribution/solutions-for-distribution-businesses.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "archive/2023/solutions/wholesale-distribution/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/toc.html"
+        },
+        ".json": {
+          "relative_path": "archive/2023/solutions/wholesale-distribution/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -267,11 +273,9 @@
       "source_relative_path": "archive/2023/solutions/wholesale-distribution/wholesale-distribution-benefits.md",
       "output": {
         ".html": {
-          "relative_path": "archive/2023/solutions/wholesale-distribution/wholesale-distribution-benefits.html",
-          "hash": "R3IVrTltzUAqFQ0xr/w5kA=="
+          "relative_path": "archive/2023/solutions/wholesale-distribution/wholesale-distribution-benefits.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -279,11 +283,9 @@
       "source_relative_path": "archive/index.md",
       "output": {
         ".html": {
-          "relative_path": "archive/index.html",
-          "hash": "0F8rFQC9g2d/Bck+ahY8tA=="
+          "relative_path": "archive/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -291,26 +293,19 @@
       "source_relative_path": "customers/alexfish-case-study.md",
       "output": {
         ".html": {
-          "relative_path": "customers/alexfish-case-study.html",
-          "hash": "q/Z6D/LZcTNUBAEgHOlXFQ=="
+          "relative_path": "customers/alexfish-case-study.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "customers/customer1.md",
       "output": {
         ".html": {
-          "relative_path": "customers/customer1.html",
-          "hash": "3ZU+Xbfjruu2xhG0fV2oVg=="
+          "relative_path": "customers/customer1.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -318,11 +313,9 @@
       "source_relative_path": "customers/index.md",
       "output": {
         ".html": {
-          "relative_path": "customers/index.html",
-          "hash": "X7+nG7ocvLm4fQtIcWP/EA=="
+          "relative_path": "customers/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -330,11 +323,12 @@
       "source_relative_path": "customers/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "customers/toc.html",
-          "hash": "YEvUNUpui5/uesVgqdN7jg=="
+          "relative_path": "customers/toc.html"
+        },
+        ".json": {
+          "relative_path": "customers/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -345,7 +339,6 @@
           "relative_path": "docs/features/applications/screenshot 1.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -356,7 +349,6 @@
           "relative_path": "docs/features/applications/screenshot 2.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -367,7 +359,6 @@
           "relative_path": "docs/features/community/chatter.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -378,7 +369,6 @@
           "relative_path": "docs/features/crm/BonusPrograms.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -389,7 +379,6 @@
           "relative_path": "docs/features/crm/PricingModels.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -400,7 +389,6 @@
           "relative_path": "docs/features/crm/PricingModels_1.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -411,7 +399,6 @@
           "relative_path": "docs/features/crm/PricingModels_2.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -422,7 +409,6 @@
           "relative_path": "docs/features/crm/ProductCard.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -433,7 +419,6 @@
           "relative_path": "docs/features/crm/PromoPackage.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -444,7 +429,6 @@
           "relative_path": "docs/features/crm/PromoPackageSales.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -455,7 +439,6 @@
           "relative_path": "docs/features/crm/SalesPrice.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -466,7 +449,6 @@
           "relative_path": "docs/features/crm/bpfree.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -477,7 +459,6 @@
           "relative_path": "docs/features/crm/bpfreesl.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -488,7 +469,6 @@
           "relative_path": "docs/features/crm/bpget10.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -499,7 +479,6 @@
           "relative_path": "docs/features/crm/bpget10sl.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -510,7 +489,6 @@
           "relative_path": "docs/features/crm/bpsave40.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -521,7 +499,6 @@
           "relative_path": "docs/features/general/WebView.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -532,7 +509,6 @@
           "relative_path": "docs/features/general/azuread-login.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -543,7 +519,6 @@
           "relative_path": "docs/features/general/chatter.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -554,7 +529,6 @@
           "relative_path": "docs/features/general/enterstop-forms.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -565,7 +539,6 @@
           "relative_path": "docs/features/general/enterstop-lines.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -576,7 +549,6 @@
           "relative_path": "docs/features/general/stored-attributes.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -587,7 +559,6 @@
           "relative_path": "docs/features/integrations/WebView.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -598,7 +569,6 @@
           "relative_path": "docs/features/integrations/azuread-login.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -609,7 +579,6 @@
           "relative_path": "docs/features/integrations/sso-microsoft-entra-id-login.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -620,7 +589,6 @@
           "relative_path": "docs/features/productivity/enterstop-lines.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -631,7 +599,6 @@
           "relative_path": "docs/features/system/stored-attributes.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -642,7 +609,6 @@
           "relative_path": "docs/features/ui-ux-features/WebView.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -653,7 +619,6 @@
           "relative_path": "docs/features/ui-ux-features/chatter.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -664,7 +629,6 @@
           "relative_path": "docs/features/ui-ux-features/enterstop-lines.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -675,22 +639,16 @@
           "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "docs/information/index.md",
       "output": {
         ".html": {
-          "relative_path": "docs/information/index.html",
-          "hash": "SX6UpfgBKPRUsGEdw0ZyQQ=="
+          "relative_path": "docs/information/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -701,7 +659,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-01-Color-with-Background.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -712,7 +669,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-01-Color.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -723,7 +679,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-01-Color.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -734,7 +689,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2-with-Background.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -745,7 +699,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -756,7 +709,6 @@
           "relative_path": "docs/information/logos/ERP-net-Logo-02-Color-v2.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -767,7 +719,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -778,7 +729,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -789,7 +739,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -800,7 +749,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -811,7 +759,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -822,7 +769,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Horizontal_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -833,7 +779,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_16x16.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -844,7 +789,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_24x24.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -855,7 +799,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_32x32.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -866,7 +809,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Mini_Arrow_48x48.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -877,7 +819,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -888,7 +829,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -899,7 +839,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -910,7 +849,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -921,7 +859,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -932,7 +869,6 @@
           "relative_path": "docs/information/logos/ERP.net_Logo_Vertical_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -943,7 +879,6 @@
           "relative_path": "docs/information/logos/Logo - Arrow-with-Background-Black.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -954,7 +889,6 @@
           "relative_path": "docs/information/logos/Logo - Arrow-with-Background-Brand-Blue.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -965,7 +899,6 @@
           "relative_path": "docs/information/logos/Logo - Arrow-with-Background-White.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -976,7 +909,6 @@
           "relative_path": "docs/information/logos/Logo - Arrow.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -987,7 +919,6 @@
           "relative_path": "docs/information/logos/Logo - Arrow.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -998,7 +929,6 @@
           "relative_path": "docs/information/logos/Logo-Arrow-with-Background-Black.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1009,7 +939,6 @@
           "relative_path": "docs/information/logos/Logo-Arrow-with-Background-Brand-Blue.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1020,7 +949,6 @@
           "relative_path": "docs/information/logos/Logo-Arrow-with-Background-White.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1031,7 +959,6 @@
           "relative_path": "docs/information/logos/Logo-Arrow.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1042,7 +969,6 @@
           "relative_path": "docs/information/logos/Logo-Arrow.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1053,7 +979,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1064,7 +989,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1075,7 +999,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1086,7 +1009,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1097,7 +1019,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1108,7 +1029,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Horizontal_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1119,7 +1039,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1130,7 +1049,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1141,7 +1059,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1152,7 +1069,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1163,7 +1079,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1174,7 +1089,6 @@
           "relative_path": "docs/information/logos/Powered by ERP.net_Logo_Vertical_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1185,7 +1099,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1196,7 +1109,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1207,7 +1119,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1218,7 +1129,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1229,7 +1139,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1240,7 +1149,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1251,7 +1159,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1262,7 +1169,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1273,7 +1179,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1284,7 +1189,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1295,7 +1199,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1306,7 +1209,6 @@
           "relative_path": "docs/information/logos/Powered_by_ERP.net_Logo_Vertical_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1317,7 +1219,6 @@
           "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1328,7 +1229,6 @@
           "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1339,7 +1239,6 @@
           "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1350,7 +1249,6 @@
           "relative_path": "docs/information/logos/logo-image-archive/ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1361,7 +1259,6 @@
           "relative_path": "docs/information/system-information/high-availability.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1372,7 +1269,6 @@
           "relative_path": "docs/logo-docs.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1383,7 +1279,6 @@
           "relative_path": "docs/logo.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1394,7 +1289,6 @@
           "relative_path": "docs/logo2.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1405,7 +1299,6 @@
           "relative_path": "docs/logo_new.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1416,7 +1309,6 @@
           "relative_path": "docs/logo_new1.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1427,7 +1319,6 @@
           "relative_path": "docs/logo_old.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1435,11 +1326,9 @@
       "source_relative_path": "features/applications/data-warehouse.md",
       "output": {
         ".html": {
-          "relative_path": "features/applications/data-warehouse.html",
-          "hash": "9JSaEE5YQu1eUhsvevkNgg=="
+          "relative_path": "features/applications/data-warehouse.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1447,11 +1336,9 @@
       "source_relative_path": "features/applications/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/applications/index.html",
-          "hash": "m/iYGE6tadAym59cN3wRiw=="
+          "relative_path": "features/applications/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1462,7 +1349,6 @@
           "relative_path": "features/applications/screenshot 1.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1473,7 +1359,19 @@
           "relative_path": "features/applications/screenshot 2.png"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/applications/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/applications/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/applications/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -1481,11 +1379,9 @@
       "source_relative_path": "features/crm/Calendar.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/Calendar.html",
-          "hash": "YfH0fWSliGyv+SJs2a5X9w=="
+          "relative_path": "features/crm/Calendar.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1496,7 +1392,6 @@
           "relative_path": "features/crm/PricingModels.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1507,7 +1402,6 @@
           "relative_path": "features/crm/PricingModels_1.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1518,7 +1412,6 @@
           "relative_path": "features/crm/PricingModels_2.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1529,7 +1422,6 @@
           "relative_path": "features/crm/ProductCard.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1540,7 +1432,6 @@
           "relative_path": "features/crm/PromoPackage.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1551,7 +1442,6 @@
           "relative_path": "features/crm/PromoPackageSales.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1562,7 +1452,6 @@
           "relative_path": "features/crm/SalesPrice.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1570,11 +1459,9 @@
       "source_relative_path": "features/crm/bonus-programs.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/bonus-programs.html",
-          "hash": "dKT0NZUv2F/4DU9cNAwK1g=="
+          "relative_path": "features/crm/bonus-programs.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1585,7 +1472,6 @@
           "relative_path": "features/crm/bpfree.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1596,7 +1482,6 @@
           "relative_path": "features/crm/bpfreesl.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1607,7 +1492,6 @@
           "relative_path": "features/crm/bpget10.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1618,7 +1502,6 @@
           "relative_path": "features/crm/bpget10sl.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1629,7 +1512,6 @@
           "relative_path": "features/crm/bpsave40.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1637,11 +1519,9 @@
       "source_relative_path": "features/crm/client-center.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/client-center.html",
-          "hash": "YqXIU0cgLxLFO6aCVtPGSA=="
+          "relative_path": "features/crm/client-center.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1649,11 +1529,9 @@
       "source_relative_path": "features/crm/conditional-discounts.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/conditional-discounts.html",
-          "hash": "1/iC3z7Jrq6BZXrSiYsM/g=="
+          "relative_path": "features/crm/conditional-discounts.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1661,11 +1539,9 @@
       "source_relative_path": "features/crm/conditional-prices.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/conditional-prices.html",
-          "hash": "9Y/6vc4X8ZiWwfTR7p29SA=="
+          "relative_path": "features/crm/conditional-prices.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1673,11 +1549,9 @@
       "source_relative_path": "features/crm/contacts-and-tasks.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/contacts-and-tasks.html",
-          "hash": "ESIUgQV0rDCJLZ5srkf18Q=="
+          "relative_path": "features/crm/contacts-and-tasks.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1685,11 +1559,9 @@
       "source_relative_path": "features/crm/distribution.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/distribution.html",
-          "hash": "xhX+GSFQ/ttuAMHOnG0N8A=="
+          "relative_path": "features/crm/distribution.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1697,11 +1569,9 @@
       "source_relative_path": "features/crm/end-customer.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/end-customer.html",
-          "hash": "RNsE+zti74HAAF1NCJsJ6Q=="
+          "relative_path": "features/crm/end-customer.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1709,11 +1579,9 @@
       "source_relative_path": "features/crm/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/index.html",
-          "hash": "qZR3oKAd/qAmHcTo9jwErg=="
+          "relative_path": "features/crm/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1721,11 +1589,9 @@
       "source_relative_path": "features/crm/invoicing.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/invoicing.html",
-          "hash": "7173uf/jN0YrQ3hTficT6w=="
+          "relative_path": "features/crm/invoicing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1733,11 +1599,9 @@
       "source_relative_path": "features/crm/marketing.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/marketing.html",
-          "hash": "H1BIReSLWRzZQZqNL3ozqA=="
+          "relative_path": "features/crm/marketing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1745,11 +1609,9 @@
       "source_relative_path": "features/crm/merchandising.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/merchandising.html",
-          "hash": "QDE9N028ZXEpIyyqaLyjHw=="
+          "relative_path": "features/crm/merchandising.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1757,11 +1619,9 @@
       "source_relative_path": "features/crm/omnichannel-sales.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/omnichannel-sales.html",
-          "hash": "swnz+av52vG8c+sP0e+jZw=="
+          "relative_path": "features/crm/omnichannel-sales.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1769,11 +1629,9 @@
       "source_relative_path": "features/crm/presales.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/presales.html",
-          "hash": "HX2vsdBvqDIF7biOLnBqkQ=="
+          "relative_path": "features/crm/presales.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1781,11 +1639,9 @@
       "source_relative_path": "features/crm/pricing.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/pricing.html",
-          "hash": "OOSZh9X91Aki5nA/SdUP/A=="
+          "relative_path": "features/crm/pricing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1793,11 +1649,9 @@
       "source_relative_path": "features/crm/product-configurator.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/product-configurator.html",
-          "hash": "Ysm5duz8DWFX3krx8q1SlQ=="
+          "relative_path": "features/crm/product-configurator.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1805,11 +1659,9 @@
       "source_relative_path": "features/crm/products.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/products.html",
-          "hash": "XVX7V2NYFeqsFtqW4WeqmA=="
+          "relative_path": "features/crm/products.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1817,11 +1669,9 @@
       "source_relative_path": "features/crm/promotional-packages.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/promotional-packages.html",
-          "hash": "U9LNUB7DT3J5DZlOqNKFsQ=="
+          "relative_path": "features/crm/promotional-packages.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1829,11 +1679,22 @@
       "source_relative_path": "features/crm/sales.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/sales.html",
-          "hash": "BPW88TyDDRPGsWZL1ssvPg=="
+          "relative_path": "features/crm/sales.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/crm/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/crm/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/crm/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -1841,11 +1702,9 @@
       "source_relative_path": "features/crm/unified-communications.md",
       "output": {
         ".html": {
-          "relative_path": "features/crm/unified-communications.html",
-          "hash": "rVA34dq0t0wQgYO9q04tAA=="
+          "relative_path": "features/crm/unified-communications.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1853,11 +1712,9 @@
       "source_relative_path": "features/financials/accounting.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/accounting.html",
-          "hash": "kapNZCpayUiGgCSG8hKr2A=="
+          "relative_path": "features/financials/accounting.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1865,11 +1722,9 @@
       "source_relative_path": "features/financials/cash-flows.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/cash-flows.html",
-          "hash": "kfDQv7e9e2CQ5Q6xhXlVXQ=="
+          "relative_path": "features/financials/cash-flows.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1877,11 +1732,9 @@
       "source_relative_path": "features/financials/cost-accounting.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/cost-accounting.html",
-          "hash": "V63agYhC+0scDk47ooTAZA=="
+          "relative_path": "features/financials/cost-accounting.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1889,11 +1742,9 @@
       "source_relative_path": "features/financials/costs.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/costs.html",
-          "hash": "riO9BxnBXYNluiqjB3iTPg=="
+          "relative_path": "features/financials/costs.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1901,11 +1752,9 @@
       "source_relative_path": "features/financials/excise.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/excise.html",
-          "hash": "n5LlUMrhzInXOzsjkxKC+w=="
+          "relative_path": "features/financials/excise.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1913,11 +1762,9 @@
       "source_relative_path": "features/financials/financial-analysis.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/financial-analysis.html",
-          "hash": "EIEQQSwLIMJ8yKMx0ZKrCg=="
+          "relative_path": "features/financials/financial-analysis.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1925,11 +1772,9 @@
       "source_relative_path": "features/financials/fixed-assets.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/fixed-assets.html",
-          "hash": "yNIN3irx2Kq/saHNp6Mdyw=="
+          "relative_path": "features/financials/fixed-assets.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1937,11 +1782,9 @@
       "source_relative_path": "features/financials/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/index.html",
-          "hash": "B/n+17ctx/Wxu5d6jrtVyw=="
+          "relative_path": "features/financials/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1949,11 +1792,9 @@
       "source_relative_path": "features/financials/intrastat-reporting.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/intrastat-reporting.html",
-          "hash": "Cb0bVmGk8gh/ZGYBT9kSUA=="
+          "relative_path": "features/financials/intrastat-reporting.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1961,11 +1802,22 @@
       "source_relative_path": "features/financials/payments.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/payments.html",
-          "hash": "9OAqtRdTiFfEFw2jEbSuAA=="
+          "relative_path": "features/financials/payments.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/financials/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/financials/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/financials/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -1973,11 +1825,9 @@
       "source_relative_path": "features/financials/vat-reporting.md",
       "output": {
         ".html": {
-          "relative_path": "features/financials/vat-reporting.html",
-          "hash": "gXn9kwjaIZJ3sveopWLMgA=="
+          "relative_path": "features/financials/vat-reporting.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1985,11 +1835,9 @@
       "source_relative_path": "features/general/business-intelligence.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/business-intelligence.html",
-          "hash": "xpJLc0yOcPddk3V6Xt+DVA=="
+          "relative_path": "features/general/business-intelligence.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -1997,11 +1845,9 @@
       "source_relative_path": "features/general/business-rules.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/business-rules.html",
-          "hash": "C/FReT7AF8cClCm4AlZAMw=="
+          "relative_path": "features/general/business-rules.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2009,11 +1855,9 @@
       "source_relative_path": "features/general/document-chain.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/document-chain.html",
-          "hash": "jwrEfHb5kcsnF5XWGIBpeQ=="
+          "relative_path": "features/general/document-chain.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2021,11 +1865,9 @@
       "source_relative_path": "features/general/file-manager.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/file-manager.html",
-          "hash": "87FUpAl6A3d1uWpf1ktwaA=="
+          "relative_path": "features/general/file-manager.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2033,11 +1875,9 @@
       "source_relative_path": "features/general/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/index.html",
-          "hash": "DRR2lztaKPlQJPmSztyQMA=="
+          "relative_path": "features/general/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2045,11 +1885,9 @@
       "source_relative_path": "features/general/multi-company.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/multi-company.html",
-          "hash": "qg//h+R0E3FfJUSriPtcVA=="
+          "relative_path": "features/general/multi-company.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2057,11 +1895,9 @@
       "source_relative_path": "features/general/multi-currency.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/multi-currency.html",
-          "hash": "T32QdPZTetIhiQyEjpaBgA=="
+          "relative_path": "features/general/multi-currency.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2069,11 +1905,9 @@
       "source_relative_path": "features/general/multiple-legislations.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/multiple-legislations.html",
-          "hash": "cXolnZ4Yo7vpyWr2kFvkfA=="
+          "relative_path": "features/general/multiple-legislations.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2081,11 +1915,22 @@
       "source_relative_path": "features/general/reporting.md",
       "output": {
         ".html": {
-          "relative_path": "features/general/reporting.html",
-          "hash": "RyumnkPRiSsq4zbJkoRD3Q=="
+          "relative_path": "features/general/reporting.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/general/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/general/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2093,11 +1938,9 @@
       "source_relative_path": "features/highlights.md",
       "output": {
         ".html": {
-          "relative_path": "features/highlights.html",
-          "hash": "wuX8KLd0yrlHxa4lZ8Vnag=="
+          "relative_path": "features/highlights.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2105,11 +1948,9 @@
       "source_relative_path": "features/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/index.html",
-          "hash": "hMvEVBBlbWCN3BiZ0SlsjQ=="
+          "relative_path": "features/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2117,11 +1958,9 @@
       "source_relative_path": "features/integrations/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/integrations/index.html",
-          "hash": "hXgONJiyVBckArnA4iJApg=="
+          "relative_path": "features/integrations/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2129,11 +1968,9 @@
       "source_relative_path": "features/integrations/sso-microsoft-entra-id-login.md",
       "output": {
         ".html": {
-          "relative_path": "features/integrations/sso-microsoft-entra-id-login.html",
-          "hash": "9kmhUgBqkZf7e4JovqCsdA=="
+          "relative_path": "features/integrations/sso-microsoft-entra-id-login.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2144,7 +1981,19 @@
           "relative_path": "features/integrations/sso-microsoft-entra-id-login.png"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/integrations/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/integrations/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/integrations/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2152,11 +2001,9 @@
       "source_relative_path": "features/logistics/barcode-control.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/barcode-control.html",
-          "hash": "WPPSJhxOTPOWIkvqTZhFSg=="
+          "relative_path": "features/logistics/barcode-control.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2164,11 +2011,9 @@
       "source_relative_path": "features/logistics/composite-products.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/composite-products.html",
-          "hash": "yCvlxlkZCcx82PbAIw1P3Q=="
+          "relative_path": "features/logistics/composite-products.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2176,11 +2021,9 @@
       "source_relative_path": "features/logistics/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/index.html",
-          "hash": "v670c1lHR9yDjWxIlOz9Sg=="
+          "relative_path": "features/logistics/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2188,11 +2031,9 @@
       "source_relative_path": "features/logistics/inventory-control.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/inventory-control.html",
-          "hash": "vydgH1vH61JizNs+VyicgQ=="
+          "relative_path": "features/logistics/inventory-control.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2200,11 +2041,9 @@
       "source_relative_path": "features/logistics/logistic-units.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/logistic-units.html",
-          "hash": "Ekhr8A1aUwvQq4p/W2egoA=="
+          "relative_path": "features/logistics/logistic-units.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2212,11 +2051,9 @@
       "source_relative_path": "features/logistics/lot-tracking.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/lot-tracking.html",
-          "hash": "zxg0iVMusQ8vpvYQMTkDNQ=="
+          "relative_path": "features/logistics/lot-tracking.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2224,11 +2061,9 @@
       "source_relative_path": "features/logistics/projected-available-balance.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/projected-available-balance.html",
-          "hash": "Qug4W1r3IcO1xg2MAtyfcA=="
+          "relative_path": "features/logistics/projected-available-balance.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2236,11 +2071,9 @@
       "source_relative_path": "features/logistics/serial-numbers.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/serial-numbers.html",
-          "hash": "Mc5KI50ONsV6YIBjToABjQ=="
+          "relative_path": "features/logistics/serial-numbers.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2248,11 +2081,22 @@
       "source_relative_path": "features/logistics/shipment.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/shipment.html",
-          "hash": "8uwRv8/Ka+iCShN3N6RvQQ=="
+          "relative_path": "features/logistics/shipment.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/logistics/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/logistics/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/logistics/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2260,11 +2104,9 @@
       "source_relative_path": "features/logistics/variable-measurement-ratios.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/variable-measurement-ratios.html",
-          "hash": "BxoZemKrrnuaxty/PJ+w/g=="
+          "relative_path": "features/logistics/variable-measurement-ratios.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2272,11 +2114,9 @@
       "source_relative_path": "features/logistics/warehouse-management.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/warehouse-management.html",
-          "hash": "oAZ9LIIjTR07SPgqZn/MTQ=="
+          "relative_path": "features/logistics/warehouse-management.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2284,11 +2124,9 @@
       "source_relative_path": "features/logistics/wms-routing-examples.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/wms-routing-examples.html",
-          "hash": "Mn48dIKyyabjpjVRYb8DCg=="
+          "relative_path": "features/logistics/wms-routing-examples.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2296,11 +2134,9 @@
       "source_relative_path": "features/logistics/wms-worker.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/wms-worker.html",
-          "hash": "HRkfn1N7owEuxS3AyhS8zg=="
+          "relative_path": "features/logistics/wms-worker.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2308,11 +2144,9 @@
       "source_relative_path": "features/logistics/wms-zone-based-routing.md",
       "output": {
         ".html": {
-          "relative_path": "features/logistics/wms-zone-based-routing.html",
-          "hash": "qVrxU+yjM/7ABfexeBqVvA=="
+          "relative_path": "features/logistics/wms-zone-based-routing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2320,11 +2154,9 @@
       "source_relative_path": "features/my-apps/dashboard.md",
       "output": {
         ".html": {
-          "relative_path": "features/my-apps/dashboard.html",
-          "hash": "FQU4H6uEiBXP+LLr8/vT/w=="
+          "relative_path": "features/my-apps/dashboard.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2332,11 +2164,9 @@
       "source_relative_path": "features/my-apps/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/my-apps/index.html",
-          "hash": "kb0U6Z9sNrjcc8fmPJZM5g=="
+          "relative_path": "features/my-apps/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2344,11 +2174,9 @@
       "source_relative_path": "features/my-apps/team-collaboration.md",
       "output": {
         ".html": {
-          "relative_path": "features/my-apps/team-collaboration.html",
-          "hash": "1A9aLSLNvHSk600IxfVImA=="
+          "relative_path": "features/my-apps/team-collaboration.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2356,11 +2184,22 @@
       "source_relative_path": "features/my-apps/tiles.md",
       "output": {
         ".html": {
-          "relative_path": "features/my-apps/tiles.html",
-          "hash": "HPdIpfZ1Thjh0zrl9PRGog=="
+          "relative_path": "features/my-apps/tiles.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/my-apps/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/my-apps/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2368,11 +2207,9 @@
       "source_relative_path": "features/my-apps/todo.md",
       "output": {
         ".html": {
-          "relative_path": "features/my-apps/todo.html",
-          "hash": "wewlQiiVXAc8GKs/AdqqHQ=="
+          "relative_path": "features/my-apps/todo.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2380,11 +2217,9 @@
       "source_relative_path": "features/production/crp.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/crp.html",
-          "hash": "RmJ5mBoVquMUkPjQQ7X8Jw=="
+          "relative_path": "features/production/crp.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2392,11 +2227,9 @@
       "source_relative_path": "features/production/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/index.html",
-          "hash": "KiGVP6pwog6YnsNJnFrx9w=="
+          "relative_path": "features/production/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2404,11 +2237,9 @@
       "source_relative_path": "features/production/mrp.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/mrp.html",
-          "hash": "NFVOdhtUC3KjatvM9zTxVg=="
+          "relative_path": "features/production/mrp.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2416,11 +2247,9 @@
       "source_relative_path": "features/production/principal-technologies.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/principal-technologies.html",
-          "hash": "znpna0ctiWnrO2tH68PIyw=="
+          "relative_path": "features/production/principal-technologies.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2428,11 +2257,9 @@
       "source_relative_path": "features/production/product-technologies.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/product-technologies.html",
-          "hash": "EmjIJ5s9S/9XIP4gRi0LfQ=="
+          "relative_path": "features/production/product-technologies.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2440,11 +2267,22 @@
       "source_relative_path": "features/production/shop-floor.md",
       "output": {
         ".html": {
-          "relative_path": "features/production/shop-floor.html",
-          "hash": "eHwJhRl0/ZIFbS+6MseSGw=="
+          "relative_path": "features/production/shop-floor.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/production/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/production/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/production/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2452,11 +2290,9 @@
       "source_relative_path": "features/projects/agile-projects.md",
       "output": {
         ".html": {
-          "relative_path": "features/projects/agile-projects.html",
-          "hash": "pMHYO97JVtqV3NWaZy9PnQ=="
+          "relative_path": "features/projects/agile-projects.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2464,11 +2300,9 @@
       "source_relative_path": "features/projects/artificial-intelligence.md",
       "output": {
         ".html": {
-          "relative_path": "features/projects/artificial-intelligence.html",
-          "hash": "MdocBe6rdWCtfBzUmzJOBg=="
+          "relative_path": "features/projects/artificial-intelligence.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2476,11 +2310,9 @@
       "source_relative_path": "features/projects/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/projects/index.html",
-          "hash": "ddD+mWYbt6WL8/K9WPSBpQ=="
+          "relative_path": "features/projects/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2488,11 +2320,9 @@
       "source_relative_path": "features/system/calculated-attributes.md",
       "output": {
         ".html": {
-          "relative_path": "features/system/calculated-attributes.html",
-          "hash": "bpkuc72S8sL3VyI/xoWALg=="
+          "relative_path": "features/system/calculated-attributes.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2500,11 +2330,9 @@
       "source_relative_path": "features/system/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/system/index.html",
-          "hash": "hu1gCFxPBP++bprxxXkMGQ=="
+          "relative_path": "features/system/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2512,11 +2340,9 @@
       "source_relative_path": "features/system/multi-language.md",
       "output": {
         ".html": {
-          "relative_path": "features/system/multi-language.html",
-          "hash": "ag6Cyy7LeuU34NWwnYkbjQ=="
+          "relative_path": "features/system/multi-language.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2524,11 +2350,9 @@
       "source_relative_path": "features/system/stored-attributes.md",
       "output": {
         ".html": {
-          "relative_path": "features/system/stored-attributes.html",
-          "hash": "ltzDpy/UhzYVUSO+uRsszA=="
+          "relative_path": "features/system/stored-attributes.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2539,7 +2363,19 @@
           "relative_path": "features/system/stored-attributes.png"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/system/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/system/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/system/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2547,11 +2383,9 @@
       "source_relative_path": "features/third-party-apps/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/third-party-apps/index.html",
-          "hash": "YstICfrq1qpS2F89MKBNyg=="
+          "relative_path": "features/third-party-apps/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2559,11 +2393,9 @@
       "source_relative_path": "features/third-party-apps/mobileseller.md",
       "output": {
         ".html": {
-          "relative_path": "features/third-party-apps/mobileseller.html",
-          "hash": "EJT4J/zucINATfCuDLdJ+A=="
+          "relative_path": "features/third-party-apps/mobileseller.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2571,11 +2403,9 @@
       "source_relative_path": "features/third-party-apps/payment-reminders.md",
       "output": {
         ".html": {
-          "relative_path": "features/third-party-apps/payment-reminders.html",
-          "hash": "vR9EKdUyyobs4ELgxqyLZw=="
+          "relative_path": "features/third-party-apps/payment-reminders.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2583,11 +2413,22 @@
       "source_relative_path": "features/third-party-apps/servicedesk.md",
       "output": {
         ".html": {
-          "relative_path": "features/third-party-apps/servicedesk.html",
-          "hash": "f5xIOuL9osdY2BFo9qDPiA=="
+          "relative_path": "features/third-party-apps/servicedesk.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/third-party-apps/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/third-party-apps/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/third-party-apps/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2595,11 +2436,12 @@
       "source_relative_path": "features/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "features/toc.html",
-          "hash": "MqMxANm7eDJ2hhsv4jtSlA=="
+          "relative_path": "features/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2610,7 +2452,6 @@
           "relative_path": "features/ui-ux-features/WebView.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2618,11 +2459,9 @@
       "source_relative_path": "features/ui-ux-features/chatter.md",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/chatter.html",
-          "hash": "TYHaXwK6+RswImpjkShf8A=="
+          "relative_path": "features/ui-ux-features/chatter.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2633,7 +2472,6 @@
           "relative_path": "features/ui-ux-features/chatter.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2641,11 +2479,9 @@
       "source_relative_path": "features/ui-ux-features/enter-stop.md",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/enter-stop.html",
-          "hash": "X9Xx/Q1LORZOfBxnjhuMAQ=="
+          "relative_path": "features/ui-ux-features/enter-stop.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2656,7 +2492,6 @@
           "relative_path": "features/ui-ux-features/enterstop-lines.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2664,11 +2499,9 @@
       "source_relative_path": "features/ui-ux-features/index.md",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/index.html",
-          "hash": "eCWh6sMBWxVBfsSExZOyFQ=="
+          "relative_path": "features/ui-ux-features/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2676,11 +2509,9 @@
       "source_relative_path": "features/ui-ux-features/run-ui-function.md",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/run-ui-function.html",
-          "hash": "xZwsgPkZ72j55F+WbSRjYg=="
+          "relative_path": "features/ui-ux-features/run-ui-function.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2688,11 +2519,12 @@
       "source_relative_path": "features/ui-ux-features/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/toc.html",
-          "hash": "uW4RG9V9x8QGYV7eEf35Bg=="
+          "relative_path": "features/ui-ux-features/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/ui-ux-features/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2700,11 +2532,9 @@
       "source_relative_path": "features/ui-ux-features/web-view.md",
       "output": {
         ".html": {
-          "relative_path": "features/ui-ux-features/web-view.html",
-          "hash": "durGj65JMX1o0EMgKE6nWQ=="
+          "relative_path": "features/ui-ux-features/web-view.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2712,11 +2542,9 @@
       "source_relative_path": "includes/cta.md",
       "output": {
         ".html": {
-          "relative_path": "includes/cta.html",
-          "hash": "zjYlxjeTwussIk3/uIdYoA=="
+          "relative_path": "includes/cta.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2724,11 +2552,9 @@
       "source_relative_path": "includes/name.md",
       "output": {
         ".html": {
-          "relative_path": "includes/name.html",
-          "hash": "BEJ43cFRPPu5lbZY1+kQCA=="
+          "relative_path": "includes/name.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2736,11 +2562,9 @@
       "source_relative_path": "includes/winclient.md",
       "output": {
         ".html": {
-          "relative_path": "includes/winclient.html",
-          "hash": "ImCF5PxWw8KW4qE5ZAel7w=="
+          "relative_path": "includes/winclient.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2748,41 +2572,29 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "WdJ9nMgeY66p72KCjomd/A=="
+          "relative_path": "index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/enterprise-edition.md",
       "output": {
         ".html": {
-          "relative_path": "information/editions-and-plans/enterprise-edition.html",
-          "hash": "nYAYeKfYFEYiEaCjfOevdg=="
+          "relative_path": "information/editions-and-plans/enterprise-edition.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/express-edition.md",
       "output": {
         ".html": {
-          "relative_path": "information/editions-and-plans/express-edition.html",
-          "hash": "rqB894hhjP7vIyT6C3MetQ=="
+          "relative_path": "information/editions-and-plans/express-edition.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2790,26 +2602,32 @@
       "source_relative_path": "information/editions-and-plans/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/editions-and-plans/index.html",
-          "hash": "2t6/VADeh440jrHoWflhPA=="
+          "relative_path": "information/editions-and-plans/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/small-business-edition.md",
       "output": {
         ".html": {
-          "relative_path": "information/editions-and-plans/small-business-edition.html",
-          "hash": "tg2Xmm/oeWveCRaVJgcnsg=="
+          "relative_path": "information/editions-and-plans/small-business-edition.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/editions-and-plans/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/editions-and-plans/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2817,11 +2635,9 @@
       "source_relative_path": "information/faq/crm-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/crm-faq.html",
-          "hash": "lRqx6MEEWgpKeW6v96poDg=="
+          "relative_path": "information/faq/crm-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2829,11 +2645,9 @@
       "source_relative_path": "information/faq/financials-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/financials-faq.html",
-          "hash": "nqgg77oOhp1rXTrTwmaz1A=="
+          "relative_path": "information/faq/financials-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2841,11 +2655,9 @@
       "source_relative_path": "information/faq/general-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/general-faq.html",
-          "hash": "X6YGRekPx/QXrsBjd4NkWA=="
+          "relative_path": "information/faq/general-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2853,11 +2665,9 @@
       "source_relative_path": "information/faq/hosting-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/hosting-faq.html",
-          "hash": "jtc0ELbeXkfxa6S/6t9cEw=="
+          "relative_path": "information/faq/hosting-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2865,11 +2675,9 @@
       "source_relative_path": "information/faq/implementation-support-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/implementation-support-faq.html",
-          "hash": "vUaJKdKqazQgbBs9V2zH2A=="
+          "relative_path": "information/faq/implementation-support-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2877,11 +2685,9 @@
       "source_relative_path": "information/faq/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/index.html",
-          "hash": "Lz8NPJCc/4Oh58jl5g3svQ=="
+          "relative_path": "information/faq/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2889,11 +2695,9 @@
       "source_relative_path": "information/faq/logistics-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/logistics-faq.html",
-          "hash": "srWWSvOmMcWHSMrWZ7iVew=="
+          "relative_path": "information/faq/logistics-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2901,11 +2705,9 @@
       "source_relative_path": "information/faq/reporting-bi-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/reporting-bi-faq.html",
-          "hash": "5I2+DynD7tMunNsXWAa5kg=="
+          "relative_path": "information/faq/reporting-bi-faq.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2913,11 +2715,22 @@
       "source_relative_path": "information/faq/security-faq.md",
       "output": {
         ".html": {
-          "relative_path": "information/faq/security-faq.html",
-          "hash": "UgGfJuYs2vrmWmz0k1/nAQ=="
+          "relative_path": "information/faq/security-faq.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/faq/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/faq/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/faq/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2925,11 +2738,9 @@
       "source_relative_path": "information/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/index.html",
-          "hash": "WaHlrdU+AA1IjmG/1/aA1A=="
+          "relative_path": "information/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2937,11 +2748,9 @@
       "source_relative_path": "information/licensing/concurrent-sessions-based-licensing.md",
       "output": {
         ".html": {
-          "relative_path": "information/licensing/concurrent-sessions-based-licensing.html",
-          "hash": "B2pHK0OLXusAkfBw0jKuhg=="
+          "relative_path": "information/licensing/concurrent-sessions-based-licensing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2949,11 +2758,9 @@
       "source_relative_path": "information/licensing/core-licensing.md",
       "output": {
         ".html": {
-          "relative_path": "information/licensing/core-licensing.html",
-          "hash": "cadbGAD93Rjqx4U8I5rHyQ=="
+          "relative_path": "information/licensing/core-licensing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2961,11 +2768,9 @@
       "source_relative_path": "information/licensing/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/licensing/index.html",
-          "hash": "d/WNchs76uYzmqALny3SeQ=="
+          "relative_path": "information/licensing/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -2973,11 +2778,22 @@
       "source_relative_path": "information/licensing/registered-user-based-licensing.md",
       "output": {
         ".html": {
-          "relative_path": "information/licensing/registered-user-based-licensing.html",
-          "hash": "syweCVzW56iF1LtN8VYQCw=="
+          "relative_path": "information/licensing/registered-user-based-licensing.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/licensing/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/licensing/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -2985,11 +2801,9 @@
       "source_relative_path": "information/licensing/user-types.md",
       "output": {
         ".html": {
-          "relative_path": "information/licensing/user-types.html",
-          "hash": "Zd9qacPY2vx+6EID1m5vTg=="
+          "relative_path": "information/licensing/user-types.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3000,7 +2814,6 @@
           "relative_path": "information/logos/ERP-net-Logo-01-Color-with-Background.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3011,7 +2824,6 @@
           "relative_path": "information/logos/ERP-net-Logo-01-Color.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3022,7 +2834,6 @@
           "relative_path": "information/logos/ERP-net-Logo-01-Color.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3033,7 +2844,6 @@
           "relative_path": "information/logos/ERP-net-Logo-02-Color-v2-with-Background.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3044,7 +2854,6 @@
           "relative_path": "information/logos/ERP-net-Logo-02-Color-v2.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3055,7 +2864,6 @@
           "relative_path": "information/logos/ERP-net-Logo-02-Color-v2.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3066,7 +2874,6 @@
           "relative_path": "information/logos/ERP.net_Logo_Mini_Arrow_16x16.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3077,7 +2884,6 @@
           "relative_path": "information/logos/ERP.net_Logo_Mini_Arrow_24x24.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3088,7 +2894,6 @@
           "relative_path": "information/logos/ERP.net_Logo_Mini_Arrow_32x32.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3099,7 +2904,6 @@
           "relative_path": "information/logos/ERP.net_Logo_Mini_Arrow_48x48.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3110,7 +2914,6 @@
           "relative_path": "information/logos/Logo-Arrow-with-Background-Black.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3121,7 +2924,6 @@
           "relative_path": "information/logos/Logo-Arrow-with-Background-Brand-Blue.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3132,7 +2934,6 @@
           "relative_path": "information/logos/Logo-Arrow-with-Background-White.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3143,7 +2944,6 @@
           "relative_path": "information/logos/Logo-Arrow.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3154,7 +2954,6 @@
           "relative_path": "information/logos/Logo-Arrow.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3165,7 +2964,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3176,7 +2974,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3187,7 +2984,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3198,7 +2994,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3209,7 +3004,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3220,7 +3014,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3231,7 +3024,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3242,7 +3034,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_Blue_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3253,7 +3044,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_Blue_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3264,7 +3054,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3275,7 +3064,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_White_0.5x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3286,7 +3074,6 @@
           "relative_path": "information/logos/Powered_by_ERP.net_Logo_Vertical_White_2.0x.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3294,11 +3081,9 @@
       "source_relative_path": "information/logos/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/logos/index.html",
-          "hash": "U31LVFaWG/Gg8rCO/y+duA=="
+          "relative_path": "information/logos/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3309,7 +3094,6 @@
           "relative_path": "information/logos/logo-image-archive/ERP.net_Logo_Horizontal_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3320,7 +3104,6 @@
           "relative_path": "information/logos/logo-image-archive/ERP.net_Logo_Horizontal_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3331,7 +3114,6 @@
           "relative_path": "information/logos/logo-image-archive/ERP.net_Logo_Vertical_Blue.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3342,7 +3124,6 @@
           "relative_path": "information/logos/logo-image-archive/ERP.net_Logo_Vertical_White.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3350,11 +3131,9 @@
       "source_relative_path": "information/system-information/auditing.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/auditing.html",
-          "hash": "xr1BzK1QB/zFNIQ3UbkKlw=="
+          "relative_path": "information/system-information/auditing.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3362,11 +3141,9 @@
       "source_relative_path": "information/system-information/disaster-recovery.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/disaster-recovery.html",
-          "hash": "LqYm8cTvrZHW5LSGTL5Qkw=="
+          "relative_path": "information/system-information/disaster-recovery.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3374,11 +3151,9 @@
       "source_relative_path": "information/system-information/high-availability.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/high-availability.html",
-          "hash": "GtAPLEPZgm9s/R2pKI0m4w=="
+          "relative_path": "information/system-information/high-availability.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3389,7 +3164,6 @@
           "relative_path": "information/system-information/high-availability.png"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3397,11 +3171,9 @@
       "source_relative_path": "information/system-information/index.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/index.html",
-          "hash": "62GYmBIPYaxFaoJCgEMZxQ=="
+          "relative_path": "information/system-information/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3409,11 +3181,9 @@
       "source_relative_path": "information/system-information/security.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/security.html",
-          "hash": "tqINzkCt2r6s5aFeSmRHcg=="
+          "relative_path": "information/system-information/security.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3421,11 +3191,22 @@
       "source_relative_path": "information/system-information/system-requirements.md",
       "output": {
         ".html": {
-          "relative_path": "information/system-information/system-requirements.html",
-          "hash": "my9t1aXHnt2zaJpUeQYQDg=="
+          "relative_path": "information/system-information/system-requirements.html"
         }
       },
-      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/system-information/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/system-information/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/system-information/toc.json"
+        }
+      },
       "version": ""
     },
     {
@@ -3433,11 +3214,12 @@
       "source_relative_path": "information/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "information/toc.html",
-          "hash": "DKUT3iTmnE3CA8wtucNhKw=="
+          "relative_path": "information/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3445,11 +3227,9 @@
       "source_relative_path": "information/try-our-system.md",
       "output": {
         ".html": {
-          "relative_path": "information/try-our-system.html",
-          "hash": "pXNRvpRMW1zBC63e0ds3Hg=="
+          "relative_path": "information/try-our-system.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3457,11 +3237,9 @@
       "source_relative_path": "information/try-out-erp-net-express-crm.md",
       "output": {
         ".html": {
-          "relative_path": "information/try-out-erp-net-express-crm.html",
-          "hash": "IcDgTwxJgeIsqusiKZ2fyQ=="
+          "relative_path": "information/try-out-erp-net-express-crm.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3469,11 +3247,9 @@
       "source_relative_path": "legal/educational-license.md",
       "output": {
         ".html": {
-          "relative_path": "legal/educational-license.html",
-          "hash": "AzmfhkriiHrTm40V1Z8K+Q=="
+          "relative_path": "legal/educational-license.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3481,11 +3257,9 @@
       "source_relative_path": "legal/index.md",
       "output": {
         ".html": {
-          "relative_path": "legal/index.html",
-          "hash": "7aIHNVGz4SKc3Dubv1j4Og=="
+          "relative_path": "legal/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3493,11 +3267,9 @@
       "source_relative_path": "legal/platform-terms-of-use.md",
       "output": {
         ".html": {
-          "relative_path": "legal/platform-terms-of-use.html",
-          "hash": "yk+iDicRVZOaZlvXPBDZsQ=="
+          "relative_path": "legal/platform-terms-of-use.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3505,11 +3277,9 @@
       "source_relative_path": "legal/privacy.md",
       "output": {
         ".html": {
-          "relative_path": "legal/privacy.html",
-          "hash": "9kQfGewz8nOyuMA8CTtXfg=="
+          "relative_path": "legal/privacy.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3517,11 +3287,12 @@
       "source_relative_path": "legal/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "legal/toc.html",
-          "hash": "GJ1J0lULYTXpqVqe4PDksg=="
+          "relative_path": "legal/toc.html"
+        },
+        ".json": {
+          "relative_path": "legal/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3532,7 +3303,6 @@
           "relative_path": "logo-docs.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3543,7 +3313,6 @@
           "relative_path": "logo.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3554,7 +3323,6 @@
           "relative_path": "logo_old.svg"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3562,11 +3330,9 @@
       "source_relative_path": "partners/apply-for-a-partner.md",
       "output": {
         ".html": {
-          "relative_path": "partners/apply-for-a-partner.html",
-          "hash": "WdmU67bfEFsvRScOz8b7Kg=="
+          "relative_path": "partners/apply-for-a-partner.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3574,11 +3340,9 @@
       "source_relative_path": "partners/index.md",
       "output": {
         ".html": {
-          "relative_path": "partners/index.html",
-          "hash": "sjJ0vyJL6Nj+/9uTU3ZlgQ=="
+          "relative_path": "partners/index.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3586,11 +3350,9 @@
       "source_relative_path": "partners/partner-program-requirements-and-benefits.md",
       "output": {
         ".html": {
-          "relative_path": "partners/partner-program-requirements-and-benefits.html",
-          "hash": "xIWDBzJHwiPEZ05CCjuDlw=="
+          "relative_path": "partners/partner-program-requirements-and-benefits.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3598,11 +3360,9 @@
       "source_relative_path": "partners/partner-program-terms-and-conditions.md",
       "output": {
         ".html": {
-          "relative_path": "partners/partner-program-terms-and-conditions.html",
-          "hash": "keDjViAjuW8pTHhFVzNX1A=="
+          "relative_path": "partners/partner-program-terms-and-conditions.html"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3610,11 +3370,12 @@
       "source_relative_path": "partners/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "partners/toc.html",
-          "hash": "AYEL4TbBa6ATnCE9bYhQHQ=="
+          "relative_path": "partners/toc.html"
+        },
+        ".json": {
+          "relative_path": "partners/toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -3622,58 +3383,15 @@
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
-          "relative_path": "toc.html",
-          "hash": "1C+f/3jBVbvICP2I+9tPDA=="
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
-      "is_incremental": false,
       "version": ""
     }
   ],
-  "incremental_info": [
-    {
-      "status": {
-        "can_incremental": true,
-        "incrementalPhase": "build",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ConceptualDocumentProcessor cannot support incremental build because the following steps don't implement ISupportIncrementalBuildStep interface: ProcessLists.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        }
-      }
-    },
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {}
-    }
-  ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
