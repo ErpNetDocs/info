@@ -76,7 +76,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**| |✔|✔|✔|
-|**BUSINESS APPS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**BUSINESS APPS**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |Service Center Management| | | |✔|
 |Asset Management (beta)| | | |✔|
 |Fleet Management (beta)| | | |✔|
