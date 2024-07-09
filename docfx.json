@@ -2,16 +2,14 @@
   "build": {
     "content": [
       {
-        "files": [
-          "toc.yml",
-          "**.md",
-          "**/toc.yml"
-        ]
+        "files": [ "toc.yml", "**.md", "**/toc.yml" ],
+        "exclude": [ "docs/**/*.*" ]
       }
     ],
     "resource": [
       {
-        "files": [ "images/**", "**.svg", "**.png" ]
+        "files": [ "images/**", "**.svg", "**.png" ],
+        "exclude": [ "docs/**/*.*" ]
       }
     ],
     "xref": [
