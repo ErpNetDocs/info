@@ -17,7 +17,9 @@ Retail stores and other simplified storage spaces go through three basic process
 
 * **Receiving goods** from suppliers or from other stores 
 * **Issuing goods** that are sold to customers or moved to other stores 
-* **Counting stock** in the storage area and on the shelves  
+* **Counting stock** in the storage area and on the shelves 
+* **Transferring goods** from one store to another
+* **Scrap stock** that is damaged beyond sale, missing from your physical store, past its expiry date, or your store simply no longer needs it.  
 
 These processes are an essential part of your shop or retail business. 
 But their repetitive nature can be tiring and time-consuming.  
