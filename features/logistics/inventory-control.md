@@ -13,7 +13,7 @@ Introduced in v.2024, **@@name** brings the **Inventory Control** mobile app - t
 
 The basic actions associated with the inventory of your store may be relatively simple, but these occupy **a significant part of your employees' workday**.  
 
-Retail stores and other simplified storage spaces go through three basic processes with their stock:  
+Retail stores and other simplified storage spaces go through several basic processes with their stock:  
 
 * **Receiving goods** from suppliers or from other stores 
 * **Issuing goods** that are sold to customers or moved to other stores 
