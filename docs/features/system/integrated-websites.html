@@ -90,30 +90,35 @@
 <h2 id="overview">Overview</h2>
 <p>The ERP.net platform supports a variety of <strong>integrated websites</strong>.
 These websites are brought up and run around the central core of the ERP.net system.</p>
-<p>Their designation is to offer expanding functionality to company teams, management, partners, customers, local and state authorities, and others.</p>
+<p>Their designation is to offer expanded functionality to company teams, management, partners, customers, local and state authorities, and others.</p>
 <p>Integrated websites are web applications that serve to support a range of business operations, such as:</p>
 <ul>
 <li>API integrations</li>
 <li>Service portals</li>
 <li>Customer service</li>
 <li>Cross-platform synchronizations</li>
-<li>Worker-side store and warehouse operations</li>
-<li>System administration and other technical operations</li>
+<li>Specific worker-style apps, like WMS Worker</li>
+<li>System administration and other technical operations<br>
+etc.</li>
 </ul>
 <h2 id="integrated-website-licensing">Integrated Website Licensing</h2>
 <p>Integrated Websites are available after purchasing a license for each of them.
-Website licenses are counted toward a single website instance, taking into account <strong>only the number of websites</strong> available for use.</p>
+Website licenses are counted toward the website instances, taking into consideration only <strong>the number of websites</strong> which have been started.</p>
 <p>Each license provides <strong>a slot</strong> for an integrated website and <strong>does not limit</strong> the type of website that can be used with it.</p>
 <h3 id="website-license-usage-example">Website License Usage Example</h3>
-<p>For example, if you choose to use the Client Center, the Domain API, and the Revenue Service Portal, you will need <strong>three website licenses</strong>.</p>
+<p>For example, if you choose to use the Client Center, the Domain API, and the Revenue Service Portal, you will need <strong>3 website licenses</strong>.</p>
 <p>After that, you can even swap these websites on the go.</p>
 <p>Suppose you no longer need to use the Domain API, or you temporarily won't need it.
 In addition, you assessed Table API would be beneficial to your business.</p>
 <p>You can remove the Domain API from your website list within the ERP.net platform.
 Then, you can use the freed-up slot to put another website - in this case, the Table API.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Most website types can be started more than once - for example, the Client Center (for more info - see below).</p>
+</div>
 <h2 id="types-of-integrated-websites-in-">Types of Integrated Websites in ERP.net</h2>
 <h3 id="1-web-client">1. Web Client</h3>
-<p>The web client of <strong>ERP.net</strong> is one of the primary ways to connect to your <strong>ERP.net</strong> instance and its database containing your business's data.
+<p>The web client of <strong>ERP.net</strong> is one of the primary ways to connect to your <strong>ERP.net</strong> instance and its data.
 It is one of the most widely used integrated websites of the platform.</p>
 <p>You use the web client for a <strong>huge variety of actions</strong>.
 Frequent uses include:</p>
@@ -126,7 +131,7 @@ Frequent uses include:</p>
 <li>Run a variety of UI functions, monitor the audit logs and change history, view current sessions, track exec stats, check table sizes and record counts, and others.</li>
 </ul>
 <p>The web client can contribute to practically everyone in your company - employees, managers, CEO, and others.</p>
-<p>One instance of the web client is included in the plan's price for all editions and subscription plans of ERP.net.</p>
+<p>One instance of the web client is included (without additional charges) in all subscription plans for all editions of ERP.net.</p>
 <h3 id="2-domain-api">2. Domain API</h3>
 <p>The <strong><a href="https://docs.erp.net/dev/domain-api/index.html">Domain API</a></strong> in ERP.net serves a connector between the ERP.net platform's core and external apps.</p>
 <p>External apps are special apps targeting the very individual needs of a given industry sector or even a specific company using ERP.net.
@@ -138,17 +143,20 @@ That's why oftentimes, external apps are custom-built for this company or at lea
 <li>Supports external apps generating large amounts of data.</li>
 <li>Supports a modern, secure authentication mechanism verified through the ERP.net platform.</li>
 <li>Ensures compliance and accordance with the business logic with every operation.</li>
-<li>Passes every operation through the ERP.net platform, with no need for direct access to the database for enhanced security.</li>
 </ul>
-<p>All these characteristics empower your business with a secure and reliable integration solution for custom external apps.
-The Domain API of ERP.net is available to purchase as an integrated website with ERP.net.</p>
+<p>All these characteristics empower your business with a secure and reliable integration solution for custom external apps.</p>
 <h3 id="3-table-api">3. Table API</h3>
-<p>The <strong><a href="https://docs.erp.net/dev/topics/table-api/index.html">Table API</a></strong> in ERP.net is used for streaming data from the database to external applications.
-It is intended mainly for business intelligence (BI) operations with an external BI app.</p>
+<p>The <strong><a href="https://docs.erp.net/dev/topics/table-api/index.html">Table API</a></strong> in ERP.net is used for streaming data from the database to external applications.</p>
+<p>It is intended mainly for:</p>
+<ul>
+<li>Business intelligence (BI) operations with an external BI app.</li>
+<li>Backup/Data dump apps.</li>
+</ul>
 <p>The Table API:</p>
 <ul>
 <li>Allows read-only access to the database, perfect for performing analytics.</li>
-<li>Provides quicker query processing (compared to Domain API) as the read-only access does not require data to pass through complex conversions.</li>
+<li>Provides quicker query processing (compared to Domain API) as the simplified read-only access does not require data to pass through complex conversions.</li>
+<li>Allows processing of huge volumes of data, as the streaming protocols allow constant low memory usage.</li>
 <li>Speeds up data flow as it does not require checking up with the whole business logic for operations.</li>
 <li>Supports contemporary authentication types for uncompromised security.</li>
 </ul>
@@ -162,7 +170,7 @@ It is offered as a <strong>built-in</strong>, <strong>integrated solution</stron
 <li>A tabular navigator in which they can <strong>review their orders</strong> - listing both completed and currently processed orders.</li>
 <li>A way to <strong>cancel orders</strong> that have not yet entered the processing phase.</li>
 <li>A section for <strong>placing new orders</strong> by them, with controls for turning on and off this function.</li>
-<li>A view of their <strong>unpaid orders and invoices</strong> with information for them - their due dates, status, paid, remaining, and full order amounts, order currency, overdue days, and others.</li>
+<li>A view of their <strong>unpaid orders and invoices</strong> with information for their due dates, status, remaining amounts, etc.</li>
 <li>A tabular navigator to <strong>view and download their invoices</strong>, with controls for adjusting what data is visible to clients.</li>
 </ul>
 <p>The <strong>Client Center</strong> can be used with a license for an integrated website.</p>
@@ -228,7 +236,7 @@ These are special websites, which are used for purposes of monitoring, control, 
 <li><strong>The Instance Manager website</strong> - providing tools for monitoring your ERP.net instance's technical statistics and parameters, as well as performing technical operations and managing users, trusted applications, and other factors.</li>
 <li><strong>The User Profile website</strong> - a website where each user can set and change their details like name, profile picture, password, and phone number.</li>
 </ul>
-<p>Since this type of integrated websites are used for ensuring proper functioning and timely maintenance of the ERP.net instance and access for users and trusted apps, they are provided <strong>at no additional costs</strong> with every edition and subscription plan, regardless of the subscription options selected.</p>
+<p>Since this type of integrated websites are used for ensuring proper functioning and timely maintenance of the ERP.net instance and access for users and trusted apps, they are provided <strong>at no additional cost</strong> with every edition and subscription plan, regardless of the subscription options selected.</p>
 <p>They do not count toward the purchased and used licenses by your business.</p>
 
 </article>
