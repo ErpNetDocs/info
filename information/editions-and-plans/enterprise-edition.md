@@ -105,7 +105,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |**[Inventory Control](~/features/logistics/inventory-control.md)**|✔|✔|✔|
 |Revenue Service Portals|✔|✔|✔|
 |Microsoft Sync|✔|✔|✔|
-|Number of website licenses included|1|1|1|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|1|
 |Extendable number of websites|✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Standard**|**Premium**|**Corporate**|
 |Web Client|✔|✔|✔|
