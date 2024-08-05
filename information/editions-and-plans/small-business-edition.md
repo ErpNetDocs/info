@@ -111,7 +111,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Inventory Control](~/features/logistics/inventory-control.md)**| | |✔|✔|
 |Revenue Service Portals| | |✔|✔|
 |Microsoft Sync| | |✔|✔|
-|Number of website licenses included|1|1|1|1|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|1|1|
 |Extendable number of websites|✔|✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Web Client|✔|✔|✔|✔|
