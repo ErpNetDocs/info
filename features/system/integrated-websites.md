@@ -5,27 +5,28 @@
 The @@name platform supports a variety of **integrated websites**. 
 These websites are brought up and run around the central core of the @@name system.  
 
-Their designation is to offer expanding functionality to company teams, management, partners, customers, local and state authorities, and others.  
+Their designation is to offer expanded functionality to company teams, management, partners, customers, local and state authorities, and others.
 
-Integrated websites are web applications that serve to support a range of business operations, such as:  
+Integrated websites are web applications that serve to support a range of business operations, such as:
 
 * API integrations 
 * Service portals 
 * Customer service 
 * Cross-platform synchronizations 
-* Worker-side store and warehouse operations 
+* Specific worker-style apps, like WMS Worker 
 * System administration and other technical operations  
+etc.
 
 ## Integrated Website Licensing
 
 Integrated Websites are available after purchasing a license for each of them. 
-Website licenses are counted toward a single website instance, taking into account **only the number of websites** available for use.  
+Website licenses are counted toward the website instances, taking into consideration only **the number of websites** which have been started.  
 
 Each license provides **a slot** for an integrated website and **does not limit** the type of website that can be used with it.  
 
 ### Website License Usage Example
 
-For example, if you choose to use the Client Center, the Domain API, and the Revenue Service Portal, you will need **three website licenses**.  
+For example, if you choose to use the Client Center, the Domain API, and the Revenue Service Portal, you will need **3 website licenses**.  
 
 After that, you can even swap these websites on the go.  
 
@@ -35,11 +36,14 @@ In addition, you assessed Table API would be beneficial to your business.
 You can remove the Domain API from your website list within the @@name platform. 
 Then, you can use the freed-up slot to put another website - in this case, the Table API.  
 
+> [!Note]  
+> Most website types can be started more than once - for example, the Client Center (for more info - see below).
+
 ## Types of Integrated Websites in @@name
 
 ### 1. Web Client
 
-The web client of **@@name** is one of the primary ways to connect to your **@@name** instance and its database containing your business's data. 
+The web client of **@@name** is one of the primary ways to connect to your **@@name** instance and its data. 
 It is one of the most widely used integrated websites of the platform.  
 
 You use the web client for a **huge variety of actions**. 
@@ -54,7 +58,7 @@ Frequent uses include:
 
 The web client can contribute to practically everyone in your company - employees, managers, CEO, and others.  
 
-One instance of the web client is included in the plan's price for all editions and subscription plans of @@name.  
+One instance of the web client is included (without additional charges) in all subscription plans for all editions of @@name.  
 
 ### 2. Domain API
 
@@ -70,20 +74,22 @@ The Domain API offers a large range of business benefits:
 * Supports external apps generating large amounts of data.
 * Supports a modern, secure authentication mechanism verified through the @@name platform. 
 * Ensures compliance and accordance with the business logic with every operation. 
-* Passes every operation through the @@name platform, with no need for direct access to the database for enhanced security.  
 
 All these characteristics empower your business with a secure and reliable integration solution for custom external apps. 
-The Domain API of @@name is available to purchase as an integrated website with @@name.  
 
 ### 3. Table API
 
 The **[Table API](https://docs.erp.net/dev/topics/table-api/index.html)** in @@name is used for streaming data from the database to external applications. 
-It is intended mainly for business intelligence (BI) operations with an external BI app.  
+
+It is intended mainly for:
+* Business intelligence (BI) operations with an external BI app.
+* Backup/Data dump apps.
 
 The Table API:  
 
-* Allows read-only access to the database, perfect for performing analytics. 
-* Provides quicker query processing (compared to Domain API) as the read-only access does not require data to pass through complex conversions. 
+* Allows read-only access to the database, perfect for performing analytics.
+* Provides quicker query processing (compared to Domain API) as the simplified read-only access does not require data to pass through complex conversions.
+* Allows processing of huge volumes of data, as the streaming protocols allow constant low memory usage.
 * Speeds up data flow as it does not require checking up with the whole business logic for operations.
 * Supports contemporary authentication types for uncompromised security.  
 
@@ -100,7 +106,7 @@ It is offered as a **built-in**, **integrated solution** for your business runni
 * A tabular navigator in which they can **review their orders** - listing both completed and currently processed orders. 
 * A way to **cancel orders** that have not yet entered the processing phase.
 * A section for **placing new orders** by them, with controls for turning on and off this function.  
-* A view of their **unpaid orders and invoices** with information for them - their due dates, status, paid, remaining, and full order amounts, order currency, overdue days, and others. 
+* A view of their **unpaid orders and invoices** with information for their due dates, status, remaining amounts, etc.
 * A tabular navigator to **view and download their invoices**, with controls for adjusting what data is visible to clients.  
 
 The **Client Center** can be used with a license for an integrated website.  
@@ -192,6 +198,6 @@ Websites like these include:
 * **The Instance Manager website** - providing tools for monitoring your @@name instance's technical statistics and parameters, as well as performing technical operations and managing users, trusted applications, and other factors. 
 * **The User Profile website** - a website where each user can set and change their details like name, profile picture, password, and phone number. 
 
-Since this type of integrated websites are used for ensuring proper functioning and timely maintenance of the @@name instance and access for users and trusted apps, they are provided **at no additional costs** with every edition and subscription plan, regardless of the subscription options selected.  
+Since this type of integrated websites are used for ensuring proper functioning and timely maintenance of the @@name instance and access for users and trusted apps, they are provided **at no additional cost** with every edition and subscription plan, regardless of the subscription options selected.  
 
 They do not count toward the purchased and used licenses by your business.  
