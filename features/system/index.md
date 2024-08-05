@@ -29,8 +29,10 @@ Providing access to your defined reports and report designer, form layouts for u
 
 The System module in @@name is the designated place to control your @@name instance in general, as well as to personalize it for a precise fit to your business and your team.  
 
-## System features
+## System Features
 
 * **[Multi-Language Support](~/features/system/multi-language.md)** - Entering and storing data for a field or parameter in multiple languages. 
 * **[Stored Attributes](~/features/system/stored-attributes.md)** - Custom properties, defined to extend the standard functionality of the system apps and data tables for your business. 
-* **[Calculated Attributes](~/features/system/calculated-attributes.md)** - Attributes defined for your specific needs that are calculated automatically based on a set of expressions.  
+* **[Calculated Attributes](~/features/system/calculated-attributes.md)** - Attributes defined for your specific needs that are calculated automatically based on a set of expressions. 
+* **[Integrated Websites](~/features/system/integrated-websites.md)** - Web and mobile apps working together with the @@name platform to extend its functionality in and outside your company.  
+
