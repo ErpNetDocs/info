@@ -15,7 +15,6 @@ Their load levels are hard to predict.
 > [!note]
 > Small business subscriptions are based on concurrent internal users only, and not on cores.
 > They can incorporate service and Internet apps, but their load is prorated to internal users.
-> Check your reseller for more information.
 
 ## Hardware capacity description
 
