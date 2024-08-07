@@ -1,4 +1,6 @@
-# Licensing
+# @@name Licensing
+
+## Licensing by Editions
 
 The licensing section provides detailed information about @@name's licensing policy.  
 
@@ -9,6 +11,10 @@ Depending on the selected subscription plan, ERP.net is licensed by **one of the
 * **[Core-based licensing](core-licensing.md)** - grants a number of *cores*, which are paid with the current subscription 
 
 More information about each type of license can be found by **visiting the dedicated pages from the linked headings** or **using the navigation panel**.  
+
+## Integrated Websites Licensing
+
+* **[Integrated Websites Licensing](integrated-websites-licensing.md)** - grants a number of integrated websites to connect and run with the @@name platform.  
 
 ## Additional information
 
