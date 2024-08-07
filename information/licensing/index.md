@@ -4,7 +4,7 @@
 
 The licensing section provides detailed information about @@name's licensing policy.  
 
-Depending on the selected subscription plan, ERP.net is licensed by **one of the following types of licensing**:  
+Depending on the selected edition, @@name is licensed by **one of the following models**:  
 
 * **[Registered user-based licensing](registered-user-based-licensing.md)** - provides a number of sessions on a per-user basis, which are paid with the current subscription. 
 * **[Concurrent sessions-based licensing](concurrent-sessions-based-licensing.md)** - allows a number of sessions going on at the same time, which are paid with the current subscription. 
