@@ -77,7 +77,7 @@ Find out how each edition of @@name is licensed and what this means by reading t
 * **[Registered user-based licensing](registered-user-based-licensing.md)** - provides a number of sessions on a per-user basis, which are paid with the current subscription. 
 * **[Concurrent sessions-based licensing](concurrent-sessions-based-licensing.md)** - allows a number of sessions going on at the same time, which are paid with the current subscription. 
 * **[Core-based licensing](core-licensing.md)** - grants a number of *cores*, which are paid with the current subscription. 
-* **[User Types in @@name](user-types.md)** - learn how user categorization works and what type of users are involved with your business.  
+* **[User Types in @@name](user-types.md)** - learn how your @@name users are categorized and what type of users are involved with your business.  
 
 ## Contact Us for Assistance
 
