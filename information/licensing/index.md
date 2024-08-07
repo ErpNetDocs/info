@@ -18,4 +18,4 @@ More information about each type of license can be found by **visiting the dedic
 
 ## Additional information
 
-* **[User Types in @@name](user-types.md)** - learn how user categorization works and what type of users are involved with your business.  
+* **[User Types in @@name](user-types.md)** - learn how your @@name users are categorized and what type of users are involved with your business.  
