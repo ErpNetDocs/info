@@ -4,7 +4,10 @@
   href: registered-user-based-licensing.md
 - name: Concurrent Sessions-Based Licensing
   href: concurrent-sessions-based-licensing.md
-- name: Core licensing
+- name: Core Licensing
   href: core-licensing.md
-- name: User types
+- name: User Types
   href: user-types.md
+- name: Integrated Website Licensing
+  href: integrated-websites-licensing.md
+  
