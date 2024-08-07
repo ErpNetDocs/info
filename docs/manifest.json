@@ -1795,6 +1795,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/licensing/integrated-websites-licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/integrated-websites-licensing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/licensing/registered-user-based-licensing.md",
       "output": {
         ".html": {
