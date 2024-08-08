@@ -12,80 +12,107 @@ The levels are:
 
 Each level provides its own **benefits** and comes with its own **requirements**.  
 
-## Affiliate
+# Affiliate
 
 This is the lowest level of partnership.
 It is designated for partners, which conduct businesses, unrelated to our products, but might provide links/leads/opportunities for our software products.
 
-### Requirements
+## Requirements
 
-* None
+* Fill application form
 * Partner fee: Free
 
-### Benefits
+## Benefits
 
 * Referral
-  * Lead (referal links, cold contacts): 3-5% of the license revenue for the first year (depending of the level of commitment)
+  * Lead (referal links, cold contacts): Up to 5% of the license revenue for the first year (depending of the level of commitment)
   * Opportunity (direct contact with decision maker): 5-10% of the license revenue for the first year (depending on the level of commitment)
 
-## Express Partner
+# Registered Partner
 
-This is the starting level for Solution partnership with us. 
-It will help you **onboard our partnership program**, get familiar with **@@name platform**, and start enjoying **new market opportunities**.  
+This is the entry level for ERP solution partnership.
+It is designated for partners, which are gaining knowledge and experience with our products, but are not yet ready to perform full-scale implementations.
+During your tenure as Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
 
-### Requirements
+## Requirements
 
-* 1 Tech specialist - Express
+* Fill partner application form
+* Max length: 2 years
+* Partner fee: Free
+
+## Benefits
+
+* All from Affiliate
+* Technical & sales guidance
+* Internal chat/forum for registered partners
+* Internal use licenses:
+  * Discount: 10%
+* Support incidents:
+  * Discount: 10%
+
+# Express Partner
+
+This partnership level is tailored for companies interested in our Express and/or CRM solutions. 
+It is ideal for businesses whose primary operations are unrelated to our products but who seek to enhance their sales and customer engagement through simple implementations of @@name Express.
+It also includes the direct marketing opportunity, which entitles the partner to receive opportunities from @@name.
+
+## Requirements
+
+* 1 Tech and/or Sales specialist for @@name Express
 * 1 new project / year
 * Use @@name Express for internal teams
 * Partner fee / month: EUR 55 (billed annually)
 
-### Benefits
+## Benefits
 
-* All from Affiliate
-* Technical & sales guidance
-* Internal chat for Express partners
+* All from Registered
+* Internal chat/forum for Express partners
 * Internal use licenses
-  * @@name Express CRM – 2 users
-  * Discount: 20%
+  * @@name Express Pro – 2 users
+  * Discount for additional licenses: 20%
 * Support incidents
-  * 200 EUR allowance / year
-  * Discount: 20%
+  * 6 support tickets per calendar year included
+  * Discount for additional support: 20%
 * Customer support commission
-  * 8% of the license revenue
-* Marketing opportunity for Express clients
+  * 20% of the license revenue for Express Edition
+* Direct marketing opportunity for Express clients
 
-## Silver Partner
+# Silver Partner
 
-After successfully meeting the requirements for Express for one year, you may be offered the opportunity to **progress to a Silver partner**. 
+After successfully completing at least 1 (one) year as Registered Partner or Express Partner, you may be entitled to become **Silver Partner**.
+To obtain this level, you need to certify and dedicate at least 1 (one) tech specialist and accept the other terms & conditions for silver partnership.
 
-### Requirements
+## Requirements
 
 * 1 Certified Tech specialist
 * 1 new project / year
 * 90% customer retention
 * Use @@name for internal processes
-* 1 year partnership
+* At least 1 consecutive year partnership
 * Partner fee / month: EUR 194 (billed annually)
 
-### Benefits
+## Benefits
 
-* All from EXPRESS
-* Internal chat for ERP partners
+* All from Express Partner
+* Internal chat/forum for Silver ERP partners
 * Internal use licenses
-  * @@name Small Business Basic – 3 users
-  * Discount: 30%
+  * @@name Small Business Advanced – 3 users
+  * Discount for additional licenses: 30%
 * Support incidents
-  * 800 EUR allowance / year
-  * Discount: 30%
-* Test + Demo + Model instances
-* Marketing opportunity for Small Business clients
+  * 12 support tickets per calendar year included
+  * Discount for additional support: 30%
+* Customer support commission
+  * 20% of the license revenue for @@name Express Edition
+  * 8% of the license revenue for other @@name products
+* 1 (one) Test + 1 (one) Demo @@name instances
+* Direct marketing opportunity for small business clients
 
-## Gold Partner
+# Gold Partner
 
-Successfully meeting the requirements for Silver for three sequential years allows you to apply for a **Gold partner**. 
+Successfully meeting the requirements for Silver for three additional consecutive years allows you to apply for a **Gold partner**. 
+You must meet the requirements before applying for the level.
 
-### Requirements
+## Requirements
 
 * 1 Certified Sales specialist
 * 4 Certified Tech specialists
@@ -94,88 +121,91 @@ Successfully meeting the requirements for Silver for three sequential years allo
 * 4 new projects / 80 users / year
 * 95% customer retention
 * Use @@name for internal processes
-* 3 consecutive years partnership
+* 4 consecutive years partnership
 * Partner fee / month: EUR 316 (billed annually)
 
-### Benefits
+## Benefits
 
-* All from SILVER
+* All from Silver Partner
+* Internal chat/forum for Gold ERP partners
 * Internal use licenses
   * @@name Small Business Advanced – 6 users
-  * Discount: 50%
+  * Discount for additional licenses: 50%
 * Support incidents
-  * 2000 EUR allowance / year
-  * Discount: 50%
-* Reseller agreement (optional)
-  * 4% of license revenue
-* Priority for medium/large opportunities
+  * 24 support tickets per calendar year included
+  * Discount for additional support: 30%
+* Customer support commission
+  * 20% of the license revenue for @@name Express Edition
+  * 12% of the license revenue for other @@name products
+* 1 (one) Test + 1 (one) Demo + 3 (three) Model @@name instances
+* Direct marketing opportunity for enterprise clients
 
 # Definitions
 
 You will find the definitions of the used terms and phrases in their exact contextual meaning below.  
 
 * **Internal use licenses**  
-These are licenses, which the partner can use to manage their own internal processes in the company. 
+These are licenses, which the partner can use to manage their own internal processes within their company. 
 
 * **Support incidents allowance/discount**  
 This covers any fees which might occur when raising tickets for internal processes and/or clients. 
-The allowance is specified per year and covers support costs up to the provided amount. 
-After this, the discount is applied to further support fees.  
+The allowance is specified per calendar year.
+When the partnership starts in the middle of calendar year, the initial allowance is prorated.
+After the allowance is consumed, further support is provided at the specified discount.
 
 * **Tech/Sales specialist**  
-A person, who has covered a minimal course/training for the problem area.  
+A named individual who has completed a basic course or training program specific to the relevant problem area, equipping them with foundational knowledge and skills.
 
 * **Certified Tech/Sales specialist or Developer**  
-A person, who has successfully passed certification exam (provided by @@name) for the problem area. 
-Certified specialists have to be dedicated to the role and cannot share another role (for the purposes of eligibility for the partner program).  
+A named individual who has successfully passed a certification exam provided by ERP.net for the relevant problem area. 
 
 * **Active client project**  
 An active client subscription, where the client has specified the partner as the primary support partner.  
 
 * **New projects / year**  
-Indicates how many new projects are started through a year of partnership.  
+Indicates how many new projects are started through a year of partnership.
+Projects can be for existing or new clients.
 
 * **New users / year**  
-Actually, it would be more correct to call it “**Increase in user base per year**”. 
-Indicates the increase in total user base for a year of partnership. 
+This covers the increase in user base per year. 
 If there are customers, which decrease the user base or cancel their subscriptions totally, this counts towards decrease in user base. 
 It should be offset with increased sales to achieve the specified total increase.  
 
 * **Use @@name for internal processes**  
-Obligates the partner to manage their internal processes through @@name. 
+The partner should use @@name to manage at least some of their internal processes. 
 This serves double purpose – both educational for internal staff and demonstrative to potential prospects.  
 
 * **Partner fee / billed annually**  
 The partner fee, although specified per month is billed once per year as monthly amount * 12.  
 
-* **Internal chats**  
-These are chats with representatives of @@name for non-support issues.  
+* **Internal chats/forum**  
+These are chats with representatives of @@name and other partners for non-support issues.  
 
 * **Customer support commission**  
 The support commission is paid by @@name to the partner. 
-The requirement is the end customer to specify them as primary support partner. 
+The requirement is the end customer to specify them as primary partner. 
 The support commission covers expenses of the partner for non-paid support, such as bug reporting. 
-The partner has the obligation to report such bugs to @@name without requiring payment from the end customer. The support commission can be employed only in cases when @@name is invoicing directly to the end customer.  
+The partner has the obligation to report such bugs to @@name without requiring payment from the end customer.
 
 * **Test / Demo / Model instances**  
-These are @@name instances, up to one of each type, in addition to the internal use instance. 
-They can be provided upon request of the partner. 
-They include up to 5 users and up to 10 GB in size. 
-Test instance is usually based on the currently developed new version of @@name. 
-Demo is on latest stable release. 
-Model instance, when it exists, is used for new clients of the partner. 
-Using the model instance, the partner can setup specific workflows for their new customers. 
-The cost for these instances, under the constraints specified here, are included in the partner package.  
+These are @@name instances, up to the specified count of each type, in addition to the internal use instance. 
+They are provided upon request from the partner.
+Each @@name instance includes up to 5 users/sessions and is up to 10 GB in size. 
+**Test** instances are usually based on the currently developed new version of @@name (called "Trunk"). 
+**Demo** instances are based on the latest stable release.
+**Model** instances, when they exists are based on the latest stable release.
+Model instances are used to create new @@name instances for new clients of the partner.
+Model instances allow the partner to create one or several prepared starting databases for different industries or specific customer use cases.
+The cost of all such @@name instances, under the constraints specified here, are included in the partner package.  
 
-* **Marketing opportunity**  
-@@name lists all partners on its website. 
-When a new potential client asks for an implementation partner, @@name might send the opportunity to the partner.  
+* **Direct marketing opportunity**  
+When ERP.net receives a request from potential client, it might send the opportunity to the partner.
 
 * **Customer retention**  
 Indicates customer retention for both users and number of clients. 
 The partner should keep at least the specified percentage of users/clients at the year, compared to the beginning of the partnership year. 
 Abandoning clients/users count towards decreasing the customer retention. 
-Only clients, for which there is an effective Customer support commission or Resell agreement are counted towards the retention calculation.  
+Only clients, who specified the partner as primary partner are counted towards the retention calculation.  
 
 * **Universal app in the ERP app store**  
 A universal app is an application whose IP is owned by the partner. The app should be:  
@@ -185,6 +215,6 @@ A universal app is an application whose IP is owned by the partner. The app shou
     E.g., it should not be limited to the clients of the partner.  
 
 * **Reseller agreement**  
-This is separate agreement between @@name and the partner, regarding the right for resell of @@name products and services. 
+This is a separate agreement between @@name and the partner, regarding the right for resell of @@name products and services. 
 The partner retains the specified commission from the revenue of the end customer. 
 Resellers bear the same responsibility for non-paid customer support as in the case of “Customer support commission”.  
