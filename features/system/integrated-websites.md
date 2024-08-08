@@ -24,6 +24,10 @@ Website licenses are counted toward the website instances, taking into considera
 
 Each license provides **a slot** for an integrated website and **does not limit** the type of website that can be used with it.  
 
+To learn more about the licensing of integrated websites and how it works, head to our dedicated topic:  
+
+> **[Integrated Website Licensing](~/information/licensing/integrated-websites-licensing.md)**  
+
 ### Website License Usage Example
 
 For example, if you choose to use the Client Center, the Domain API, and the Revenue Service Portal, you will need **3 website licenses**.  
@@ -37,7 +41,7 @@ You can remove the Domain API from your website list within the @@name platform.
 Then, you can use the freed-up slot to put another website - in this case, the Table API.  
 
 > [!Note]  
-> Most website types can be started more than once - for example, the Client Center (for more info - see below).
+> Most website types can be started more than once - for example, the Client Center (for more info - see below).  
 
 ## Types of Integrated Websites in @@name
 
