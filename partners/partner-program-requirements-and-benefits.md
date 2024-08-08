@@ -33,7 +33,7 @@ It is designated for partners, which conduct businesses, unrelated to our produc
 
 This is the entry level for ERP solution partnership.
 It is designated for partners, which are gaining knowledge and experience with our products, but are not yet ready to perform full-scale implementations.
-During your tenure as Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
+
 
 ### Requirements
 
@@ -82,6 +82,7 @@ It also includes the direct marketing opportunity, which entitles the partner to
 ## Silver Partner
 
 After successfully completing at least 1 (one) year as Registered Partner or Express Partner, you may be entitled to become **Silver Partner**.
+During your tenure as a Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
 To obtain this level, you need to certify and dedicate at least 1 (one) tech specialist and accept the other terms & conditions for silver partnership.
 
 ### Requirements
@@ -135,61 +136,61 @@ You must meet the requirements before applying for the level.
   * Discount for additional licenses: 50%
 * Support incidents
   * 24 support tickets per calendar year included
-  * Discount for additional support: 30%
+  * Discount for additional support: 50%
 * Customer support commission
   * 20% of the license revenue for @@name Express Edition
   * 12% of the license revenue for other @@name products
 * 1 (one) Test + 1 (one) Demo + 3 (three) Model @@name instances
 * Direct marketing opportunity for enterprise clients
 
-# Definitions
+## Definitions
 
 You will find the definitions of the used terms and phrases in their exact contextual meaning below.  
 
-* **Internal use licenses**  
+### **Internal use licenses**  
 These are licenses, which the partner can use to manage their own internal processes within their company. 
 
-* **Support incidents allowance/discount**  
+### **Support incidents allowance/discount**  
 This covers any fees which might occur when raising tickets for internal processes and/or clients. 
 The allowance is specified per calendar year.
 When the partnership starts in the middle of calendar year, the initial allowance is prorated.
 After the allowance is consumed, further support is provided at the specified discount.
 
-* **Tech/Sales specialist**  
+### **Tech/Sales specialist**  
 A named individual who has completed a basic course or training program specific to the relevant problem area, equipping them with foundational knowledge and skills.
 
-* **Certified Tech/Sales specialist or Developer**  
+### **Certified Tech/Sales specialist or Developer**  
 A named individual who has successfully passed a certification exam provided by ERP.net for the relevant problem area. 
 
-* **Active client project**  
+### **Active client project**  
 An active client subscription, where the client has specified the partner as the primary support partner.  
 
-* **New projects / year**  
+### **New projects / year**  
 Indicates how many new projects are started through a year of partnership.
 Projects can be for existing or new clients.
 
-* **New users / year**  
+### **New users / year**  
 This covers the increase in user base per year. 
 If there are customers, which decrease the user base or cancel their subscriptions totally, this counts towards decrease in user base. 
 It should be offset with increased sales to achieve the specified total increase.  
 
-* **Use @@name for internal processes**  
+### **Use @@name for internal processes**  
 The partner should use @@name to manage at least some of their internal processes. 
 This serves double purpose – both educational for internal staff and demonstrative to potential prospects.  
 
-* **Partner fee / billed annually**  
+### **Partner fee / billed annually**  
 The partner fee, although specified per month is billed once per year as monthly amount * 12.  
 
-* **Internal chats/forum**  
+### **Internal chats/forum**  
 These are chats with representatives of @@name and other partners for non-support issues.  
 
-* **Customer support commission**  
+### **Customer support commission**  
 The support commission is paid by @@name to the partner. 
 The requirement is the end customer to specify them as primary partner. 
 The support commission covers expenses of the partner for non-paid support, such as bug reporting. 
 The partner has the obligation to report such bugs to @@name without requiring payment from the end customer.
 
-* **Test / Demo / Model instances**  
+### **Test / Demo / Model instances**  
 These are @@name instances, up to the specified count of each type, in addition to the internal use instance. 
 They are provided upon request from the partner.
 Each @@name instance includes up to 5 users/sessions and is up to 10 GB in size. 
@@ -200,23 +201,23 @@ Model instances are used to create new @@name instances for new clients of the p
 Model instances allow the partner to create one or several prepared starting databases for different industries or specific customer use cases.
 The cost of all such @@name instances, under the constraints specified here, are included in the partner package.  
 
-* **Direct marketing opportunity**  
+### **Direct marketing opportunity**  
 When ERP.net receives a request from potential client, it might send the opportunity to the partner.
 
-* **Customer retention**  
+### **Customer retention**  
 Indicates customer retention for both users and number of clients. 
 The partner should keep at least the specified percentage of users/clients at the year, compared to the beginning of the partnership year. 
 Abandoning clients/users count towards decreasing the customer retention. 
 Only clients, who specified the partner as primary partner are counted towards the retention calculation.  
 
-* **Universal app in the ERP app store**  
+### **Universal app in the ERP app store**  
 A universal app is an application whose IP is owned by the partner. The app should be:  
   * Designed to be usable by more than one specific client.  
   * Listed on the @@name app store.  
   * Be available for purchase by any @@name client. 
     E.g., it should not be limited to the clients of the partner.  
 
-* **Reseller agreement**  
+### **Reseller agreement**  
 This is a separate agreement between @@name and the partner, regarding the right for resell of @@name products and services. 
 The partner retains the specified commission from the revenue of the end customer. 
 Resellers bear the same responsibility for non-paid customer support as in the case of “Customer support commission”.  
