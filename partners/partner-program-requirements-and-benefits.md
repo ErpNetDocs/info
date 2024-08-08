@@ -6,41 +6,42 @@ Our partner program provides several levels of partnerships, depending on the le
 The levels are:
 
 * Affiliate
+* Registered Partner
 * Express Partner
 * Silver Partner
 * Gold Partner
 
 Each level provides its own **benefits** and comes with its own **requirements**.  
 
-# Affiliate
+## Affiliate
 
 This is the lowest level of partnership.
 It is designated for partners, which conduct businesses, unrelated to our products, but might provide links/leads/opportunities for our software products.
 
-## Requirements
+### Requirements
 
 * Fill application form
 * Partner fee: Free
 
-## Benefits
+### Benefits
 
 * Referral
   * Lead (referal links, cold contacts): Up to 5% of the license revenue for the first year (depending of the level of commitment)
   * Opportunity (direct contact with decision maker): 5-10% of the license revenue for the first year (depending on the level of commitment)
 
-# Registered Partner
+## Registered Partner
 
 This is the entry level for ERP solution partnership.
 It is designated for partners, which are gaining knowledge and experience with our products, but are not yet ready to perform full-scale implementations.
 During your tenure as Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
 
-## Requirements
+### Requirements
 
 * Fill partner application form
 * Max length: 2 years
 * Partner fee: Free
 
-## Benefits
+### Benefits
 
 * All from Affiliate
 * Technical & sales guidance
@@ -50,22 +51,23 @@ During your tenure as Registered partner, you are required to implement @@name f
 * Support incidents:
   * Discount: 10%
 
-# Express Partner
+
+## Express Partner
 
 This partnership level is tailored for companies interested in our Express and/or CRM solutions. 
 It is ideal for businesses whose primary operations are unrelated to our products but who seek to enhance their sales and customer engagement through simple implementations of @@name Express.
 It also includes the direct marketing opportunity, which entitles the partner to receive opportunities from @@name.
 
-## Requirements
+### Requirements
 
 * 1 Tech and/or Sales specialist for @@name Express
 * 1 new project / year
 * Use @@name Express for internal teams
 * Partner fee / month: EUR 55 (billed annually)
 
-## Benefits
+### Benefits
 
-* All from Registered
+* All from Registered Partner
 * Internal chat/forum for Express partners
 * Internal use licenses
   * @@name Express Pro – 2 users
@@ -77,12 +79,12 @@ It also includes the direct marketing opportunity, which entitles the partner to
   * 20% of the license revenue for Express Edition
 * Direct marketing opportunity for Express clients
 
-# Silver Partner
+## Silver Partner
 
 After successfully completing at least 1 (one) year as Registered Partner or Express Partner, you may be entitled to become **Silver Partner**.
 To obtain this level, you need to certify and dedicate at least 1 (one) tech specialist and accept the other terms & conditions for silver partnership.
 
-## Requirements
+### Requirements
 
 * 1 Certified Tech specialist
 * 1 new project / year
@@ -91,7 +93,7 @@ To obtain this level, you need to certify and dedicate at least 1 (one) tech spe
 * At least 1 consecutive year partnership
 * Partner fee / month: EUR 194 (billed annually)
 
-## Benefits
+### Benefits
 
 * All from Express Partner
 * Internal chat/forum for Silver ERP partners
@@ -107,12 +109,12 @@ To obtain this level, you need to certify and dedicate at least 1 (one) tech spe
 * 1 (one) Test + 1 (one) Demo @@name instances
 * Direct marketing opportunity for small business clients
 
-# Gold Partner
+## Gold Partner
 
 Successfully meeting the requirements for Silver for three additional consecutive years allows you to apply for a **Gold partner**. 
 You must meet the requirements before applying for the level.
 
-## Requirements
+### Requirements
 
 * 1 Certified Sales specialist
 * 4 Certified Tech specialists
@@ -124,7 +126,7 @@ You must meet the requirements before applying for the level.
 * 4 consecutive years partnership
 * Partner fee / month: EUR 316 (billed annually)
 
-## Benefits
+### Benefits
 
 * All from Silver Partner
 * Internal chat/forum for Gold ERP partners
