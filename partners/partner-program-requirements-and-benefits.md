@@ -82,7 +82,7 @@ It also includes the direct marketing opportunity, which entitles the partner to
 ## Silver Partner
 
 After successfully completing at least 1 (one) year as Registered Partner or Express Partner, you may be entitled to become **Silver Partner**.
-During your tenure as Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
+During your tenure as a Registered partner, you are required to implement @@name for your company and at least one other (unrelated) company.
 To obtain this level, you need to certify and dedicate at least 1 (one) tech specialist and accept the other terms & conditions for silver partnership.
 
 ### Requirements
