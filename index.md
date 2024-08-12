@@ -49,3 +49,11 @@ Here you will find legal details and topics about the @@name platform.
 * [Platform Terms of Use](~/legal/platform-terms-of-use.md) - the terms and conditions for the using @@name platform.
 * [Privacy Statement](~/legal/privacy.md) - our privacy statement regarding who we are and how we process your data.
 * [Educational License](~/legal/educational-license.md) - opportunities for utilizing @@name for educational purposes.
+
+## Partnership
+
+The current section provides in-depth information about our partnership program, explaining how you can join our partner network.
+
+* [Requirements and Benefits](~/partners/partner-program-requirements-and-benefits.md) - get to know what you need to become our partner and how your business can achieve more by collaborating with us.
+* [Terms and Conditions](~/partners/partner-program-terms-and-conditions.md) - the terms and conditions for governing participation in the Partner Program.
+* [Apply for Partnership](~/partners/apply-for-a-partner.md) - apply for becoming a part of our partner network.
