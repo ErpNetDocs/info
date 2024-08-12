@@ -11,7 +11,7 @@ The levels are:
 * Silver Partner
 * Gold Partner
 
-Тhe following flowchart visually presents the tiers and your path of success through our Partner Program:  
+The following flowchart visually presents the tiers and your path of success through our Partner Program:  
 
 ![Partnership Tiers Diagram - Scaled for Info Site](https://github.com/user-attachments/assets/20942ae7-9498-4720-a856-adfc5e5708b0)
 
