@@ -1,7 +1,7 @@
 # Partnership Requirements and Benefits
 
 Your business can benefit in multiple ways from becoming a member of our partner network. 
-Our partner program provides several levels of partnerships, depending on the level of your commitment with our products and services.  
+Our partner program provides several levels of partnerships, depending on the level of your commitment to our products and services.  
 
 The levels are:
 
@@ -20,7 +20,7 @@ Each level provides its own **benefits** and comes with its own **requirements**
 ## Affiliate
 
 This is the lowest level of partnership.
-It is designated for partners, which conduct businesses, unrelated to our products, but might provide links/leads/opportunities for our software products.
+It is designated for partners which conduct businesses unrelated to our products, but might provide links/leads/opportunities for our software products.
 
 ### Requirements
 
