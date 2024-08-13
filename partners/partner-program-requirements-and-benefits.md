@@ -13,7 +13,7 @@ The levels are:
 
 The following flowchart visually presents the tiers and your path of success through our Partner Program:  
 
-![Partnership Tiers Diagram - Scaled for Info Site](https://github.com/user-attachments/assets/20942ae7-9498-4720-a856-adfc5e5708b0)
+![Partnership Tiers Diagram - Scaled for Info Site](https://github.com/user-attachments/assets/95847a16-5edf-4921-82eb-9ef56af1174c)
 
 Each level provides its own **benefits** and comes with its own **requirements**.  
 
