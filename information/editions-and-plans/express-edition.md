@@ -58,7 +58,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |:----|:----|:----|:----|:----|
 |Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
 |Min users|2|2|2|5|
-|Max users|1 000|1 000|1 000|1 000|
+|Max users|100|100|100|100|
 |**PRODUCTIVITY**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
