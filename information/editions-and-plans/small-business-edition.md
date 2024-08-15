@@ -51,7 +51,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**FEATURE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |:----|:----|:----|:----|:----|
 |Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|
-|Min users|3|3|5|5|
+|Min users|3|3|3|5|
 |Max users|35|35|35|35|
 |**PRODUCTIVITY**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
