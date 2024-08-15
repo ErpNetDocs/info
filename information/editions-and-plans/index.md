@@ -68,7 +68,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |Database size included|3 GB per user|10 GB per plan|10 GB / 100 GB / 1 TB per plan (depending on plan)|
 |Database maximum size|100 GB|200 GB|Unlimited (with respect to the purchased capacity)|
 |Minimum users|2|3|30|
-|Maximum users|1000|35|Unlimited (with respect to the purchased capacity)|
+|Maximum users|100|35|Unlimited (with respect to the selected plan and purchased capacity)|
 
 ## @@name Editions Description
 
