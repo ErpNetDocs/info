@@ -2,7 +2,7 @@
 
 @@name ERP offers an easier and more intelligent approach to the management of different types of manufacturing, providing an opportunity to support and automate much of the production processes and activities.  
 
-![2024-08-15 Production Flowchart Infographic](https://github.com/user-attachments/assets/c28a3100-dfb5-4baf-a50f-9dec342a0330)  
+![2024-08-15 Production Flowchart Infographic](https://github.com/user-attachments/assets/2f3ce3b7-9aa8-4fec-9a43-ddeab224743a)  
 
 Together, the production modules of @@name bring significant advantages to the companies in the sector. 
 The ERP system features powerful tools for material planning, scheduling and monitoring of production capacity load. 
