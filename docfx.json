@@ -8,7 +8,7 @@
     ],
     "resource": [
       {
-        "files": [ "images/**", "**.svg", "**.png" ],
+        "files": [ "images/**", "**.svg", "**.png", "favicon.ico" ],
         "exclude": [ "docs/**/*.*" ]
       }
     ],
@@ -20,7 +20,8 @@
     "dest": "docs",
     "globalMetadata": {
       "_appTitle": "ERP.net Information",
-      "_enableSearch": true
+      "_enableSearch": true,
+      "_appFaviconPath": "favicon.ico"
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
