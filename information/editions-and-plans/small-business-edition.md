@@ -80,8 +80,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| | |✔|✔|
 |**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
 |**PRODUCTION**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|**[Basic Production (Assembly)](~/features/production/index.md)**|✔| |✔|✔|
-|**[Advanced Production (CRP, MRP, SFC)](~/features/production/index.md)**| | |✔|✔|
+|**[Basic Production (Assembly, SFC)](~/features/production/index.md)**|✔| |✔|✔|
+|**[Advanced Production (CRP, MRP)](~/features/production/index.md)**| | |✔|✔|
 |**FINANCE AND ACCOUNTING**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
 |**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
