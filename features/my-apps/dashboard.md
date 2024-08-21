@@ -1,6 +1,6 @@
 # Dashboard
 
-[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/fb46181a-221c-4a8d-b998-de6abdf7b3ec)](https://www.youtube.com/watch?v=kCCrffJJiC0)  
+[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/fb46181a-221c-4a8d-b998-de6abdf7b3ec)](https://www.youtube.com/watch?v=kCCrffJJiC0&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=3)  
 
 ## Overview
 
