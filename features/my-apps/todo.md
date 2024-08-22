@@ -4,7 +4,7 @@
 
 Watch our video and discover how **@@name** ensures you and your team will always get each task done on time and with exceptional quality:  
 
-[![ERP-net-To-Do-app-transformed - HD](https://github.com/k1kolev/info/assets/106669250/69f13f24-e747-47ba-b0b3-350b821e3b7a)](https://www.youtube.com/watch?v=Xdo_ryre-Ik)
+[![ERP-net-To-Do-app-transformed - HD](https://github.com/k1kolev/info/assets/106669250/69f13f24-e747-47ba-b0b3-350b821e3b7a)](https://www.youtube.com/watch?v=Xdo_ryre-Ik&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=5)
 
 No matter what we do, we repeatedly come across a **number of small tasks** every day. 
 These quick jobs usually **appear spontaneously** and tend to **gradually stack up**. 
