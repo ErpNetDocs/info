@@ -80,8 +80,8 @@ It provides all means to **distinguish these quick duties** in the general struc
 You can try **To Do** immediately without any registration necessary. 
 Check out the links below.  
 
-> **[To Do in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**  
+> **[To Do in @@name - Visit to try now without registration](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
+> **[Access credentials - Use these to log in](~information/try-out-erp-net-express-crm.md)**  
 
-[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)  
+[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)  
