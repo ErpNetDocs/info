@@ -73,8 +73,8 @@ Curious to see how it does so?
 
 Feel free to check it all out in **our publicly available test instance of @@name** - **without having to register**:  
 
-> **[Dashboard in @@name - Try now without registration](https://testdb.my.erp.net/cl/dashboard)**  
+> **[Dashboard in @@name - Try now without registration](https://express-demo.my.erp.net/cl/dashboard)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
+> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
 
-[![ERP-net-dashboard-thumbnail-preview-scaled](https://github.com/k1kolev/info/assets/106669250/43ed2060-2632-4606-93d8-88a14c38add5)](https://testdb.my.erp.net/cl/dashboard)
+[![ERP-net-dashboard-thumbnail-preview-scaled](https://github.com/k1kolev/info/assets/106669250/43ed2060-2632-4606-93d8-88a14c38add5)](https://express-demo.my.erp.net/cl/dashboard)
