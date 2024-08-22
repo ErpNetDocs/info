@@ -84,8 +84,8 @@ Such qualities can naturally boost overall performance.
 You can try **Social Groups** immediately without any registration necessary. 
 Check out the links below.  
 
-> **[Team Collaboration in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=calendar)**  
+> **[Team Collaboration in @@name - Visit to try now without registration](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=calendar)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
+> **[Access credentials - Use these to log in](~information/try-out-erp-net-express-crm.md)**  
 
-[![Team-Collaboration-Thumbnail](https://user-images.githubusercontent.com/106669250/234641681-b65802bc-f5a5-408a-8bfd-c8401bd83556.png)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=calendar)  
+[![Team-Collaboration-Thumbnail](https://user-images.githubusercontent.com/106669250/234641681-b65802bc-f5a5-408a-8bfd-c8401bd83556.png)](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=calendar)  
