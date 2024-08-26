@@ -110,8 +110,8 @@ You are welcome to try them right away!
 
 We share your value in time - so feel free to try them even **without having to register**:  
 
-> **[Tiles in @@name - Try now without registration](https://testdb.my.erp.net/cl/tiles)**  
+> **[Tiles in @@name - Try now without registration](https://express-demo.my.erp.net/cl/tiles)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
+> **[Access credentials - Use these to log in](~information/try-out-erp-net-express-crm.md)**
 
-[![Tiles-erp-net-shrinked-image-2023-08-25](https://github.com/k1kolev/info/assets/106669250/177ea52e-1cac-4402-83fa-17e05c588c95)](https://testdb.my.erp.net/cl/tiles)  
+[![Tiles-erp-net-shrinked-image-2023-08-25](https://github.com/k1kolev/info/assets/106669250/177ea52e-1cac-4402-83fa-17e05c588c95)](https://express-demo.my.erp.net/cl/tiles)  
