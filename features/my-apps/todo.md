@@ -82,6 +82,6 @@ Check out the links below.
 
 > **[To Do in @@name - Visit to try now without registration](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)**  
 
-> **[Access credentials - Use these to log in](~information/try-out-erp-net-express-crm.md)**  
+> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
 
 [![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)  
