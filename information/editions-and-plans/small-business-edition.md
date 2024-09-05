@@ -124,8 +124,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Track Changes|✔|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
 |**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|Price per month|€49/user|€49/user|€69/user|€99/user|
-|Price per month (annual payment)|€43.12/user|€43.12/user|€60.72/user|€87.12/user|
+|Price per month|€49/session|€49/session|€69/session|€99/session|
+|Price per month (annual payment)|€43.17/session|€43.17/session|€60.75/session|€87.17/session|
 
 # Get @@name for your organization
 

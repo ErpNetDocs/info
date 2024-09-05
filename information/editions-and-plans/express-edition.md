@@ -106,7 +106,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |Price per month|€9/user|€19/user|€39/user|€69/user|
-|Price per month (annual payment)|€7.92/user|€16.72/user|€34.32/user|€60.72/user|
+|Price per month (annual payment)|€8/user|€16.75/user|€34.33/user|€60.75/user|
 
 ## Key functionalities Express brings to your business
 
