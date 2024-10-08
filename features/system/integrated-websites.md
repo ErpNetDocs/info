@@ -34,7 +34,7 @@ For example, if you choose to use the Client Center, the Domain API, and the Rev
 
 After that, you can even swap these websites on the go.  
 
-Suppose you no longer need to use the Domain API, or you temporarily won't need it. 
+Suppose that after some time, you decide that you no longer intend to use the Domain API, or at least temporarily won't be using it.  
 In addition, you assessed Table API would be beneficial to your business.  
 
 You can remove the Domain API from your website list within the @@name platform. 
