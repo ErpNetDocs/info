@@ -55,7 +55,8 @@ Let's take a look at the following example:
 You choose to use the **Client Center**, the **Domain API**, and the **Revenue Service Portal**. 
 Respectively, you will need 3 website licenses.  
 
-Suppose you no longer intend to use the Domain API, or you temporarily won't need it. 
+Suppose that after some time, you no longer intend to use the Domain API, or you temporarily won't be using it.  
+
 In addition, you assessed the **Table API** would be more beneficial to your business.  
 
 You can remove the Domain API from your website list within the ERP.net platform. 
