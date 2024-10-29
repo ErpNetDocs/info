@@ -93,8 +93,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Asset Management (beta)| | |(optional)|✔|
 |Fleet Management (beta)| | |(optional)|✔|
 |Lease-out Management (beta)| | |(optional)|✔|
-|**[Data Warehouse](~/features/applications/data-warehouse.md)**| | | |✔|
-|Personal Data Management (GDPR)| | | |✔|
+|**[Data Warehouse](~/features/applications/data-warehouse.md)**| | | (optional) |✔|
+|Personal Data Management (GDPR)| | | (optional) |✔|
 |Mail Sorting (beta)| | |✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)| | |✔|✔|
 |**PROCESS MANAGEMENT**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
