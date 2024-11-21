@@ -121,6 +121,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)| | |✔|✔|
 |Dedicated APP server| | |(optional)|(optional)|
+|Business Intelligence (BI)| | |(optional)|(optional)|
 |Track Changes|✔|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
 |**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
