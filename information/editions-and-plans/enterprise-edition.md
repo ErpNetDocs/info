@@ -117,6 +117,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Dedicated APP server|✔|✔|✔|
 |Dedicated DB server|(optional)|✔|✔|
 |SQL Server Edition|Standard|Standard|Enterprise|
+|Business Intelligence (BI)|(optional)|(optional)|(optional)|
 |Readable secondary replica| | |(optional)|
 |Multiple read-write database sites| | |(optional)|
 |Dedicated hardware| | |(optional)|
