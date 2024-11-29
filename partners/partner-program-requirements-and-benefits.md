@@ -147,6 +147,33 @@ You must meet the requirements before applying for the level.
 * 1 (one) Test + 1 (one) Demo + 3 (three) Model @@name instances
 * Direct marketing opportunity for enterprise clients
 
+## Partnership Levels Comparison
+
+ The table below provides an overview of the different requirements and benefits for each tier of the partner program.
+
+|**Requirements**|**[Registered Partner](#registered-partner)**|**[Express Partner](#express-partner)**|**[Silver Partner](#silver-partner)**|**[Gold Partner](#gold-partner)**|
+|:----|:----|:----|:----|:----|
+|**Certified Tech specialist**| |1 Tech and/or Sales specialist for ERP.net Express|1 Tech specialist|1 Sales specialist, 4 Tech specialist, 1 Developer specialist|
+|**New project / year**| | |1|4|
+|**Customer retention**| | |90%|95%|
+|**Partner fee**|Free|EUR 55/month (billed annually)|EUR 194/month (billed annually)|EUR 316/month (billed annually)|
+|**Use ERP.net for internal purposes**| |✔ (Express Pro)|✔ (Small Business Advanced)|✔ (Small Business Advanced)|
+|-|-|-|-|-|
+|**Benefits**|**Registered Partner**|**Express Partner**|**Silver Partner**|**Gold Partner**|
+|**Technical & sales guidance**| |✔|✔|✔|
+|**Internal chat / forum**| |✔|✔|✔|
+|**Internal use licenses**| |2 users|3 users|6 users|
+|**Internal use licenses for**| |ERP.net Express PRO|ERP.net Small Business Advanced|ERP.net Small Business Advanced|
+|**Discount for internal use licenses**|10%|20%|30%|50%|
+|**Support incidents**| |6 tickets annualy|12 tickets annualy|24 tickets annualy|
+|**Discount for support incidents**|10%|20%|30%|50%|
+|**Express support commission**| |20%|20%|20%|
+|**Other ERP.net products support commission**| | |8%|12%|
+|**ERP.net instances**| ||1 Test + 1 Demo|1 Test + 1 Demo + 3 Model|
+|**Direct marketing opportunity**| |✔|✔|✔|
+|**Priority for**| |Clients for Express (ERP.net CRM)|Clients that are small and medium-sized businesses|Clients that are holdings, corporations and others|
+
+
 ## Definitions
 
 You will find the definitions of the used terms and phrases in their exact contextual meaning below.  
