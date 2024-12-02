@@ -29,9 +29,12 @@ It is designated for partners which conduct businesses unrelated to our products
 
 ### Benefits
 
+Affiliate partners can be eligible for getting paid commissions by referring @@name to new clients. 
+For referrals leading to successful @@name implementations, affiliates can win revenue from commissions as follows:  
+
 * Referral
-  * Lead (referal links, cold contacts): Up to 5% of the license revenue for the first year (depending of the level of commitment)
-  * Opportunity (direct contact with decision maker): 5-10% of the license revenue for the first year (depending on the level of commitment)
+  * Lead (referal links, cold contacts): Up to 5% of the license and service revenue for the first year (depending of the level of commitment)
+  * Opportunity (direct contact with decision maker): 5-10% of the license and service revenue for the first year (depending on the level of commitment)
 
 ## Registered Partner
 
@@ -81,7 +84,7 @@ It also includes the direct marketing opportunity, which entitles the partner to
   * Discount for additional support: 20%
 * Customer support commission
   * 20% of the license revenue for Express Edition
-* Direct marketing opportunity for Express clients
+* Direct marketing opportunity for Express clients (note that commissions may apply - [see more](#direct-marketing-opportunity)).  
 
 ## Silver Partner
 
@@ -112,7 +115,7 @@ To obtain this level, you need to certify and dedicate at least 1 (one) tech spe
   * 20% of the license revenue for @@name Express Edition
   * 8% of the license revenue for other @@name products
 * 1 (one) Test + 1 (one) Demo @@name instances
-* Direct marketing opportunity for small business clients
+* Direct marketing opportunity for small business clients (note that commissions may apply - [see more](#direct-marketing-opportunity)).  
 
 ## Gold Partner
 
@@ -145,11 +148,13 @@ You must meet the requirements before applying for the level.
   * 20% of the license revenue for @@name Express Edition
   * 12% of the license revenue for other @@name products
 * 1 (one) Test + 1 (one) Demo + 3 (three) Model @@name instances
-* Direct marketing opportunity for enterprise clients
+* Direct marketing opportunity for enterprise clients (note that commissions may apply - [see more](#direct-marketing-opportunity)).  
 
 ## Partnership Levels Comparison
 
- The table below provides an overview of the different requirements and benefits for each tier of the partner program.
+ The follwoing table provides a comparison between the requirements and benefits for the various tiers of partnership with ERP.net.  
+ 
+ It will help you better understand your journey through the ERP.net partner program.  
 
 |**Requirements**|**[Registered Partner](#registered-partner)**|**[Express Partner](#express-partner)**|**[Silver Partner](#silver-partner)**|**[Gold Partner](#gold-partner)**|
 |:----|:----|:----|:----|:----|
@@ -159,19 +164,19 @@ You must meet the requirements before applying for the level.
 |**Partner fee**|Free|EUR 55/month (billed annually)|EUR 194/month (billed annually)|EUR 316/month (billed annually)|
 |**Use ERP.net for internal purposes**| |✔ (Express Pro)|✔ (Small Business Advanced)|✔ (Small Business Advanced)|
 |-|-|-|-|-|
-|**Benefits**|**Registered Partner**|**Express Partner**|**Silver Partner**|**Gold Partner**|
+|**Benefits**|**[Registered Partner](#registered-partner)**|**[Express Partner](#express-partner)**|**[Silver Partner](#silver-partner)**|**[Gold Partner](#gold-partner)**|
 |**Technical & sales guidance**| |✔|✔|✔|
 |**Internal chat / forum**| |✔|✔|✔|
-|**Internal use licenses**| |2 users|3 users|6 users|
 |**Internal use licenses for**| |ERP.net Express PRO|ERP.net Small Business Advanced|ERP.net Small Business Advanced|
-|**Discount for internal use licenses**|10%|20%|30%|50%|
+|**Number of licenses included**| |2 users|3 users|6 users|
+|**Discount for additional licenses for internal use**|10%|20%|30%|50%|
 |**Support incidents**| |6 tickets annualy|12 tickets annualy|24 tickets annualy|
-|**Discount for support incidents**|10%|20%|30%|50%|
+|**Discount for additional support**|10%|20%|30%|50%|
 |**Express support commission**| |20%|20%|20%|
 |**Other ERP.net products support commission**| | |8%|12%|
 |**ERP.net instances**| ||1 Test + 1 Demo|1 Test + 1 Demo + 3 Model|
 |**Direct marketing opportunity**| |✔|✔|✔|
-|**Priority for**| |Clients for Express (ERP.net CRM)|Clients that are small and medium-sized businesses|Clients that are holdings, corporations and others|
+|**Priority for**| |Clients suitable for Express (ERP.net CRM)|Clients that are small and medium-sized businesses|Clients that are holdings, corporations, and others|
 
 
 ## Definitions
@@ -233,7 +238,8 @@ Model instances allow the partner to create one or several prepared starting dat
 The cost of all such @@name instances, under the constraints specified here, are included in the partner package.  
 
 ### **Direct marketing opportunity**  
-When ERP.net receives a request from potential client, it might send the opportunity to the partner.
+When ERP.net receives a request from a potential client, it might send the opportunity to the partner. 
+ERP.net retains its right to charge a commission in such cases.  
 
 ### **Customer retention**  
 Indicates customer retention for both users and number of clients. 
