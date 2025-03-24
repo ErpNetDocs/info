@@ -48,85 +48,91 @@ From interacting with customers and suppliers, to reliably carrying out internal
 
 **@@name Small Business** edition is available through the following subscription plans:  
 
-|**FEATURE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**FEATURE**|**Basic**|**Pro**|**Premium**|**Max**|
 |:----|:----|:----|:----|:----|
 |Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|
-|Min users|3|3|3|5|
+|Min users|3|3|5|5|
 |Max users|35|35|35|35|
-|**PRODUCTIVITY**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**PRODUCTIVITY**|**Basic**|**Pro**|**Premium**|**Max**|
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|**AI CAPABILITIES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
+|Video Conferencing| |✔|✔|✔|
+|Chat/Video with external users| | |✔|✔|
+|**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
 |AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
 |AI Chat Arbiter| | |✔|✔|
 |AI Personalization (Fine-tuning)| | | |✔|
 |AI Workflow (Business rules)| | | |✔|
-|**CRM**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**CRM**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
 |**[Product Management](~/info/features/crm/products.md)**|✔|✔|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
-|POS|✔| |✔|✔|
-|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| | |✔|✔|
-|**LOGISTICS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔| |✔|✔|
-|**[Basic Logistics](~/features/logistics/index.md)**|✔| |✔|✔|
-|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| | |✔|✔|
-|Distribution Management (Desktop only)| | |✔|✔|
-|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| | |✔|✔|
-|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
-|**PRODUCTION**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|**[Basic Production (Assembly, SFC)](~/features/production/index.md)**|✔| |✔|✔|
-|**[Advanced Production (CRP, MRP)](~/features/production/index.md)**| | |✔|✔|
-|**FINANCE AND ACCOUNTING**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|POS|✔|✔|✔|✔|
+|**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| |✔|✔|✔|
+|**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
+|Agile Project Management| | |✔|✔|
+|**LOGISTICS**|**Basic**|**Pro**|**Premium**|**Max**|
+|Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔|✔|✔|✔|
+|**[Basic Logistics](~/features/logistics/index.md)**|✔|✔|✔|✔|
+|**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| |✔|✔|✔|
+|Distribution Management (Desktop only)| |✔|✔|✔|
+|**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| |✔|✔|✔|
+|**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| |(optional)|✔|✔|
+|**PRODUCTION**|**Basic**|**Pro**|**Premium**|**Max**|
+|**[Basic Production (Assembly, SFC)](~/features/production/index.md)**|✔|✔|✔|✔|
+|**[Advanced Production (CRP, MRP)](~/features/production/index.md)**| |✔|✔|✔|
+|**FINANCE AND ACCOUNTING**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
 |**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
-|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)| | |✔|✔|
-|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)| | |✔|✔|
-|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**| | |(optional)|✔|
-|**BUSINESS APPS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|Service Center Management| |✔|✔|✔|
-|Asset Management (beta)| | |(optional)|✔|
-|Fleet Management (beta)| | |(optional)|✔|
-|Lease-out Management (beta)| | |(optional)|✔|
-|**[Data Warehouse](~/features/applications/data-warehouse.md)**| | | (optional) |✔|
-|Personal Data Management (GDPR)| | | (optional) |✔|
-|Mail Sorting (beta)| | |✔|✔|
-|**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)| | |✔|✔|
-|**PROCESS MANAGEMENT**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|Basic Financials (GL, **[Assets](~/features/financials/fixed-assets.md)**, **[VAT](~/features/financials/vat-reporting.md)**, **[Intrastat](~/features/financials/intrastat-reporting.md)**)| |✔|✔|✔|
+|Advanced Financials (**[Financial Reporting](~/features/financials/financial-analysis.md)**, **[Costing](~/features/financials/costs.md)**)| |✔|✔|✔|
+|**[Excise & Tax Warehouse Management (Labels, Transactions, etc.)](~/features/financials/excise.md)**| |(optional)|(optional)|✔|
+|**BUSINESS APPS**|**Basic**|**Pro**|**Premium**|**Max**|
+|Service Center Management|✔|✔|✔|✔|
+|Asset Management (beta)| |(optional)|(optional)|✔|
+|Fleet Management (beta)| |(optional)|(optional)|✔|
+|Lease-out Management (beta)| |(optional)|(optional)|✔|
+|**[Data Warehouse](~/features/applications/data-warehouse.md)**| |(optional)|(optional)|✔|
+|Personal Data Management (GDPR)| |(optional)|(optional)|✔|
+|**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)| |✔|✔|✔|
+|**PROCESS MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**|✔|✔|✔|✔|
+|Advanced Calculated attributes| |✔|✔|✔|
 |User-defined Business Rules|✔|✔|✔|✔|
-|User-defined Jobs|✔|✔|✔|✔|
-|**Compatible WEBSITES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|User-defined Jobs| |✔|✔|✔|
+|**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|✔|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|✔|✔|✔|✔|
-|**[Client Center](~/features/crm/client-center.md)**|✔|✔|✔|✔|
-|**[WMS Worker](~/features/logistics/wms-worker.md)**| | |✔|✔|
-|**[Inventory Control](~/features/logistics/inventory-control.md)**| | |✔|✔|
-|Revenue Service Portals| | |✔|✔|
-|Microsoft Sync| | |✔|✔|
-|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|1|1|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| |✔|✔|✔|
+|**[Client Center](~/features/crm/client-center.md)**| |✔|✔|✔|
+|Video Conferencing| |✔|✔|✔|
+|**[WMS Worker](~/features/logistics/wms-worker.md)**| |(optional)|✔|✔|
+|**[Inventory Control](~/features/logistics/inventory-control.md)**| |✔|✔|✔|
+|Revenue Service Portals| |✔|✔|✔|
+|Microsoft Sync| |✔|✔|✔|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|2|3|
 |Extendable number of websites|✔|✔|✔|✔|
-|**TECHNICAL OPTIONS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|**TECHNICAL OPTIONS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|✔|
-|**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| | |(optional)|✔|
+|**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| |(optional)|(optional)|✔|
 |Storage Included|10 GB per plan|10 GB per plan|10 GB per plan|10 GB per plan|
 |Storage Extendable|✔|✔|✔|✔|
-|Test Instances allowed (billed separately)| | |✔|✔|
-|Dedicated APP server| | |(optional)|(optional)|
-|Business Intelligence (BI)| | |(optional)|(optional)|
-|Track Changes|✔|✔|✔|✔|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
-|**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|Price per month|€49/session|€49/session|€69/session|€99/session|
-|Price per month (annual payment)|€43.17/session|€43.17/session|€60.75/session|€87.17/session|
+|Test Instances allowed (billed separately)| |✔|✔|✔|
+|Dedicated APP server| |(optional)|(optional)|(optional)|
+|Business Intelligence (BI)| |(optional)|(optional)|(optional)|
+|Track Changes| |✔|✔|✔|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| |(optional)|✔|✔|
+|**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
+|Price per month|€49/session|€69/session|€89/session|€109/session|
+|Price per month (annual payment)|€43.17/session|€60.75/session|€78.33/session|€96.00/session|
 
 # Get @@name for your organization
 
