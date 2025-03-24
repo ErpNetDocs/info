@@ -75,6 +75,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
 |POS|✔|✔|✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| |✔|✔|✔|
+|**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
+|Agile Project Management| | |✔|✔|
 |**LOGISTICS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔|✔|✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|✔|✔|✔|✔|
