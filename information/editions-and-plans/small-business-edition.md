@@ -83,6 +83,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| |✔|✔|✔|
 |Distribution Management (Desktop only)| |✔|✔|✔|
 |**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| |✔|✔|✔|
+|Bar-code controlling (desktop only)| |✔|✔|✔|
 |**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| |(optional)|✔|✔|
 |**PRODUCTION**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Basic Production (Assembly, SFC)](~/features/production/index.md)**|✔|✔|✔|✔|
@@ -107,6 +108,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Advanced Calculated attributes| |✔|✔|✔|
 |User-defined Business Rules|✔|✔|✔|✔|
 |User-defined Jobs| |✔|✔|✔|
+|Printouts designer (desktop only)|✔|✔|✔|✔|
 |**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|✔|
