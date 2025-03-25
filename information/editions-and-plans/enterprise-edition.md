@@ -51,6 +51,9 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
 |File Manager|✔|✔|✔|
+|Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|
+|Video Conferencing|✔|✔|✔|
+|Chat/Video with external users|✔|✔|✔|
 |**AI CAPABILITIES**|**Standard**|**Premium**|**Corporate**|
 |AI Assistant|(optional)|✔|✔|
 |AI Data Analysis|(optional)|✔|✔|
@@ -66,12 +69,15 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
 |POS|(optional)|✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
+|**PROJECT MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
+|Agile Project Management|(optional)|✔|✔|
 |**LOGISTICS**|**Standard**|**Premium**|**Corporate**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
 |**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**|(optional)|✔|✔|
 |Distribution Management (Desktop only)|(optional)|✔|✔|
 |**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**|(optional)|✔|✔|
+|Bar-code controlling (desktop only)|(optional)|✔|✔|
 |**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**|(optional)|✔|✔|
 |**PRODUCTION**|**Standard**|**Premium**|**Corporate**|
 |**[Basic Production (Assembly)](~/features/production/index.md)**|(optional)|✔|✔|
@@ -89,18 +95,20 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Lease-out Management (beta)|(optional)|✔|✔|
 |**[Data Warehouse](~/features/applications/data-warehouse.md)**|(optional)|✔|✔|
 |Personal Data Management (GDPR)|(optional)|✔|✔|
-|Mail Sorting (beta)|(optional)|✔|✔|
 |**[Unified communication](~/features/crm/unified-communications.md)** (PBX integration, desktop only)|(optional)|✔|✔|
 |**PROCESS MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**|✔|✔|✔|
+|Advanced Calculated attributes|✔|✔|✔|
 |User-defined Business Rules|✔|✔|✔|
 |User-defined Jobs|✔|✔|✔|
-|**Compatible WEBSITES**|**Standard**|**Premium**|**Corporate**|
+|Printouts designer (desktop only)|✔|✔|✔|
+|**COMPATIBLE WEBSITES**|**Standard**|**Premium**|**Corporate**|
 |Web Client|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**|✔|✔|✔|
 |**[Client Center](~/features/crm/client-center.md)**|✔|✔|✔|
+|Video Conferencing|✔|✔|✔|
 |**[WMS Worker](~/features/logistics/wms-worker.md)**|✔|✔|✔|
 |**[Inventory Control](~/features/logistics/inventory-control.md)**|✔|✔|✔|
 |Revenue Service Portals|✔|✔|✔|
