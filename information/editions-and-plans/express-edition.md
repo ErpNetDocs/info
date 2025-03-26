@@ -64,8 +64,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
-|Video Conferencing| |✔|✔|✔|
-|Chat/Video with external users| | |✔|✔|
+|Video Conferencing (requires VC site)| |✔|✔|✔|
 |**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
 |AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
@@ -111,8 +110,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Track Changes| | |✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
-|Price per month|€9/user|€29/user|€49/user|€69/user|
-|Price per month (annual payment)|€8/user|€25.58/user|€43.17/user|€60.75/user|
+|Price per month|€9/user|€19/user|€34/user|€49/user|
+|Price per month (annual payment)|€8/user|€16.75/user|€30.00/user|€43.17/user|
 
 ## Key functionalities Express brings to your business
 

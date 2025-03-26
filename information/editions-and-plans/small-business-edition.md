@@ -58,8 +58,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
-|Video Conferencing| |✔|✔|✔|
-|Chat/Video with external users| | |✔|✔|
+|Video Conferencing (requires VC site)| |✔|✔|✔|
 |**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
 |AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
@@ -133,8 +132,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Track Changes| |✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| |(optional)|✔|✔|
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
-|Price per month|€49/session|€69/session|€89/session|€109/session|
-|Price per month (annual payment)|€43.17/session|€60.75/session|€78.33/session|€96.00/session|
+|Price per month|€49/session|€69/session|€84/session|€99/session|
+|Price per month (annual payment)|€43.17/session|€60.75/session|€74.00/session|€87.17/session|
 
 # Get @@name for your organization
 
