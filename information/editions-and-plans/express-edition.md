@@ -60,8 +60,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Min users|5|5|5|5|
 |Max users|100|100|100|100|
 |**PRODUCTIVITY**|**Basic**|**Pro**|**Premium**|**Max**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
+|Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
 |Video Conferencing (requires VC site)| |✔|✔|✔|
