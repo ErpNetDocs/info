@@ -82,7 +82,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Advanced Logistics (Suggest replenish + DRP)](~/features/logistics/index.md)**| |✔|✔|✔|
 |Distribution Management (Desktop only)| |✔|✔|✔|
 |**[Price Lists Management (Desktop only)](~/features/crm/pricing.md)**| |✔|✔|✔|
-|Bar-code controlling (desktop only)| |✔|✔|✔|
+|[Bar-code controlling (desktop only)](~/features/logistics/barcode-control.md)| |✔|✔|✔|
 |**[Warehouse Management (beta)](~/features/logistics/warehouse-management.md)**| |(optional)|✔|✔|
 |**PRODUCTION**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Basic Production (Assembly, SFC)](~/features/production/index.md)**|✔|✔|✔|✔|
