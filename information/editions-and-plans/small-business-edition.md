@@ -54,8 +54,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Min users|3|3|5|5|
 |Max users|35|35|35|35|
 |**PRODUCTIVITY**|**Basic**|**Pro**|**Premium**|**Max**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
+|Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
 |Video Conferencing (requires VC site)| |✔|✔|✔|
