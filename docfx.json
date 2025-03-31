@@ -22,7 +22,8 @@
       "_appTitle": "ERP.net Information",
       "_enableSearch": true,
       "_appFaviconPath": "favicon.ico",
-	  "pdf": false
+	  "pdf": false,
+	  "_disableToc": false
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
