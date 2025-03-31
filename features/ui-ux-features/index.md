@@ -23,5 +23,6 @@ Get to know your **@@name platform's UI and UX features** and **the benefits you
 
 * **[Chatter](chatter.md)**
 * **[Enter Stops](enter-stop.md)**
+* **[Presence (Team Member Availability)](presence.md)**
 * **[Run UI Function](run-ui-function.md)**
 * **[Web View](web-view.md)**
