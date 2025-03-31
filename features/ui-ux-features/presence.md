@@ -61,7 +61,7 @@ It's easy - just follow this guide to log into our **publicly available test ins
 
 > **[Presence in @@name - Try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**  
 
-> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
 [![Presence in ERP-net web client - Thumbnail Preview](https://github.com/user-attachments/assets/1541d4c0-8278-4e78-b8ef-a75395135335)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)
 
