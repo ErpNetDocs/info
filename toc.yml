@@ -1,11 +1,14 @@
+pdf: true
+pdfFileName: Info.pdf
+items:
 - name: Features
-  href: features/
+  href: features/toc.yml
 - name: Information
-  href: information/
+  href: information/toc.yml
 - name: Legal
-  href: legal/
+  href: legal/toc.yml
 - name: Partnership
-  href: partners/
+  href: partners/toc.yml
 - name: ERP.net Global ⏶
   href: https://erp.net/
   

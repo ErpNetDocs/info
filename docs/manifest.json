@@ -1,5 +1,5 @@
 {
-  "source_base_path": "C:/TFSAgent15/_work/24/s",
+  "source_base_path": "C:/Users/peter/projects/erp/docs/info",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -75,19 +75,6 @@
         },
         ".json": {
           "relative_path": "archive/2023/features/productivity/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "archive/2023/features/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "archive/2023/features/toc.html"
-        },
-        ".json": {
-          "relative_path": "archive/2023/features/toc.json"
         }
       },
       "version": ""
