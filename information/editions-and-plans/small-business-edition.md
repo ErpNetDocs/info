@@ -59,12 +59,6 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
 |Video Conferencing (requires VC site)| |✔|✔|✔|
-|**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
-|AI Assistant| | |✔|✔|
-|AI Data Analysis| | |✔|✔|
-|AI Chat Arbiter| | |✔|✔|
-|AI Personalization (Fine-tuning)| | | |✔|
-|AI Workflow (Business rules)| | | |✔|
 |**CRM**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
@@ -108,6 +102,12 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |User-defined Business Rules|✔|✔|✔|✔|
 |User-defined Jobs| |✔|✔|✔|
 |Printouts designer (desktop only)|✔|✔|✔|✔|
+|**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
+|AI Assistant| | |✔|✔|
+|AI Data Analysis| | |✔|✔|
+|AI Chat Arbiter| | |✔|✔|
+|AI Personalization (Fine-tuning)| | | |✔|
+|AI Workflow (Business rules)| | | |✔|
 |**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|✔|
