@@ -44,6 +44,35 @@ Manually selecting any state other than **Available** turns off automatic update
 > [!Tip]  
 > Setting your presence to **Available** resets your status and restores automatic presence updates by the @@name platform.  
 
+## Analysis and Security with Presence
+
+@@name records all changes of Presence states in the dedicated **Audit Log Entries** navigator.  
+
+Each manual or automatic update of a user's presence is logged securely into your @@name platform.  
+
+The platform tracks availability update events with data about:  
+
+* Associated user
+* Date and time of presence update
+* Method (automatic or manual presence update)
+* Status before the change
+* Status after the change
+
+![Presence in ERP-net web client - Audit Log - HD](https://github.com/user-attachments/assets/45246285-54d3-48f8-b0d5-c49ddfc0b7dd)
+
+This data can be analyzed in-place for quicker and simpler tasks.  
+
+> [!Tip]  
+> You can also feed availability logs into external BI solutions via secure data streaming methods or export them to widely popular tabular formats in order to carry out external big data analysis.  
+
+### Making the best of Presence update logs
+
+You can use presence data for various intents: as ways to verify team members' availability for a specific time period, resolve communication and collaboration issues, or examine user behavior at different timeframes.  
+
+Analyzing user behavior in @@name can help you better understand team member availability.  
+
+This is a leading step in further optimizing your collaboration, instant communication, and task and event planning, making all these processes more efficient, fluent, and enjoyable for your management and your teams.  
+
 ## What's In It for You
 
 Embracing **Presence** in @@name empowers your team's day-to-day instant communication in several ways:
