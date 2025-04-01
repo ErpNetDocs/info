@@ -65,12 +65,6 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |File Manager|✔|✔|✔|✔|
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
 |Video Conferencing (requires VC site)| |✔|✔|✔|
-|**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
-|AI Assistant| | |✔|✔|
-|AI Data Analysis| | |✔|✔|
-|AI Chat Arbiter| | |✔|✔|
-|AI Personalization (Fine-tuning)| | | |✔|
-|AI Workflow (Business rules)| | | |✔|
 |**CRM**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
@@ -93,6 +87,12 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Advanced Calculated attributes| | |✔|✔|
 |User-defined Business Rules| |✔|✔|✔|
 |User-defined Jobs| |✔|✔|✔|
+|**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
+|AI Assistant| | |✔|✔|
+|AI Data Analysis| | |✔|✔|
+|AI Chat Arbiter| | |✔|✔|
+|AI Personalization (Fine-tuning)| | | |✔|
+|AI Workflow (Business rules)| | | |✔|
 |**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| |✔|✔|✔|

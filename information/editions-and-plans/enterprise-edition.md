@@ -54,12 +54,6 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|
 |Video Conferencing|✔|✔|✔|
 |Chat/Video with external users|✔|✔|✔|
-|**AI CAPABILITIES**|**Standard**|**Premium**|**Corporate**|
-|AI Assistant|(optional)|✔|✔|
-|AI Data Analysis|(optional)|✔|✔|
-|AI Chat Arbiter|(optional)|✔|✔|
-|AI Personalization (Fine-tuning)|(optional)|✔|✔|
-|AI Workflow (Business rules)|(optional)|✔|✔|
 |**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
 |Customer Management|(optional)|✔|✔|
@@ -103,6 +97,12 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |User-defined Business Rules|✔|✔|✔|
 |User-defined Jobs|✔|✔|✔|
 |Printouts designer (desktop only)|✔|✔|✔|
+|**AI CAPABILITIES**|**Standard**|**Premium**|**Corporate**|
+|AI Assistant|(optional)|✔|✔|
+|AI Data Analysis|(optional)|✔|✔|
+|AI Chat Arbiter|(optional)|✔|✔|
+|AI Personalization (Fine-tuning)|(optional)|✔|✔|
+|AI Workflow (Business rules)|(optional)|✔|✔|
 |**COMPATIBLE WEBSITES**|**Standard**|**Premium**|**Corporate**|
 |Web Client|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|
