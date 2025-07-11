@@ -50,7 +50,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 
 |**FEATURE**|**Basic**|**Pro**|**Premium**|**Max**|
 |:----|:----|:----|:----|:----|
-|Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Active Users](~/information/licensing/concurrent-sessions-based-licensing.md)**|
+|Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|
 |Min users|3|3|5|5|
 |Max users|35|35|35|35|
 |**PRODUCTIVITY**|**Basic**|**Pro**|**Premium**|**Max**|
