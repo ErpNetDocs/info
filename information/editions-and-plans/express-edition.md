@@ -72,8 +72,10 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
+|Salesforce Management Basic|✔|✔|✔|✔|
 |**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
 |Agile Project Management| |✔|✔|✔|
+|Advanced Project Management| | |✔|✔|
 |**BUSINESS APPS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Service Center Management| | | |✔|
 |Asset Management (beta)| | | |✔|
