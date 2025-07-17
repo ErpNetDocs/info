@@ -66,10 +66,13 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
+|Salesforce Management Basic|✔|✔|✔|✔|
+|Salesforce Management Advanced| |✔|✔|✔|
 |POS (desktop only)|✔|✔|✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| |✔|✔|✔|
 |**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
 |Agile Project Management| | |✔|✔|
+|Advanced Project Management| | |✔|✔|
 |**LOGISTICS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔|✔|✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|✔|✔|✔|✔|
