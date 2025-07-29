@@ -59,12 +59,12 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
 |Min users|5|5|5|5|
 |Max users|100|100|100|100|
-|**PRODUCTIVITY**|**Basic**|**Pro**|**Premium**|**Max**|
+|**WORK MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
 |Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Files|✔|✔|✔|✔|
+|**[Team Spaces](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|Document/Spreadsheet Editors, PDF Viewer|✔|✔|✔|✔|
 |Video Conferencing (requires VC site)| |✔|✔|✔|
+|Advanced Video Conferencing| | |✔|✔|
 |**CRM**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
@@ -72,9 +72,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
-|Salesforce Management Basic|✔|✔|✔|✔|
 |**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
-|Agile Project Management| |✔|✔|✔|
+|Project & Case Management| |✔|✔|✔|
 |Advanced Project Management| | |✔|✔|
 |**BUSINESS APPS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Service Center Management| | | |✔|
@@ -86,9 +85,9 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**PROCESS MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| |✔|✔|✔|
-|Advanced Calculated attributes| | |✔|✔|
 |User-defined Business Rules| |✔|✔|✔|
 |User-defined Jobs| |✔|✔|✔|
+|Advanced BPM| | |✔|✔|
 |**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
 |AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
@@ -97,23 +96,24 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |AI Workflow (Business rules)| | | |✔|
 |**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| |✔|✔|✔|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|✔|
-|**[Client Center](~/features/crm/client-center.md)**| | |✔|✔|
-|Video Conferencing| |✔|✔|✔|
-|Microsoft Sync| |✔|✔|✔|
-|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|2|2|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| |(optional)|(optional)|(optional)|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |(optional)|(optional)|
+|**[Client Center](~/features/crm/client-center.md)**| | |(optional)|(optional)|
+|Video Conferencing| |(optional)|(optional)|(optional)|
+|Microsoft Sync| |(optional)|(optional)|(optional)|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|2|3|4|
 |Extendable number of websites| |✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
-|Storage Included|3 GB per user|3 GB per user|3 GB per user|10 GB per user|
+|Storage Included|3 GB per user|3 GB per user|3 GB per user|3 GB per user|
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)| | |✔|✔|
 |Track Changes| | |✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
-|Price per month|€9/user|€19/user|€34/user|€49/user|
-|Price per month (annual payment)|€8/user|€16.75/user|€30.00/user|€43.17/user|
+|Price per month|€9.22/user|€15.91/user|€26.60/user|€39.97/user|
+|Price per month (annual payment)|€8.12/user|€14/user|€23.41/user|€35.18/user|
+|**New client: -15% (annual payment)**|**€6.90/user**|**€11.90/user**|**€19.90/user**|**€29.90/user**|
 
 ## Key functionalities Express brings to your business
 
