@@ -115,7 +115,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
 |Price per month|€9.22/user|€15.91/user|€26.60/user|€39.97/user|
 |Price per month (annual payment)|€8.12/user|€14/user|€23.41/user|€35.18/user|
-|**New client: -15% (annual payment)**|**€6.90/user**|**€11.90/user**|**€19.90/user**|**€29.90/user**|
+|**New clients: -15% (annual payment)**|**€6.90/user**|**€11.90/user**|**€19.90/user**|**€29.90/user**|
 |Free Trial|1 month|1 month|1 month|1 month|
 
 ## Key functionalities Express brings to your business
