@@ -64,7 +64,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**, etc.|✔|✔|✔|✔|
 |**[Teamspaces](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Cases, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|Video Conferencing (requires site license slot)| |✔|✔|✔|
+|Video Conferencing (requires one site license slot)| |✔|✔|✔|
 |Project & Case Management| |✔|✔|✔|
 |Advanced Video Conferencing| | |✔|✔|
 |Advanced Project Management| | |✔|✔|
