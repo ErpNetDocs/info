@@ -106,7 +106,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Extendable number of websites| |✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client Included|✔|✔|✔|✔|
-|Storage Included|3 GB|3 GB|3 GB|3 GB|
+|Storage Included|3 GB per plan|3 GB per plan|3 GB per plan|3 GB per plan|
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)| | |✔|✔|
 |Track Changes| | |✔|✔|
