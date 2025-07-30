@@ -72,8 +72,8 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Contact Management|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
 |**[Product & Lifecycle Management](~/features/crm/products.md)**|✔|✔|✔|✔|
-|**[Presales - Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
-|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
+|**[Presales](~/features/crm/presales.md)** - Leads, Opportunity & Quotation|✔|✔|✔|✔|
+|**[Marketing Management](~/features/crm/marketing.md)** - Campaigns, Competitors, Channels|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
 |**BUSINESS APPS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Service Center Management| | | |✔|
