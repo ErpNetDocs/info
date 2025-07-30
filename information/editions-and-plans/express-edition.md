@@ -59,61 +59,64 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
 |Min users|5|5|5|5|
 |Max users|100|100|100|100|
+|****BUSINESS FUNCTIONS****| | | | |
 |**WORK MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
-|Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
-|**[Team Spaces](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Files|✔|✔|✔|✔|
+|Personal Productivity - Calendar, **[To Do Tasks](~/features/my-apps/todo.md)**, etc.|✔|✔|✔|✔|
+|**[Teamspaces](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, To Do, Cases, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|Video Conferencing (requires VC site)| |✔|✔|✔|
+|Video Conferencing (requires site license slot)| |✔|✔|✔|
+|Project & Case Management| |✔|✔|✔|
 |Advanced Video Conferencing| | |✔|✔|
+|Advanced Project Management| | |✔|✔|
 |**CRM**|**Basic**|**Pro**|**Premium**|**Max**|
-|**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
+|Contact Management|✔|✔|✔|✔|
 |Customer Management|✔|✔|✔|✔|
-|**[Product Management](~/features/crm/products.md)**|✔|✔|✔|✔|
-|**[Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
+|**[Product & Lifecycle Management](~/features/crm/products.md)**|✔|✔|✔|✔|
+|**[Presales - Leads, Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
-|**PROJECT MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
-|Project & Case Management| |✔|✔|✔|
-|Advanced Project Management| | |✔|✔|
 |**BUSINESS APPS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Service Center Management| | | |✔|
-|Asset Management (beta)| | | |✔|
-|Fleet Management (beta)| | | |✔|
-|Lease-out Management (beta)| | | |✔|
+|Asset Management (Beta)| | | |✔|
+|Fleet Management (Beta)| | | |✔|
+|Rental (Lease-Out) Management (Beta)| | | |✔|
 |**[Data Warehouse](~/features/applications/data-warehouse.md)**| | | |✔|
-|Personal Data Management (GDPR)| | | |✔|
+|Personal Data Management (with GDPR compliance)| | | |✔|
+|**TECHNICAL CAPABILITIES**| | | | |
 |**PROCESS MANAGEMENT**|**Basic**|**Pro**|**Premium**|**Max**|
-|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
-|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| |✔|✔|✔|
-|User-defined Business Rules| |✔|✔|✔|
-|User-defined Jobs| |✔|✔|✔|
+|**[User-Defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
+|**[User-Defined Calculated Attributes](~/features/system/calculated-attributes.md)**| |✔|✔|✔|
+|User-Defined Business Rules| |✔|✔|✔|
+|User-Defined Jobs| |✔|✔|✔|
 |Advanced BPM| | |✔|✔|
 |**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
-|AI Assistant| | |✔|✔|
 |AI Data Analysis| | |✔|✔|
+|AI Assistant (Beta)| | |✔|✔|
 |AI Chat Arbiter| | |✔|✔|
-|AI Personalization (Fine-tuning)| | | |✔|
-|AI Workflow (Business rules)| | | |✔|
-|**COMPATIBLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
+|AI Personalization (Fine-Tuning)| | | |✔|
+|AI Workflow (AI Fields & Business Rules)| | | |✔|
+|**AVAILABLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| |(optional)|(optional)|(optional)|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |(optional)|(optional)|
-|**[Client Center](~/features/crm/client-center.md)**| | |(optional)|(optional)|
 |Video Conferencing| |(optional)|(optional)|(optional)|
-|Microsoft Sync| |(optional)|(optional)|(optional)|
+|Microsoft 365 Sync| |(optional)|(optional)|(optional)|
+|**[Client Center](~/features/crm/client-center.md)**| | |(optional)|(optional)|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |(optional)|(optional)|
 |**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|2|3|4|
 |Extendable number of websites| |✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic**|**Pro**|**Premium**|**Max**|
-|Web Client|✔|✔|✔|✔|
-|Storage Included|3 GB per user|3 GB per user|3 GB per user|3 GB per user|
+|Web Client Included|✔|✔|✔|✔|
+|Storage Included|3 GB|3 GB|3 GB|3 GB|
 |Storage Extendable|✔|✔|✔|✔|
 |Test Instances allowed (billed separately)| | |✔|✔|
 |Track Changes| | |✔|✔|
+|Platform Instance Statistics (Database Size, Load, etc.)| | |✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
 |Price per month|€9.22/user|€15.91/user|€26.60/user|€39.97/user|
 |Price per month (annual payment)|€8.12/user|€14/user|€23.41/user|€35.18/user|
 |**New client: -15% (annual payment)**|**€6.90/user**|**€11.90/user**|**€19.90/user**|**€29.90/user**|
+|Free Trial|1 month|1 month|1 month|1 month|
 
 ## Key functionalities Express brings to your business
 
