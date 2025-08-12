@@ -84,11 +84,11 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Inventory Management](~/features/logistics/index.md)**|✔|✔|✔|✔|
 |Basic Logistics - **[Shipment](~/features/logistics/shipment.md)**, Procurement|✔|✔|✔|✔|
 |**[Basic Production](~/features/production/index.md)** - Assembly, Shop Floor Control (SFC)|✔|✔|✔|✔|
-|**[Advanced Logistics](~/features/logistics/index.md)** - Suggest replenish + Distribution Requirements Planning (DRP)| |✔|✔|✔|
-|**[Price Lists Management](~/features/crm/pricing.md)** (desktop only)| |✔|✔|✔|
 |**[Barcode Controlling](~/features/logistics/barcode-control.md)** (desktop only)| |✔|✔|✔|
-|Advanced Production - **[CRP](~/features/production/mrp.md)**, **[MRP](~/features/production/crp.md)**| |✔|✔|✔|
-|**[Warehouse Management (Beta)](~/features/logistics/warehouse-management.md)**| |(optional)|✔|✔|
+|**[Price Lists Management](~/features/crm/pricing.md)** (desktop only)| | |✔|✔|
+|**[Advanced Logistics](~/features/logistics/index.md)** - Suggest replenish + Distribution Requirements Planning (DRP)| | |✔|✔|
+|Advanced Production - **[CRP](~/features/production/mrp.md)**, **[MRP](~/features/production/crp.md)**| | |✔|✔|
+|**[Warehouse Management (Beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
 |**ERP - FINANCE & COMPLIANCE**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
 |**[Payments](~/features/financials/payments.md)**|✔|✔|✔|✔|
@@ -115,7 +115,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|(optional)|(optional)|(optional)|(optional)|
 |Video Conferencing| |(optional)|(optional)|(optional)|
 |Microsoft 365 Sync| |(optional)|(optional)|(optional)|
-|**[Client Center](~/features/crm/client-center.md)**| | |(optional)|(optional)|
+|**[Client Center](~/features/crm/client-center.md)** (B2B Portal)| |(optional)|(optional)|(optional)|
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |(optional)|(optional)|
 |**[Inventory Control](~/features/logistics/inventory-control.md)**| |(optional)|(optional)|(optional)|
 |Revenue Service Portals| |(optional)|(optional)|(optional)|
