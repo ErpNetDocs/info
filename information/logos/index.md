@@ -12,12 +12,16 @@ This is the horizontally oriented logo of ERP.net in its full contents.
 
 ## ERP.net
 
-* [ERP-net-Logo-01-Color.svg](ERP-net-Logo-01-Color.svg) 
-* [ERP-net-Logo-01-Color.png](ERP-net-Logo-01-Color.png)
-* [ERP-net-Logo-01-Color-with-Background.png](ERP-net-Logo-01-Color-with-Background.png)
-* [ERP-net-Logo-02-Color-v2.svg](ERP-net-Logo-02-Color-v2.svg)
-* [ERP-net-Logo-02-Color-v2.png](ERP-net-Logo-02-Color-v2.png)
-* [ERP-net-Logo-02-Color-v2-with-Background.png](ERP-net-Logo-02-Color-v2-with-Background.png)
+* [ERP_net_Logo_Blue.png](ERP_net_Logo_Blue.png) 
+* [ERP_net_Logo_Blue.svg](ERP_net_Logo_Blue.svg)
+* [ERP_net_Logo_White.png](ERP_net_Logo_White.png)
+* [ERP_net_Logo_White.svg](ERP_net_Logo_White.svg)
+* [ERP_net_Logo_Slogan_Blue.png](ERP_net_Logo_Slogan_Blue.png)
+* [ERP_net_Logo_Slogan_Blue.svg](ERP_net_Logo_Slogan_Blue.svg)
+* [ERP_net_Logo_Slogan_White.png](ERP_net_Logo_Slogan_White.png)
+* [ERP_net_Logo_Slogan_White.svg](ERP_net_Logo_Slogan_White.svg)
+* [ERP_net_Logo_White_with_Background_Black.png](ERP_net_Logo_White_with_Background_Black.png)
+* [ERP_net_Logo_Slogan_White_with_Background_Black.png](ERP_net_Logo_Slogan_White_with_Background_Black.png)
 
 ## ERP.net Arrow-Style Logo Mark
 
@@ -26,21 +30,4 @@ This is the horizontally oriented logo of ERP.net in its full contents.
 * [Logo-Arrow-with-Background-White.png](Logo-Arrow-with-Background-White.png)
 * [Logo-Arrow-with-Background-Black.png](Logo-Arrow-with-Background-Black.png)
 * [Logo-Arrow-with-Background-Brand-Blue.png](Logo-Arrow-with-Background-Brand-Blue.png)
-
-
-## Powered by ERP.net
-		
-
-* [Powered by ERP.net_Logo_Vertical_Blue.svg](Powered_by_ERP.net_Logo_Vertical_Blue.svg)
-* [Powered by ERP.net_Logo_Horizontal_Blue.svg](Powered_by_ERP.net_Logo_Horizontal_Blue.svg)
-* [Powered by ERP.net_Logo_Vertical_White.svg](Powered_by_ERP.net_Logo_Vertical_White.svg)
-* [Powered by ERP.net_Logo_Horizontal_White.svg](Powered_by_ERP.net_Logo_Horizontal_White.svg)
-* [Powered by ERP.net_Logo_Vertical_Blue_0.5x.png](Powered_by_ERP.net_Logo_Vertical_Blue_0.5x.png)
-* [Powered by ERP.net_Logo_Horizontal_Blue_0.5x.png](Powered_by_ERP.net_Logo_Horizontal_Blue_0.5x.png)
-* [Powered by ERP.net_Logo_Vertical_White_0.5x.png](Powered_by_ERP.net_Logo_Vertical_White_0.5x.png)
-* [Powered by ERP.net_Logo_Horizontal_White_0.5x.png](Powered_by_ERP.net_Logo_Horizontal_White_0.5x.png)
-* [Powered by ERP.net_Logo_Vertical_Blue_2.0x.png](Powered_by_ERP.net_Logo_Vertical_Blue_2.0x.png)
-* [Powered by ERP.net_Logo_Horizontal_Blue_2.0x.png](Powered_by_ERP.net_Logo_Horizontal_Blue_2.0x.png)
-* [Powered by ERP.net_Logo_Vertical_White_2.0x.png](Powered_by_ERP.net_Logo_Vertical_White_2.0x.png)
-* [Powered by ERP.net_Logo_Horizontal_White_2.0x.png](Powered_by_ERP.net_Logo_Horizontal_White_2.0x.png)
 
