@@ -23,6 +23,9 @@
 - name: Financials
   href: financials/toc.yml
   topicHref: financials/index.md
+- name: Work Management
+  href: work-management/toc.yml
+  topicHref: work-management/index.md
 - name: Applications
   href: applications/toc.yml
   topicHref: applications/index.md
