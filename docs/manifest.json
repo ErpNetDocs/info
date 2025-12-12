@@ -1294,36 +1294,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/projects/agile-projects.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/projects/agile-projects.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/projects/artificial-intelligence.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/projects/artificial-intelligence.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/projects/index.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/projects/index.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/system/calculated-attributes.md",
       "output": {
         ".html": {
@@ -1560,6 +1530,49 @@
       "output": {
         ".html": {
           "relative_path": "features/ui-ux-features/web-view.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/work-management/artificial-intelligence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/work-management/artificial-intelligence.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/work-management/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/work-management/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/work-management/project-management.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/work-management/project-management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "features/work-management/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "features/work-management/toc.html"
+        },
+        ".json": {
+          "relative_path": "features/work-management/toc.json"
         }
       },
       "version": ""
