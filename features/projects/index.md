@@ -4,5 +4,5 @@
 
 ## Project management in @@name
 
-* **[Artificial Intelligence](artificial-intelligence.md)**
-* **[Agile Projects](agile-projects.md)**
+* **[Artificial Intelligence (AI) in @@name](artificial-intelligence.md)**
+* **[Project Management in @@name](project-management.md)**
