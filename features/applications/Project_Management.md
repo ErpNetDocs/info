@@ -1,5 +1,7 @@
 # When Projects Drive the Business
 
+## Overview
+
 In modern companies, ideas create movement. New products, improvements, client initiatives, internal processes — each of them requires coordination, clear steps, and visibility over progress.
 
 Yet projects often scatter across emails, meetings, spreadsheets, and a dozen communication channels.  
@@ -50,20 +52,20 @@ People work in sync.
 Resources are used more wisely.  
 Initiatives don’t sink into “submarine” efforts — they become visible and traceable.
 
-This clarity and order is exactly what **Project Management in ERP.net** delivers — helping organizations turn ideas into real outcomes without complicating their processes.
+This clarity and order is exactly what **Project Management in @@name** delivers — helping organizations turn ideas into real outcomes without complicating their processes.
 
 ---
 
-## What Project Management in ERP.net Is
+## What Project Management in @@name is
 
-Project Management in ERP.net is the core that connects people, ideas, and actions into a structured, traceable, and understandable flow of work.  
+Project Management in @@name is the core that connects people, ideas, and actions into a structured, traceable, and understandable flow of work.  
 Whether it’s client service, an internal initiative, product development, or coordination between teams — the module turns work into sequence, and sequence into results.
 
 At its foundation stand several key components that naturally work together:
 
 ### **Projects — the framework of every initiative**
 
-Each project in ERP.net acts as a “container” that gathers everything related to an initiative:
+Each project in @@name acts as a “container” that gathers everything related to an initiative:
 
 - goals  
 - participants  
@@ -101,7 +103,7 @@ Each task is a clearly defined action:
 - current status  
 - related documents or comments  
 
-ERP.net allows you to organize, filter, group, and track all tasks so that no important step is ever lost — even in large projects with many contributors.
+@@name allows you to organize, filter, group, and track all tasks so that no important step is ever lost — even in large projects with many contributors.
 
 ### **Documents and Files — everything in the right place**
 
@@ -123,7 +125,7 @@ History becomes a guide — especially for long or multi-stage projects.
 
 ### **Real-time Progress — a clear picture without meetings**
 
-ERP.net visualizes what is completed, what’s upcoming, and where blockers exist.  
+@@name visualizes what is completed, what’s upcoming, and where blockers exist.  
 Managers see movement across the project without status meetings, while contributors receive a natural rhythm and clear priorities.
 
 ---
@@ -140,14 +142,14 @@ Because it is structured yet lightweight, Project Management works naturally in 
 
 The principle is always the same:  
 **Step by step, tasks lead to results.**  
-ERP.net makes each step lighter, clearer, and more visible.
+@@name makes each step lighter, clearer, and more visible.
 
 ---
 
 ## How It Works — Told as a Real Process
 
 Managing a project often seems daunting: many people, many tasks, many unknowns.  
-But in practice — and especially in ERP.net — the process is far more natural than it sounds.
+But in practice — and especially in @@name — the process is far more natural than it sounds.
 
 Imagine you’re starting a new initiative. It might be something big like preparing for a trade show, or something small like improving an internal process. What’s the first thing you do?
 
@@ -160,7 +162,7 @@ Every initiative starts as an idea:
 - “Let’s develop a new product.”  
 - “Let’s organize a company event.”  
 
-In ERP.net this idea becomes a **Project** — a protected space that gathers everything that will follow:
+In @@name this idea becomes a **Project** — a protected space that gathers everything that will follow:
 
 - description  
 - participants  
@@ -200,7 +202,7 @@ With Project Areas:
 ### **3. You add the tasks — and the project begins to “breathe”**
 
 Projects move through small, concrete actions.  
-In ERP.net these actions are **Tasks (Cases)** — clearly defined steps leading to progress.
+In @@name these actions are **Tasks (Cases)** — clearly defined steps leading to progress.
 
 Examples:
 
@@ -235,7 +237,7 @@ Progress is visible throughout the module:
 - who is actively involved  
 - what affects milestones and deadlines  
 
-ERP.net updates this in real time as people work.  
+@@name updates this in real time as people work.  
 No more *“What’s happening here?”* emails or emergency sync meetings.
 
 Instead of gathering information —  
@@ -246,7 +248,7 @@ you simply **see** it.
 ## The Result? Work Flows Smoothly
 
 Projects are not chaos — they are sequence.  
-ERP.net helps you see that sequence, organize it, and follow it with ease.
+@@name helps you see that sequence, organize it, and follow it with ease.
 
 And regardless of scale — from a small initiative to a major transformation —  
 the module keeps the process natural, transparent, and calm.
@@ -257,7 +259,7 @@ the module keeps the process natural, transparent, and calm.
 
 Projects exist everywhere. The difference lies in how we manage them.
 
-Project Management in ERP.net gives you:
+Project Management in @@name gives you:
 
 - **Peace of mind** — you know what’s happening without extra meetings.  
 - **Transparency** — everyone sees progress and knows what to do.  
@@ -287,7 +289,7 @@ Warehouse optimization, process improvements, certifications, ISO projects.
 Annual plans, structural changes, strategic programs.
 
 ### **Any work requiring coordination across many people**  
-ERP.net turns complexity into sequence.
+@@name turns complexity into sequence.
 
 ---
 
@@ -301,14 +303,14 @@ ERP.net turns complexity into sequence.
 
 ---
 
-## Try Project Management in ERP.net Now
+## Try Project Management in @@name Now
 
-You can explore and experience the powerful Project Management module in ERP.net yourself — see how projects become clearer, tasks more organized, and teamwork naturally aligned.
+You can explore and experience the powerful Project Management module in @@name yourself — see how projects become clearer, tasks more organized, and teamwork naturally aligned.
 
 It’s simple.
 
-Just follow this guide to log into our publicly available test instance of ERP.net — **no registration required**:
+Just follow this guide to log into our publicly available test instance of @@name — **no registration required**:
 
-**Project Management in ERP.net — Try now without registration**
+**Project Management in @@name — Try now without registration**
 
 **Access credentials** — Use these to log in.
