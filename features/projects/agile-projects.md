@@ -1,3 +1,0 @@
-# Agile Project Management
-
-# Overview
