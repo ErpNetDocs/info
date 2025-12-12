@@ -26,6 +26,7 @@ This section contains the modules in the @@name platform that are available for 
 * **[Logistics](~/features/logistics/index.md)**
 * **[Production](~/features/production/index.md)**
 * **[Financials](~/features/financials/index.md)**
+* **[Work Management](~/features/work-management/index.md)**
 * **[Applications](~/features/applications/index.md)**
 * **[System module](~/features/system/index.md)**
 * **[Integrations](~/features/integrations/index.md)**
