@@ -53,6 +53,7 @@ It connects tasks, projects, teams, documents, communication, and business proce
 * **Transparent Progress Tracking:** Managers can identify ways to enhance performance. boost output, and adjust workloads proactively.
 * **Data-Driven Decisions:** Data analytics help optimize resource allocation and identify efficiency opportunities.
 
-## Project management in @@name
+## Workflow Management in @@name
 
 * **[Project Management (PM) in @@name](project-management.md)**
+* **[Presence (Availability) in @@name](presence.md)**
