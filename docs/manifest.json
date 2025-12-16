@@ -1493,16 +1493,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/ui-ux-features/presence.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/ui-ux-features/presence.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/ui-ux-features/run-ui-function.md",
       "output": {
         ".html": {
@@ -1550,6 +1540,16 @@
       "output": {
         ".html": {
           "relative_path": "features/work-management/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/work-management/presence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/work-management/presence.html"
         }
       },
       "version": ""
@@ -2042,6 +2042,66 @@
       "output": {
         "resource": {
           "relative_path": "information/logos/Logo-Arrow.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Blue-Dark.svg",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Blue-Dark.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Blue-Light.svg",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Blue-Light.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Blue.png",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Blue.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Orange-Dark.svg",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Orange-Dark.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Orange-Light.svg",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Orange-Light.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "information/logos/Powered by-ERP.net-Orange.png",
+      "output": {
+        "resource": {
+          "relative_path": "information/logos/Powered by-ERP.net-Orange.png"
         }
       },
       "version": ""
