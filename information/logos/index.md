@@ -31,3 +31,12 @@ This is the horizontally oriented logo of ERP.net in its full contents.
 * [Logo-Arrow-with-Background-Black.png](Logo-Arrow-with-Background-Black.png)
 * [Logo-Arrow-with-Background-Brand-Blue.png](Logo-Arrow-with-Background-Brand-Blue.png)
 
+## Powered by ERP.net
+		
+* [Powered by-ERP.net-Orange.png](Powered by-ERP.net-Orange.png)
+* [Powered by-ERP.net-Blue.png](Powered by-ERP.net-Blue.png)
+* [Powered by-ERP.net-Orange-Dark.svg](Powered by-ERP.net-Orange-Dark.svg)
+* [Powered by-ERP.net-Orange-Light.svg](Powered by-ERP.net-Orange-Light.svg)
+* [Powered by-ERP.net-Blue-Dark.svg](Powered by-ERP.net-Blue-Dark.svg)
+* [Powered by-ERP.net-Blue-Light.svg](Powered by-ERP.net-Blue-Light.svg)
+
