@@ -1,111 +1,176 @@
-# File Manager of ERP.net
+ # File Management in ERP.net  
+*A modern way to organize, access, and use your business documents*
 
-## Overview
+---
 
-Oftentimes, keeping files in an external storage (like local drives or cloud platforms) leads to searching through complex external directories to find a file you are looking for. 
-And this often leaves a gap between navigating through internal ERP entities and external file storage.  
+## Documents are everywhere. And that’s perfectly normal.
 
-**File Management inside the ERP system** is a **feasible and productive way** to **close this gap** and **utilize the ERP system's full potential**.  
+Every business works with documents.  
+And not just a few.
 
-**Some files** are associated with **a specific record** in the ERP system. 
-They are an integral part of the record and make more sense if stored attached to it.  
+Contracts, offers, invoices, specifications, spreadsheets, reports, images — they are part of every deal, every decision, and every operational activity, regardless of industry.
 
-To meet these needs, your **@@name system** provides you with the universal functionality of **attaching embedded or linked files** to an **internal record or other object**, available throughout all subsystems.  
+Interestingly, documents are rarely the “main topic.”  
+They simply need to be there — when you look for them, when you open them, and when you work with them.
 
-**Other files** are more **generic documents for business use**, such as documentation regarding training courses, internal or external regulations, company practices, handbooks, and so on. 
-These concern the organization as a whole and are used for **general reference** or as **informational sources**. 
-In this case, being able to upload them in an accessible storage, **unattached**, would be a more suitable solution.  
+As a business grows, this expectation becomes even more important.  
+More people, more processes, more information that needs to be:
 
-To solve this, **@@name** now comes with the updated functionality **File Management v2.0**.  
+- clearly organized  
+- up to date  
+- easy to access  
+- logically connected to the work  
 
-![file_manager](https://user-images.githubusercontent.com/106669250/192732488-31f8ae5e-e010-4510-9703-e8d463070d9e.jpg)
+When documents are organized as part of the business context, work flows more naturally. Teams orient themselves faster, and the focus stays on tasks — not on searching.
 
-Built upon the proven and trusted functionality of **attaching documents to specific objects**, **File Manager of @@name** now extends its abilities featuring a way to **also store an unattached file**.  
+This is exactly where **File Management in ERP.net** comes into play.
 
-**File Manager** enables you to **store and access** your files and folders in an organized and straightforward way. 
-Its intuitive structure resembles the well-known **Windows File Explorer structure** users are used to.  
+---
 
-The new functionality for organizing your work files and folders is accessible to all users of your @@name platform regardless of their workplace's physical location.  
-## File Manager Structure
+## One place for all files and documents
 
-**File Management v2.0** unlocks new opportunities by providing **a uniform, centralized and shared structure** for managing your business documentation in a cloud environment, integrated with the rest of your data within the ERP platform. 
+File Management in ERP.net brings documents to where work actually happens — inside the system itself.
 
-**@@name's File Manager** uses a vertically-expandable **hierarchical tree structure** to arrange and represent your folders.  
+Instead of existing separately, files are directly linked to:
 
-The **File tree** can be **expanded or collapsed** to **list or hide** subfolders for a more **detailed**, or conversely, a more **compact** layout.  
-You can use the **folder tree** to easily **view your folders** and **navigate throughout your directories structure**.  
+- customers and suppliers  
+- sales documents and invoices  
+- projects and tasks  
+- products, assets, and processes  
 
-In the Folder tree you can also: 
+This means documents are always in the right place, in the right context, and at the right moment — without switching between systems or tools.
 
-* Edit the definition (name, parent, and notes) of the selected folder.
-* Create a new folder
-* Change the name of the selected folder
-* Remove the selected folder from the folder tree and your storage
-* Refresh the contents of the folder tree  
+---
 
-The **Files** window shows the files stored in the selected folder. 
-It also allows to: 
+## File Management in ERP.net
 
-* Open the selected file using an appropriate application
-* Save the selected file to your local storage or external storage
-* Delete the selected file(s)
-* Upload new file(s) to your @@name File Manager storage
+File Management in ERP.net is an integrated document management functionality built directly into the ERP platform.
 
-## File Manager Views 
+It allows you to:
 
-The layout options for visualizing your files are identical to the popular ones in Windows File Explorer. 
-**Different layouts** represent a **different level of density and details** for the files in the current folder. 
-There are currently **eight available views** for viewing your documents. 
-You can choose between different icon sizes, tiles, list, details, and other.
+- store files securely  
+- organize documents in a clear structure  
+- link files to business objects  
+- manage access and visibility  
+- work with documents directly through the web interface  
 
-## File Manager Sections
+All of this happens within a single system — without the need for additional applications or external repositories.
 
-While in **Details layout**, you can assign **sections** to your files. 
+---
 
-Sections will be shown in all other **layouts**. 
-Each section is represented by **its name and a horizontal line**, separating it from other sections. 
-This way the systems groups all of your files belonging to the same section. 
+## A new way to manage your documentation
 
-By using sections, you can **organize your files** in a **neat and convenient for you way** to **navigate visually** throughout them even faster. 
+File Management in ERP.net introduces a familiar and intuitive logic, enriched with business context.
 
-## Uploading Files to Your File Manager Storage
+Documents are not just files — they belong to a:
 
-You can store all types of files in your **@@name File Manager Storage**. 
-You can even **select multiple files for upload** and then upload them **all at once**.  
+- customer  
+- project  
+- product  
+- process  
 
-Files can be uploaded and stored in your **@@name storage** using one of the available **three storage methods**:  
+When you open a record in the system, you also see:
 
-* **Embedded file** - your file's **full contents** are uploaded to your **@@name storage**  
-* **Linked file** - allows you to create **a shortcut** linked to the **physical location of the file** (a physical drive with shared access, or its shared partition or folder)  
-* **Internet URL** - create **a shortcut** linked to **an object located on the Internet** using a URL (for example, a shortcut to a website opened by your browser)  
+- the related files  
+- the current versions  
+- the complete document history  
 
-![file_manager_upload_options](https://user-images.githubusercontent.com/106669250/192736006-61e573e9-993f-4031-ade7-678d870cf62e.jpg)
+Viewing and editing are done directly in the browser, making work easier and enabling teams to act quickly and confidently, without relying on local desktop applications.
 
-The **Embedded file** option is best suitable for **small-sized file** that are **frequently used** by your @@name instance's users.  
+---
 
-**Linked file** is a solution suitable for **larger-sized files** located on a **shared resource** accessible to your users, saving space on your @@name database.  
+## File Management that simply works — and does it elegantly
 
-And **Internet URL** is a great option for working with **very large-sized files** which are located **on your external cloud storage**, as well as accessing resources **readily available on the Internet**. 
+File Management in ERP.net is not just a place to store files.
 
-## Opening and Editing Your Files with Your File Manager
+It is a way to make documents part of the business logic — naturally, clearly, and without effort from the user.
 
-You can open and edit your files **directly in @@name File Manager** using a suitable application on your computer for each file type. 
+From the very first interaction, it becomes clear that everything has been carefully thought through.  
+Not to impress at first glance, but to make everyday work easier.
 
-## File Manager Extensivity
+File Management in ERP.net allows you to:
 
-You can do so much more with **File Manager** without leaving your **@@name environment**: 
+- store files securely and centrally  
+- maintain a clear and logical document structure  
+- link files directly to customers, projects, documents, and other business objects  
+- control who sees and works with what  
+- view and edit documents directly through the web interface  
 
-* **Open and edit your files** - do it directly via **File Manager**. 
-All changes to the file are **saved immediately into the database** where the file is located, as soon as you save the file. 
-Feel free to close your file afterwards or continue editing.  
+All of this happens within ERP.net — without additional applications, without external repositories, and without having to “assemble” multiple tools.
 
-* **Add quick notes to your files** - these serve as a brief explanation or comments to the file. 
-The notes are added and shown in the **Tiles**, **Contents**, and **Details** layouts, next to your file's icon and name.  
+The result is a sense of completeness.
 
-* **Filter your files** - set one or more **filters** to exclude from showing files that may be irrelevant to your current activities. 
-Files can be filtered by various kinds of criteria, for example: file extension, type, symbols contained in the file name, date and time, etc.  
+Documents are exactly where you expect them to be.  
+Working with them is smooth, consistent, and intuitive.
 
-* **Search your file storage** - use the **main search bar** to find the file you are looking for. 
-Use the **full file name** or just a **part of the file name**.  
+This is not just file management.  
+It is a well-designed part of the overall business environment.
 
-* **Set access restrictions for different users** - limit access to your folders and files for various users.  
+---
+
+## How businesses use File Management in ERP.net
+
+File Management in ERP.net adapts to the way different teams and industries work — from sales and field operations to quality control, engineering services, and management.
+
+**[See how File Management is used in real business scenarios](./file-management-use-cases.md)**
+
+---
+
+## What value does this bring to the business?
+
+File Management in ERP.net creates a sustainable and consistent way of working with information across the company.
+
+**Clear structure**  
+Documents and images are logically organized, including through a familiar and intuitive folder structure.
+
+**Higher efficiency**  
+Files are viewed and used directly through the web interface, without switching between applications.
+
+**Reliability and traceability**  
+Files are always linked to the correct business context, and the system automatically maintains these relationships.
+
+**Better coordination**  
+Different teams work with the same up-to-date information — in the office or on site.
+
+**Intuitive user experience**  
+The interface follows established best practices and allows fast adoption without training.
+
+---
+
+## Why integrated file management matters
+
+At some point, every business reaches a clear but important conclusion:
+
+**documents do not exist on their own.**
+
+They are part of deals, projects, deliveries, inspections, analyses, and management decisions.
+
+That is why it makes perfect sense for files to “live” where the business itself is managed.
+
+File Management in ERP.net places documents in this context.
+
+Files are not stored across separate servers, shared drives, or personal devices. Instead, they are logically connected within the system to customers, products, projects, deliveries, controls, and reports — directly within the business context.
+
+This naturally changes the way people work:
+
+- information is found where decisions are made  
+- teams work with the same, up-to-date documents  
+- relationships between files and business objects are maintained automatically  
+- context is preserved over time, people, and organizational changes  
+
+As a result, documents stop being “attachments” and become an active part of managing processes, resources, and responsibilities.
+
+This is what makes File Management in ERP.net such a natural extension of the entire system — because businesses are managed best when all information is in one place and speaks the same language.
+
+---
+
+## Try File Management in ERP.net
+
+See how integrated document management can become a natural part of your daily work.
+
+**[File Management in ERP.net — Try without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
+
+**[Access credentials — use them to log in](https://info.erp.net/information/try-our-system.html)**
+
+
+
