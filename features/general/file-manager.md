@@ -168,7 +168,7 @@ This is what makes File Management in @@name such a natural extension of the ent
 
 See how integrated document management can become a natural part of your daily work.
 
-**[File Management in ERP.net — Try without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
+**[File Management in @@name — Try without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
 
 **[Access credentials — use them to log in](https://info.erp.net/information/try-our-system.html)**
 
