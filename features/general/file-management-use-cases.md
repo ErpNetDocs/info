@@ -1,14 +1,14 @@
-# How businesses use File Management in ERP.net
+# How businesses use File Management in @@name
 
 *Real-world scenarios across teams, industries, and processes*
 
-File Management in ERP.net adapts to how work is actually done in a company — from daily commercial activities, through project and operational work, to control, reporting, and management decisions.
+File Management in @@name adapts to how work is actually done in a company — from daily commercial activities, through project and operational work, to control, reporting, and management decisions.
 
 Documents are created, reviewed, shared, and referenced every day — in sales conversations, on customer sites, during inspections, within projects, audits, and management reviews.
 
-What makes File Management in ERP.net different is not just **where** files are stored, but **how naturally they become part of everyday work**.
+What makes File Management in @@name different is not just **where** files are stored, but **how naturally they become part of everyday work**.
 
-Below are real-world scenarios that show how different teams use File Management in ERP.net — not as a separate tool, but as an integrated part of their business processes.
+Below are real-world scenarios that show how different teams use File Management in @@name — not as a separate tool, but as an integrated part of their business processes.
 
 ---
 
@@ -45,7 +45,7 @@ Documentation stays consistent and accessible to everyone involved, regardless o
 
 ## Incoming and outgoing control
 
-In companies with defined incoming and outgoing control processes, File Management in ERP.net plays a key role in documenting and tracking quality across the entire chain.
+In companies with defined incoming and outgoing control processes, File Management in @@name plays a key role in documenting and tracking quality across the entire chain.
 
 During incoming inspection of raw materials and supplies, employees perform checks based on predefined acceptance criteria. When deviations or nonconformities are identified, they are documented through reports accompanied by photos and supporting files.
 
@@ -62,7 +62,7 @@ The result is complete traceability — from material receipt to final delivery 
 
 ## Quality management
 
-The Quality department uses File Management in ERP.net as a centralized environment for managing documentation and quality-related activities.
+The Quality department uses File Management in @@name as a centralized environment for managing documentation and quality-related activities.
 
 Inspection reports, internal audit results, images, nonconformity records, and corrective actions are stored in context — connected to specific processes, deliveries, or projects.
 
@@ -106,7 +106,7 @@ Documents are:
 
 ## Management and leadership
 
-For management, File Management in ERP.net provides clarity and confidence.
+For management, File Management in @@name provides clarity and confidence.
 
 Key documents, reports, contracts, records, and visual information are available quickly, in a structured way, and always in the context of real business activities.
 
@@ -124,11 +124,11 @@ For decision-makers, this is not just convenience — it is a foundation for eff
 
 These examples show one simple thing:
 
-File Management in ERP.net is not designed for a single role or industry.  
+File Management in @@name is not designed for a single role or industry.  
 It adapts to how work is actually done — in the office, on site, in quality control, in services, and at management level.
 
 Documents, images, reports, and records stay connected to the business context they belong to — making information easier to use, easier to trust, and easier to manage over time.
 
-If you want to see how File Management fits into the broader ERP.net platform, explore the main overview article:
+If you want to see how File Management fits into the broader @@name platform, explore the main overview article:
 
-[File Management in ERP.net — overview](../general/file-manager.html)
+[File Management in @@name — overview](../general/file-manager.html)
