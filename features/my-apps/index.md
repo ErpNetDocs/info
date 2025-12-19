@@ -30,3 +30,4 @@ However, juggling disparate apps from various vendors, designed for different sy
 * **Timeline** - showing what new has been going on recently involving you and your company, visually mapping out how those events unfold in a set timeframe with regards to each other. 
 * **[Tiles](tiles.md)** - offering an opportunity to create and save various views of different sections of your data that can be accessed and switched between in a single tap. 
 * **Favorites** - bringing together all the people, companies, documents, and items that you find interesting, keeping them in a one-touch reach.  
+* **Folders** - organize, access, and use your business documents.
