@@ -859,10 +859,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/general/desktop-file-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/desktop-file-manager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/general/document-chain.md",
       "output": {
         ".html": {
           "relative_path": "features/general/document-chain.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/file-management-use-cases.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/file-management-use-cases.html"
         }
       },
       "version": ""

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Desktop client File Manager | ERP.net Information </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Desktop client File Manager | ERP.net Information ">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../../toc.html">
+      
+      <meta name="docfx:rel" content="../../">
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/info/blob/main/features/general/desktop-file-manager.md/#L1">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+
+      <script type="module" src="./../../public/docfx.min.js"></script>
+
+      <script>
+        const theme = localStorage.getItem('theme') || 'auto'
+        document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+      </script>
+
+  </head>
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="desktop-client-file-manager">Desktop client File Manager</h1>
+
+<h2 id="overview">Overview</h2>
+<p>Oftentimes, keeping files in an external storage (like local drives or cloud platforms) leads to searching through complex external directories to find a file you are looking for.
+And this often leaves a gap between navigating through internal ERP entities and external file storage.</p>
+<p><strong>File Management inside the ERP system</strong> is a <strong>feasible and productive way</strong> to <strong>close this gap</strong> and <strong>utilize the ERP system's full potential</strong>.</p>
+<p><strong>Some files</strong> are associated with <strong>a specific record</strong> in the ERP system.
+They are an integral part of the record and make more sense if stored attached to it.</p>
+<p>To meet these needs, your <strong>ERP.net system</strong> provides you with the universal functionality of <strong>attaching embedded or linked files</strong> to an <strong>internal record or other object</strong>, available throughout all subsystems.</p>
+<p><strong>Other files</strong> are more <strong>generic documents for business use</strong>, such as documentation regarding training courses, internal or external regulations, company practices, handbooks, and so on.
+These concern the organization as a whole and are used for <strong>general reference</strong> or as <strong>informational sources</strong>.
+In this case, being able to upload them in an accessible storage, <strong>unattached</strong>, would be a more suitable solution.</p>
+<p>To solve this, <strong>ERP.net</strong> now comes with the updated functionality <strong>File Management v2.0</strong>.</p>
+<p><img src="https://user-images.githubusercontent.com/106669250/192732488-31f8ae5e-e010-4510-9703-e8d463070d9e.jpg" alt="file_manager"></p>
+<p>Built upon the proven and trusted functionality of <strong>attaching documents to specific objects</strong>, <strong>File Manager of ERP.net</strong> now extends its abilities featuring a way to <strong>also store an unattached file</strong>.</p>
+<p><strong>File Manager</strong> enables you to <strong>store and access</strong> your files and folders in an organized and straightforward way.
+Its intuitive structure resembles the well-known <strong>Windows File Explorer structure</strong> users are used to.</p>
+<p>The new functionality for organizing your work files and folders is accessible to all users of your ERP.net platform regardless of their workplace's physical location.</p>
+<h2 id="file-manager-structure">File Manager Structure</h2>
+<p><strong>File Management v2.0</strong> unlocks new opportunities by providing <strong>a uniform, centralized and shared structure</strong> for managing your business documentation in a cloud environment, integrated with the rest of your data within the ERP platform.</p>
+<p><strong>ERP.net's File Manager</strong> uses a vertically-expandable <strong>hierarchical tree structure</strong> to arrange and represent your folders.</p>
+<p>The <strong>File tree</strong> can be <strong>expanded or collapsed</strong> to <strong>list or hide</strong> subfolders for a more <strong>detailed</strong>, or conversely, a more <strong>compact</strong> layout.<br>
+You can use the <strong>folder tree</strong> to easily <strong>view your folders</strong> and <strong>navigate throughout your directories structure</strong>.</p>
+<p>In the Folder tree you can also:</p>
+<ul>
+<li>Edit the definition (name, parent, and notes) of the selected folder.</li>
+<li>Create a new folder</li>
+<li>Change the name of the selected folder</li>
+<li>Remove the selected folder from the folder tree and your storage</li>
+<li>Refresh the contents of the folder tree</li>
+</ul>
+<p>The <strong>Files</strong> window shows the files stored in the selected folder.
+It also allows to:</p>
+<ul>
+<li>Open the selected file using an appropriate application</li>
+<li>Save the selected file to your local storage or external storage</li>
+<li>Delete the selected file(s)</li>
+<li>Upload new file(s) to your ERP.net File Manager storage</li>
+</ul>
+<h2 id="file-manager-views">File Manager Views</h2>
+<p>The layout options for visualizing your files are identical to the popular ones in Windows File Explorer.
+<strong>Different layouts</strong> represent a <strong>different level of density and details</strong> for the files in the current folder.
+There are currently <strong>eight available views</strong> for viewing your documents.
+You can choose between different icon sizes, tiles, list, details, and other.</p>
+<h2 id="file-manager-sections">File Manager Sections</h2>
+<p>While in <strong>Details layout</strong>, you can assign <strong>sections</strong> to your files.</p>
+<p>Sections will be shown in all other <strong>layouts</strong>.
+Each section is represented by <strong>its name and a horizontal line</strong>, separating it from other sections.
+This way the systems groups all of your files belonging to the same section.</p>
+<p>By using sections, you can <strong>organize your files</strong> in a <strong>neat and convenient for you way</strong> to <strong>navigate visually</strong> throughout them even faster.</p>
+<h2 id="uploading-files-to-your-file-manager-storage">Uploading Files to Your File Manager Storage</h2>
+<p>You can store all types of files in your <strong>ERP.net File Manager Storage</strong>.
+You can even <strong>select multiple files for upload</strong> and then upload them <strong>all at once</strong>.</p>
+<p>Files can be uploaded and stored in your <strong>ERP.net storage</strong> using one of the available <strong>three storage methods</strong>:</p>
+<ul>
+<li><strong>Embedded file</strong> - your file's <strong>full contents</strong> are uploaded to your <strong>ERP.net storage</strong></li>
+<li><strong>Linked file</strong> - allows you to create <strong>a shortcut</strong> linked to the <strong>physical location of the file</strong> (a physical drive with shared access, or its shared partition or folder)</li>
+<li><strong>Internet URL</strong> - create <strong>a shortcut</strong> linked to <strong>an object located on the Internet</strong> using a URL (for example, a shortcut to a website opened by your browser)</li>
+</ul>
+<p><img src="https://user-images.githubusercontent.com/106669250/192736006-61e573e9-993f-4031-ade7-678d870cf62e.jpg" alt="file_manager_upload_options"></p>
+<p>The <strong>Embedded file</strong> option is best suitable for <strong>small-sized file</strong> that are <strong>frequently used</strong> by your ERP.net instance's users.</p>
+<p><strong>Linked file</strong> is a solution suitable for <strong>larger-sized files</strong> located on a <strong>shared resource</strong> accessible to your users, saving space on your ERP.net database.</p>
+<p>And <strong>Internet URL</strong> is a great option for working with <strong>very large-sized files</strong> which are located <strong>on your external cloud storage</strong>, as well as accessing resources <strong>readily available on the Internet</strong>.</p>
+<h2 id="opening-and-editing-your-files-with-your-file-manager">Opening and Editing Your Files with Your File Manager</h2>
+<p>You can open and edit your files <strong>directly in ERP.net File Manager</strong> using a suitable application on your computer for each file type.</p>
+<h2 id="file-manager-extensivity">File Manager Extensivity</h2>
+<p>You can do so much more with <strong>File Manager</strong> without leaving your <strong>ERP.net environment</strong>:</p>
+<ul>
+<li><p><strong>Open and edit your files</strong> - do it directly via <strong>File Manager</strong>.
+All changes to the file are <strong>saved immediately into the database</strong> where the file is located, as soon as you save the file.
+Feel free to close your file afterwards or continue editing.</p>
+</li>
+<li><p><strong>Add quick notes to your files</strong> - these serve as a brief explanation or comments to the file.
+The notes are added and shown in the <strong>Tiles</strong>, <strong>Contents</strong>, and <strong>Details</strong> layouts, next to your file's icon and name.</p>
+</li>
+<li><p><strong>Filter your files</strong> - set one or more <strong>filters</strong> to exclude from showing files that may be irrelevant to your current activities.
+Files can be filtered by various kinds of criteria, for example: file extension, type, symbols contained in the file name, date and time, etc.</p>
+</li>
+<li><p><strong>Search your file storage</strong> - use the <strong>main search bar</strong> to find the file you are looking for.
+Use the <strong>full file name</strong> or just a <strong>part of the file name</strong>.</p>
+</li>
+<li><p><strong>Set access restrictions for different users</strong> - limit access to your folders and files for various users.</p>
+</li>
+</ul>
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/ErpNetDocs/info/blob/main/features/general/desktop-file-manager.md/#L1" class="edit-link">Suggest improvement to this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
