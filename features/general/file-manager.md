@@ -163,7 +163,9 @@ As a result, documents stop being “attachments” and become an active part of
 This is what makes File Management in @@name such a natural extension of the entire system — because businesses are managed best when all information is in one place and speaks the same language.
 
 ---
+**[Learn about this feature in Desktop client](./desktop-file-manager.md)**
 
+---
 ## Try File Management in @@name
 
 See how integrated document management can become a natural part of your daily work.
