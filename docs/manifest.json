@@ -2294,6 +2294,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/why-we-explain-erp.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/why-we-explain-erp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "legal/educational-license.md",
       "output": {
         ".html": {
