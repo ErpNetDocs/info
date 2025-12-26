@@ -15,6 +15,10 @@ The information is geared towards prospective customers, previewing ERP.net for 
 The selection of a new ERP is a major decision for any company and such a decision requires significant research.
 Hence, this info site is structured as an academic research site with as little as possible marketing stuff.
 
+@@name is an ERP platform built around explicit models, rules, and constraints.
+Instead of relying on slogans or abstractions, we explain how the system works, what it enforces, and why that matters for organizations that care about correctness and long-term predictability.
+[Why we explain ERP →]
+
 ## Features
 
 The system features are arguably one of the most important factors when selecting an ERP.
