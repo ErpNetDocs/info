@@ -1,6 +1,7 @@
 # Information
 
 This section contains **general product information about ERP.net**.  
+
 It is intended to provide context, clarify expectations, and supply factual reference material that supports evaluation and use of the platform.
 
 If you want to understand how @@name approaches ERP systems — and why our documentation and feature descriptions focus on explanation rather than slogans — start with **[Why We Explain ERP](~/information/why-we-explain-erp.md)**.
