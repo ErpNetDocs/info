@@ -5,7 +5,7 @@ Most ERP systems are described using familiar language:
 
 These words are easy to say — and difficult to verify.
 
-At ERP.net, we deliberately choose a different approach.  
+At @@name, we deliberately choose a different approach.  
 We explain how the system works, what it enforces, and why that matters.
 
 ---
@@ -23,7 +23,7 @@ For systems with this level of responsibility, promises are less important than 
 - what constraints it guarantees,
 - what behavior remains stable over time.
 
-ERP.net is designed around these principles.
+@@name is designed around these principles.
 
 ---
 
@@ -34,7 +34,7 @@ Many products are presented through aspiration:
 - how success is implied,
 - how complexity is hidden.
 
-ERP.net is presented through explanation:
+@@name is presented through explanation:
 - why certain outcomes are possible,
 - how the system supports them structurally,
 - what is enforced rather than assumed.
@@ -48,21 +48,21 @@ It follows directly from how the platform is built.
 
 Generic SaaS language is designed to smooth over differences and reduce perceived complexity.
 
-ERP.net does the opposite:
+@@name does the opposite:
 - structure is explicit,
 - rules are intentional,
 - constraints are treated as guarantees, not limitations.
 
-Using vague terms like “powerful” or “flexible” does not simplify ERP.net.  
+Using vague terms like “powerful” or “flexible” does not simplify @@name.  
 It removes the information that makes the system understandable and predictable.
 
-When something works in ERP.net, there is a reason — and that reason can be explained.
+When something works in @@name, there is a reason — and that reason can be explained.
 
 ---
 
 ## Designed for Organizations That Care About Correctness
 
-ERP.net is built for organizations that:
+@@name is built for organizations that:
 - operate across multiple companies and processes,
 - depend on consistent enforcement of rules,
 - care about long-term correctness more than short-term convenience.
@@ -81,7 +81,7 @@ If you evaluate ERP systems primarily through:
 - surface features,
 - short demonstrations without explanation,
 
-ERP.net may feel different.
+@@name may feel different.
 
 If you evaluate ERP systems by:
 - how they model reality,
