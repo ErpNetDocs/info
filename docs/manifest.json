@@ -2068,60 +2068,60 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Blue-Dark.svg",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Blue-Dark.svg",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Blue-Dark.svg"
+          "relative_path": "information/logos/Powered-by-ERP.net-Blue-Dark.svg"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Blue-Light.svg",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Blue-Light.svg",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Blue-Light.svg"
+          "relative_path": "information/logos/Powered-by-ERP.net-Blue-Light.svg"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Blue.png",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Blue.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Blue.png"
+          "relative_path": "information/logos/Powered-by-ERP.net-Blue.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Orange-Dark.svg",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Orange-Dark.svg",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Orange-Dark.svg"
+          "relative_path": "information/logos/Powered-by-ERP.net-Orange-Dark.svg"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Orange-Light.svg",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Orange-Light.svg",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Orange-Light.svg"
+          "relative_path": "information/logos/Powered-by-ERP.net-Orange-Light.svg"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "information/logos/Powered by-ERP.net-Orange.png",
+      "source_relative_path": "information/logos/Powered-by-ERP.net-Orange.png",
       "output": {
         "resource": {
-          "relative_path": "information/logos/Powered by-ERP.net-Orange.png"
+          "relative_path": "information/logos/Powered-by-ERP.net-Orange.png"
         }
       },
       "version": ""
