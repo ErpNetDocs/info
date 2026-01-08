@@ -24,6 +24,10 @@ It would be wonderful if there were a place that gathers all of this — officia
 
 Fortunately, there is.
 
+<img width="2560" height="1440" alt="project-management-home" src="https://github.com/user-attachments/assets/08ce2b72-c47c-4b4f-bb9d-75bb060b18bb" />
+
+*The Project Management workspace in @@name brings projects, tasks, time, structure, and process into one unified view.*
+
 ---
 
 ## There Is an Easier Way to Manage Your Projects
