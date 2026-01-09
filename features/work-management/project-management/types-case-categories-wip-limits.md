@@ -287,13 +287,13 @@ This transforms Project Management from a tracking tool into a system for better
 
 ---
 
-## 🔗 Navigation
+## Continue exploring Project Management
 
-👉 **Back to the main topic:**  
-[Project Management in @@name](../project-management.md)
+**Back to the main topic:**  
+[Project Management in @@name](index.md)
 
-👉 **Read more about:**  
-[Cases — where tasks turn into real work](./cases.md)
+**Read more about:**  
+[Cases — where tasks turn into real work](cases.md)
 
-👉 **Continue with:**  
-[Assignment Rules & User States — managing process and responsibility](./assignment-rules-user-states.md)
+**Continue with:**  
+[Assignment Rules & User States — managing process and responsibility](assignment-rules-user-states.md)
