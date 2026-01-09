@@ -112,11 +112,14 @@ By using Assignment Rules and User States, businesses gain:
 
 ---
 
+## Continue exploring Project Management
+
 **Back to the main topic:**  
-[Project Management in @@name](../project-management.md)
+[Project Management in @@name](index.md)
 
 **Read more about:**  
-[Project Types, Case Categories & WIP limits — managing flow and capacity](./types-case-categories-wip-limits.md)
+[Project Types, Case Categories & WIP Limits — managing flow and capacity](types-case-categories-wip-limits.md)
 
 **Start from the foundation:**  
-[Cases — where tasks turn into real work](./cases.md)
+[Cases — where tasks turn into real work](cases.md)
+
