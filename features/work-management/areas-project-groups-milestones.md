@@ -2,6 +2,11 @@
 
 ## When projects start to “think bigger”
 
+In this article, we continue exploring the building blocks of Project Management in @@name — focusing on the tools that help teams and managers understand where work fits, how projects relate to each other, and how progress is measured over time.
+
+Project Groups, Project Areas, and Milestones are the elements that make this possible.  
+They give projects shape, logic, and rhythm — without adding unnecessary complexity to everyday work.
+
 At the beginning, tasks are enough.
 
 The team knows what needs to be done, who takes responsibility, and how the work is progressing.
@@ -10,17 +15,10 @@ Over time, however, projects begin to grow.
 
 More initiatives appear. More people are involved. More parallel activities take place.
 
-The work is no longer just a list of tasks, but a system of connected efforts that must be coordinated, structured, and managed on multiple levels.
+Work is no longer just a list of tasks.  
+It becomes a system of connected efforts that need structure, coordination, and a clear sense of scale.
 
-Naturally, the focus begins to shift:
-
-- from individual tasks to the overall structure  
-- from what we are doing today to where we are in the bigger picture  
-- from execution to managing scale and progress  
-
-This is the moment when Project Management stops being a purely operational tool and becomes a management system.
-
-In @@name, this transition happens through **Project Groups**, **Project Areas**, and **Milestones** — tools that give projects shape, logic, and rhythm, without complicating the teams’ everyday work.
+This is the moment when Project Management stops being purely operational — and becomes a management system.
 
 
 ## The structure that makes scale manageable
