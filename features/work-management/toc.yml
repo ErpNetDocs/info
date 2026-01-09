@@ -1,4 +1,17 @@
 - name: Overview
   href: index.md
-- name: Project Management (PM)
+
+- name: Project Management
   href: project-management.md
+
+- name: Cases
+  href: cases.md
+
+- name: Areas, Project Groups & Milestones
+  href: areas-project-groups-milestones.md
+
+- name: Project Types, Case Categories & WIP Limits
+  href: types-case-categories-wip-limits.md
+
+- name: Assignment Rules & User States
+  href: assignment-rules-user-states.md
