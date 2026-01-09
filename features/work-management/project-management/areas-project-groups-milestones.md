@@ -135,10 +135,10 @@ Whether it is a short initiative or a long-term program, the approach remains th
 ## Continue exploring Project Management
 
 **Back to the previous topic:**  
-[Cases – tasks as real work](https://info.erp.net/features/work-management/project-management/cases.html)
+[Cases — where tasks turn into real work](cases.md)
 
 **Read next:**  
-[Types, Case Categories, and WIP limits — managing workflow and flow control](https://info.erp.net/features/work-management/project-management/types-case-categories-wip-limits.html)
+[Project Types, Case Categories & WIP Limits — managing workflow and flow control](types-case-categories-wip-limits.md)
 
 **Back to the main topic:**  
-[Project Management in @@name](https://info.erp.net/features/work-management/project-management.html)
+[Project Management in @@name](index.md)
