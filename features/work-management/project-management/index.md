@@ -313,8 +313,9 @@ You can explore and experience the powerful Project Management module in @@name 
 
 It’s simple.
 
-Just follow this guide to log into our publicly available test instance of @@name — **no registration required**:
+Just follow this guide to log into our publicly available test instance of @@name — no registration required:
 
-**Project Management in @@name — Try now without registration**
+[Project Management in @@name — Try now without registration](https://express-demo.my.erp.net/cl/tiles)
 
-**Access credentials** — Use these to log in.
+[Access credentials — Use these to log in](~/information/try-out-erp-net-express-crm.md)
+
