@@ -191,6 +191,10 @@ Time tracking directly from the Case makes the connection between effort and res
 
 ## What’s next
 
-👉 **Back to the main topic:** [Project Management in @@name](project-management.md)  
-👉 **Read more about:** [Areas, Project Groups, and Milestones — managing project structure and scale](areas-project-groups-milestones.md)
+**Back to the main topic:**  
+[Project Management in @@name](index.md)
+
+**Read more about:**  
+[Areas, Project Groups, and Milestones — managing project structure and scale](areas-project-groups-milestones.md)
+
 
