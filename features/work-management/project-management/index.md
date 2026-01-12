@@ -240,6 +240,9 @@ They carry responsibility, context, communication, and progress — all in one p
 If you want to explore how Cases are designed to stay simple in daily work and powerful at scale,  
 read more in **[Cases — where tasks turn into real work](./cases.md)**.
 
+<img width="2560" height="1440" alt="project-management-case" src="https://github.com/user-attachments/assets/f34f3667-0571-46e3-9d06-6bbb12e8739f" />
+
+---
 
 ### **4. You track progress — without constant status meetings**
 
