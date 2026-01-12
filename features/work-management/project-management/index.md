@@ -201,7 +201,12 @@ With Project Areas:
 - the big becomes understandable  
 - the complex becomes organized  
 - teams see their part of the puzzle  
-- management sees the full picture  
+- management sees the full picture
+
+Project Areas bring clarity not by adding complexity, but by giving work a meaningful structure.
+
+To see how Areas, Project Groups, and Milestones work together to scale projects without losing focus,  
+continue with **[Areas, Project Groups & Milestones](./areas-project-groups-milestones.md)**.
 
 ### **3. You add the tasks — and the project begins to “breathe”**
 
@@ -229,7 +234,12 @@ Each task has:
 
 The work is no longer scattered — everything becomes logical and traceable.
 
-This is when the project begins to “breathe” — moving, evolving, living alongside the team.
+Tasks are where planning turns into execution.
+They carry responsibility, context, communication, and progress — all in one place.
+
+If you want to explore how Cases are designed to stay simple in daily work and powerful at scale,  
+read more in **[Cases — where tasks turn into real work](./cases.md)**.
+
 
 ### **4. You track progress — without constant status meetings**
 
@@ -257,6 +267,12 @@ Projects are not chaos — they are sequence.
 And regardless of scale — from a small initiative to a major transformation —  
 the module keeps the process natural, transparent, and calm.
 
+Structure alone is not enough when work grows.
+Teams also need a way to decide what enters the system, how work is classified, and how much is “enough” at any given moment.
+
+This is where Project Types, Case Categories, and WIP limits help organizations balance focus and capacity.  
+Learn more in **[Project Types, Case Categories & WIP Limits](./types-case-categories-wip-limits.md)**.
+
 ---
 
 ## Why Companies Choose This Way of Working
@@ -270,6 +286,12 @@ Project Management in @@name gives you:
 - **Less chaos** — documents, comments, tasks — everything is organized.  
 - **Better control** — you understand not only what is done, but *why*.  
 - **Universality** — no strict methodology required; works across industries.
+
+As teams grow, consistency becomes just as important as clarity.
+Who takes ownership, when work is truly ready, and what each status means — these answers must be shared and predictable.
+
+Assignment Rules and User States turn good intentions into a working process.  
+Explore how this works in **[Assignment Rules & User States](./assignment-rules-user-states.md)**.
 
 ---
 
@@ -304,6 +326,24 @@ Annual plans, structural changes, strategic programs.
 - Shorter timelines — less clarifying, more doing  
 - Better communication — history, comments, documents  
 - Better accountability — see the impact, not just the tasks  
+
+---
+
+## Continue Exploring Project Management in @@name
+
+To fully understand how Project Management works in practice, explore its key building blocks:
+
+- **[Cases](./cases.md)**  
+  Where tasks turn into real work, with ownership, history, and progress.
+
+- **[Areas, Project Groups & Milestones](./areas-project-groups-milestones.md)**  
+  Structuring projects so teams and management share the same clear picture.
+
+- **[Project Types, Case Categories & WIP Limits](./types-case-categories-wip-limits.md)**  
+  Managing flow, priorities, and capacity as work scales.
+
+- **[Assignment Rules & User States](./assignment-rules-user-states.md)**  
+  Automating task ownership and creating a shared language for real progress.
 
 ---
 
