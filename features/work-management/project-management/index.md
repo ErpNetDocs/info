@@ -349,7 +349,7 @@ To fully understand how Project Management works in practice, explore its key bu
 
 ## Try Project Management in @@name Now
 
-You can explore and experience the powerful Project Management module in @@name yourself — see how projects become clearer, tasks more organized, and teamwork naturally aligned.
+You can explore and experience the Project Management module in @@name yourself — see how projects become clearer, tasks more organized, and teamwork naturally aligned.
 
 It’s simple.
 
