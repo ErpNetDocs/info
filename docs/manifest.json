@@ -1462,6 +1462,16 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "features/ui-ux-features/actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/ui-ux-features/actions.png"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/ui-ux-features/chatter.md",
       "output": {
