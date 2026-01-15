@@ -1,4 +1,4 @@
-# Run UI Function
+# Run UI Functions
 
 ## Overview
 
@@ -14,9 +14,8 @@ The most obvious examples include **copying and voiding**, with many others foll
 Such needs drive companies to look for **contemporary and intelligent tools** on the market that can **take on as much of the administrative efforts** as technically possible.  
 
 **@@name platform** provides a modern, specialized **UI functionality** that results in **faster business operations**. 
-The Run UI Function within the platform is designed to ease the process of **making it through the next steps of the document chain** you're working on.  
-
-Learn how the **Run UI function** can empower your business to tackle your documentation challenges like a winner.  
+The Run UI Function within the platform is designed to ease the process of **making it through the next steps of the document chain** you're working on. 
+This is executable by pressing button **Actions** (previously "Run").
 
 ## Preparing documents and creating records in a split second
 
@@ -24,7 +23,7 @@ Keeping your documentation management **carried out in a single, comprehensive p
 
 Utilizing an **all-in-one solution** in your everyday business can **facilitate** a significant portion of **the processes related to document fulfillment**.  
 
-The **Run UI Function** of **@@name** enables you to **perform a wide variety of actions** in a **fast and interactive way**.  
+The **Actions** button of **@@name** enables you to **perform a wide variety of actions** in a **fast and interactive way**.  
 
 ![Run-UI-Function-erp-net-image-2023-08-24](https://github.com/k1kolev/info/assets/106669250/a962862a-00f6-4410-8e3a-35d15158f295)  
 
@@ -35,13 +34,13 @@ The range of actions is immense, with common examples like:
 * Use a sales order to **generate an invoice and a shipment order** in a split-second  
 * **Void** an invoice, payment order, transaction, shipment, or other documents which do not contain the necessary or correct data  
 
-**@@name's Run UI function** ensures your company can enjoy significant benefits in terms of **cost efficiency**, **correct information**, and **ease of use** when going through the process of managing people, businesses, and their data.  
+**@@name's Actions** ensures your company can enjoy significant benefits in terms of **cost efficiency**, **correct information**, and **ease of use** when going through the process of managing people, businesses, and their data.  
 
 ## Context-driven actions for versatile use
 
-The **Run UI Function** in **@@name** offers both **universal** and **context-oriented actions**.  
+The **Actions** button in **@@name** offers both **universal** and **context-oriented actions**.  
 
-Along **universal actions**, such as **Create Copy** and **Void Document** for both objects and documents, **Run** will display various other **actions related to the context of use**.  
+Along **universal actions**, such as **Create Copy** and **Void Document** for both objects and documents, button **Actions** will display various other **actions related to the context of use**.  
 
 Context-dependent actions take into account factors like:  
 
@@ -53,17 +52,17 @@ This helps your business easily get things done like:
 
 * Create an **opportunity** from a qualified or qualifying **lead** in presales activities
 * **Suggest replenishments** to automatically fill out the order form's lines when **producing goods**, **ordering supplies**, or **transferring materials and products to another store**
-* **Change assigned worker** or automatically **suggest warehouse locations** when managing the tasks and items in your warehouse
+* **Change assigned worker** or automatically **Suggest warehouse locations** when managing the tasks and items in your warehouse
 
-By connecting **actions** to the **context of your work**, **Run** enables your teams to **carry out otherwise complex tasks with ease and comfort**.  
+By connecting **actions** to the **context of your work**, **Actions** enables your teams to **carry out otherwise complex tasks with ease and comfort**.  
 
 ## Connecting records in a meaningful, complete documentation
 
-The **Run UI function** of **@@name** does more than just help you create sequential documents. 
+The **Actions** button of **@@name** does more than just help you create sequential documents. 
 The platform utilizes its extensive functionality to **automatically connect documents created with the Run UI function to those which they originate from**.  
 
 This enables your company to **keep track of the full document set** related to a person, business, activity, or state requirement. 
-Using **Run** when preparing documentation facilitates you in **tracing what came from where and who**, as well as **what follows after it**, later on when the need arises.  
+Using **Actions** when preparing documentation facilitates you in **tracing what came from where and who**, as well as **what follows after it**, later on when the need arises.  
 
 Embracing the Run UI Function can **save you valuable time** when you want to know:  
 
