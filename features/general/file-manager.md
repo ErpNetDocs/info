@@ -5,15 +5,13 @@
 
 ## Documents are everywhere. And that’s perfectly normal.
 
-Every business works with documents.  
+Every business works with documents.
 And not just a few.
-
 Contracts, offers, invoices, specifications, spreadsheets, reports, images — they are part of every deal, every decision, and every operational activity, regardless of industry.
 
-Interestingly, documents are rarely the “main topic.”  
+Interestingly, documents are rarely the “main topic.”
 They simply need to be there — when you look for them, when you open them, and when you work with them.
-
-As a business grows, this expectation becomes even more important.  
+As a business grows, this expectation becomes even more important.
 More people, more processes, more information that needs to be:
 
 - clearly organized  
@@ -30,7 +28,6 @@ This is exactly where **File Management in @@name** comes into play.
 ## One place for all files and documents
 
 File Management in @@name brings documents to where work actually happens — inside the system itself.
-
 Instead of existing separately, files are directly linked to:
 
 - customers and suppliers  
@@ -45,7 +42,6 @@ This means documents are always in the right place, in the right context, and at
 ## File Management in @@name
 
 File Management in @@name is an integrated document management functionality built directly into the ERP platform.
-
 It allows you to:
 
 - store files securely  
@@ -61,19 +57,12 @@ All of this happens within a single system — without the need for additional a
 ## A new way to manage your documentation
 
 File Management in @@name introduces a familiar and intuitive logic, enriched with business context.
-
 Documents are not just files — they belong to a:
 
 - customer  
 - project  
 - product  
 - process  
-
-When you open a record in the system, you also see:
-
-- the related files  
-- the current versions  
-- the complete document history  
 
 Viewing and editing are done directly in the browser, making work easier and enabling teams to act quickly and confidently, without relying on local desktop applications.
 
@@ -82,12 +71,9 @@ Viewing and editing are done directly in the browser, making work easier and ena
 ## File Management that simply works — and does it elegantly
 
 File Management in @@name is not just a place to store files.
-
 It is a way to make documents part of the business logic — naturally, clearly, and without effort from the user.
-
 From the very first interaction, it becomes clear that everything has been carefully thought through.  
 Not to impress at first glance, but to make everyday work easier.
-
 File Management in @@name allows you to:
 
 - store files securely and centrally  
@@ -97,13 +83,11 @@ File Management in @@name allows you to:
 - view and edit documents directly through the web interface  
 
 All of this happens within @@name — without additional applications, without external repositories, and without having to “assemble” multiple tools.
-
 The result is a sense of completeness.
-
 Documents are exactly where you expect them to be.  
 Working with them is smooth, consistent, and intuitive.
 
-This is not just file management.  
+This is not just file management.
 It is a well-designed part of the overall business environment.
 
 ---
@@ -144,13 +128,9 @@ At some point, every business reaches a clear but important conclusion:
 **documents do not exist on their own.**
 
 They are part of deals, projects, deliveries, inspections, analyses, and management decisions.
-
 That is why it makes perfect sense for files to “live” where the business itself is managed.
-
 File Management in @@name places documents in this context.
-
 Files are not stored across separate servers, shared drives, or personal devices. Instead, they are logically connected within the system to customers, products, projects, deliveries, controls, and reports — directly within the business context.
-
 This naturally changes the way people work:
 
 - information is found where decisions are made  
@@ -159,7 +139,6 @@ This naturally changes the way people work:
 - context is preserved over time, people, and organizational changes  
 
 As a result, documents stop being “attachments” and become an active part of managing processes, resources, and responsibilities.
-
 This is what makes File Management in @@name such a natural extension of the entire system — because businesses are managed best when all information is in one place and speaks the same language.
 
 ---
