@@ -39,62 +39,47 @@ This means documents are always in the right place, in the right context, and at
 
 ---
 
-## File Management in @@name
+## What File Management in @@name is
 
-File Management in @@name is an integrated document management functionality built directly into the ERP platform.
-It allows you to:
+File Management in @@name is an integrated document management capability, built directly into the ERP platform. It allows teams to:
 
-- store files securely  
-- organize documents in a clear structure  
-- link files to business objects  
-- manage access and visibility  
-- work with documents directly through the web interface  
+- store files securely and centrally
+- organize documents in a clear structure
+- link files to business objects such as customers, projects, and documents
+- control access and visibility
+- view and edit documents directly through the web interface
 
-All of this happens within a single system — without the need for additional applications or external repositories.
+All of this happens within a single system — without external repositories or additional applications.
 
 ---
 
 ## A new way to manage your documentation
 
 File Management in @@name introduces a familiar and intuitive logic, enriched with business context.
-Documents are not just files — they belong to a:
-
-- customer  
-- project  
-- product  
-- process  
-
-Viewing and editing are done directly in the browser, making work easier and enabling teams to act quickly and confidently, without relying on local desktop applications.
+Documents are not just files — they belong to a customer, project, product, or process.
+Viewing and editing are done directly in the browser, making work easier and enabling teams to act quickly and confidently.
+It is not designed to impress with features at first glance.
+It is designed to make everyday work easier.
+Documents live in context — next to customers, projects, products, and processes.
+The result is a sense of completeness.
+Documents are exactly where you expect them to be, and working with them feels natural and consistent.
 
 ---
 
-## File Management that simply works — and does it elegantly
+## Designed for everyday work
 
-File Management in @@name is not just a place to store files.
-It is a way to make documents part of the business logic — naturally, clearly, and without effort from the user.
-From the very first interaction, it becomes clear that everything has been carefully thought through.  
-Not to impress at first glance, but to make everyday work easier.
-File Management in @@name allows you to:
-
-- store files securely and centrally  
-- maintain a clear and logical document structure  
-- link files directly to customers, projects, documents, and other business objects  
-- control who sees and works with what  
-- view and edit documents directly through the web interface  
-
-All of this happens within @@name — without additional applications, without external repositories, and without having to “assemble” multiple tools.
+File Management in @@name is not designed to impress with features at first glance.
+It is designed to make everyday work easier.
+Documents are not treated as isolated files, but as part of the business logic.
+They live in context — next to customers, projects, products, and processes.
 The result is a sense of completeness.
-Documents are exactly where you expect them to be.  
-Working with them is smooth, consistent, and intuitive.
-
-This is not just file management.
-It is a well-designed part of the overall business environment.
+Documents are exactly where you expect them to be, and working with them feels natural and consistent.
 
 ---
 
 ## How businesses use File Management in @@name
 
-File Management in @@name adapts to the way different teams and industries work — from sales and field operations to quality control, engineering services, and management.
+The functionality adapts to the way different teams and industries work — from sales and field operations to quality control, engineering services, and management.
 
 **[See how File Management is used in real business scenarios](./file-management-use-cases.md)**
 
@@ -102,7 +87,7 @@ File Management in @@name adapts to the way different teams and industries work 
 
 ## What value does this bring to the business?
 
-File Management in @@name creates a sustainable and consistent way of working with information across the company.
+File Management in @@name creates a sustainable and consistent way of working with information across the company — without introducing new tools or additional complexity.
 
 **Clear structure**  
 Documents and images are logically organized, including through a familiar and intuitive folder structure.
@@ -145,7 +130,7 @@ This is what makes File Management in @@name such a natural extension of the ent
 
 ## Try File Management in @@name
 
-See how integrated document management can become a natural part of your daily work.
+See how integrated document management becomes a natural part of everyday work.
 
 **[File Management in @@name — Try without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
 
