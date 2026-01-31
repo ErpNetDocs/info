@@ -1,8 +1,6 @@
 # Assignment Rules & User States  
 ## When project management becomes a process
 
----
-
 In @@name, Assignment Rules and User States turn work management from “we organize and assign tasks” into a repeatable process.
 Cases reach the right people through explicit routing rules.
 Statuses stop being interpretive and become a shared language for teams, managers, and reporting.
