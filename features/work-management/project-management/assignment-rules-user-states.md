@@ -1,6 +1,8 @@
 # Assignment Rules & User States  
 ## When project management becomes a process
 
+---
+
 In @@name, Assignment Rules and User States turn work management from “we organize and assign tasks” into a repeatable process.
 Cases reach the right people through explicit routing rules.
 Statuses stop being interpretive and become a shared language for teams, managers, and reporting.
@@ -16,6 +18,8 @@ How do we avoid manual assignment and constant clarifications.
 This is the moment where project management moves from a plan to a predictable flow of work.
 The goal is not to add bureaucracy.
 The goal is to reduce “hidden decisions” and make routing and progress explicit.
+
+---
 
 ### Key capabilities
 
@@ -76,6 +80,8 @@ The other has a User State “Waiting for internal approval”.
 Both are “waiting”, but the next action, the expected owner, and the management interpretation are different.
 Because the distinction is explicit, reporting and daily coordination stop treating both as the same kind of delay.
 
+---
+
 ### How it works (high level)
 
 #### Assignment Rules (high level)
@@ -91,6 +97,8 @@ System States provide the main, shared lifecycle of a Case.
 User States refine what “work stage” means inside that lifecycle, using the organization’s own language.
 Because User States are linked to System States and can be constrained by Case Category, teams can achieve clarity without turning the process into a heavy methodology.
 
+---
+
 ### Use cases
 
 Assignment Rules and User States are especially valuable for service and support teams, where intake is continuous and fast routing matters.
@@ -101,6 +109,8 @@ They help companies that want process without micromanagement, because control c
 Whether for projects, services, or internal coordination, rules and states reduce dependency on individual people.
 They make the process understandable even when priorities shift, teams expand, or new colleagues join.
 
+---
+
 ### Business benefits
 
 By using Assignment Rules and User States, businesses reduce manual coordination and routine task routing.
@@ -108,6 +118,8 @@ They shorten the time from “Case created” to “Case owned”, which improve
 They make accountability clearer because responsibility and real work stage are visible on the Case itself.
 They reduce operational noise and “bouncing” because handovers are driven by rules and shared status meaning.
 They keep the working model predictable as teams grow and change, because the process is defined explicitly, not carried only in people’s habits.
+
+---
 
 ### Continue exploring Project Management
 
