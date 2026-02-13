@@ -25,4 +25,6 @@ Get to know your **@@name platform's UI and UX features** and **the benefits you
 * **[Enter Stops](enter-stop.md)**
 * **[Presence (Team Member Availability)](presence.md)**
 * **[Run UI Function](run-ui-function.md)**
+* **[App Bar in @@name Web Client](app-bar-in-web-client.md)**
+* **[App-Centric Navigation in @@name Web Client](app-centric-navigation-in-web-client.md)**
 * **[Web View](web-view.md)**

@@ -6,5 +6,9 @@
   href: enter-stop.md
 - name: Run UI Function
   href: run-ui-function.md
+- name: App Bar in ERP.net
+  href: app-bar-in-web-client.md
+- name: App-Centric Navigation in ERP.net
+  href: app-centric-navigation-in-web-client.md
 - name: Web View
   href: web-view.md
