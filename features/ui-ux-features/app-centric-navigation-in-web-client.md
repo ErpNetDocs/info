@@ -10,6 +10,8 @@ After an application is selected (via the App Bar), a second navigation layer he
 
 This second layer is the **App-Centric Navigation Panel**.
 
+<img width="2560" height="1440" alt="App-Centric-Navigation-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/ffa2c8f1-0bea-46de-bf69-c273d6bf98c3" />
+
 ---
 
 ## What the App-Centric Navigation Panel is
@@ -27,7 +29,7 @@ Each application defines its own navigation structure, so the panel always refle
 
 ## Navigation shaped by application context
 
-Once an application is active, the navigation panel adapts to that context:
+Once an application is active, the navigation adapts to that context:
 
 - It shows the **entities, operations, reports, and supporting areas** relevant to the selected application  
 - Sections are grouped by purpose, such as **Documents & Operations** and **Reports & Ledgers**  
@@ -57,6 +59,8 @@ For the variety of applications, the navigation panel provides several **speed s
 - **Pinned items** for ongoing or important items  
 
 These items may include **customers**, **projects**, **documents**, **tasks**, or other types of resources, depending on the application you are working in.
+
+<img width="2560" height="1440" alt="App-Centric-Navigation-Speed-Surfaces-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/db4a8026-6f34-41fe-a1db-905ca36bf1e1" />
 
 The adaptive speed surfaces also act as **entry and return points**, improving personal productivity while keeping the overall navigation structure consistent across teams.
 
@@ -103,6 +107,8 @@ Some applications in @@name are designed as focused standalone experiences and u
 - Navigation is handled directly within the application interface and adapts to the specific purpose of the app  
 
 They are accessed through the same application-first experience, while allowing navigation to adapt to the nature of each app.
+
+<img width="2560" height="1440" alt="App-Centric-Navigation-Standalone-Apps-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/db752652-b95c-493d-aac9-666d996fd4cd" />
 
 ---
 
