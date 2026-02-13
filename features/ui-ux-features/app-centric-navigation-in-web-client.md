@@ -1,8 +1,4 @@
-# App-Centric Navigation Panel in @@name Web Client
-
-A clear way to move inside each business area.
-
----
+# App-Centric Navigation in @@name Web Client
 
 ## Working inside complex business areas
 
