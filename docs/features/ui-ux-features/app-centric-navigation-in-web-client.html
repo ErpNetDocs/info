@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>App-Centric Navigation in ERP.net Web Client | ERP.net Information </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="App-Centric Navigation in ERP.net Web Client | ERP.net Information ">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../../toc.html">
+      
+      <meta name="docfx:rel" content="../../">
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/info/blob/main/features/ui-ux-features/app-centric-navigation-in-web-client.md/#L1">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+
+      <script type="module" src="./../../public/docfx.min.js"></script>
+
+      <script>
+        const theme = localStorage.getItem('theme') || 'auto'
+        document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+      </script>
+
+  </head>
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="app-centric-navigation-in--web-client">App-Centric Navigation in ERP.net Web Client</h1>
+
+<h2 id="working-into-complex-business-areas">Working into complex business areas</h2>
+<p>In modern ERP systems, switching between business areas is only half of the challenge.<br>
+The other half is staying oriented <strong>once you are inside an application</strong> - knowing where to go next, what is available, and what matters right now.</p>
+<p>ERP.net’s Web Client addresses this with an <strong>app-centric navigation model</strong>.<br>
+After an application is selected (via the App Bar), a second navigation layer helps you move <strong>within that application</strong> in a structured, predictable way.</p>
+<p>This second layer is the <strong>App-Centric Navigation Panel</strong>.</p>
+<img width="2560" height="1440" alt="App-Centric-Navigation-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/ffa2c8f1-0bea-46de-bf69-c273d6bf98c3">
+<hr>
+<h2 id="what-the-app-centric-navigation-panel-is">What the App-Centric Navigation Panel is</h2>
+<p>The <strong>App-Centric Navigation Panel</strong> is the <strong>left-side navigation panel</strong> that appears next to the App Bar and changes with the selected application.</p>
+<p>It represents the <strong>“inside the app” navigation layer</strong>:</p>
+<ul>
+<li>The App Bar helps you choose <em>which application</em> you want to work in</li>
+<li>The App-Centric Navigation Panel helps you move <em>within that application</em></li>
+</ul>
+<p>Each application defines its own navigation structure, so the panel always reflects the <strong>business area you are currently working in</strong>.</p>
+<hr>
+<h2 id="navigation-shaped-by-application-context">Navigation shaped by application context</h2>
+<p>Once an application is active, the navigation adapts to that context:</p>
+<ul>
+<li>It shows the <strong>entities, operations, reports, and supporting areas</strong> relevant to the selected application</li>
+<li>Sections are grouped by purpose, such as <strong>Documents &amp; Operations</strong> and <strong>Reports &amp; Ledgers</strong></li>
+<li>The current selection is highlighted, helping you stay oriented as you move</li>
+</ul>
+<p>This keeps navigation <strong>focused and meaningful</strong>, even in applications with many entities and workflows.</p>
+<hr>
+<h2 id="navigation-stays-left-work-stays-central">Navigation stays left, work stays central</h2>
+<p>The Web Client layout deliberately separates <strong>navigation</strong> from <strong>working space</strong>:</p>
+<ul>
+<li>Navigation lives on the left, in the App-Centric Navigation Panel</li>
+<li>Work happens in the central area, where lists, records, and reports open</li>
+</ul>
+<p>This separation allows you to move between lists, operations, and reports without losing visual stability or focus on your current task.</p>
+<hr>
+<h2 id="faster-access-to-what-you-use-most">Faster access to what you use most</h2>
+<p>For the variety of applications, the navigation panel provides several <strong>speed surfaces</strong> that support daily work:</p>
+<ul>
+<li><strong>Favorites</strong> for quick access to frequently used objects</li>
+<li><strong>Recently viewed</strong> entries to return to recent work</li>
+<li><strong>Pinned items</strong> for ongoing or important items</li>
+</ul>
+<p>These items may include <strong>customers</strong>, <strong>projects</strong>, <strong>documents</strong>, <strong>tasks</strong>, or other types of resources, depending on the application you are working in.</p>
+<img width="2560" height="1440" alt="App-Centric-Navigation-Speed-Surfaces-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/db4a8026-6f34-41fe-a1db-905ca36bf1e1">
+<p>The adaptive speed surfaces also act as <strong>entry and return points</strong>, improving personal productivity while keeping the overall navigation structure consistent across teams.</p>
+<hr>
+<h2 id="creating-records-directly-from-navigation">Creating records directly from navigation</h2>
+<p>The navigation panel also supports <strong>quick creation</strong>:</p>
+<ul>
+<li>A <strong>“+” button</strong> next to navigation items allows you to create new records directly</li>
+<li>This mirrors the familiar “+ New” behavior found in navigators</li>
+</ul>
+<p>It shortens the path from intent to action, especially when working repeatedly into the same business area.</p>
+<hr>
+<h2 id="app-scoped-notifications-into-navigation">App-scoped notifications into navigation</h2>
+<p>Each application can expose a <strong>Notifications section</strong> directly in its navigation panel:</p>
+<ul>
+<li>Unread notifications are grouped by application</li>
+<li>Badge counts align with global and per-app notification indicators</li>
+</ul>
+<p>This keeps attention focused on <strong>what requires action in the current business area</strong>, without forcing you to leave context.</p>
+<hr>
+<h2 id="role-based-visibility-with-personal-speed">Role-based visibility with personal speed</h2>
+<p>The App-Centric Navigation Panel balances governance and flexibility:</p>
+<ul>
+<li><strong>Roles</strong> determine which entities and sections are visible inside an application</li>
+<li><strong>Users</strong> benefit from personal speed through favorites, recents, and pinned items</li>
+</ul>
+<p>The result is a navigation model that reflects business responsibilities, while still supporting individual working styles.</p>
+<hr>
+<h2 id="standalone-apps-with-specialized-navigation">Standalone apps with specialized navigation</h2>
+<p>Some applications in ERP.net are designed as focused standalone experiences and use their own internal navigation patterns.</p>
+<ul>
+<li>Apps such as <strong>Calendar</strong>, <strong>To Do</strong>, <strong>Groups</strong>, <strong>Tiles</strong>, and <strong>Favorites</strong> manage navigation primarily through in-app controls like views, toolbars, tabs, panels, and lists</li>
+<li>Navigation is handled directly within the application interface and adapts to the specific purpose of the app</li>
+</ul>
+<p>They are accessed through the same application-first experience, while allowing navigation to adapt to the nature of each app.</p>
+<img width="2560" height="1440" alt="App-Centric-Navigation-Standalone-Apps-in-ERP-net-2026-02-13" src="https://github.com/user-attachments/assets/db752652-b95c-493d-aac9-666d996fd4cd">
+<hr>
+<h2 id="why-it-matters-in-daily-work">Why it matters in daily work</h2>
+<h3 id="clear-orientation-inside-each-application">Clear orientation inside each application</h3>
+<ul>
+<li>You always know which business area you are working in</li>
+<li>Navigation reflects the active application, reducing confusion</li>
+</ul>
+<h3 id="faster-execution-with-fewer-interruptions">Faster execution with fewer interruptions</h3>
+<ul>
+<li>Quick access to entities, reports, and operations</li>
+<li>Shorter paths between common actions</li>
+</ul>
+<h3 id="personal-productivity-without-breaking-structure">Personal productivity without breaking structure</h3>
+<ul>
+<li>Speed surfaces adapt to individual habits</li>
+<li>The underlying navigation remains consistent and role-governed</li>
+</ul>
+<h3 id="more-actionable-awareness">More actionable awareness</h3>
+<ul>
+<li>Notifications appear where work is actually done</li>
+<li>Attention stays aligned with the current application</li>
+</ul>
+<hr>
+<h2 id="putting-it-into-context">Putting it into context</h2>
+<p>ERP.net uses two complementary navigation layers:</p>
+<ul>
+<li>The <strong>App Bar</strong> helps you select the application you want to work in</li>
+<li>The <strong>App-Centric Navigation Panel</strong> helps you move within that application</li>
+</ul>
+<p>Together, they create a navigation experience that stays <strong>business-oriented, predictable, and scalable</strong>, no matter how many applications or workflows your organization uses.</p>
+<blockquote>
+<p><strong><a href="app-bar-in-web-client.html">App-Bar in ERP.net</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="see-the-app-centric-navigation-in-action">See the App-Centric Navigation in action</h2>
+<p>You can explore how the App-Centric Navigation Panel works across different applications in ERP.net, or try it directly in the Web Client <strong>without registering</strong>.</p>
+<ul>
+<li><strong><a href="https://express-demo.my.erp.net/cl">Try Out The App-Centric Navigation in ERP.net</a></strong></li>
+<li><strong><a href="../../information/try-out-erp-net-express-crm.html">Access credentials - Use these to log in</a></strong></li>
+</ul>
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/ErpNetDocs/info/blob/main/features/ui-ux-features/app-centric-navigation-in-web-client.md/#L1" class="edit-link">Suggest improvement to this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>App Bar in ERP.net Web Client | ERP.net Information </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="App Bar in ERP.net Web Client | ERP.net Information ">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../../toc.html">
+      
+      <meta name="docfx:rel" content="../../">
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/ErpNetDocs/info/blob/main/features/ui-ux-features/app-bar-in-web-client.md/#L1">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+
+      <script type="module" src="./../../public/docfx.min.js"></script>
+
+      <script>
+        const theme = localStorage.getItem('theme') || 'auto'
+        document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+      </script>
+
+  </head>
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../logo.svg" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="app-bar-in--web-client">App Bar in ERP.net Web Client</h1>
+
+<h2 id="a-clear-starting-point-for-working-with-applications">A clear starting point for working with applications</h2>
+<p>In day-to-day work, people constantly switch between functional areas - sales, projects, logistics, and finance.
+What matters is not only <em>what</em> they work on, but <em>how quickly</em> they can move between contexts without losing focus.</p>
+<p>The <strong>App Bar</strong> in the ERP.net Web Client is designed to give you a <strong>clear, stable, and fast way to choose the application context you want to work in</strong>, at any moment.</p>
+<img width="2560" height="1440" alt="App-Bar-in-ERP-net-2026-02-05" src="https://github.com/user-attachments/assets/59adfdf2-13c1-40a6-b7ec-dd4ba8dd51be">
+<hr>
+<h2 id="what-the-app-bar-is">What the App Bar is</h2>
+<p>The <strong>App Bar</strong> is the <strong>vertical strip of application icons</strong> on the left side of the ERP.net Web Client.</p>
+<p>It represents the <strong>first level of navigation</strong> in the app-centric navigation model introduced with Web Client v.26. Its role is simple and intentional:</p>
+<blockquote>
+<p><strong>The App Bar lets you select the application (context) you want to work in.</strong></p>
+</blockquote>
+<p>Once an app is selected, <strong>the navigation and available actions are shaped by that context</strong>.</p>
+<hr>
+<h2 id="how-the-app-bar-works">How the App Bar works</h2>
+<h3 id="application-first-navigation">Application-first navigation</h3>
+<p>Each icon in the App Bar represents an <strong>application or module</strong> available to you - such as Sales, CRM, Projects, or Logistics.</p>
+<ul>
+<li>Selecting an icon switches your working context to that app.</li>
+<li>The navigation and available actions adapt immediately to that context.</li>
+<li>The set of visible apps is <strong>role-based</strong>, so you only see what is relevant and allowed.</li>
+</ul>
+<p>This keeps navigation <strong>structured and predictable</strong>, especially in larger systems.</p>
+<hr>
+<h3 id="fast-switching-with-optional-hover-behavior">Fast switching with optional hover behavior</h3>
+<p>The App Bar supports an optional <strong>hover-to-open</strong> interaction:</p>
+<ul>
+<li>Hovering over an app icon opens the app’s navigation instantly.</li>
+<li>You can preview or move into another app without interrupting your current task flow.</li>
+</ul>
+<p>This reduces unnecessary clicks and supports quick orientation.</p>
+<hr>
+<h3 id="pinning-and-navigation-comfort-space-vs-guidance">Pinning and navigation comfort (space vs. guidance)</h3>
+<p>The App Bar lets you adjust how persistent and how compact the left-side navigation should be, depending on your screen size and working style.</p>
+<ul>
+<li>You can <strong>pin or unpin</strong> the App Bar (and the App-Centric Navigation panel).</li>
+<li>You can <strong>show or hide application labels</strong> to switch between:
+<ul>
+<li>Icon-only mode for compact layouts</li>
+<li>Icon + label mode for easier orientation</li>
+</ul>
+</li>
+<li>You can <strong>show or hide the breadcrumb trail</strong> to balance:
+<ul>
+<li>Quick orientation and one-tap navigation</li>
+<li>A cleaner, more compact working space</li>
+</ul>
+</li>
+<li>You can switch between <strong>Standard view</strong> and <strong>Advanced view</strong>:
+<ul>
+<li>Standard view supports focused, straightforward daily work</li>
+<li>Advanced view supports deeper customization of panels, navigators, and record forms</li>
+</ul>
+</li>
+</ul>
+<p>These options let you balance <strong>screen space</strong>, <strong>guidance</strong>, and <strong>navigation stability</strong> without changing the underlying navigation model.</p>
+<img width="2560" height="1440" alt="App-Bar-in-ERP-net-Layout-Personalization-2026-02-05" src="https://github.com/user-attachments/assets/256de3b9-ede9-49c4-ae0f-a42cc3480201">
+<hr>
+<h3 id="role-based-visibility-with-user-personalization">Role-based visibility with user personalization</h3>
+<p>The App Bar combines governance with flexibility:</p>
+<ul>
+<li><strong>Roles determine which apps appear</strong>.</li>
+<li><strong>Users control how the App Bar behaves</strong> (pinning, labels, and layout).</li>
+</ul>
+<p>This ensures consistency across teams while still supporting individual productivity.</p>
+<hr>
+<h3 id="home-app-launcher-and-navigation-anchors">Home, App Launcher, and navigation anchors</h3>
+<p>The App Bar includes consistent navigation anchors:</p>
+<ul>
+<li>The <strong>App Launcher (Grid Menu) button</strong> opens or closes the <strong>Global Menu</strong> with all available applications and shows or hides the App Bar when it is unpinned.</li>
+<li>The <strong>Home icon</strong>, available from the <strong>breadcrumb menu</strong>, returns you to the <strong>first application</strong> set in your App Bar order.</li>
+</ul>
+<p>These elements provide a reliable way to re-orient, even after deeper navigation.</p>
+<img width="2560" height="1440" alt="App-Bar-in-ERP-net-App-Launcher-Highlighted-2026-02-05" src="https://github.com/user-attachments/assets/1b0d2966-bc71-41f9-9e4a-dad996cd52e7">
+<hr>
+<h3 id="app-level-activity-awareness">App-level activity awareness</h3>
+<p>The App Bar can display <strong>notification badges per application</strong>, indicating that something new has happened in a specific app.</p>
+<p><strong>In addition to the global notifications in ERP.net</strong>, you can immediately see <strong>where attention is needed</strong>, helping you react faster in the right functional area.</p>
+<hr>
+<h2 id="why-the-app-bar-matters-for-your-business">Why the App Bar matters for your business</h2>
+<p><strong>Faster navigation, fewer interruptions</strong></p>
+<ul>
+<li>Switching between applications takes <strong>fractions of a second</strong>.</li>
+<li>Moving between functional areas involves <strong>less navigation overhead</strong>.</li>
+<li>Hover and pinning behavior reduce friction during daily work.</li>
+</ul>
+<p><strong>Clear working context and orientation across business areas</strong></p>
+<ul>
+<li>Users always know <strong>which business area they are working in</strong>.</li>
+<li>The active application provides a <strong>clear contextual anchor</strong>.</li>
+<li>This reduces cross-module mistakes and hesitation.</li>
+</ul>
+<p><strong>Consistent adoption across roles and teams</strong></p>
+<ul>
+<li>Users learn the system <strong>app by app</strong>.</li>
+<li>New teammates onboard faster and collaborate more easily.</li>
+<li>Navigation reflects <strong>business structure</strong>, not technical menus.</li>
+<li>Teams get used to the <strong>same navigation model and logic</strong> across applications.</li>
+</ul>
+<p><strong>Personal productivity without breaking structure</strong></p>
+<ul>
+<li>Layout adapts to individual preferences, <strong>boosting personal productivity</strong>.</li>
+<li>The underlying navigation remains <strong>consistent and role-governed</strong>.</li>
+</ul>
+<p><strong>More actionable awareness</strong></p>
+<ul>
+<li>App-level badges guide attention to the <strong>functional area they belong to</strong>.</li>
+<li>Important activity becomes visible in the <strong>business area where it matters</strong>.</li>
+</ul>
+<hr>
+<h2 id="practical-use-in-everyday-business-workflows">Practical use in everyday business workflows</h2>
+<p>In real business operations, the App Bar acts as a <strong>shared navigation map</strong> across teams, making cross-functional work easier and more predictable.</p>
+<p><strong>Sales teams</strong></p>
+<ul>
+<li>Stay anchored in customer-related work.</li>
+<li>Switch quickly to adjacent applications when coordination is needed.</li>
+<li>Check availability, delivery status, or related projects without losing context.</li>
+</ul>
+<p><strong>Operations and logistics teams</strong></p>
+<ul>
+<li>Keep execution-focused navigation during daily work.</li>
+<li>Shift context instantly to review upstream inputs or downstream impact.</li>
+<li>Validate sales commitments, fulfillment dependencies, or exceptions without changing navigation patterns.</li>
+</ul>
+<p><strong>Managers and coordinators</strong></p>
+<ul>
+<li>Move smoothly between applications to review progress, approvals, and exceptions.</li>
+<li>Use the same navigation model across all functional areas.</li>
+<li>Reduce friction caused by different menus or navigation paths.</li>
+</ul>
+<p>This consistency supports smoother collaboration, even when work spans multiple applications and teams.</p>
+<hr>
+<h2 id="putting-it-into-context">Putting it into context</h2>
+<p>The <strong>App Bar</strong> is the Web Client’s <strong>application-level anchor</strong>. It keeps navigation organized by <strong>business context</strong>, enables fast switching between functional areas, and improves awareness of activity at the application level.</p>
+<p>Once the desired context is chosen, a <strong>second navigation layer</strong> helps you move <em>within</em> the application - providing concrete entry points for selecting the entities, views, actions, and notifications relevant to that area.</p>
+<p>That next layer is the <strong>App-Centric Navigation Panel</strong>, which is described in the next article in this section.</p>
+<blockquote>
+<p><strong><a href="app-centric-navigation-in-web-client.html">App-Centric Navigation in ERP.net</a></strong></p>
+</blockquote>
+<hr>
+<h2 id="see-the-app-bar-in-action">See the App Bar in action</h2>
+<p>You can continue with the next topic to learn more about <strong>App-Centric Navigation in ERP.net</strong>, or explore the <strong>App Bar</strong> directly in the ERP.net Web Client <strong>without registering</strong>.</p>
+<ul>
+<li><strong><a href="https://express-demo.my.erp.net/cl">Try Out The App Bar in ERP.net</a></strong></li>
+<li><strong><a href="../../information/try-out-erp-net-express-crm.html">Access credentials - Use these to log in</a></strong></li>
+</ul>
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/ErpNetDocs/info/blob/main/features/ui-ux-features/app-bar-in-web-client.md/#L1" class="edit-link">Suggest improvement to this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1473,6 +1473,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/app-bar-in-web-client.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/app-bar-in-web-client.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/app-centric-navigation-in-web-client.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/app-centric-navigation-in-web-client.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/ui-ux-features/chatter.md",
       "output": {
         ".html": {
