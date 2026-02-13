@@ -1,12 +1,12 @@
 # App-Centric Navigation in @@name Web Client
 
-## Working inside complex business areas
+## Working into complex business areas
 
 In modern ERP systems, switching between business areas is only half of the challenge.  
 The other half is staying oriented **once you are inside an application** - knowing where to go next, what is available, and what matters right now.
 
 @@name’s Web Client addresses this with an **app-centric navigation model**.  
-After an application is selected (via the App Bar), a second navigation layer helps you move **inside that application** in a structured, predictable way.
+After an application is selected (via the App Bar), a second navigation layer helps you move **within that application** in a structured, predictable way.
 
 This second layer is the **App-Centric Navigation Panel**.
 
@@ -50,7 +50,7 @@ This separation allows you to move between lists, operations, and reports withou
 
 ## Faster access to what you use most
 
-Inside each application, the navigation panel provides several **speed surfaces** that support daily work:
+For the variety of applications, the navigation panel provides several **speed surfaces** that support daily work:
 
 - **Favorites** for quick access to frequently used objects  
 - **Recently viewed** entries to return to recent work  
@@ -69,11 +69,11 @@ The navigation panel also supports **quick creation**:
 - A **“+” button** next to navigation items allows you to create new records directly  
 - This mirrors the familiar “+ New” behavior found in navigators  
 
-It shortens the path from intent to action, especially when working repeatedly inside the same business area.
+It shortens the path from intent to action, especially when working repeatedly into the same business area.
 
 ---
 
-## App-scoped notifications inside navigation
+## App-scoped notifications into navigation
 
 Each application can expose a **Notifications section** directly in its navigation panel:
 
@@ -131,7 +131,7 @@ They are accessed through the same application-first experience, while allowing 
 @@name uses two complementary navigation layers:
 
 - The **App Bar** helps you select the application you want to work in  
-- The **App-Centric Navigation Panel** helps you move inside that application  
+- The **App-Centric Navigation Panel** helps you move within that application  
 
 Together, they create a navigation experience that stays **business-oriented, predictable, and scalable**, no matter how many applications or workflows your organization uses.
 
