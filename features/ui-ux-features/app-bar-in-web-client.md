@@ -156,7 +156,7 @@ This consistency supports smoother collaboration, even when work spans multiple 
 
 The **App Bar** is the Web Client’s **application-level anchor**. It keeps navigation organized by **business context**, enables fast switching between functional areas, and improves awareness of activity at the application level.
 
-Once the desired context is chosen, a **second navigation layer** helps you move *inside* the application - providing concrete entry points for selecting the entities, views, actions, and notifications relevant to that area.
+Once the desired context is chosen, a **second navigation layer** helps you move *within* the application - providing concrete entry points for selecting the entities, views, actions, and notifications relevant to that area.
 
 That next layer is the **App-Centric Navigation Panel**, which is described in the next article in this section.
 
