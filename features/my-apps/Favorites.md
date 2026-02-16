@@ -2,52 +2,59 @@
 
 ## Overview
 
-The “Favorites” section gathers all your favorite business objects at your fingertips. 
-These are selected-by-you items that you want to keep just one click away. 
-Access them easily at any time. 
-These could be: the best product offer, a company representative you contact frequently, an industry you want to keep close eye on, a campaign, competitor, etc.
+The “Favorites” section gathers all the business objects that you want to follow closely at your fingertips.  
+These are items you’ve selected that you want to keep just one click away.  
+This way, you can access them easily at any time.  
+A “Favorite” could be: a product offer, a company representative you contact frequently, an industry you want to keep a close eye on, an ongoing campaign, a competitor, etc.
 
 ![Favorites_01](https://github.com/user-attachments/assets/343812c3-7018-4d7a-be08-79d0ed4e889a)
 
-## Why is it Worth
+## Why It’s Worth It
 
-The idea of having favorites stems out from the way our brain works for decision-making.
-We come across different objects every single day (documents, ideas, etc.), then our mind goes through a rapid evaluation process. 
+The idea of having favorite objects to follow stems out from the way our brain works for decision-making.
+We come across different objects every single day (documents, ideas, etc.), then our mind goes through a rapid evaluation process.  
 It weights how useful every new thing is. 
-The ones that are useful for us soon become something that we want to keep at hand. 
+The ones that are most useful for us soon become something that we want to keep at hand.
 
-So “Favorites” saves your time and makes it easy for you to touch the items you find very useful. 
+By keeping certain things at hand, “Favorites” saves your time and makes it easy for you to reach the items you want to follow. 
 You won’t let them sink in between hundreds or thousands of other items of the same type.
 
 ## How it Works
 
-Every single item – be it a document, a contact person, an internal application, campaign or company – can be favorized. 
-You only need to check it as a Favorite by clicking the “Add to Favorites” mark in the side panel at the top right corner. 
+In ERP.net (v26.2 and above), objects can be followed at different levels:
+
+- Tagged
+
+- Following
+
+- Favorite
+
+Objects marked as „Favorite“ appear in „My Favorites.”
+
+An item you want to follow closely – be it a document, a contact person, campaign or company – can be favorized by clicking the “Add to Favorites” mark on the top-right corner. 
 It is accompanied by a star, too.
 
 ![Favorites_02](https://github.com/user-attachments/assets/63ae33af-80e4-4e3d-bcfd-8c4711ce31d0)
 
-All favorite items enter a single “Favorites” plain. 
-It is just one click away from your login.
+All favorite items enter a single „collection area” called “Favorites”.  
+It is just one click away from your login. 
+It’s meant to show all Favorites on a single screen.
 
 ![Favorites_03](https://github.com/user-attachments/assets/def1b5bf-086d-43ed-93b9-2d5f41e98949)
 
-Favorites are automatically grouped by types. 
-Hence, they will appear in groups (e.g. columns or rows), each with a title, that represent the respective source category, e.g. Campaigns, Customers, Offers, etc. 
+Favorites are automatically grouped by type. 
+As a result, they appear in columns, each with a title, that represent the respective source categories, e.g. Campaigns, Customers, Offers, etc. 
 
-Why would one mark items as Favorites? 
-In our everyday work we happen to deal with certain items repetitevly. 
-For instance, a sales person may want to keep a close eye on a Customer that is wuite important for some reason, or a marketing representative may want to closely follow a certain campaign.  
+__Real-time notifications__: Whenever something happens in the context of an object you marked as Favorite, you can receive notifications. 
+This happens when an event or update occurs, e.g. a mention, a comment, etc. 
+A badge displays the count of available new notifications. 
+The follow level influences what notifications you receive.
 
-__Real Time Notifications__: As there might be some changes to your favorites, done by other people in your organization, a notification will pop up beside the respective item. 
-Every Favorite item has a notification marker on its top right corner. 
-It is a small circle that shows the number of new notifications.
+__Easy management__: Wherever you are inside the system, whatever app you use, whatever document you read, write or edit – you will see an “Add to Favorites” icon on the top right corner, together with a star. 
+It is there to let the user start following the item.
 
-__Easy Management__: Wherever you are inside the system, whatever app you use, whatever document you read, write or edit – you will see an “Add to Favorites” icon on the top right corner, together with a star. 
-Click it and the item enters the “Favorites” plain immediately.
-
-Almost all types of items can become “Favorites”. 
-What cannot be added are items that are intermittent or temporary by essence, such as chats or calendar appointments.
+Almost all types of items can be followed and potentially become “Favorites”. 
+What cannot be marked as a "Favorite" are items that are intermittent or temporary by essence, such as chats or calendar appointments.
 
 ## What This Means for You
 
