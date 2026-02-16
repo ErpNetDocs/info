@@ -141,7 +141,7 @@ They are accessed through the same application-first experience, while allowing 
 
 Together, they create a navigation experience that stays **business-oriented, predictable, and scalable**, no matter how many applications or workflows your organization uses.
 
-> **[App-Bar in @@name](app-bar-in-web-client.md)**
+> **[App Bar in @@name](app-bar-in-web-client.md)**
 
 ---
 
