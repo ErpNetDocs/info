@@ -15,7 +15,7 @@ A **sign-in screen** will be displayed asking for your credentials.
 
 > [!TIP]  
 > 
-> Use the following sign-in details when asked by the log-in screen:  
+> Use the following log-in credentials when asked by the sign-in screen:  
 > 
 > **User**: admin  
 > 
