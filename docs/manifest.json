@@ -1722,6 +1722,39 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/erp-net-id/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/erp-net-id/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/faq/crm-faq.md",
       "output": {
         ".html": {
