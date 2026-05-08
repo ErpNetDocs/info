@@ -39,6 +39,15 @@ Explore the following section to learn more about the editions of @@name, the av
 
 > **[Editions and Plans](~/information/editions-and-plans/index.md)**  
 
+## Create and Use Your @@name ID Account
+
+**@@name ID** empowers users to create and utilize the same single, unified account throughout the whole **@@name ecosystem** and **[Operator.net](https://operator.net/)** - its AI platform for building custom AI agents and tailored apps.  
+
+Learn more about it and follow our guide to create your **@@name ID** account and start in a few simple steps:  
+
+* **[Understand @@name ID](~/information/erp-net-id/index.md)**
+* **[Create and Activate Your @@name Account](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+
 ## More Information
 
 Explore more topics to learn more about the technical, licensing, and other aspects of the @@name platform:  
