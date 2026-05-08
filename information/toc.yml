@@ -6,6 +6,9 @@
   href: try-out-erp-net-express-crm.md
 - name: Try the Full ERP System Now
   href: try-our-system.md
+- name: Create Your ERP.net ID Account
+  href: erp-net-id/toc.yml
+  topicHref: erp-net-id/index.md
 - name: Editions and Plans
   href: editions-and-plans/toc.yml
   topicHref: editions-and-plans/index.md
