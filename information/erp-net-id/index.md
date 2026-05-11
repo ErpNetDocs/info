@@ -1,6 +1,6 @@
 # Get to Know **@@name ID**
 
-**@@name ID** gives you one unified personal account for signing in to supported **@@name** services and maintaining a consistent identity across the **@@name** ecosystem.
+***@@name ID** gives you one unified personal account for signing in to supported **@@name** services and maintaining a consistent identity across the **@@name** ecosystem.*
 
 ## Overview
 
