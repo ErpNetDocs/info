@@ -40,7 +40,7 @@ It connects your sign-in identity with key account details, such as:
 
 In practice, **@@name ID** connects sign-in with your personal account details.
 
-## Understand the Practical Value
+## Identify the Benefits for Users and Organizations
 
 **@@name ID** is most useful when you work with more than one **@@name** service.
 
@@ -62,7 +62,7 @@ A single personal account helps you move between **Operator.net**, **@@name Mark
 - support onboarding across multiple **@@name** services;
 - coordinate access and support communication more clearly.
 
-## Understand How Access Works After Sign-In
+## Learn How Access Works After Sign-In
 
 After sign-in, each service uses your **@@name ID profile** according to its own access settings, enabled features, and permission rules.
 
