@@ -36,7 +36,7 @@ Your email address helps correctly identify your account across the **@@name** s
 
 1. Open **[Operator.net](https://operator.net/)**.
 2. Select the **Sign In** button in the primary navigation, or select **Start Operator** from the center of the page.
-3. On the **Welcome to Operator** screen, select **Sign in with your **@@name ID**.
+3. On the **Welcome to Operator** screen, select **Sign in with your @@name ID**.
 4. The system redirects you to the **@@name Identity Server**.
 5. On the sign-in form, select **Create new account**.
 
