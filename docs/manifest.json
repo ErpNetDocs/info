@@ -1722,6 +1722,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/following-best-practices-for-your-erp-net-id-account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "information/erp-net-id/index.md",
       "output": {
         ".html": {
