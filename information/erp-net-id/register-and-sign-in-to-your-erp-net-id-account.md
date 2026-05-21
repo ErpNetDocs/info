@@ -111,9 +111,12 @@ By creating and activating your account, you can sign in through **Operator.net*
 
 - **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
-### See Also:
+### Related Services:
 
-- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
 - **[Vox (Feedback Portal)](https://vox.erp.net/)**
+
+### See Also:
+
+- **[Understand @@name ID](~/information/erp-net-id/index.md)**
