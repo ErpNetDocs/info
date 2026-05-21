@@ -112,4 +112,4 @@ See also:
 - **[Understand @@name ID](~/information/erp-net-id/index.md)**
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox Populi](https://vox.erp.net/)**
+- **[Vox](https://vox.erp.net/)**
