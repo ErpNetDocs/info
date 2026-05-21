@@ -89,9 +89,10 @@ It is especially useful when you work across multiple **@@name** entry points.
 ### Next topics:
 
 - **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ### Related services:
 
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox](https://vox.erp.net/)**
+- **[Vox (Feedback Portal)](https://vox.erp.net/)**
