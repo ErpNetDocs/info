@@ -23,7 +23,7 @@ Supported services include:
 - **[Operator.net](https://operator.net/)** — the AI interface for operating the **@@name** ecosystem through custom-built AI agents and tailored apps.
 - **[@@name Marketplace](https://marketplace.erp.net/)** — the marketplace for apps, packaged solutions, integrations, and services.
 - **Marketplace Apps** — individual integrated applications delivered through **@@name Marketplace**.
-- **[Vox Populi](https://vox.erp.net/)** — the portal for submitting, viewing, and voting on user feature ideas, development suggestions, and business cases.
+- **[Vox](https://vox.erp.net/)** — the portal for submitting, viewing, and voting on user feature ideas, development suggestions, and business cases.
 - **Your **@@name** instance** — when **@@name ID** login is enabled for that instance.
 - **Other **@@name** services** — when they support **@@name ID** authentication.
 
@@ -44,7 +44,7 @@ In practice, **@@name ID** connects sign-in with your personal account details.
 
 **@@name ID** is most useful when you work with more than one **@@name** service.
 
-A single personal account helps you move between **Operator.net**, **@@name Marketplace**, **Marketplace Apps**, **Vox Populi**, and **enabled @@name instances** while keeping the same identity and profile details.
+A single personal account helps you move between **Operator.net**, **@@name Marketplace**, **Marketplace Apps**, **Vox**, and **enabled @@name instances** while keeping the same identity and profile details.
 
 ### For users
 
@@ -94,4 +94,4 @@ It is especially useful when you work across multiple **@@name** entry points.
 
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox Populi](https://vox.erp.net/)**
+- **[Vox](https://vox.erp.net/)**
