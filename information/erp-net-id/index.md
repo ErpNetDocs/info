@@ -81,7 +81,7 @@ Access can depend on:
 > **@@name ID** supports sign-in and identification.
 > Service access and **@@name** instance permissions are managed according to the relevant service, organization, and administrator settings.
 
-## Summary and See Also
+## Summary and Additional Resources
 
 **@@name ID** helps you sign in to supported **@@name** services with one unified personal account. 
 It is especially useful when you work across multiple **@@name** entry points.
