@@ -20,12 +20,12 @@ You can use **@@name ID** with services that support **@@name ID** authenticatio
 
 Supported services include:
 
-- **[Operator.net](https://operator.net/)** — the AI interface for operating the **@@name** ecosystem through custom-built AI agents and tailored apps.
-- **[@@name Marketplace](https://marketplace.erp.net/)** — the marketplace for apps, packaged solutions, integrations, and services.
-- **Marketplace Apps** — individual integrated applications delivered through **@@name Marketplace**.
-- **[Vox](https://vox.erp.net/)** — the portal for submitting, viewing, and voting on user feature ideas, development suggestions, and business cases.
-- **Your **@@name** instance** — when **@@name ID** login is enabled for that instance.
-- **Other **@@name** services** — when they support **@@name ID** authentication.
+* **[Operator.net](https://operator.net/)** — the AI interface for operating the **@@name** ecosystem through custom-built AI agents and tailored apps.
+* **[@@name Marketplace](https://marketplace.erp.net/)** — the marketplace for apps, packaged solutions, integrations, and services.
+* **Marketplace Apps** — individual integrated applications delivered through **@@name Marketplace**.
+* **[Vox](https://vox.erp.net/)** — the portal for submitting, viewing, and voting on user feature ideas, development suggestions, and business cases.
+* **Your **@@name** instance** — when **@@name ID** login is enabled for that instance.
+* **Other **@@name** services** — when they support **@@name ID** authentication.
 
 ## Understand What **@@name ID** Does
 
@@ -50,17 +50,17 @@ A single personal account helps you move between **Operator.net**, **@@name Mark
 
 **@@name ID** helps you:
 
-- sign in with one personal account;
-- avoid duplicate or inconsistent accounts;
-- work across services with less account-related friction.
+* sign in with one personal account;
+* avoid duplicate or inconsistent accounts;
+* work across services with less account-related friction.
 
 ### For organizations
 
 **@@name ID** helps organizations:
 
-- keep account information consistent across **@@name** services;
-- support onboarding across multiple **@@name** services;
-- coordinate access and support communication more clearly.
+* keep account information consistent across **@@name** services;
+* support onboarding across multiple **@@name** services;
+* coordinate access and support communication more clearly.
 
 ## Learn How Access Works After Sign-In
 
@@ -70,12 +70,12 @@ This allows one **@@name ID account** to work across multiple services, while ea
 
 Access can depend on:
 
-- whether the service supports **@@name ID** authentication;
-- whether your **@@name ID** account is active;
-- whether **@@name ID** login is enabled for a specific **@@name** instance;
-- your organization’s setup;
-- your assigned permissions;
-- administrator approval, where required.
+* whether the service supports **@@name ID** authentication;
+* whether your **@@name ID** account is active;
+* whether **@@name ID** login is enabled for a specific **@@name** instance;
+* your organization’s setup;
+* your assigned permissions;
+* administrator approval, where required.
 
 > [!Note]  
 > **@@name ID** supports sign-in and identification.
@@ -88,11 +88,11 @@ It is especially useful when you work across multiple **@@name** entry points.
 
 ### Next Topics:
 
-- **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
-- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
+* **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+* **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ### Related Services:
 
-- **[Operator.net](https://operator.net/)**
-- **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox (Feedback Portal)](https://vox.erp.net/)**
+* **[Operator.net](https://operator.net/)**
+* **[@@name Marketplace](https://marketplace.erp.net/)**
+* **[Vox (Feedback Portal)](https://vox.erp.net/)**
