@@ -29,10 +29,10 @@ Your **@@name ID account** is intended to represent you personally, so make sure
 
 The **Profile** tab contains optional fields, such as:
 
-- **Phone number**
-- **Default language**
-- **Company**
-- **Registration message**
+* **Phone number**
+* **Default language**
+* **Company**
+* **Registration message**
 
 Although these fields are optional, we strongly recommend filling them in.
 
@@ -50,9 +50,9 @@ Email confirmation activates your **@@name ID account** and verifies that your e
 
 If you do not see the confirmation email:
 
-- check your spam or junk folder;
-- confirm that the email address you entered is correct;
-- request a new confirmation email from the **@@name ID** confirmation screen.
+* check your spam or junk folder;
+* confirm that the email address you entered is correct;
+* request a new confirmation email from the **@@name ID** confirmation screen.
 
 ### 4. Keep Individual Accounts Personal
 
@@ -60,9 +60,9 @@ Each **@@name ID account** should belong to the person it represents.
 
 Personal accounts support:
 
-- clear ownership;
-- reliable access coordination;
-- accurate communication.
+* clear ownership;
+* reliable access coordination;
+* accurate communication.
 
 Since employee access to the **@@name ecosystem** is personal and user-specific, each person should use their own **@@name ID account**.
 
@@ -74,8 +74,8 @@ Use a strong, unique password.
 
 Do not:
 
-- reuse passwords from other services;
-- share your sign-in details with another person.
+* reuse passwords from other services;
+* share your sign-in details with another person.
 
 Store your credentials securely and update them promptly if you suspect they may have been exposed.
 
@@ -95,9 +95,9 @@ If you need access to a specific @@name instance, your organization may need to 
 
 Contact your **@@name** administrator or responsible service owner if you:
 
-- can sign in with **@@name ID** but cannot access the needed **@@name instance**;
-- need additional permissions and roles;
-- need help with connecting your account to a specific organization, service, or business context.
+* can sign in with **@@name ID** but cannot access the needed **@@name instance**;
+* need additional permissions and roles;
+* need help with connecting your account to a specific organization, service, or business context.
 
 > **Note**  
 > A successful sign-in confirms your identity. Permissions to view or change business data depend on the relevant **@@name** app, service, instance, and assigned access rights.
@@ -134,11 +134,11 @@ By choosing the right email address, completing useful profile details, confirmi
 
 ### Related Topics:
 
-- **[Understand @@name ID](~/information/erp-net-id/index.md)**
-- **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+* **[Understand @@name ID](~/information/erp-net-id/index.md)**
+* **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
 
 ### Related Services:
 
-- **[Operator.net](https://operator.net/)**
-- **[@@name Marketplace](https://marketplace.@@name/)**
-- **[Vox (Feedback Portal)](https://vox.@@name/)**
+* **[Operator.net](https://operator.net/)**
+* **[@@name Marketplace](https://marketplace.@@name/)**
+* **[Vox (Feedback Portal)](https://vox.@@name/)**
