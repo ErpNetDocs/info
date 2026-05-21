@@ -12,10 +12,10 @@ After you complete the account registration form and confirm your email address,
 
 This guide will help you:
 
-- create a new **@@name ID account**;
-- activate the account through **email confirmation**;
-- sign in to **Operator.net** with your **@@name ID profile**;
-- start using your **@@name ID account** with supported services.
+* create a new **@@name ID account**;
+* activate the account through **email confirmation**;
+* sign in to **Operator.net** with your **@@name ID profile**;
+* start using your **@@name ID account** with supported services.
 
 ## Prepare Your Email Address
 
@@ -43,8 +43,8 @@ Your email address helps correctly identify your account across the **@@name** s
 The **@@name ID** account creation form opens. 
 The form contains two tabs:
 
-- **Account**
-- **Profile**
+* **Account**
+* **Profile**
 
 ### 2. Complete the Account Tab
 
@@ -67,10 +67,10 @@ Open the **Profile** tab and review the optional fields.
 
 You can enter:
 
-- **Phone number**
-- **Default language**
-- **Company**
-- **Registration message**
+* **Phone number**
+* **Default language**
+* **Company**
+* **Registration message**
 
 All fields in the **Profile** tab are optional.
 
@@ -109,14 +109,14 @@ By creating and activating your account, you can sign in through **Operator.net*
 
 ### Next Topic:
 
-- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
+* **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ### Related Services:
 
-- **[Operator.net](https://operator.net/)**
-- **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox (Feedback Portal)](https://vox.erp.net/)**
+* **[Operator.net](https://operator.net/)**
+* **[@@name Marketplace](https://marketplace.erp.net/)**
+* **[Vox (Feedback Portal)](https://vox.erp.net/)**
 
 ### See Also:
 
-- **[Understand @@name ID](~/information/erp-net-id/index.md)**
+* **[Understand @@name ID](~/information/erp-net-id/index.md)**
