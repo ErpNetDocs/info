@@ -47,6 +47,7 @@ Learn more about it and follow our guide to create your **@@name ID** account an
 
 * **[Understand @@name ID](~/information/erp-net-id/index.md)**
 * **[Create and Activate Your @@name Account](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+* **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ## More Information
 
