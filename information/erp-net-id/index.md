@@ -86,12 +86,12 @@ Access can depend on:
 **@@name ID** helps you sign in to supported **@@name** services with one unified personal account. 
 It is especially useful when you work across multiple **@@name** entry points.
 
-### Next topics:
+### Next Topics:
 
 - **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
 - **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
-### Related services:
+### Related Services:
 
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
