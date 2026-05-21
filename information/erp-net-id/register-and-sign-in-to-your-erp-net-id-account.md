@@ -101,15 +101,19 @@ The available experience depends on the services, permissions, and **@@name** en
 
 You can use the same **@@name ID account** with other supported **@@name applications and services** available to you.
 
-## Summary and See Also
+## Summary and Additional Resources
 
 **@@name ID** gives you one personal account for accessing supported **@@name** apps and services.
 
 By creating and activating your account, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
 
-See also:
+### Next Topic:
 
-- **[Understand @@name ID](~/information/erp-net-id/index.md)**
+- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
+
+### See Also:
+
+- **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 - **[Operator.net](https://operator.net/)**
 - **[@@name Marketplace](https://marketplace.erp.net/)**
-- **[Vox](https://vox.erp.net/)**
+- **[Vox (Feedback Portal)](https://vox.erp.net/)**
