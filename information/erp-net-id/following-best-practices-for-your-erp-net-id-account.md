@@ -85,7 +85,7 @@ Store your credentials securely and update them promptly if you suspect they may
 An **@@name ID account** is your **global account for personal access and use**. 
 This enables you to create, sign-in with, manage, and use only one account across the whole range of supported **@@name web services and web apps**.
 
-After you initially create your **@@name ID account** and sign into any **@@name ID-comaptible app**, avoid creating secondary and additional accounts to sign into other **@@name ID-compatible apps**.
+After you initially create your **@@name ID account** and sign into any **@@name ID-compatible app**, avoid creating secondary and additional accounts to sign into other **@@name ID-compatible apps**.
 
 > [!Note]
 > Always sign-in and use the same **@@name ID account** of yours for all **@@name applications** where **@@name ID** is supported.
