@@ -82,13 +82,13 @@ Store your credentials securely and update them promptly if you suspect they may
 
 ### 6. Use One @@name ID Account Consistently
 
-An **@@name ID account** is your **global account for personal access and use**. 
-This enables you to create, sign-in with, manage, and use only one account across the whole range of supported **@@name web services and web apps**.
+Your **@@name ID account** is **your global account for personal access** across supported **@@name** apps and services.
 
-After you initially create your **@@name ID account** and sign into any **@@name ID-compatible app**, avoid creating secondary and additional accounts to sign into other **@@name ID-compatible apps**.
+After you create your **@@name ID account**, use the same account whenever you sign in to an app or service that supports **@@name ID**. 
+Avoid creating additional accounts for other **@@name ID-compatible** apps or services.
 
-> [!Note]
-> Always sign-in and use the same **@@name ID account** of yours for all **@@name applications** where **@@name ID** is supported.
+> [!Note]  
+> Always use the same **@@name ID account** where **@@name ID** sign-in is supported.
 
 This keeps your sign-in, email address, and profile information aligned across supported apps, services, and enabled **@@name** instances.
 
