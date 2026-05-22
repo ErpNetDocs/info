@@ -4,7 +4,7 @@
 
 ## Overview
 
-You can register or sign into your **@@name ID account** through **[Operator.net](https://operator.net/)** or another **@@name** application or service that supports it.
+You can register or sign into your **global @@name ID account** through **[Operator.net](https://operator.net/)** or another **@@name** application or service that supports it.
 
 Starting the sign-in flow on **Operator.net** redirects you to the **@@name Identity Server**, where you can create your **@@name ID account** or log in with an **existing one**.
 
@@ -105,7 +105,7 @@ You can use the same **@@name ID account** with other supported **@@name applica
 
 **@@name ID** gives you one personal account for accessing supported **@@name** apps and services.
 
-By creating and activating your account, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
+By creating and activating your **global @@name ID account**, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
 
 ### Next Topic:
 
