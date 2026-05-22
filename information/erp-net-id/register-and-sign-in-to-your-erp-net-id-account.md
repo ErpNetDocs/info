@@ -21,7 +21,7 @@ This guide will help you:
 
 Before you start, choose the email address you want to use for your **@@name ID profile**.
 
-> **Important**  
+> [!Note]
 > We recommend using your official individual email address within your organization or one that is intended for work and business purposes.
 
 Your email address helps correctly identify your account across the **@@name** services you use and supports smoother access continuity.
