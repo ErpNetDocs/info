@@ -1,10 +1,10 @@
 # Get to Know **@@name ID**
 
-***@@name ID** gives you one unified personal account for signing in to supported **@@name** services and maintaining a consistent identity across the **@@name** ecosystem.*
+***@@name ID** gives you one unified global personal account for signing in to supported **@@name** services and maintaining a consistent identity across the **@@name** ecosystem.*
 
 ## Overview
 
-**@@name ID** is your personal account for accessing supported **@@name** services.
+**@@name ID** is your personal global account for accessing supported **@@name** services.
 
 It gives you one identity for signing in to services that support **@@name ID** authentication. 
 Instead of creating separate accounts for each supported service, you use one profile to maintain a consistent experience across the **@@name** ecosystem.
@@ -83,7 +83,7 @@ Access can depend on:
 
 ## Summary and Additional Resources
 
-**@@name ID** helps you sign in to supported **@@name** services with one unified personal account. 
+**@@name ID** helps you sign in to supported **@@name** services with one global personal account. 
 It is especially useful when you work across multiple **@@name** entry points.
 
 ### Next Topics:
