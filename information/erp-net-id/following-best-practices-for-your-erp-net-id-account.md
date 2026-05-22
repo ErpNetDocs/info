@@ -140,5 +140,5 @@ By choosing the right email address, completing useful profile details, confirmi
 ### Related Services:
 
 * **[Operator.net](https://operator.net/)**
-* **[@@name Marketplace](https://marketplace.@@name/)**
-* **[Vox (Feedback Portal)](https://vox.@@name/)**
+* **[@@name Marketplace](https://marketplace.erp.net/)**
+* **[Vox (Feedback Portal)](https://vox.erp.net/)**
