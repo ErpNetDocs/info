@@ -1,10 +1,10 @@
 # Following Best Practices for Your @@name ID Account
 
-*Use your **@@name ID account** consistently to support smoother sign-in, clearer account identification and management, and better access continuity across supported **@@name** apps and services.*
+*Use your **global @@name ID account** consistently to support smoother sign-in, clearer account identification and management, and better access continuity across supported **@@name** apps and services.*
 
 ## Overview
 
-Good account practices help keep your **@@name ID account** clear, reliable, and ready to use across the **@@name ecosystem**.
+Good account practices help keep your **@@name ID account** clear, reliable, and ready to use globally across the **@@name ecosystem**.
 
 They are especially important when you create and activate your account, start using it across supported apps and services, and coordinate access to **@@name** instances.
 
@@ -16,12 +16,13 @@ This guide explains what matters when creating and managing your **@@name ID acc
 
 Before creating your **@@name ID account**, choose your email address carefully.
 
-> **Important**  
+> [!Note]
 > We recommend using your official individual email address within your organization.
 
 Your email address helps identify your account **across @@name services**.
 
-Use an inbox you can access and manage. This helps you receive confirmation messages, access notifications, and account-related communication.
+Use an inbox you can access and manage. 
+This helps you receive confirmation messages, access notifications, and account-related communication.
 
 Your **@@name ID account** is intended to represent you personally, so make sure to use an email address that clearly belongs to you as an individual user.
 
@@ -81,7 +82,13 @@ Store your credentials securely and update them promptly if you suspect they may
 
 ### 6. Use One @@name ID Account Consistently
 
-Use the same **@@name ID account** wherever **@@name ID** is supported.
+An **@@name ID account** is your **global account for personal access and use**. 
+This enables you to create, sign-in with, manage, and use only one account across the whole range of supported **@@name web services and web apps**.
+
+After you initially create your **@@name ID account** and sign into any **@@name ID-comaptible app**, avoid creating secondary and additional accounts to sign into other **@@name ID-compatible apps**.
+
+> [!Note]
+> Always sign-in and use the same **@@name ID account** of yours for all **@@name applications** where **@@name ID** is supported.
 
 This keeps your sign-in, email address, and profile information aligned across supported apps, services, and enabled **@@name** instances.
 
@@ -100,7 +107,8 @@ Contact your **@@name** administrator or responsible service owner if you:
 * need help with connecting your account to a specific organization, service, or business context.
 
 > **Note**  
-> A successful sign-in confirms your identity. Permissions to view or change business data depend on the relevant **@@name** app, service, instance, and assigned access rights.
+> A successful sign-in confirms your identity.
+> Permissions to view or change business data depend on the relevant **@@name** app, service, instance, and assigned access rights.
 
 ## Recommended Practices Checklist
 
