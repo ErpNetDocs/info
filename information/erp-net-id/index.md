@@ -4,7 +4,9 @@
 
 ## Overview
 
-**@@name ID** is your personal global account for accessing supported **@@name** services.
+**@@name ID** is your personal global account for accessing supported **@@name** services.  
+
+<img width="577" height="456" alt="Sign-In-With-ERP-net-ID" src="https://github.com/user-attachments/assets/671c3b65-c2e2-401f-86c4-b0cc6e913d30" />
 
 It gives you one identity for signing in to services that support **@@name ID** authentication. 
 Instead of creating separate accounts for each supported service, you use one profile to maintain a consistent experience across the **@@name** ecosystem.
