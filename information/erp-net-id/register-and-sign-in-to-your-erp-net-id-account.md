@@ -55,6 +55,8 @@ Open the **Account** tab and complete the required fields:
 3. Enter your **Password**.
 4. Enter the same password again in **Confirm password**.
 
+<img width="522" height="881" alt="ERP-net-ID-Account-Tab" src="https://github.com/user-attachments/assets/5d53c553-f41d-48b4-832d-f987865bd83a" />
+
 These fields are required. 
 They create the foundation of your **@@name ID** account.
 
@@ -71,6 +73,8 @@ You can enter:
 * **Default language**
 * **Company**
 * **Registration message**
+
+<img width="528" height="946" alt="ERP-net-ID-Profile-Tab" src="https://github.com/user-attachments/assets/93889d82-7d1b-4ef5-b04b-1cdbbc262744" />
 
 All fields in the **Profile** tab are optional.
 
