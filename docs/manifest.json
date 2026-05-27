@@ -1606,10 +1606,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/work-management/project-management.md",
+      "source_relative_path": "features/work-management/project-management-outdated.md",
       "output": {
         ".html": {
-          "relative_path": "features/work-management/project-management.html"
+          "relative_path": "features/work-management/project-management-outdated.html"
         }
       },
       "version": ""
