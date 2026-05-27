@@ -55,5 +55,4 @@ It connects tasks, projects, teams, documents, communication, and business proce
 
 ## Workflow Management in @@name
 
-* **[Project Management (PM) in @@name](project-management.md)**
 * **[Presence (Availability) in @@name](presence.md)**
