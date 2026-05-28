@@ -1,6 +1,6 @@
 # Following Best Practices for Your @@name ID Account
 
-*Use your **global @@name ID account** consistently to support smoother sign-in, clearer account identification and management, and better access continuity across supported **@@name** apps and services.*
+*Follow these practices to keep your **@@name ID account** secure, consistent, and ready to use across supported **@@name** apps and services.*
 
 ## Overview
 
@@ -8,7 +8,7 @@ Good account practices help keep your **@@name ID account** clear, reliable, and
 
 They are especially important when you create and activate your account, start using it across supported apps and services, and coordinate access to **@@name** instances.
 
-This guide explains what matters when creating and managing your **@@name ID account** and which practices help you use it securely and consistently.
+This guide covers the practices that keep your **@@name ID** account secure, consistent, and easy to manage.
 
 ## Best Practices for @@name ID Account Management
 
@@ -16,7 +16,7 @@ This guide explains what matters when creating and managing your **@@name ID acc
 
 Before creating your **@@name ID account**, choose your email address carefully.
 
-> [!Note]
+> [!NOTE]
 > We recommend using your official individual email address within your organization.
 
 Your email address helps identify your account **across @@name services**.
@@ -24,7 +24,7 @@ Your email address helps identify your account **across @@name services**.
 Use an inbox you can access and manage. 
 This helps you receive confirmation messages, access notifications, and account-related communication.
 
-Your **@@name ID account** is intended to represent you personally, so make sure to use an email address that clearly belongs to you as an individual user.
+Your **@@name ID account** is intended to represent you personally, so use an email address that belongs to you personally, not a shared mailbox.
 
 ### 2. Complete Your Profile Information
 
@@ -41,7 +41,7 @@ Profile information can help administrators, support teams, and service owners u
 
 The **Company** field is especially useful when your account needs to be associated with a specific organization.
 
-Use the **Registration message** field when extra context is useful, such as the organization, service, or access context related to your registration.
+Use the **Registration message** field to add any extra context — for example, the organization or service you're registering for.
 
 ### 3. Confirm Your Email Address Promptly
 
@@ -76,7 +76,7 @@ Use a strong, unique password.
 Do not:
 
 * reuse passwords from other services;
-* share your sign-in details with another person.
+* share your sign-in credentials with another person.
 
 Store your credentials securely and update them promptly if you suspect they may have been exposed.
 
@@ -87,7 +87,7 @@ Your **@@name ID account** is **your global account for personal access** across
 After you create your **@@name ID account**, use the same account whenever you sign in to an app or service that supports **@@name ID**. 
 Avoid creating additional accounts for other **@@name ID-compatible** apps or services.
 
-> [!Note]  
+> [!NOTE]  
 > Always use the same **@@name ID account** where **@@name ID** sign-in is supported.
 
 This keeps your sign-in, email address, and profile information aligned across supported apps, services, and enabled **@@name** instances.
@@ -98,7 +98,7 @@ If you accidentally create more than one **@@name ID account**, coordinate with 
 
 An active **@@name ID account** gives you a sign-in identity, while each **@@name** app, service, or instance controls access according to its own settings, roles, and permission rules.
 
-If you need access to a specific @@name instance, your organization may need to enable **@@name ID login** and assign the required roles and permissions to your account.
+If you need access to a specific @@name instance, your organization may need to enable **@@name ID sign-in** and assign the required roles and permissions to your account.
 
 Contact your **@@name** administrator or responsible service owner if you:
 
@@ -106,7 +106,7 @@ Contact your **@@name** administrator or responsible service owner if you:
 * need additional permissions and roles;
 * need help with connecting your account to a specific organization, service, or business context.
 
-> **Note**  
+> [!NOTE]
 > A successful sign-in confirms your identity.
 > Permissions to view or change business data depend on the relevant **@@name** app, service, instance, and assigned access rights.
 
