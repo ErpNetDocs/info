@@ -24,7 +24,7 @@ Before you start, choose the email address you want to use for your **@@name ID 
 > [!NOTE]
 > We recommend using your official individual email address within your organization or one that is intended for work and business purposes.
 
-Your email address is how each **@@name** service recognizes your **@@name ID** account.
+Your email address is what each **@@name** service uses to recognize your **@@name ID** account.
 
 ## Create Your **@@name ID** Account Through **Operator.net**
 
