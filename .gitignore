@@ -41,3 +41,4 @@ launchSettings.json
 project.lock.json
 *.sublime-workspace
 /docs/*.pdf
+/docs

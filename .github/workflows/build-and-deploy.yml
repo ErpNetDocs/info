@@ -1,0 +1,84 @@
+# Builds the DocFX site with the custom ERP.net docfx and deploys to GitHub Pages.
+# Replaces the legacy Azure DevOps pipeline (build_from_azure_pipelines.ps1).
+#
+# Runs entirely on free GitHub-hosted runners. The custom docfx is pulled from a
+# prebuilt release asset (no self-hosted runner, no commit-back).
+#
+# info has a CUSTOM DOMAIN (info.erp.net): the build step re-creates the CNAME
+# file in the output, because docfx does not copy it.
+#
+# One-time setup outside this file:
+#   * Repo Settings -> Pages -> Build and deployment -> Source = "GitHub Actions".
+#     (Keep the custom domain set to info.erp.net.)
+#   * Disable the old Azure DevOps pipeline for this repo.
+name: Build and deploy to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Default to no permissions; each job opts into exactly what it needs.
+permissions: {}
+
+# One deploy at a time; let an in-flight production deploy finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  # Where the prebuilt custom docfx lives. Adjust to match what you published.
+  DOCFX_REPO: ErpNetDocs/docfx
+  DOCFX_RELEASE_TAG: docfx-erpnet
+  DOCFX_ASSET: docfx-linux-x64.zip
+  # Custom domain served by this site; written into the artifact as CNAME.
+  PAGES_CNAME: info.erp.net
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download custom docfx
+        env:
+          GH_TOKEN: ${{ github.token }} # works for a public DOCFX_REPO
+        run: |
+          set -euo pipefail
+          gh release download "$DOCFX_RELEASE_TAG" \
+            --repo "$DOCFX_REPO" \
+            --pattern "$DOCFX_ASSET" \
+            --dir "$RUNNER_TEMP"
+          mkdir -p "$RUNNER_TEMP/docfx"
+          unzip -q "$RUNNER_TEMP/$DOCFX_ASSET" -d "$RUNNER_TEMP/docfx"
+          chmod +x "$RUNNER_TEMP/docfx/docfx"
+          echo "$RUNNER_TEMP/docfx" >> "$GITHUB_PATH"
+
+      - name: Build site
+        run: |
+          set -euo pipefail
+          rm -rf docs              # clean any stale committed output
+          docfx build docfx.json   # outputs to ./docs ("dest" in docfx.json)
+          echo "$PAGES_CNAME" > docs/CNAME   # preserve the custom domain
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
