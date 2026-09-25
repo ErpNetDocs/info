@@ -1,166 +1,116 @@
- # File Management in @@name  
-*A modern way to organize, access, and use your business documents*
+# File Management in @@name
+*Keep business documents reachable from the records where work happens — stored in @@name or referenced as links/URLs.*
 
 ---
 
-## Documents are everywhere. And that’s perfectly normal.
+## Value Proposition
 
-Every business works with documents.  
-And not just a few.
+File Management in @@name keeps documents reachable from the same business context where decisions and operations happen — a customer, a document, a project, a product, or a process.
+The key principle is simple: files stay connected to ERP records through an explicit relationship, regardless of where the content is stored.
 
-Contracts, offers, invoices, specifications, spreadsheets, reports, images — they are part of every deal, every decision, and every operational activity, regardless of industry.
+@@name supports multiple storage models without changing the user experience:
 
-Interestingly, documents are rarely the “main topic.”  
-They simply need to be there — when you look for them, when you open them, and when you work with them.
-
-As a business grows, this expectation becomes even more important.  
-More people, more processes, more information that needs to be:
-
-- clearly organized  
-- up to date  
-- easy to access  
-- logically connected to the work  
-
-When documents are organized as part of the business context, work flows more naturally. Teams orient themselves faster, and the focus stays on tasks — not on searching.
-
-This is exactly where **File Management in @@name** comes into play.
+- files can be stored as **Embedded files** (content stored in @@name), or  
+- maintained externally and referenced as **Linked files** or **Internet URLs** — while still remaining reachable from the relevant business record.
 
 ---
 
-## One place for all files and documents
+## Why This Matters
 
-File Management in @@name brings documents to where work actually happens — inside the system itself.
+In real operations, documents are rarely “the main object” — but they are often the evidence and working material behind it: contracts for a deal, specifications for an order, photos for execution, certificates for quality, spreadsheets for analysis.
+The recurring problem is not storage capacity.
+It is **missing context**: a file exists somewhere (in a drive, email thread, chat, or personal folder), but the team cannot reliably reach it from:
 
-Instead of existing separately, files are directly linked to:
+- the customer record  
+- the sales document  
+- the project  
+- the product or asset it refers to  
+
+As organizations grow, this becomes structural. The same process involves more people, more handovers, and more auditability requirements — and *“I think it’s in someone’s folder”* stops being acceptable.
+
+File Management in @@name addresses this by keeping the relationship between files and business objects explicit and reusable inside the ERP context.
+
+---
+
+## Key Capabilities
+
+### Keep files in business context
+
+Files can be attached to business records such as:
 
 - customers and suppliers  
 - sales documents and invoices  
 - projects and tasks  
 - products, assets, and processes  
 
-This means documents are always in the right place, in the right context, and at the right moment — without switching between systems or tools.
+This keeps documentation reachable from the record that already defines **why** the file matters.
+
+### Support both record-related evidence and shared documentation
+
+Not all files belong to a single transaction. File Management supports:
+
+- **record-related files** — evidence, outputs, and attachments tied to a specific customer, project, or document  
+- **shared folders** — templates, policies, and reference materials used across teams  
+
+### Choose the storage model without losing ERP context
+
+@@name supports three storage methods:
+
+- **Embedded file** — stored in @@name  
+- **Linked file** — a reference to a file stored elsewhere  
+- **Internet URL** — a reference to an online location  
+
+The guarantee stays the same: the file (or reference) remains reachable from the relevant business object.
+
+### Open and edit from the ERP context (without changing how users work)
+
+Users open files from the ERP record and work with them in the appropriate desktop application for the file type.
+
+- For **Embedded files**, the content is stored and maintained in @@name.  
+- For **Linked files** and **Internet URLs**, the content stays in its external location — @@name maintains the reference and the business context connection.
 
 ---
 
-## File Management in @@name
+## How It Works
 
-File Management in @@name is an integrated document management functionality built directly into the ERP platform.
+File Management combines two organizing principles:
 
-It allows you to:
+1. Files can be attached to records (customer, project, document, product).  
+2. Files can be organized in shared folders (when they are general reference).
 
-- store files securely  
-- organize documents in a clear structure  
-- link files to business objects  
-- manage access and visibility  
-- work with documents directly through the web interface  
-
-All of this happens within a single system — without the need for additional applications or external repositories.
+For each file, you choose one of the supported storage methods — embedded, linked, or Internet URL — but the user experience remains consistent:  
+find the file from the business record, open it, work with it in the right application, and keep it connected to the correct ERP context.
 
 ---
 
-## A new way to manage your documentation
+## Typical Scenarios / Use Cases
 
-File Management in @@name introduces a familiar and intuitive logic, enriched with business context.
+File Management in @@name adapts to work across teams and industries, for example:
 
-Documents are not just files — they belong to a:
+- **Sales:** offers, contracts, and specifications reachable from the customer and sales documents  
+- **Projects & operations:** drawings, reports, and execution photos reachable from the project and tasks  
+- **Quality & control:** inspection evidence, certificates, and protocols reachable from deliveries, materials, and products  
+- **Management:** decision-support materials reachable from the relevant initiative or kept in shared folders  
+- **Company-wide references:** policies, handbooks, and templates stored in shared folders, not tied to one record
 
-- customer  
-- project  
-- product  
-- process  
+These examples reflect patterns seen across many organizations.  
+For a closer look at how teams apply File Management in day-to-day work:
 
-When you open a record in the system, you also see:
-
-- the related files  
-- the current versions  
-- the complete document history  
-
-Viewing and editing are done directly in the browser, making work easier and enabling teams to act quickly and confidently, without relying on local desktop applications.
+[See how File Management is used in real business scenarios](./file-management-use-cases.md)
 
 ---
 
-## File Management that simply works — and does it elegantly
+## Why @@name
 
-File Management in @@name is not just a place to store files.
+This is not “file storage next to an ERP”.
 
-It is a way to make documents part of the business logic — naturally, clearly, and without effort from the user.
+The differentiator is the preserved business context:
 
-From the very first interaction, it becomes clear that everything has been carefully thought through.  
-Not to impress at first glance, but to make everyday work easier.
+- files remain reachable from the records people actually work with  
+- the file-to-record relationship is explicit in the system, not dependent on personal folder conventions  
+- the same concept applies consistently across business areas, so documentation does not become a separate tool and a separate habit  
 
-File Management in @@name allows you to:
-
-- store files securely and centrally  
-- maintain a clear and logical document structure  
-- link files directly to customers, projects, documents, and other business objects  
-- control who sees and works with what  
-- view and edit documents directly through the web interface  
-
-All of this happens within @@name — without additional applications, without external repositories, and without having to “assemble” multiple tools.
-
-The result is a sense of completeness.
-
-Documents are exactly where you expect them to be.  
-Working with them is smooth, consistent, and intuitive.
-
-This is not just file management.  
-It is a well-designed part of the overall business environment.
-
----
-
-## How businesses use File Management in @@name
-
-File Management in @@name adapts to the way different teams and industries work — from sales and field operations to quality control, engineering services, and management.
-
-**[See how File Management is used in real business scenarios](./file-management-use-cases.md)**
-
----
-
-## What value does this bring to the business?
-
-File Management in @@name creates a sustainable and consistent way of working with information across the company.
-
-**Clear structure**  
-Documents and images are logically organized, including through a familiar and intuitive folder structure.
-
-**Higher efficiency**  
-Files are viewed and used directly through the web interface, without switching between applications.
-
-**Reliability and traceability**  
-Files are always linked to the correct business context, and the system automatically maintains these relationships.
-
-**Better coordination**  
-Different teams work with the same up-to-date information — in the office or on site.
-
-**Intuitive user experience**  
-The interface follows established best practices and allows fast adoption without training.
-
----
-
-## Why integrated file management matters
-
-At some point, every business reaches a clear but important conclusion:
-
-**documents do not exist on their own.**
-
-They are part of deals, projects, deliveries, inspections, analyses, and management decisions.
-
-That is why it makes perfect sense for files to “live” where the business itself is managed.
-
-File Management in @@name places documents in this context.
-
-Files are not stored across separate servers, shared drives, or personal devices. Instead, they are logically connected within the system to customers, products, projects, deliveries, controls, and reports — directly within the business context.
-
-This naturally changes the way people work:
-
-- information is found where decisions are made  
-- teams work with the same, up-to-date documents  
-- relationships between files and business objects are maintained automatically  
-- context is preserved over time, people, and organizational changes  
-
-As a result, documents stop being “attachments” and become an active part of managing processes, resources, and responsibilities.
-
-This is what makes File Management in @@name such a natural extension of the entire system — because businesses are managed best when all information is in one place and speaks the same language.
+In practice, this reduces the *“where is it?”* loop and makes documentation usable over time — even when teams change.
 
 ---
 **[Learn about this feature in Desktop client](./desktop-file-manager.md)**
@@ -168,11 +118,10 @@ This is what makes File Management in @@name such a natural extension of the ent
 ---
 ## Try File Management in @@name
 
-See how integrated document management can become a natural part of your daily work.
+See how integrated document management becomes a natural part of everyday work.
 
 **[File Management in @@name — Try without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**
 
 **[Access credentials — use them to log in](https://info.erp.net/information/try-our-system.html)**
-
 
 
