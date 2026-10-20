@@ -56,7 +56,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 
 |**FEATURE**|**Basic**|**Pro**|**Premium**|**Max**|
 |:----|:----|:----|:----|:----|
-|Licensing model|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/licensing/registered-user-based-licensing.md)**|
+|Licensing model|**[Active user](~/information/Pricing/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/Pricing/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/Pricing/licensing/registered-user-based-licensing.md)**|**[Active user](~/information/Pricing/licensing/registered-user-based-licensing.md)**|
 |Min users|5|5|5|5|
 |Max users|100|100|100|100|
 |**BUSINESS FUNCTIONS**| | | | |
