@@ -7,7 +7,7 @@
 - name: Contact and Task Management
   href: contacts-and-tasks.md
 - name: Calendar
-  href: calendar.md
+  href: Calendar.md
 - name: Distribution
   href: distribution.md
 - name: End Customer
@@ -34,3 +34,4 @@
   href: merchandising.md 
 - name: Unified Communications
   href: unified-communications.md
+

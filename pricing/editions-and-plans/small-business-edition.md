@@ -50,7 +50,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 
 |**FEATURE**|**Basic**|**Pro**|**Premium**|**Max**|
 |:----|:----|:----|:----|:----|
-|Licensing model|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/information/licensing/concurrent-sessions-based-licensing.md)**|
+|Licensing model|**[Simultaneously Running Sessions](~/pricing/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/pricing/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/pricing/licensing/concurrent-sessions-based-licensing.md)**|**[Simultaneously Running Sessions](~/pricing/licensing/concurrent-sessions-based-licensing.md)**|
 |Min users|3|3|5|5|
 |Max users|35|35|35|35|
 |**BUSINESS FUNCTIONS**| | | | |
@@ -87,7 +87,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Barcode Controlling](~/features/logistics/barcode-control.md)** (desktop only)| |✔|✔|✔|
 |**[Price Lists Management](~/features/crm/pricing.md)** (desktop only)| | |✔|✔|
 |**[Advanced Logistics](~/features/logistics/index.md)** - Suggest replenish + Distribution Requirements Planning (DRP)| | |✔|✔|
-|Advanced Production - **[CRP](~/features/production/mrp.md)**, **[MRP](~/features/production/crp.md)**| | |✔|✔|
+|Advanced Production - **[CRP](~/features/production/crp.md)**, **[MRP](~/features/production/mrp.md)**| | |✔|✔|
 |**[Warehouse Management (Beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
 |**ERP - FINANCE & COMPLIANCE**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
@@ -105,14 +105,14 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Advanced BPM| | |✔|✔|
 |Printouts Designer (desktop only)|✔|✔|✔|✔|
 |**AI CAPABILITIES**|**Basic**|**Pro**|**Premium**|**Max**|
-|AI Data Analysis| | |✔|✔|
-|AI Assistant (Beta)| | |✔|✔|
-|AI Chat Arbiter| | |✔|✔|
-|AI Personalization (Fine-tuning)| | | |✔|
-|AI Workflow (AI Fields & Business Rules)| | | |✔|
+|Operator.net Chat & Data Analysis|✔|✔|✔|✔|
+|Operator.net App Builder|✔|✔|✔|✔|
+|Operator.net AI Agent Builder|✔|✔|✔|✔|
+|Operator.net Digital Entities|✔|✔|✔|✔|
+|AI Workflows (AI Fields & Business Rules)| | | |✔|
 |**AVAILABLE WEBSITES**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client|✔|✔|✔|✔|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|(optional)|(optional)|(optional)|(optional)|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**|✔|✔|✔|✔|
 |Video Conferencing| |(optional)|(optional)|(optional)|
 |Microsoft 365 Sync| |(optional)|(optional)|(optional)|
 |**[Client Center](~/features/crm/client-center.md)** (B2B Portal)| |(optional)|(optional)|(optional)|
@@ -120,7 +120,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Inventory Control](~/features/logistics/inventory-control.md)**| |(optional)|(optional)|(optional)|
 |Revenue Service Portals| |(optional)|(optional)|(optional)|
 |**[WMS Worker](~/features/logistics/wms-worker.md)**| | |(optional)|(optional)|
-|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|2|3|4|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|2|2|3|4|
 |Extendable number of websites|✔|✔|✔|✔|
 |**TECHNICAL OPTIONS**|**Basic**|**Pro**|**Premium**|**Max**|
 |Web Client Included|✔|✔|✔|✔|
@@ -138,8 +138,8 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**PRICE**|**Basic**|**Pro**|**Premium**|**Max**|
 |Price per month|€38.77/session|€52.14/session|€65.51/session|€78.88/session|
 |Price per month (annual payment)|€34.12/session|€45.88/session|€57.65/session|€69.41/session|
-|**New clients: -15% (annual payment)**|**€29/user**|**€39/user**|**€49/user**|**€59/user**|
-|Free Trial|2 months|2 months|2 months|2 months|
+|**First-Year Discounts: -15%**|**€29/user**|**€39/user**|**€49/user**|**€59/user**|
+|Free AI Credits for Operator.net|100|100|100|100|
 
 # Get @@name for your organization
 
@@ -149,4 +149,4 @@ In case you need help with deciding the best edition and plan for your company, 
 
 We will contact you back to help you with the best possible plans and options for your business.  
 
-> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
+> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**
