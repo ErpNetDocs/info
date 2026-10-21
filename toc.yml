@@ -6,7 +6,7 @@ items:
 - name: Information
   href: information/toc.yml
 - name: Pricing
-  href: Pricing/toc.yml
+  href: pricing/toc.yml
 - name: Legal
   href: legal/toc.yml
 - name: Partnership

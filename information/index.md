@@ -37,7 +37,7 @@ Try it now in your browser by following these simple instructions:
 
 Explore the following section to learn more about the editions of @@name, the available subscription plans for each of them, and the included functionality and benefits provided by a specific edition and plan:  
 
-> **[Editions and Plans](~/Pricing/editions-and-plans/index.md)**  
+> **[Editions and Plans](~/pricing/editions-and-plans/index.md)**  
 
 ## Create and Use Your @@name ID Account
 
@@ -53,6 +53,6 @@ Learn more about it and follow our guide to create your **@@name ID** account an
 
 Explore more topics to learn more about the technical, licensing, and other aspects of the @@name platform:  
 
-* **[Licensing Models](~/Pricing/licensing/index.md)** - Explains the ways @@name platform and its related components are licensed for use. 
+* **[Licensing Models](~/pricing/licensing/index.md)** - Explains the ways @@name platform and its related components are licensed for use. 
 * **[System Information](~/information/system-information/index.md)** - Provides more information on the technical aspects of the @@name platform. 
 * **[Frequently Asked Questions](~/information/faq/index.md)** - Get to know the answers to more questions you may have in general.  
