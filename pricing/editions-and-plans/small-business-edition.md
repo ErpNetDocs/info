@@ -87,7 +87,7 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Barcode Controlling](~/features/logistics/barcode-control.md)** (desktop only)| |✔|✔|✔|
 |**[Price Lists Management](~/features/crm/pricing.md)** (desktop only)| | |✔|✔|
 |**[Advanced Logistics](~/features/logistics/index.md)** - Suggest replenish + Distribution Requirements Planning (DRP)| | |✔|✔|
-|Advanced Production - **[CRP](~/features/production/mrp.md)**, **[MRP](~/features/production/crp.md)**| | |✔|✔|
+|Advanced Production - **[CRP](~/features/production/crp.md)**, **[MRP](~/features/production/mrp.md)**| | |✔|✔|
 |**[Warehouse Management (Beta)](~/features/logistics/warehouse-management.md)**| | |(optional)|✔|
 |**ERP - FINANCE & COMPLIANCE**|**Basic**|**Pro**|**Premium**|**Max**|
 |**[Invoicing](~/features/crm/invoicing.md)**|✔|✔|✔|✔|
