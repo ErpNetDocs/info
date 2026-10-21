@@ -9,9 +9,6 @@
 - name: Create Your ERP.net ID Account
   href: erp-net-id/toc.yml
   topicHref: erp-net-id/index.md
-- name: Pricing
-  href: Pricing/toc.yml
-  topicHref: Pricing/index.md
 - name: System Information
   href: system-information/toc.yml
   topicHref: system-information/index.md

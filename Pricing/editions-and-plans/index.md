@@ -58,7 +58,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |CRM Functionality|✔|✔|✔|
 |Business app suite|✔|✔|✔|
 |ERP Functionality| |✔|✔|
-|Licensing Model|**[Registered Users](~/information/Pricing/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Sessions](~/information/Pricing/licensing/concurrent-sessions-based-licensing.md)**|**[Processing Capacity Unit](~/information/Pricing/licensing/core-licensing.md)**|
+|Licensing Model|**[Registered Users](~/Pricing/licensing/registered-user-based-licensing.md)**|**[Simultaneously Active Sessions](~/Pricing/licensing/concurrent-sessions-based-licensing.md)**|**[Processing Capacity Unit](~/Pricing/licensing/core-licensing.md)**|
 |Description|License grants a number of registered users in your system|License grants a number of simultaneously running sessions, not depending on specific users|License grants an amount of processing capacity (computational power of your system instance)|
 |Plans|Team Collaboration, CRM, Pro|Basic Service, Basic Logistics, Advanced, Max|Standard, Premium, Corporate|
 |**Hosting**|**[ERP.net Express](express-edition.md)**|**[ERP.net Small Business](small-business-edition.md)**|**[ERP.net Enterprise](enterprise-edition.md)**|

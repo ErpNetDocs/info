@@ -26,7 +26,7 @@ Each license provides **a slot** for an integrated website and **does not limit*
 
 To learn more about the licensing of integrated websites and how it works, head to our dedicated topic:  
 
-> **[Integrated Website Licensing](~/information/Pricing/licensing/integrated-websites-licensing.md)**  
+> **[Integrated Website Licensing](~/Pricing/licensing/integrated-websites-licensing.md)**  
 
 ### Website License Usage Example
 

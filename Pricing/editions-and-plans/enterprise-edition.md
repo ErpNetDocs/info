@@ -43,7 +43,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 
 |**FEATURE**|**Standard**|**Premium**|**Corporate**|
 |:----|:----|:----|:----|
-|Licensing model|**[Processing Capacity Unit](~/information/Pricing/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/Pricing/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/information/Pricing/licensing/core-licensing.md)**|
+|Licensing model|**[Processing Capacity Unit](~/Pricing/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/Pricing/licensing/core-licensing.md)**|**[Processing Capacity Unit](~/Pricing/licensing/core-licensing.md)**|
 |Min users|30|120|120|
 |Max users|90|360|Unlimited (depending on the purchased capacity)|
 |Maximum short-burst user limit|135|540|Depending on the purchased capacity|
