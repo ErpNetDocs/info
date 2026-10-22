@@ -51,7 +51,7 @@ This section contains general information about the platform, hosting, licensing
 Here you will find legal details and topics about the @@name platform.
 
 * [Platform Terms of Use](~/legal/platform-terms-of-use.md) - the terms and conditions for using the @@name platform.
-* [General Terms and Conditions for ERP.net Implementation Services](~/legal/implementation-services-gtc.md) - the terms and conditions for implementation services for the @@name platform.
+* [General Terms and Conditions for ERP.net Implementation Services](~/legal/implementation-services-gtc.md) - the terms and conditions for @@name implementation services.
 * [Privacy Statement](~/legal/privacy.md) - our privacy statement regarding who we are and how we process your data.
 * [Educational License](~/legal/educational-license.md) - opportunities for utilizing @@name for educational purposes.
 
