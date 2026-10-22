@@ -33,12 +33,6 @@ Try it now in your browser by following these simple instructions:
 
 > **[Full-Scale ERP Platform ERP.net - Try Live Now](~/information/try-our-system.md)**  
 
-## @@name Editions and Subscription Plans
-
-Explore the following section to learn more about the editions of @@name, the available subscription plans for each of them, and the included functionality and benefits provided by a specific edition and plan:  
-
-> **[Editions and Plans](~/pricing/editions-and-plans/index.md)**  
-
 ## Create and Use Your @@name ID Account
 
 **@@name ID** empowers users to create and utilize the same single, unified account throughout the whole **@@name ecosystem** and **[Operator.net](https://operator.net/)** - its AI platform for building custom AI agents and tailored apps.  
@@ -51,8 +45,8 @@ Learn more about it and follow our guide to create your **@@name ID** account an
 
 ## More Information
 
-Explore more topics to learn more about the technical, licensing, and other aspects of the @@name platform:  
+Explore more topics to learn about the technical and other aspects of the @@name platform:
 
-* **[Licensing Models](~/pricing/licensing/index.md)** - Explains the ways @@name platform and its related components are licensed for use. 
 * **[System Information](~/information/system-information/index.md)** - Provides more information on the technical aspects of the @@name platform. 
 * **[Frequently Asked Questions](~/information/faq/index.md)** - Get to know the answers to more questions you may have in general.  
+* **[Logos and Banners](~/information/logos/index.md)** - Find official @@name visual assets and guidance for their use.
