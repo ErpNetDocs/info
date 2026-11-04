@@ -94,7 +94,7 @@ This can help administrators, support teams, and service owners identify your ac
 After you confirm your email address, your **@@name ID account** becomes active and ready to use.
 > [!IMPORTANT]  
 > The "Email Confirmation" letter is the final step, before the system lets you in.
-> The letter contains a confirmation link that is valid for 24h. If you miss this period, you will have to use button "Account recovery" for a new email confirmation letter.
+> The letter contains a **confirmation link valid for 24h**. If you miss this period, you will have to use button "Account recovery" for a new email confirmation letter.
 
 <img width="503" height="388" alt="image" src="https://github.com/user-attachments/assets/043c7f60-3687-46ec-a97d-f2813fc3d1b2" />
 <br>
