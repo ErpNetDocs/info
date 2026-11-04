@@ -31,13 +31,16 @@ The registration exists but is not yet complete. The system is awaiting your ema
 
 1. On the sign-in page, select **Account recovery** button.
 2. Enter the same email address you used during registration and submit the request.
+<br>
+<img width="1303" height="559" alt="image" src="https://github.com/user-attachments/assets/17f46d56-4cf3-40f5-a0f3-47aaa22821e3" />
+<br>
 3. Check your inbox for the email-confirmation email.
-
-<img width="1328" height="568" alt="image" src="https://github.com/user-attachments/assets/9b0e41be-1ba3-4e94-94b4-6e8cb7035b95" />
+<br>
 
 > [!IMPORTANT]  
-> The same steps apply to any other instance, not only to id.erp.net, when the user has had his e-mail address changed, by an administrator and the latter has not sent a "Confirm Email" invitation through the dedicated function. In this case the new e-mail address in the user's account becomes IsConfirmed = False, so he will have to request an "Email Confirmation" letter by himself.
-> If the administrator has used "Confirm Email" function, the user will receive an "Email Confirmation" letter that has no expiration. But still the risk of losing the letter remains.
+> The same steps apply to any other instance, not only to id.erp.net, when the user has had his e-mail address changed, by an administrator. In this case the new e-mail address in the user's account becomes IsConfirmed = False.<br>
+> - If the administrator has not sent a "Confirm Email" invitation through the dedicated function, the user will have to request an "Email Confirmation" letter by himself (token expires in 24h).<br>
+> - If the administrator has used "Confirm Email" function, the user will receive an "Email Confirmation" letter that has no expiration. But still the risk of losing the letter remains.
 
 ### If no new email arrives
 
