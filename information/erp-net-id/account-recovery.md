@@ -4,7 +4,7 @@ Use this guide if you cannot complete your ERP.net ID registration, sign in to O
 
 The main entry point for this process is the **Account recovery** button on the login screen.
 
-The system automatically identifies the current status of your account and sends the appropriate email with a recovery link, depending on whether you need to complete your registration, confirm an email address change, or reset your password.
+The system automatically identifies the current status of your account and sends the appropriate email with a recovery link, depending on whether you need to complete your registration by confirming the email address or reset your password.
 
 ## You registered but did not confirm your email address (your registration)
 
