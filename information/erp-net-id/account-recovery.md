@@ -34,15 +34,38 @@ The registration exists but is not yet complete. The system is awaiting your ema
 <br>
 <img width="1303" height="559" alt="image" src="https://github.com/user-attachments/assets/17f46d56-4cf3-40f5-a0f3-47aaa22821e3" />
 <br>
+
 3. Check your inbox for the email-confirmation email.
 <br>
 
 > [!IMPORTANT]  
-> The same steps apply to any other instance, not only to id.erp.net, when the user has had his e-mail address changed, by an administrator. In this case the new e-mail address in the user's account becomes IsConfirmed = False.<br>
-> - If the administrator has not sent a "Confirm Email" invitation through the dedicated function, the user will have to request an "Email Confirmation" letter by himself (token expires in 24h).<br>
-> - If the administrator has used "Confirm Email" function, the user will receive an "Email Confirmation" letter that has no expiration. But still the risk of losing the letter remains.
+> If the user has had his e-mail address changed, by an administrator, the new e-mail address in the user's account becomes IsConfirmed = False.<br>
+> - The administrator has to send a "Confirm Email" invitation through the dedicated function - an "Email Confirmation" letter comes and expires in 24h.<br>
+> - The user can still refer to "Account recovery" button for password reset, but will miss any letters if e-mail address remains unconfirmed.
 
-### If no new email arrives
+## You forgot your password or want to change it
+
+The system knows that your account is complete. In case you need to change or reset your password, the steps described above are applicable. The letter that you will receive is different - it focuses your password.
+
+1. On the sign-in page, select **Account recovery** button.
+2. Enter the same email address you used during registration and submit the request.
+3. Open your inbox and find the letter "Reset your password for id.erp.net"
+<br>
+<img width="525" height="366" alt="image" src="https://github.com/user-attachments/assets/310fb1ca-792b-4432-a078-b8ac487239b0" />
+<br>
+
+> [!IMPORTANT]  
+> The Reset password link is valid for 1 hour. You can still request another link at any time.<br>
+> The same steps apply to any other instance.
+
+## Multiple requests
+
+The following rate limits apply to email sending (these limits were already in place and are not newly introduced):
+
+- **Account recovery/invitation** – 3 emails **per user per hour**; 20 emails per IP address per hour.
+- **Email confirmation resend** – 2 emails per user per minute; 20 emails per IP address per hour.
+
+## If no new email arrives
 
 - Check your spam or junk folder.
 - Make sure you entered the address used during registration.
