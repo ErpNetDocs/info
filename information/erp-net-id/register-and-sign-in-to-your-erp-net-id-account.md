@@ -40,6 +40,9 @@ Your email address is what each **@@name** service uses to recognize your **@@na
 4. The system redirects you to the **@@name Identity**.
 5. On the sign-in form, select **Create new account**.
 
+<img width="390" height="405" alt="image" src="https://github.com/user-attachments/assets/17fc9c79-6c0e-4b74-b6fa-0678521ab71b" />
+<br>
+
 The **@@name ID** account creation form opens. 
 The form contains two tabs:
 
@@ -89,6 +92,12 @@ This can help administrators, support teams, and service owners identify your ac
 4. Select the **confirmation button or link** in the message.
 
 After you confirm your email address, your **@@name ID account** becomes active and ready to use.
+> [!IMPORTANT]  
+> The "Email Confirmation" letter is the final step, before the system lets you in.
+> The letter contains a confirmation link that is valid for 24h. If you miss this period, you will have to use button "Account recovery" for a new email confirmation letter.
+
+<img width="503" height="388" alt="image" src="https://github.com/user-attachments/assets/043c7f60-3687-46ec-a97d-f2813fc3d1b2" />
+<br>
 
 ## Sign In and Start Using **@@name ID**
 
