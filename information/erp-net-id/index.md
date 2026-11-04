@@ -94,6 +94,7 @@ It is especially useful when you work across multiple **@@name** entry points.
 
 * **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
 * **[Following Best Practices for Your @@name ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
+* **[Troubleshooting and Account recovery]((~/information/erp-net-id/account-recovery.md)**
 
 ### Related Services:
 
