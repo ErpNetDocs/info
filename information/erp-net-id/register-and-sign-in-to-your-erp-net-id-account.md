@@ -88,13 +88,16 @@ This can help administrators, support teams, and service owners identify your ac
 
 1. After filling-in the account registration form, select the button **Create Account**.
 2. The system sends a confirmation email to the **email address you entered**.
+<br>
+<img width="413" height="374" alt="image" src="https://github.com/user-attachments/assets/c35c77ab-57cd-4f3d-9166-e2e8bebf609a" />
+<br>
 3. Go to your email inbox and open the **confirmation email**.
 4. Select the **confirmation button or link** in the message.
 
 After you confirm your email address, your **@@name ID account** becomes active and ready to use.
 > [!IMPORTANT]  
 > The "Email Confirmation" letter is the final step, before the system lets you in.
-> The letter contains a **confirmation link valid for 24h**. If you miss this period, you will have to use button "Account recovery" for a new email confirmation letter.
+> The letter contains a **confirmation link valid for 24h**. If you miss this period, you will have to use button ["Account recovery"](./account-recovery.md) for a new email confirmation letter.
 
 <img width="503" height="388" alt="image" src="https://github.com/user-attachments/assets/043c7f60-3687-46ec-a97d-f2813fc3d1b2" />
 <br>
