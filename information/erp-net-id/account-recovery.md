@@ -6,6 +6,9 @@ The main entry point for this process is the **Account recovery** button on the 
 
 The system automatically identifies the current status of your account and sends the appropriate email with a recovery link, depending on whether you need to complete your registration by confirming the email address or reset your password.
 
+> [!NOTE]
+> There are five User Types that conduct the interaction with the platform. A newly registered user is normally of type Invitation user (Invitation internal/Invitation external (No Login)), so the system needs to verify and then [change the type](https://docs.erp.net/tech/modules/system/security/ui-functions/change-user-type.html) to Internal user or External (community) user.
+
 ## You registered but did not confirm your email address (your registration)
 
 When you create an ERP.net ID account (through Operator.net for example), the system sends a confirmation email to the address you entered during registration. Submitting the registration form alone does not complete this process. The e-mail's subject is "Email Confirmation", sender is "notification@erpnet.info".
