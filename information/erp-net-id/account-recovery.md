@@ -9,7 +9,7 @@ The system automatically identifies the current status of your account and sends
 ## You registered but did not confirm your email address (your registration)
 
 When you create an ERP.net ID account (through Operator.net for example), the system sends a confirmation email to the address you entered during registration. Submitting the registration form alone does not complete this process. The e-mail's subject is "Email Confirmation", sender is "notification@erpnet.info".
-
+<br>
 <img width="503" height="388" alt="image" src="https://github.com/user-attachments/assets/113ea279-c364-4ee1-898f-6e42f4d81184" />
 <br>
 
@@ -34,7 +34,6 @@ The registration exists but is not yet complete. The system is awaiting your ema
 <br>
 <img width="1303" height="559" alt="image" src="https://github.com/user-attachments/assets/17f46d56-4cf3-40f5-a0f3-47aaa22821e3" />
 <br>
-
 3. Check your inbox for the email-confirmation email.
 <br>
 
