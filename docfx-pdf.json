@@ -8,7 +8,7 @@
     ],
     "resource": [
       {
-        "files": [ "images/**", "**.svg", "**.png", "favicon.ico" ],
+        "files": [ "images/**", "**.svg", "**.png", "information/logos/*.jpg", "favicon.ico" ],
         "exclude": [ "docs/**/*.*" ]
       }
     ],
