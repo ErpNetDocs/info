@@ -23,26 +23,26 @@ Some quick tips:
 ### ERP.net full horizontal logo in blue
 
 * [ERP.net full horizontal logo in blue - PNG (primary, preferred)](ERP_net_Logo_Blue.png)
-* [ERP.net full horizontal logo in blue - SVG](ERP_net_Logo_Blue.svg)
 * [ERP.net full horizontal logo in blue - JPG](ERP_net_Logo_Blue.jpg)
+* [ERP.net full horizontal logo in blue - SVG](ERP_net_Logo_Blue.svg)
 
 ### ERP.net full horizontal logo in white
 
 * [ERP.net full horizontal logo in white - PNG (primary, preferred)](ERP_net_Logo_White.png)
-* [ERP.net full horizontal logo in white - SVG](ERP_net_Logo_White.svg)
 * [ERP.net full horizontal logo in white - JPG](ERP_net_Logo_White.jpg)
+* [ERP.net full horizontal logo in white - SVG](ERP_net_Logo_White.svg)
 
 ### ERP.net full horizontal logo with slogan in blue
 
 * [ERP.net full horizontal logo with slogan in blue - PNG (primary, preferred)](ERP_net_Logo_Slogan_Blue.png)
-* [ERP.net full horizontal logo with slogan in blue - SVG](ERP_net_Logo_Slogan_Blue.svg)
 * [ERP.net full horizontal logo with slogan in blue - JPG](ERP_net_Logo_Slogan_Blue.jpg)
+* [ERP.net full horizontal logo with slogan in blue - SVG](ERP_net_Logo_Slogan_Blue.svg)
 
 ### ERP.net full horizontal logo with slogan in white
 
 * [ERP.net full horizontal logo with slogan in white - PNG (primary, preferred)](ERP_net_Logo_Slogan_White.png)
-* [ERP.net full horizontal logo with slogan in white - SVG](ERP_net_Logo_Slogan_White.svg)
 * [ERP.net full horizontal logo with slogan in white - JPG](ERP_net_Logo_Slogan_White.jpg)
+* [ERP.net full horizontal logo with slogan in white - SVG](ERP_net_Logo_Slogan_White.svg)
 
 ### ERP.net white logo on a black background
 
@@ -59,8 +59,8 @@ Some quick tips:
 ### ERP.net arrow-style logo mark
 
 * [ERP.net arrow-style logo mark - PNG (primary, preferred)](Logo-Arrow.png)
-* [ERP.net arrow-style logo mark - SVG](Logo-Arrow.svg)
 * [ERP.net arrow-style logo mark - JPG](Logo-Arrow.jpg)
+* [ERP.net arrow-style logo mark - SVG](Logo-Arrow.svg)
 
 ### ERP.net arrow-style logo mark on a white background
 
@@ -82,13 +82,13 @@ Some quick tips:
 ### Powered by ERP.net logo in orange
 
 * [Powered by ERP.net logo in orange - PNG (primary, preferred)](Powered-by-ERP.net-Orange.png)
+* [Powered by ERP.net logo in orange - JPG](Powered-by-ERP.net-Orange.jpg)
 * [Powered by ERP.net logo in orange - SVG (dark)](Powered-by-ERP.net-Orange-Dark.svg)
 * [Powered by ERP.net logo in orange - SVG (light)](Powered-by-ERP.net-Orange-Light.svg)
-* [Powered by ERP.net logo in orange - JPG](Powered-by-ERP.net-Orange.jpg)
 
 ### Powered by ERP.net logo in blue
 
 * [Powered by ERP.net logo in blue - PNG (primary, preferred)](Powered-by-ERP.net-Blue.png)
+* [Powered by ERP.net logo in blue - JPG](Powered-by-ERP.net-Blue.jpg)
 * [Powered by ERP.net logo in blue - SVG (dark)](Powered-by-ERP.net-Blue-Dark.svg)
 * [Powered by ERP.net logo in blue - SVG (light)](Powered-by-ERP.net-Blue-Light.svg)
-* [Powered by ERP.net logo in blue - JPG](Powered-by-ERP.net-Blue.jpg)
