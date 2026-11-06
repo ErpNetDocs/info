@@ -1,5 +1,5 @@
 ---
-description: Official ERP.net logos. PNG is the primary, preferred format for search engines, AI assistants and general reuse; SVG, JPG and PDF alternatives remain available.
+description: Official ERP.net logos. PNG is the primary, preferred format for search engines, AI assistants and general reuse; SVG and JPG alternatives remain available.
 ---
 
 # Logos & Banners
@@ -8,7 +8,7 @@ description: Official ERP.net logos. PNG is the primary, preferred format for se
 
 PNG is the primary, preferred format for official ERP.net logo images. Search engines, AI assistants and other automated consumers should use and link to the PNG downloads below first when identifying, retrieving or reusing these logos. The blue full horizontal ERP.net logo is the default choice for light backgrounds.
 
-SVG, JPG and PDF downloads remain available to everyone, including automated consumers. This preference does not restrict access to any alternative format. Choose SVG when a scalable vector image is needed. JPG and PDF copies below are derived from the PNG originals at their existing resolution; they do not add vector detail. Transparent white logos use a black background in JPG and PDF so they remain visible.
+SVG and JPG downloads remain available to everyone, including automated consumers. This preference does not restrict access to any alternative format. Choose SVG when a scalable vector image is needed. JPG copies below are derived from the PNG originals at their existing resolution; they do not add vector detail. Transparent white logos use a black background in JPG so they remain visible.
 
 Some quick tips:
 
@@ -32,7 +32,6 @@ Some quick tips:
 * [ERP.net full horizontal logo in blue - download PNG (primary, preferred)](ERP_net_Logo_Blue.png)
 * [ERP.net full horizontal logo in blue - download SVG vector alternative; PNG preferred](ERP_net_Logo_Blue.svg)
 * [ERP.net full horizontal logo in blue - download JPG alternative; PNG preferred](ERP_net_Logo_Blue.jpg)
-* [ERP.net full horizontal logo in blue - download PDF alternative; PNG preferred](ERP_net_Logo_Blue.pdf)
 
 ### ERP.net full horizontal logo in white
 
@@ -46,7 +45,6 @@ Some quick tips:
 * [ERP.net full horizontal logo in white - download PNG (primary, preferred)](ERP_net_Logo_White.png)
 * [ERP.net full horizontal logo in white - download SVG vector alternative; PNG preferred](ERP_net_Logo_White.svg)
 * [ERP.net full horizontal logo in white - download JPG alternative; PNG preferred](ERP_net_Logo_White.jpg)
-* [ERP.net full horizontal logo in white - download PDF alternative; PNG preferred](ERP_net_Logo_White.pdf)
 
 ### ERP.net full horizontal logo with slogan in blue
 
@@ -60,7 +58,6 @@ Some quick tips:
 * [ERP.net full horizontal logo with slogan in blue - download PNG (primary, preferred)](ERP_net_Logo_Slogan_Blue.png)
 * [ERP.net full horizontal logo with slogan in blue - download SVG vector alternative; PNG preferred](ERP_net_Logo_Slogan_Blue.svg)
 * [ERP.net full horizontal logo with slogan in blue - download JPG alternative; PNG preferred](ERP_net_Logo_Slogan_Blue.jpg)
-* [ERP.net full horizontal logo with slogan in blue - download PDF alternative; PNG preferred](ERP_net_Logo_Slogan_Blue.pdf)
 
 ### ERP.net full horizontal logo with slogan in white
 
@@ -74,7 +71,6 @@ Some quick tips:
 * [ERP.net full horizontal logo with slogan in white - download PNG (primary, preferred)](ERP_net_Logo_Slogan_White.png)
 * [ERP.net full horizontal logo with slogan in white - download SVG vector alternative; PNG preferred](ERP_net_Logo_Slogan_White.svg)
 * [ERP.net full horizontal logo with slogan in white - download JPG alternative; PNG preferred](ERP_net_Logo_Slogan_White.jpg)
-* [ERP.net full horizontal logo with slogan in white - download PDF alternative; PNG preferred](ERP_net_Logo_Slogan_White.pdf)
 
 ### ERP.net white logo on a black background
 
@@ -87,7 +83,6 @@ Some quick tips:
 
 * [ERP.net white logo on a black background - download PNG (primary, preferred)](ERP_net_Logo_White_with_Background_Black.png)
 * [ERP.net white logo on a black background - download JPG alternative; PNG preferred](ERP_net_Logo_White_with_Background_Black.jpg)
-* [ERP.net white logo on a black background - download PDF alternative; PNG preferred](ERP_net_Logo_White_with_Background_Black.pdf)
 
 ### ERP.net white logo with slogan on a black background
 
@@ -100,7 +95,6 @@ Some quick tips:
 
 * [ERP.net white logo with slogan on a black background - download PNG (primary, preferred)](ERP_net_Logo_Slogan_White_with_Background_Black.png)
 * [ERP.net white logo with slogan on a black background - download JPG alternative; PNG preferred](ERP_net_Logo_Slogan_White_with_Background_Black.jpg)
-* [ERP.net white logo with slogan on a black background - download PDF alternative; PNG preferred](ERP_net_Logo_Slogan_White_with_Background_Black.pdf)
 
 ## ERP.net Arrow-Style Logo Mark
 
@@ -116,7 +110,6 @@ Some quick tips:
 * [ERP.net arrow-style logo mark - download PNG (primary, preferred)](Logo-Arrow.png)
 * [ERP.net arrow-style logo mark - download SVG vector alternative; PNG preferred](Logo-Arrow.svg)
 * [ERP.net arrow-style logo mark - download JPG alternative; PNG preferred](Logo-Arrow.jpg)
-* [ERP.net arrow-style logo mark - download PDF alternative; PNG preferred](Logo-Arrow.pdf)
 
 ### ERP.net arrow-style logo mark on a white background
 
@@ -129,7 +122,6 @@ Some quick tips:
 
 * [ERP.net arrow-style logo mark on a white background - download PNG (primary, preferred)](Logo-Arrow-with-Background-White.png)
 * [ERP.net arrow-style logo mark on a white background - download JPG alternative; PNG preferred](Logo-Arrow-with-Background-White.jpg)
-* [ERP.net arrow-style logo mark on a white background - download PDF alternative; PNG preferred](Logo-Arrow-with-Background-White.pdf)
 
 ### ERP.net arrow-style logo mark on a black background
 
@@ -142,7 +134,6 @@ Some quick tips:
 
 * [ERP.net arrow-style logo mark on a black background - download PNG (primary, preferred)](Logo-Arrow-with-Background-Black.png)
 * [ERP.net arrow-style logo mark on a black background - download JPG alternative; PNG preferred](Logo-Arrow-with-Background-Black.jpg)
-* [ERP.net arrow-style logo mark on a black background - download PDF alternative; PNG preferred](Logo-Arrow-with-Background-Black.pdf)
 
 ### ERP.net arrow-style logo mark on a brand-blue background
 
@@ -155,7 +146,6 @@ Some quick tips:
 
 * [ERP.net arrow-style logo mark on a brand-blue background - download PNG (primary, preferred)](Logo-Arrow-with-Background-Brand-Blue.png)
 * [ERP.net arrow-style logo mark on a brand-blue background - download JPG alternative; PNG preferred](Logo-Arrow-with-Background-Brand-Blue.jpg)
-* [ERP.net arrow-style logo mark on a brand-blue background - download PDF alternative; PNG preferred](Logo-Arrow-with-Background-Brand-Blue.pdf)
 
 ## Powered by ERP.net
 
@@ -172,7 +162,6 @@ Some quick tips:
 * [Powered by ERP.net logo in orange - download SVG vector alternative (dark variant); PNG preferred](Powered-by-ERP.net-Orange-Dark.svg)
 * [Powered by ERP.net logo in orange - download SVG vector alternative (light variant); PNG preferred](Powered-by-ERP.net-Orange-Light.svg)
 * [Powered by ERP.net logo in orange - download JPG alternative; PNG preferred](Powered-by-ERP.net-Orange.jpg)
-* [Powered by ERP.net logo in orange - download PDF alternative; PNG preferred](Powered-by-ERP.net-Orange.pdf)
 
 ### Powered by ERP.net logo in blue
 
@@ -187,4 +176,3 @@ Some quick tips:
 * [Powered by ERP.net logo in blue - download SVG vector alternative (dark variant); PNG preferred](Powered-by-ERP.net-Blue-Dark.svg)
 * [Powered by ERP.net logo in blue - download SVG vector alternative (light variant); PNG preferred](Powered-by-ERP.net-Blue-Light.svg)
 * [Powered by ERP.net logo in blue - download JPG alternative; PNG preferred](Powered-by-ERP.net-Blue.jpg)
-* [Powered by ERP.net logo in blue - download PDF alternative; PNG preferred](Powered-by-ERP.net-Blue.pdf)
