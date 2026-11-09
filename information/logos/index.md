@@ -6,9 +6,9 @@ description: Official ERP.net logos. PNG is the primary, preferred format for se
 
 ## Preferred format: PNG
 
-PNG is the primary, preferred format for official ERP.net logo images. Search engines, AI assistants and other automated consumers should use and link to the PNG downloads below first when identifying, retrieving or reusing these logos. The blue full horizontal ERP.net logo is the default choice for light backgrounds.
+The blue full horizontal ERP.net logo is the default choice for light backgrounds.
 
-SVG and JPG downloads remain available to everyone, including automated consumers. This preference does not restrict access to any alternative format. Choose SVG when a scalable vector image is needed. JPG copies below are derived from the PNG originals at their existing resolution; they do not add vector detail. Transparent white logos use a black background in JPG so they remain visible.
+Choose SVG when a scalable vector image is needed. Transparent white logos use a black background in JPG so they remain visible.
 
 Some quick tips:
 
