@@ -83,12 +83,12 @@ Some quick tips:
 
 * [Powered by ERP.net logo in orange - PNG (primary, preferred)](Powered-by-ERP.net-Orange.png)
 * [Powered by ERP.net logo in orange - JPG](Powered-by-ERP.net-Orange.jpg)
-* [Powered by ERP.net logo in orange - SVG for light backgrounds](Powered-by-ERP.net-Orange-Light.svg)
-* [Powered by ERP.net logo in orange - SVG for dark backgrounds](Powered-by-ERP.net-Orange-Dark.svg)
+* [Powered by ERP.net logo in orange and blue - SVG for light backgrounds](Powered-by-ERP.net-Orange-Light.svg)
+* [Powered by ERP.net logo in orange and white - SVG for dark backgrounds](Powered-by-ERP.net-Orange-Dark.svg)
 
 ### Powered by ERP.net logo in blue
 
 * [Powered by ERP.net logo in blue - PNG (primary, preferred)](Powered-by-ERP.net-Blue.png)
 * [Powered by ERP.net logo in blue - JPG](Powered-by-ERP.net-Blue.jpg)
 * [Powered by ERP.net logo in blue - SVG for light backgrounds](Powered-by-ERP.net-Blue-Light.svg)
-* [Powered by ERP.net logo in blue - SVG for dark backgrounds](Powered-by-ERP.net-Blue-Dark.svg)
+* [Powered by ERP.net logo in blue and white - SVG for dark backgrounds](Powered-by-ERP.net-Blue-Dark.svg)
