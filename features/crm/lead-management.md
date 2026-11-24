@@ -146,4 +146,4 @@ A successful sales process begins with understanding the people and businesses t
 
 Want to explore what **@@name** takes you through after qualifying your leads?  
 
-**Explore [CRM in @@name](https://info.erp.net/features/crm/index.html)** to discover how it drives forward your broader customer relationships and empowers your sales closing.  
+**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your sales closing.  
