@@ -25,6 +25,7 @@ There are many modules in the CRM subsystem.
 They are used to manage the different aspects of the CRM processes:
 
 * **[Contacts and tasks](contacts-and-tasks.md)** - calendar appointments, party definitions, etc.
+* **[Lead Management](lead-management.md)** - capturing initial interest, action-oriented qualification, and conversions to deals
 * **[Pre-sales](presales.md)** - Opportunities management, quotation, etc.
 * **[Sales](sales.md)** - Sales Orders, customers, etc.
 * **[Invoicing](invoicing.md)** - Invoicing process management, invoices and BI.
