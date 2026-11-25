@@ -131,7 +131,7 @@ During the event, your representatives meet potential customers with varying lev
 They immediately register these contacts as leads in **@@name** for your marketing campaign, recording their contact details, company information, and product interests. 
 
 > [!Tip]
-> Even more - your representatives can also streamline lead registration and data enrichment with the purpose-built AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
+> Even more - your representatives can also streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
 
 Using user-defined stages, the team can distinguish prospects awaiting initial contact from those requiring further discussions or needs assessment. 
 Each stage helps guide the responsible employee toward the appropriate next action.  
