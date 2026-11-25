@@ -95,7 +95,7 @@ Salespeople can be assigned directly or through **rule-based assignments**.
 
 For example, when an identified company already has a customer record in your **@@name platform**, configured rules can automatically determine the appropriate salesperson based on existing customer-handling responsibilities.  
 
-The system also notifies salespersons whenever they receive new assignments, helping responsible employees become aware of relevant changes.  
+The system is also able to notify salespersons when they receive new assignments, helping responsible employees become aware of relevant changes.  
 
 These capabilities support establishing clear accountability and organizing follow-ups around the people responsible for developing each prospect as the qualification progresses.  
 
@@ -129,7 +129,9 @@ Consider your company participating in an industry exhibition to introduce a new
 
 During the event, your representatives meet potential customers with varying levels of interest. 
 They immediately register these contacts as leads in **@@name** for your marketing campaign, recording their contact details, company information, and product interests. 
-Even more - doing it within a split second, in a predetermined AI-executed process with **[Operator.net](https://operator.net/)**.  
+
+> [!Tip]
+> Even more - your representatives can also streamline lead registration and data enrichment with the purpose-built AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
 
 Using user-defined stages, the team can distinguish prospects awaiting initial contact from those requiring further discussions or needs assessment. 
 Each stage helps guide the responsible employee toward the appropriate next action.  
@@ -142,7 +144,7 @@ Rather than treating every exhibition contact as an immediate deal, the company 
 
 A successful sales process begins with understanding the people and businesses that may eventually become customers.  
 
-**@@name Lead Management** gives your organization the tools to capture initial interest, develop it through an action-oriented qualification, and turn it into meaningful business opportunities, resulting in lasting customer relationships and loyalty.  
+**@@name Lead Management** gives your organization the tools to capture initial interest, develop it through an action-oriented qualification, and turn it into meaningful business opportunities, helping lay the foundation for lasting customer relationships and loyalty.  
 
 Want to explore what **@@name** takes you through after qualifying your leads?  
 
