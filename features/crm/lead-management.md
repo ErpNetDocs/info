@@ -24,7 +24,11 @@ flowchart LR
     D --> I["Invoice"]
     I --> P["Payment"]
 
-    style L fill:#DBEAFE,stroke:#2563EB,stroke-width:3px,color:#1E40AF
+    classDef selected fill:#1D4ED8,stroke:#1E40AF,stroke-width:3px,color:#FFFFFF,font-weight:bold
+    classDef unselected fill:#F1F5F9,stroke:#64748B,stroke-width:1px,color:#334155
+
+    class L selected
+    class O,Q,SO,D,I,P unselected
 ```
 
 *An illustrative lead-to-cash journey.*  
