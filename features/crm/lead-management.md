@@ -1,4 +1,4 @@
-# Lead Management in @@name
+# Lead Management in @@name2
 
 ## Why Lead Management Is There For You
 
