@@ -36,7 +36,7 @@ flowchart LR
 > [!Tip]  
 > Think of leads as preliminary records that collect information about potential customers, their contact details, their business characteristics, and their current level of interest in your products or services.  
 
-**Lead Management** in **@@name** provides a dedicated environment for gathering initial input, identifying people and companies, qualifying prospects, assigning responsibilities throughout your sales force, and preparing leads for further engagement through deals, quotation, and sales.  
+**Lead Management** in **@@name** provides a dedicated environment for gathering initial input, identifying people and companies, qualifying prospects, assigning responsibilities throughout your sales force, and preparing leads for further engagement through deals, quotations, and sales.  
 
 Unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
 As leads progress through qualification, @@name empowers your sales representatives to keep the later stages of the sales funnel focused on qualified business opportunities and build well-structured customer profiles for prospects when they are ready to do business with you.  
@@ -138,7 +138,7 @@ During the event, your representatives meet potential customers with varying lev
 They immediately register these contacts as leads in **@@name** for your marketing campaign, recording their contact details, company information, and product interests. 
 
 > [!Tip]  
-> What's more, your representatives can also streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
+> What's more, your representatives can streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
 
 Using user-defined stages, the team can distinguish prospects awaiting initial contact from those requiring further discussions or needs assessment. 
 Each stage helps guide the responsible employee toward the appropriate next action.  
