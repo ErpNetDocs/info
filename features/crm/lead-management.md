@@ -11,9 +11,9 @@ Before moving forward, businesses need to understand who the prospect is, what t
 
 **Lead Management in @@name** helps your marketing and sales teams organize this process in an action-oriented manner, turning initial interest into structured, qualified prospects that can progress toward real business opportunities. 
 
-## Overview: From Initial Interest to Business Opportunity
+## Overview
 
-Lead Management represents the beginning of a potential customer's commercial journey.  
+Lead Management represents the beginning of a potential customer's commercial journey.
 
 ```mermaid
 flowchart LR
@@ -25,13 +25,13 @@ flowchart LR
     I --> P["Payment"]
 
     classDef selected fill:#1D4ED8,stroke:#1E40AF,stroke-width:3px,color:#FFFFFF,font-weight:bold
-    classDef unselected fill:#F1F5F9,stroke:#64748B,stroke-width:1px,color:#334155
+    classDef unselected fill:#F1F5F9,stroke:#64748B,stroke-width:1px,color:#334155,font-weight:normal
 
     class L selected
     class O,Q,SO,D,I,P unselected
 ```
 
-*An illustrative lead-to-cash journey.*  
+*An illustrative lead-to-cash journey.*
 
 Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** represents a potential customer whose interest has not yet developed into a sufficiently qualified sales opportunity.  
 
