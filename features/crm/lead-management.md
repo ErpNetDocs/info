@@ -33,11 +33,12 @@ flowchart LR
 
 *An illustrative lead-to-cash journey.*
 
-Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** represents a potential customer whose interest has not yet developed into a sufficiently qualified sales opportunity.  
+Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** represents a potential customer whose interest has yet to be developed into a sufficiently qualified sales opportunity.  
 
-Lead Management provides a dedicated environment for gathering initial information, identifying people and companies, qualifying prospects, assigning responsibility, and preparing leads for further sales-driven engagement.  
+Lead Management provides a dedicated environment for gathering initial information, identifying people and companies, qualifying prospects, assigning responsibility, and preparing leads for further engagement through deals, quotation, and sales.  
 
-Unlike sales opportunities, leads can initially contain incomplete, unstructured, or preliminary information. 
+Leads are preliminary records that describe the potential customer, their contact, description, and their interest you are trying to capture.  
+And that is why, unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
 This allows teams to organize incoming interest without prematurely creating formal customer or sales records, keeping the environment for actual customers and deals clean and uncluttered.  
 
 ## Capture and Organize Potential Customers
