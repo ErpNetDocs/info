@@ -155,4 +155,4 @@ A successful sales process begins with understanding the people and businesses t
 
 Want to explore what **@@name** takes you through after qualifying your leads?  
 
-**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your teams close more sales.  
+**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your teams to close more sales.  
