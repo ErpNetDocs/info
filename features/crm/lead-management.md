@@ -31,7 +31,7 @@ flowchart LR
     class O,Q,SO,D,I,P unselected
 ```
 
-*Lead Management sets the beginning of a potential customer's commercial journey.*  
+*Lead Management marks the beginning of a potential customer's commercial journey.*  
 
 > [!Tip]  
 > Think of leads as preliminary records that collect information about potential customers, their contact details, their business characteristics, and their current level of interest in your products or services.  
@@ -66,7 +66,7 @@ The result is a practical distinction between **collecting initial interest** an
 
 ## Qualify Leads and Guide the Next Action
 
-Name and email addresses alone do not reveal viable sales opportunities.  
+Names and email addresses alone do not reveal viable sales opportunities.  
 
 That's why qualification helps businesses learn more about the prospects, determine which of them have genuine commercial potential, and find the appropriate next actions to develop this potential.  
 
@@ -125,12 +125,12 @@ From there, **@@name's CRM system** takes your team through the next stages of t
 Lead Management provides distinct benefits across marketing and sales:
 
 - **Marketing teams** can organize campaign-originating prospects, track qualification, and distinguish initial inquiries from more developed commercial interest. 
-- **Sales representatives** gain relevant prospect information, clearly assigned responsibility, the contact means for the lead, and guidance on the next appropriate action. 
-- **Sales managers** can follow through qualification progress, oversee responsibilities, and examine how incoming interest develops into sales opportunities. 
+- **Sales representatives** gain relevant prospect information, clearly assigned responsibility, the contact data for the lead, and guidance on the next appropriate action. 
+- **Sales managers** can track qualification progress, oversee responsibilities, and examine how incoming interest develops into sales opportunities. 
 
 Together, these capabilities help your organization apply consistent lead-handling practices, focus sales efforts on promising prospects, and keep early-stage qualification separate from your clean sales activity.  
 
-## Lead Management with a Practice Example
+## Lead Management with a Practical Example
 
 Consider your company participating in an industry exhibition to introduce a new product range.  
 
@@ -138,7 +138,7 @@ During the event, your representatives meet potential customers with varying lev
 They immediately register these contacts as leads in **@@name** for your marketing campaign, recording their contact details, company information, and product interests. 
 
 > [!Tip]  
-> Even more - your representatives can also streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
+> What's more, your representatives can also streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
 
 Using user-defined stages, the team can distinguish prospects awaiting initial contact from those requiring further discussions or needs assessment. 
 Each stage helps guide the responsible employee toward the appropriate next action.  
@@ -151,8 +151,8 @@ Rather than treating every exhibition contact as an immediate deal, the company 
 
 A successful sales process begins with understanding the people and businesses that may eventually become customers.  
 
-**@@name Lead Management** gives your organization the tools to capture initial interest, develop it through an action-oriented qualification, and turn it into meaningful business opportunities, helping lay the foundation for lasting customer relationships and loyalty.  
+**@@name Lead Management** gives your organization the tools to capture initial interest, develop it through action-oriented qualification, and turn it into meaningful business opportunities, helping lay the foundation for lasting customer relationships and loyalty.  
 
 Want to explore what **@@name** takes you through after qualifying your leads?  
 
-**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your sales closing.  
+**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your teams close more sales.  
