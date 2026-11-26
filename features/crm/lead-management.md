@@ -13,7 +13,7 @@ Before moving forward, businesses need to understand who the prospect is, what t
 
 ## Overview
 
-Lead Management represents the beginning of a potential customer's commercial journey.
+Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** represents a potential customer whose interest has yet to be developed into a sufficiently qualified sales opportunity.  
 
 ```mermaid
 flowchart LR
@@ -31,18 +31,17 @@ flowchart LR
     class O,Q,SO,D,I,P unselected
 ```
 
-*An illustrative lead-to-cash journey.*
+*Lead Management sets the beginning of a potential customer's commercial journey.*
 
-Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** represents a potential customer whose interest has yet to be developed into a sufficiently qualified sales opportunity.  
+> [!Tip]  
+> Think of leads as preliminary records that collect information about potential customers, their contact details, their business characteristics, and their current level of interest in your products or services.  
 
-Lead Management provides a dedicated environment for gathering initial information, identifying people and companies, qualifying prospects, assigning responsibility, and preparing leads for further engagement through deals, quotation, and sales.  
-
-Leads are preliminary records that describe the potential customer, their contact, description, and their interest you are trying to capture.  
+**Lead Management** in **@@name** provides a dedicated environment for gathering initial input, identifying people and companies, qualifying prospects, assigning responsibilities throughout your sales force, and preparing leads for further engagement through deals, quotation, and sales.  
 
 Unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
-As the leads progress and qualify for real deals, @@name empowers your sales representatives to cleanse the end stages of the sales funnel from ambient noise, and create customer profiles to prepare for those who are truly ready to do business with you.  
+As leads progress through qualification, @@name empowers your sales representatives to keep the later stages of the sales funnel focused on qualified business opportunities and establish customer profiles for prospects when they are ready to do business with you.  
 
-This separation between leads and customers enables your teams to organize incoming interest without prematurely creating formal customer or sales records, keeping the environment for actual customers and deals clean and uncluttered.  
+This separation between leads and customers enables your teams to capture and develop incoming interest without prematurely creating formal customer or sales records, keeping the environment for established customer relationships and sales opportunities clean and uncluttered.  
 
 ## Capture and Organize Potential Customers
 
@@ -138,7 +137,7 @@ Consider your company participating in an industry exhibition to introduce a new
 During the event, your representatives meet potential customers with varying levels of interest. 
 They immediately register these contacts as leads in **@@name** for your marketing campaign, recording their contact details, company information, and product interests. 
 
-> [!Tip]
+> [!Tip]  
 > Even more - your representatives can also streamline lead registration and data enrichment directly from the AI platform **[Operator.net](https://operator.net/)**, following a process you can easily tailor to your business - in natural language.
 
 Using user-defined stages, the team can distinguish prospects awaiting initial contact from those requiring further discussions or needs assessment. 
