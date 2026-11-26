@@ -38,8 +38,11 @@ Within **@@name**'s Customer Relationship Management (CRM) system, a **Lead** re
 Lead Management provides a dedicated environment for gathering initial information, identifying people and companies, qualifying prospects, assigning responsibility, and preparing leads for further engagement through deals, quotation, and sales.  
 
 Leads are preliminary records that describe the potential customer, their contact, description, and their interest you are trying to capture.  
-And that is why, unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
-This allows teams to organize incoming interest without prematurely creating formal customer or sales records, keeping the environment for actual customers and deals clean and uncluttered.  
+
+Unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
+As the leads progress and qualify for real deals, @@name empowers your sales representatives to cleanse the end stages of the sales funnel from ambient noise, and create customer profiles to prepare for those who are truly ready to do business with you.  
+
+This separation between leads and customers enables your teams to organize incoming interest without prematurely creating formal customer or sales records, keeping the environment for actual customers and deals clean and uncluttered.  
 
 ## Capture and Organize Potential Customers
 
