@@ -3,13 +3,13 @@
 ## Why Lead Management Is There For You
 
 Every new business relationship begins somewhere. 
-It might be an inquiry from a potential customer, a conversation at an exhibition, a response to a marketing campaign, or a referral from an existing partner.
+It might be an inquiry from a potential customer, a conversation at an exhibition, a response to a marketing campaign, or a referral from an existing partner.  
 
 These initial interactions represent potential business opportunities. 
 However, not every expression of interest is ready to become an actual sales deal. 
-Before moving forward, businesses need to understand who the prospect is, what they are interested in, and whether there is a genuine opportunity to pursue. 
+Before moving forward, businesses need to understand who the prospect is, what they are interested in, and whether there is a genuine opportunity to pursue.  
 
-**Lead Management in @@name** helps your marketing and sales teams organize this process in an action-oriented manner, turning initial interest into structured, qualified prospects that can progress toward real business opportunities. 
+**Lead Management in @@name** helps your marketing and sales teams organize this process in an action-oriented manner, turning initial interest into structured, qualified prospects that can progress toward real business opportunities.  
 
 ## Overview
 
@@ -31,7 +31,7 @@ flowchart LR
     class O,Q,SO,D,I,P unselected
 ```
 
-*Lead Management sets the beginning of a potential customer's commercial journey.*
+*Lead Management sets the beginning of a potential customer's commercial journey.*  
 
 > [!Tip]  
 > Think of leads as preliminary records that collect information about potential customers, their contact details, their business characteristics, and their current level of interest in your products or services.  
