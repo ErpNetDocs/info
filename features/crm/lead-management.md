@@ -39,7 +39,7 @@ flowchart LR
 **Lead Management** in **@@name** provides a dedicated environment for gathering initial input, identifying people and companies, qualifying prospects, assigning responsibilities throughout your sales force, and preparing leads for further engagement through deals, quotation, and sales.  
 
 Unlike sales opportunities, leads can contain incomplete, unstructured, or preliminary information. 
-As leads progress through qualification, @@name empowers your sales representatives to keep the later stages of the sales funnel focused on qualified business opportunities and establish customer profiles for prospects when they are ready to do business with you.  
+As leads progress through qualification, @@name empowers your sales representatives to keep the later stages of the sales funnel focused on qualified business opportunities and build well-structured customer profiles for prospects when they are ready to do business with you.  
 
 This separation between leads and customers enables your teams to capture and develop incoming interest without prematurely creating formal customer or sales records, keeping the environment for established customer relationships and sales opportunities clean and uncluttered.  
 
@@ -66,7 +66,7 @@ The result is a practical distinction between **collecting initial interest** an
 
 ## Qualify Leads and Guide the Next Action
 
-Name and email addresses alone do not establish viable sales opportunities.  
+Name and email addresses alone do not reveal viable sales opportunities.  
 
 That's why qualification helps businesses learn more about the prospects, determine which of them have genuine commercial potential, and find the appropriate next actions to develop this potential.  
 
@@ -104,7 +104,7 @@ For example, when an identified company already has a customer record in your **
 
 The system is also able to notify salespersons when they receive new assignments, helping responsible employees become aware of relevant changes.  
 
-These capabilities support establishing clear accountability and organizing follow-ups around the people responsible for developing each prospect as the qualification progresses.  
+These capabilities support defining clear accountability and organizing follow-ups around the people responsible for developing each prospect as the qualification progresses.  
 
 ## Convert Qualified Leads into Sales Opportunities
 
