@@ -1,6 +1,6 @@
 # Lead Management in @@name
 
-## Why Lead Management Is There For You
+## Why Lead Management is there for you
 
 Every new business relationship begins somewhere. 
 It might be an inquiry from a potential customer, a conversation at an exhibition, a response to a marketing campaign, or a referral from an existing partner.  
@@ -10,6 +10,8 @@ However, not every expression of interest is ready to become an actual sales dea
 Before moving forward, businesses need to understand who the prospect is, what they are interested in, and whether there is a genuine opportunity to pursue.  
 
 **Lead Management in @@name** helps your marketing and sales teams organize this process in an action-oriented manner, turning initial interest into structured, qualified prospects that can progress toward real business opportunities.  
+
+<img width="1920" height="1080" alt="2026-11-27 - Lead Management - Sales Person Assignment" src="https://github.com/user-attachments/assets/755e6c21-ec30-4d30-b0c4-a24d52c9e588" />
 
 ## Overview
 
@@ -43,7 +45,7 @@ As leads progress through qualification, @@name empowers your sales representati
 
 This separation between leads and customers enables your teams to capture and develop incoming interest without prematurely creating formal customer or sales records, keeping the environment for established customer relationships and sales opportunities clean and uncluttered.  
 
-## Capture and Organize Potential Customers
+## Capture and organize potential customers
 
 When a prospect first approaches your business, the available information might be limited to their name, company, contact details, and some general interest in your offerings.  
 
@@ -64,7 +66,7 @@ This helps teams check for duplicates, recognize existing customers interested i
 
 The result is a practical distinction between **collecting initial interest** and **maintaining verified business relationships**, without mixing both stages into the same place. 
 
-## Qualify Leads and Guide the Next Action
+## Qualify leads and guide the next action
 
 Names and email addresses alone do not reveal viable sales opportunities.  
 
@@ -83,6 +85,8 @@ That's why qualification helps businesses learn more about the prospects, determ
 
 Beyond these standard stages, **@@name** supports **user-defined lead stages**, allowing businesses to incorporate their established marketing and sales practices directly into the lead qualification process.  
 
+<img width="1920" height="1080" alt="2026-11-27 - Lead Management - Action-Oriented User States" src="https://github.com/user-attachments/assets/dbafd130-0bd2-45ee-bb15-8c9e6d8a59a4" />
+
 These custom stages do more than indicate progress. 
 They work together in pairs with the system lead stages to represent specific activities or steps, clarify where each prospect currently stands, and guide your team toward the **next appropriate action** in the qualification process.  
 
@@ -94,7 +98,7 @@ Stage descriptions can provide additional guidance to your employees, helping th
 With all this, **@@name** enables you to embed your **real-world lead management processes and best practices into your @@name platform**. 
 This helps your business create a consistent, actionable workflow that reflects how your team truly operates, while retaining the necessary flexibility to adapt it to your everyday operations.  
 
-## Assign Responsibility and Coordinate Sales Engagement
+## Assign responsibilities and coordinate sales engagement
 
 **@@name** distinguishes between the user responsible for handling a lead record administratively and the salesperson assigned to engage with the potential customer.  
 
@@ -106,7 +110,7 @@ The system is also able to notify salespersons when they receive new assignments
 
 These capabilities support defining clear accountability and organizing follow-ups around the people responsible for developing each prospect as the qualification progresses.  
 
-## Convert Qualified Leads into Sales Opportunities
+## Convert qualified leads into sales opportunities
 
 Lead qualification serves a practical purpose: helping you sieve which prospects are sufficiently promising to become actual sales opportunities.  
 
@@ -120,7 +124,7 @@ Opportunities include more concrete sales information, like expected revenue, pr
 
 From there, **@@name's CRM system** takes your team through the next stages of the sales process, including preparing offers, processing sales orders, and managing invoicing.  
 
-## What Lead Management Brings to Your Business
+## What lead management brings to your business
 
 Lead Management provides distinct benefits across marketing and sales:
 
@@ -130,7 +134,7 @@ Lead Management provides distinct benefits across marketing and sales:
 
 Together, these capabilities help your organization apply consistent lead-handling practices, focus sales efforts on promising prospects, and keep early-stage qualification separate from your clean sales activity.  
 
-## Lead Management with a Practical Example
+## Lead Management with a practical example
 
 Consider your company participating in an industry exhibition to introduce a new product range.  
 
@@ -147,7 +151,7 @@ As qualification progresses, the team identifies existing business records, assi
 
 Rather than treating every exhibition contact as an immediate deal, the company follows an established process for revealing true opportunities and directing sales effort where it matters.  
 
-## Build Stronger Sales Opportunities from the Beginning
+## Build stronger sales opportunities from the beginning
 
 A successful sales process begins with understanding the people and businesses that may eventually become customers.  
 
@@ -155,4 +159,13 @@ A successful sales process begins with understanding the people and businesses t
 
 Want to explore what **@@name** takes you through after qualifying your leads?  
 
-**Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your teams to close more sales.  
+> **Explore [CRM in @@name](~/features/crm/index.md)** to discover how it drives forward your broader customer relationships and empowers your teams to close more sales.  
+
+## Give Lead Management in @@name a go
+
+You can try out how easy it is to manage leads directly in @@name's Web Client **without registering**.
+
+- **[Try Out The App-Centric Navigation in @@name](https://testdb.my.erp.net/cl/Crm_Presales/Crm_Presales_Leads)**
+- **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
+
+<img width="600" height="337" alt="2026-11-27 - Lead Management - Scaled-Down Preview" src="https://github.com/user-attachments/assets/908d91af-a242-4e05-8a24-19b1c12911ce" />
