@@ -168,4 +168,4 @@ You can try out how easy it is to manage leads directly in @@name's Web Client *
 - **[Try Out The App-Centric Navigation in @@name](https://testdb.my.erp.net/cl/Crm_Presales/Crm_Presales_Leads)**
 - **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
 
-<img width="600" height="337" alt="2026-11-27 - Lead Management - Scaled-Down Preview" src="https://github.com/user-attachments/assets/908d91af-a242-4e05-8a24-19b1c12911ce" />
+[<img width="600" height="337" alt="2026-11-27 - Lead Management - Scaled-Down Preview" src="https://github.com/user-attachments/assets/908d91af-a242-4e05-8a24-19b1c12911ce" />](https://testdb.my.erp.net/cl/Crm_Presales/Crm_Presales_Leads)
