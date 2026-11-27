@@ -85,7 +85,7 @@ That's why qualification helps businesses learn more about the prospects, determ
 
 Beyond these standard stages, **@@name** supports **user-defined lead stages**, allowing businesses to incorporate their established marketing and sales practices directly into the lead qualification process.  
 
-<img width="1920" height="1080" alt="2026-11-27 - Lead Management - Action-Oriented User States" src="https://github.com/user-attachments/assets/dbafd130-0bd2-45ee-bb15-8c9e6d8a59a4" />
+<img width="1920" height="1080" alt="2026-11-27 - Lead Management - Action-Oriented User States" src="https://github.com/user-attachments/assets/fddfc657-8668-4d78-a057-70d130a0ec18" />
 
 These custom stages do more than indicate progress. 
 They work together in pairs with the system lead stages to represent specific activities or steps, clarify where each prospect currently stands, and guide your team toward the **next appropriate action** in the qualification process.  
